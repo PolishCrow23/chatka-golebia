@@ -4,13 +4,14 @@ import Header from "../components/Header.astro";
 import Footer from "../components/Footer.astro";
 import { getCollection } from "astro:content"
 import Post from "../components/Post.astro";
+const { title, description, date } = Astro.props;
 
 const posts = await getCollection("posts");
 ---
 
 <html lang="en">
 	<head>
-        <BaseHead/>
+        <BaseHead title={title} description={description} date={date}/>
 	</head>
     <body>
         <Header/>
