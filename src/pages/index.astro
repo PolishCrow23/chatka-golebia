@@ -13,7 +13,7 @@ const posts = await getCollection("posts");
 
 <html lang="en">
 	<head>
-		<!-- <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script> -->
+		<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} title={title} description={description} date={date}/>
 	</head>
 	<body>
@@ -21,7 +21,7 @@ const posts = await getCollection("posts");
 		<Hero/>
 		<BlogHighlight posts={posts}/>
 		<Footer/>
-		<!-- <script>
+		<script>
 			if (window.netlifyIdentity) {
 			  window.netlifyIdentity.on("init", user => {
 				if (!user) {
@@ -31,6 +31,6 @@ const posts = await getCollection("posts");
 				}
 			  });
 			}
-		</script> -->
+		</script>
 	</body>
 </html>
