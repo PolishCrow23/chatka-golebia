@@ -29,14 +29,13 @@ declare global {
 		<Footer/>
 		<script>
 			if (window.netlifyIdentity) {
-			  window.netlifyIdentity.on("init", user => {
-				if (!user) {
-				  window.netlifyIdentity.on("login", () => {
-					document.location.href = "/public/admin/";
-				  });
-				}
+			  window.netlifyIdentity.on("init", (user: any) => {  // Explicitly declaring user as any
+				console.log(user);
+			  });
+			  window.netlifyIdentity.on("login", () => {
+				document.location.href = "/admin/";
 			  });
 			}
-		</script>
+		  </script>
 	</body>
 </html>
