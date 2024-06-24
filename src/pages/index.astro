@@ -9,6 +9,12 @@ const { title, description, date } = Astro.props;
 
 import { getCollection } from "astro:content";
 const posts = await getCollection("posts");
+
+declare global {
+  interface Window {
+    netlifyIdentity: any;
+  }
+}
 ---
 
 <html lang="en">
