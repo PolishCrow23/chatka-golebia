@@ -1,0 +1,147 @@
+---
+import SocialLinks from "./SocialLinks.astro"
+---
+
+<header>
+    <div class="social-links-container">
+        <SocialLinks />
+    </div>
+
+    <div class="text">
+        <navigation>
+            <a href="/"><div class="logo-div">
+                <img class="logo" src="/images/meta/logo.png">
+            </div></a>
+            <div class="links">
+                <div class="buttons">
+                    <a class="button button-light" href='/jak-nam-pomóc'>Wspomóż nas <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 710 780"><path fill="currentColor" d="M651 55q29 27 44 61t15 71t-13 71t-42 63L371 605q-7 7-16 7t-17-7L54 321q-27-28-40-63T1 187t14-71t42.5-61T121 17t70-11t70 16t61 42l33 33l33-33q27-27 61-42t70-16t70 11t62 38z"/></svg></a>
+                    <a class="button button-dark-purple" href='/znalazłem-dzikie-zwierzę'>Znalazłeś zwierzę?</a>
+                </div>
+                <ul class="internal-links">
+                    <li><a href="/o-akcji">O AKCJI</a></li>
+                    <li><a href="/wolontariat">PROJEKTY</a></li> 
+                    <li><a href="/wolontariat">WOLONTARIAT</a></li>              
+                    <li><a href="/jak-nam-pomóc">JAK NAM POMÓC?</a></li>
+                    <li><a href="/wolontariat">WSPIERAJĄ NAS</a></li>
+                    <li><a href="/blog">BLOG</a></li> 
+                    <li><a href="/kontakt">KONTAKT</a></li>
+                </ul>
+            </div>
+            </div>
+        </navigation>
+    </div>
+</header>
+
+<style>
+
+    a {
+        font-weight: 500;
+    }
+    
+    .social-links-container {
+        background-color: var(--dark-purple);
+    }
+
+    .button svg {
+    vertical-align: middle;
+    margin-left: 5px;
+    }
+
+    .buttons {
+        display: flex;
+        justify-content: flex-end;
+        gap: 34px;
+    }
+
+    .links {
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .internal-links {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        gap: 2em;
+
+        font-size: 1.4rem;
+    }
+
+    .internal-links a {
+        color: var(--dark-purple);
+    }
+
+    .internal-links a:hover {
+        color: var(--gray);
+    }
+
+    .logo {
+        height: 160px;
+        width: auto;
+    }
+
+    .logo-text {
+        height: 116px;
+    }
+
+    navigation {
+        padding-inline: calc(6vw + 0.1rem);
+        padding-block: 20px;
+        margin-inline: auto;
+
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        gap: 20px;
+        max-width: 1920px;
+        background: 70% 50% no-repeat url("/images/index/wave-copy.png");
+    }
+
+    navigation .internal-links {
+        color: var(--dark-purple);
+        flex-wrap: wrap;
+    }
+
+    .logo-div {
+        display: flex;
+        align-items: center;
+        gap: 2em;
+    }
+
+    h1 {
+        font-family: 'Amatic SC';
+        font-weight: 400;
+        color: var(--black);
+        font-size: calc(3.6vw + 0.1rem)
+    }
+
+
+	@media  (max-width: 1320px) {
+
+        navigation {
+            flex-direction: column;
+            padding-inline: 2%;
+        }
+        .buttons {
+            justify-content: center;
+            flex-wrap: wrap;
+            gap: 1em;
+        }
+
+        .internal-links {
+            margin-block: 1em;
+        }
+
+        h1 {
+            font-size: calc(2.8vw + 2.5rem)
+        }
+
+	}
+
+    @media  (max-width: 468px) {
+        .logo-div {
+            flex-direction: column;
+        }
+    }

@@ -1,0 +1,57 @@
+<section>
+    <div class="text">
+        <h1 class="hero-title">WEŹ GOŁĘBIA</br>POD SWOJE SKRZYDŁA</h1>
+    </div>
+    <div>
+        <img class="hero-img" src="/images/index/bk.jpg">
+    </div>
+</section>
+
+<style>
+    section {
+        display: flex;
+        background-color: #ffeeda;
+        padding-inline: 220px;
+    }
+    div {
+        max-width: 1920px;
+        margin: 0 auto;
+    }
+
+    .text {
+        display: flex;
+        align-items: center;
+    }
+
+    .hero-title {
+        font-size: calc(3.5vw + 0.5rem);
+        font-family: 'Roboto';
+        font-weight: 400;
+        letter-spacing: 2px;
+        display: block;
+    }
+
+    .hero-img {
+        width: 500px;
+    }
+
+    .motto {
+        font-family: 'Open Sans Condensed';
+        font-weight: 400;
+        font-size: calc(2.5vw + 1.5rem);
+        letter-spacing: 2px;
+    }
+
+    @media  (max-width: 768px) {
+        div {
+            background: linear-gradient(90deg, rgba(18,122,116,0.90) 0%, rgba(18,122,116,0.85) 25%, rgba(18,122,116,0.4) 40%, rgba(18,122,116,0) 50%), url("/images/meta/hero-small.png");
+            background-position: 10% 10%;
+            background-size: cover;
+            padding-inline: 3%;
+        }
+    }
+
+    @media  (min-width: 3000px) {
+
+    }
+</style>
