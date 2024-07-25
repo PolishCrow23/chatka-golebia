@@ -4,6 +4,7 @@ import Header from "../components/Header.astro";
 import Hero from "../components/Hero.astro";
 import BlogHighlight from "../components/BlogHighlight.astro";
 import Footer from "../components/Footer.astro";
+import Accordion from "../components/Accordion.astro";
 import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
 const { title, description, date } = Astro.props;
 
@@ -25,6 +26,7 @@ declare global {
 	<body>
 		<Header/>
 		<Hero/>
+		<Accordion/>
 		<BlogHighlight posts={posts}/>
 		<Footer/>
 		<script>

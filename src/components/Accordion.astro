@@ -1,0 +1,72 @@
+<section>
+    <div>
+        <div class="accordionItem">
+        <h2 class="accordionTitle">Dlaczego warto adoptować gołębie?</h2>
+        <div class="accordionContent">
+            <p>Information here</p>
+        </div>
+        </div>
+
+        <div class="accordionItem">
+        <h2 class="accordionTitle">Co to znaczy, że gołębie miejskie są zwierzętami zdziczałymi?</h2>
+        <div class="accordionContent">
+            <p>Information here</p>
+        </div>
+        </div>
+
+        <div class="accordionItem">
+        <h2 class="accordionTitle">Co zrobić gdy znalazłem/am chorego gołębia?</h2>
+        <div class="accordionContent">
+            <p>Information here</p>
+        </div>
+        </div>
+    </div>
+</section>
+
+  
+<style>
+
+section {
+    padding: 2em;
+    background-color: #ffeeda;
+}
+
+.accordionItem {
+    background-color: #c2b8d8;
+    margin-bottom: 1em;
+    padding: 2%;
+    border-radius: 16px;
+    max-width: 1000px;
+    margin-inline: auto;
+}
+
+.accordionTitle {
+  cursor: pointer;
+}
+
+.accordionTitle + .accordionContent {
+  display: none;
+}
+
+.accordionTitle.is-open + .accordionContent {
+  display: block;
+}
+</style>
+
+<script>
+const accordionTitles = document.querySelectorAll(".accordionTitle");
+
+accordionTitles.forEach((accordionTitle) => {
+  accordionTitle.addEventListener("click", () => {
+    if (accordionTitle.classList.contains("is-open")) {
+      accordionTitle.classList.remove("is-open");
+    } else {
+      const accordionTitlesWithIsOpen = document.querySelectorAll(".is-open");
+      accordionTitlesWithIsOpen.forEach((accordionTitleWithIsOpen) => {
+        accordionTitleWithIsOpen.classList.remove("is-open");
+      });
+      accordionTitle.classList.add("is-open");
+    }
+  });
+});
+</script>
