@@ -16,7 +16,7 @@ const posts = await getCollection("posts");
     <body>
         <Header/>
         <main>
-            <h2>Blog</h2>
+            <h2>Poradniki</h2>
             <hr>
             <div class="cards-container">
                 {posts.map((post) => <Post post={post}/>)}
@@ -27,6 +27,9 @@ const posts = await getCollection("posts");
 </html>
 
 <style>
+    body {
+        background-color: var(--cream);
+    }
     main {
         margin: 5em 9em;
     }
@@ -46,12 +49,9 @@ const posts = await getCollection("posts");
     }
 
     .cards-container {
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: space-between;
-        gap: 3em;
-        row-gap: 4em;
-        margin-top: 7em;
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        row-gap: 5em;
     }
 
     

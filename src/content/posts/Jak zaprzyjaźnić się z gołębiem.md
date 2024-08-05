@@ -1,7 +1,7 @@
 ---
 title: Jak zaprzyjaźnić się z gołębiem?
 date: 2020.11.10
-info: Jak zyskać zaufanie naszego skrzydlatego podpiecznego? Co zrobić, żeby nas polubił? W tym poście znajdziecie kilkanaście pomysłów na to, w jaki sposób możemy zaprzyjaźnić się z naszym gołębiem!
+description: Jak zyskać zaufanie naszego skrzydlatego podpiecznego? Co zrobić, żeby nas polubił?
 image: /images/posts/Oswajanie/Doki%20orzeszek.jpg
 ---
 

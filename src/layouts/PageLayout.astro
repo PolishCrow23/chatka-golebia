@@ -17,7 +17,6 @@ const { frontmatter } = Astro.props;
             <div class = "post">
                 <div class = "title">
                     <h1>{frontmatter.title}</h1>
-                    <hr>
                 </div>
                 <div class="slot-wrapper">
                     <slot />
@@ -26,3 +25,18 @@ const { frontmatter } = Astro.props;
         </main>
         <Footer />
     </body>
+    </head>
+
+
+<style>
+    .title {
+        margin: 0.6em 0.5em 5em;
+    }
+    body {
+        background-color: var(--cream);
+    }
+    h1 {
+        text-align: center;
+        font-size: 3.6rem;
+    }
+</style>

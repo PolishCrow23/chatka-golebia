@@ -31,8 +31,8 @@ a:hover {
 }
 
 main {
-    margin-block: 4em 6em;
-    margin-inline: 2%;
+    padding-block: 4em 6em;
+    padding-inline: 2%;
 }
 .post {
     max-width: 720px;
@@ -48,4 +48,8 @@ main {
 .post hr {
     width: 100%;
     margin: 0.5em auto 6em;
+}
+
+.post img {
+    border-radius: 35px;
 }

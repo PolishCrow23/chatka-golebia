@@ -4,15 +4,10 @@ title: O nas
 image: "/images/meta/hero.png"
 ---
 
-Nasza fundacja Akcja Dla Dzikich Zwierząt powstała w 2013r. Prowadzimy ośrodek rehabilitacji dzikich zwierząt przy Przychodni Weterynaryjnej Vetika w Krakowie. Pomagamy dzikim zwierzętom w potrzebie - leczymy, rehabilitujemy, odchowujemy pisklaki i oseski. Miesięcznie trafia do nas kilkadziesiąt zwierząt (najwięcej w sezonie "pisklakowym"), rocznie przyjmujemy ich ponad 1000.
+W 2024 r. została założona Fundacja Chatka Gołębia, mająca swoją siedzibę w Małopolsce. Misją Fundacji Chatka Gołębia jest ochrona gołębi miejskich, innych ptaków żyjących w miastach oraz gołębi udomowionych. 
 
-Trafiają do nas głównie ptaki (najczęściej gatunki miejskie) i małe ssaki (jeże, nietoperze, wiewiórki, zające) osłabione chorobą, po urazach lub młode wymagające odchowania. Najczęstszymi urazowymi przyczynami ich trafiania do ośrodka są potrącenia przez pojazdy, zatrucia, pogryzienia przez psy lub koty, kolizje z szybami i liniami energetycznymi. 
+Promujemy adopcję gołębi udomowionych oraz gołębi dzikich, które przez swoją niepełnosprawność nie mogą wrócić na wolność. Informujemy społeczeństwo o pochodzeniu gołębi miejskich (potomkowie wypuszczonych/zbiegłych z hodowli gołębi domowych – udomowionych przez człowieka gołębi skalnych). Finansujemy leczenie i rehabilitację ptaków przebywających w ośrodkach rehabilitacji dzikich zwierząt, fundacjach, stowarzyszeniach i domach tymczasowych. Jako organizacja społeczna bierzemy udział w postępowaniach karnych dotyczących przypadków łamania ustawy o ochronie zwierząt.    Jesteśmy organizatorami cyklicznej, odbywającej się na krakowskim rynku Akcji Sznurek, podczas której rozplątujemy łapki gołębi ze sznurków oraz zabieramy wymagające leczenia ptaki do kliniki weterynaryjnej. Edukujemy otoczenie na temat humanitarnego traktowania ptaków w miastach. W tym celu powołaliśmy kampanię Zakaz Kolców, która postuluje zakazanie montażu kolców w celu odstraszania ptaków.
 
+Działamy dzięki datkom oraz wsparciu wolontariuszy. Razem możemy więcej!
 
-Wszystkie zwierzęta mają u nas zapewnioną profesjonalną opiekę medyczną - diagnozujemy (robimy badania krwi, kału, zdjęcia rtg, usg), leczymy, wykonujemy zabiegi chirurgiczne. Po skończonym procesie leczenia część zwierząt trafia do wolier adaptacyjnych, gdzie ćwiczą sprawność po okresie choroby lub przystosowują się do życia na wolności. 
-Dodatkowo nasze działania obejmują aspekt edukacyjny - organizujemy szkolenia i warsztaty z zakresu pomocy dzikim zwierzętom, opowiadamy o nich, obalamy mity na ich temat i uświadamiamy odnośnie niebezpieczeństw czyhających na nie w zurbanizowanych przestrzeniach. Wierzymy, że edukacja młodego pokolenia pozwoli uczynić ten świat lepszym dla dzikich zwierząt, naszych ziemskich współtowarzyszy.
-
-Każde z tych działań jest finansowane z własnych środków i darowizn wspierających nas osób, takich jak Ty, którym nie jest obojętny los dzikich zwierząt.
-
-Dzięki naszym wspólnym staraniom nasi dzicy pacjenci mogą wrócić na wolność. Razem z zespołem Vetiki i wolontariuszami Fundacji dajemy im drugą szansę w starciu z człowiekiem i skutkami jego działań. 
-Pomóż nam ratować dzikie zwierzęta!
+![](/images/pages/o-nas/o-nas-caleb.jpg)

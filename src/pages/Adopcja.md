@@ -1,20 +1,10 @@
 ---
 layout: ../layouts/PageLayout.astro
-title: Jak nam pomóc?
+title: Adoptuj gołębia pod swoje skrzydła
 image: "/images/meta/hero.png"
 ---
-Adopcja
 
-<!-- ![](/images/posts/Adopcja/Adopcja.jpg)
-
-# [Gołębie czekające na adopcję](/birds)
-
-Jesteś zainteresowany adopcją podopiecznego Chatki Gołębia? 
-# [Wypełnij ankietę przedadopcyjną](/adopt)
-
-Jest możliwość zorganizowania transportu z Krakowa do innego miasta.
-
-![](/images/posts/Adopcja/Adopcjagołębi.jpg)
+![](/images/pages/adopcja/adopcja.jpg)
 
 Gołębie potrafią świetnie przystosować się do nowych warunków. Potrzebują po prostu trochę czasu, cierpliwości i miłości. Są niezwykle towarzyskie i nawet gdy nie mają kontaktu z drugim przedstawicielem swojego gatunku, czują się szczęśliwe i zaspokojone jeśli mogą spędzić czas z człowiekiem, którego w którymś momencie zaczynają traktować jako członka swojego stada lub nawet partnera. 
 
@@ -22,7 +12,9 @@ Klatka kojarzy nam się z cierpieniem i niewolą, jednak gołębie uwielbiają s
 
 Gołębie są też niezwykle ciekawskie i będą szczęśliwe, przechadzając się po naszym domu, przyglądając się zachowaniu reszty domowników, patrząc przez okno, czy śpiąc na sofie lub regale.
 
-# Warunki adopcji gołębia
+![](/images/pages/adopcja/infografika-adopcja.jpg)
+
+## Warunki adopcji gołębia
 1. Codzienna wymiana wody i jedzenia.
 2. Regularne sprzątanie klatki.
 3. Klatka o minimalnych wymiarach 107cm długości x 70cm szerokości x 75cm wysokości dla pary gołębi lub 91cm długości x 60cm szerokości x 66cm wysokości dla jednego gołębia. Odpowiednie wyposażenie klatki (półki, gniazdo, zabawki, lusterko, miska do kąpieli).
@@ -38,4 +30,4 @@ Gołębie są też niezwykle ciekawskie i będą szczęśliwe, przechadzając si
 
 Więcej gołębi do adopcji możesz znaleźć na naszej stronie [Chatka gołębia - gołębie do adopcji](https://www.facebook.com/chatkagolebia/) oraz na stronie [Gruszętnik - gołębie w potrzebie](https://www.facebook.com/gruszetnik/)
 
-![](/images/posts/Adopcja/Zelda.jpg) -->
+![](/images/pages/adopcja/zelda.jpg)

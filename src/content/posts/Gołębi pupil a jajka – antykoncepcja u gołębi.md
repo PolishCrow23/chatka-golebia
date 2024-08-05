@@ -2,11 +2,10 @@
 title: Gołębiowy pupil a jajka – antykoncepcja u gołębi
 date: 2020.10.08
 image: /images/posts/Antykoncepcja/Groszek%20Doki%20w%20gnieździe.jpg
-info: Jajka to ważny temat! Powinniśmy objąć samiczkę składającą jajka szczególną opieką. 
+description: Jajka to ważny temat! Powinniśmy objąć samiczkę składającą jajka szczególną opieką. 
 ---
 
-@table_of_contents
-# Lęgi gołębi miejskich
+## Lęgi gołębi miejskich
 
 Gołębie miejskie rozmnażają się przez cały rok, w największym stopniu w miesiącach wiosennych i letnich. Zmniejszenie się liczby lęgów późnym latem i jesienią związane jest z pochłaniającym dużo energii pierzeniem (wymianą starych piór na nowe, natomiast zimą z niesprzyjającymi warunkami pogodowymi. Statystyczna para gołębi miejskich składa jaja 4-5 razy w roku. W trakcie jednego sezonu lęgowego udaje im wychować 3-4 młode, które osiągają wiek podlota. 
 
@@ -23,7 +22,7 @@ Pisklęta wykluwają się po około 18 dniach wysiadywania. Zarówno samiec, jak
 Po około czterech tygodniach młode opuszczają gniazdo. Przez pierwszy tydzień podloty są karmione przez rodziców. Prawie połowa podlotów nie przeżywa pierwszego miesiąca po opuszczenia gniazda. Najczęstrzym powodem śmierci jest głód i niedożywienie. Wiele podlotów opuszcza gniazdo z niedoborem masy ciała, co więcej, ptaki te nie potrafią skutecznie walczyć o pożywienie z dorosłymi gołębiami. Jednak już w trzecim miesiąciu po opuszczeniu gniazda młode gołębie nabierają wystarczająco doświadczenia, by efektywnie zdobywać pożywienie, a w rezultacie nabrać odpowiednią masę ciała. Rok przeżywa około jedna młodych gołębi, z których większość rozpoczyna lęgi w drugim roku kalendarzowym życia.
 
 
-# Gołębi pupil a jajka
+## Gołębiowy pupil a jajka
 
 Gołąb, którym opiekuje się człowiek żyje w cieple i komforcie, nie brakuje mu jedzenia, nie dokucza mu brzydka pogoda, nie musi obawiać się drapieżników, a w razie choroby jest pod opieką lekarza. Wszystko to sprawia, że jest w stanie składać jajka nawet 12 lub więcej razy w roku (24 jajka)!
 
@@ -39,7 +38,7 @@ W warunkach domowych tworzą się **pary gołąb-opiekun**, bardzo często, gdy 
 
 Jak poznać, że gołąb kocha swojego opiekuna? Lubi być głaskany, podczas pieszczot często kłania się głową i grucha, jego skrzydełka wibrują. Wkłada dziób pomiędzy ręce i próbuje nakarmić swojego ukochanego człowieka. Nawołuje opiekuna (kuuu, kuuu), by przyszedł do ich wspólnego gniazda. Nie atakuje rąk, gdy opiekun wkłada je do klatki lub gniazda. Samiec próbuje kopulować np. z ręką człowieka. :) Samiczka składa jajka i oczekuje, że opiekun pomoże jej w ich wysiadywaniu (więcej w podpunkcie jak pomagać samotnej samiczce w wysiadywaniu jajek?).
 
-![](/images/posts/Antykoncepcja/Domino%202.jpg)
+![](/images/posts/antykoncepcja/domino-2.jpg)
 *Gołąbka Domino składa jajka dla swojej opiekunki.*
 
 **Cykl składania jajek**
@@ -58,10 +57,10 @@ U **sierpówek, cukrówek i gołąbków diamentowych** cykl składania jajek wyg
 
 * Warto również wziąć pod uwagę aspekt etyczny. Czy warto rozmanażać nasze zwierzaki w momencie, kiedy mnóstwo ptaków jest poddawanych eutanazji, ponieważ nikt nie chce ich adoptować? W razie chęci powiększenia swojej rodziny o nowego gołębia, wystarczy napisać do [nas](https://www.facebook.com/chatkagolebia/), chętnie pomożemy w znalezieniu odpowiedniego pupila.
 
-![](/images/posts/Antykoncepcja/Groszek%20Doki%20w%20gnieździe.jpg)
+![](/images/posts/Antykoncepcja/groszek-doki-gniazdo.jpg)
 *Para gołębi Dokusia (samiczka, gołąb rasowy) i Groszek (samiec, gołąb miejski) w gnieździe. Jajka, które składa Dokusia są zamieniane na jajka podkładowe, żeby nie dopuścić do wyklucia się piskląt.*
 
-![](/images/posts/Antykoncepcja/Pigeon%20pants%20nest.jpg)
+![](/images/posts/antykoncepcja/pigeon-pants-gniazdo.jpg)
 *Para gołębi Marty i Ms. Pigeon Pants. Ms. Pigeon Pants porzuciła swojego opiekuna i związała się z Marty'm.*
 
 # Co robić, żeby zapobiegać wykluwaniu się piskląt?
@@ -73,21 +72,19 @@ U **sierpówek, cukrówek i gołąbków diamentowych** cykl składania jajek wyg
 * Nieskuteczne jest też potrząsanie jajkami czy zamrażanie ich.
 
 Stosowanie **jajek podkładowych** to najlepszy sposób, by nie dopuścić do rozmnażania się gołębi i nie dopuścić do problemów zdrowotnych u samiczki. Jajka podkładkowe to sztuczne jajka, przypominające wyglądem i wagą prawdziwe jajka. Prawdziwe jajka wyjmuje się z klatki i zastępuje podkładowymi. Jajka podkładowe dla gołębi można kupić przez Internet.
-<span style="font-size: 110%">
-<div class='note'>
+
   <ol>
     <li>Gdy samiczka złoży drugie jajko, sprawnym ruchem wyjmujemy oba jajka z gniazda i wkładamy na ich miejsce ogrzane w dłoniach jajka podkładowe.</li>
     <li>Pozwalamy parze siedzieć na jajkach tak długo, jak tego chcą. Nie chcemy zabierać jajek za wcześnie, ponieważ gołąbka zbyt szybko złoży kolejne.
     <li>Gdy gołębiom znudzą się jajka (przestaną na nich siedzieć), wyciągamy je z gniazda.</li>
     <li>Często sprawdzamy czy samiczka złożyła nowe jajka!
     </ol> 
-</div>
-</span>
+
 Aby nie marnotrawić jajek, możemy wystawić je na zewnątrz, by mogły zjeść je dzikie zwierzęta.
 
 Warto sprawdzać, czy gołębie równo dzielą się obowiązkiem wysiadywania jajek. Może zdarzyć się, że jeden z gołębi siedzi na jajkach cały czas i prawie nie je ani nie pije. Najlepiej postawić osobne miseczki z ziarnem i wodą przy gnieździe.
 
-# Pytania i odpowiedzi
+## Pytania i odpowiedzi
 
 **Czy jeśli gołąb składa jajko oznacza to, że jest ono zawsze zapłodnione?**
 
@@ -118,8 +115,9 @@ Pamiętajmy, by wszystkie suplementy diety podawać z umiarem! Przedawkowanie wi
 
 **Źródła**
 
-<span style="font-size: 80%">
+
   Podpunkt rozmnażanie się gołębi miejskich został napisany w oparciu o prace naukowe, w szczególności <a href="https://www.researchgate.net/profile/Tomasz_Hetmanski">badania Tomasza Hetmańskiego</a> - prof. Akademii Pomorskiej w Słupsku z Instytutu Biologii i Ochrony Środowiska.
+
   <li>Hetmański, T. ,,Dispersion Asymmetry within a Feral Pigeon Columba livia Population" w Acta Ornithologica, 42(1), 2007, s. 23–31.</li>
   <li>Hetmański, T. ,,Timing of Breeding in the Feral Pigeon Columba livia f. domestica in Słupsk (NW Poland)" w Acta Ornithologica, 39(2), 2004, s. 105–110.</li>
   <li>Hetmański, T. & Barkowska, M. (2008) ,,Breeding parameters and recruitment in Feral Pigeons Columba livia f. domestica" w Acta Ornithologica, 43(2), 159–166.</li>

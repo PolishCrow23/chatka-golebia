@@ -1,7 +1,7 @@
 ---
 title: Majtki dla gołębi
 date: 2021.03.18
-info: Czym są majtki dla gołębi? Gdzie można je kupić?
+description: Czym są majtki dla gołębi? Gdzie można je kupić?
 image: /images/posts/Majtki%20dla%20gołębi/Groszek%20w%20majtkach.jpg
 ---
 
