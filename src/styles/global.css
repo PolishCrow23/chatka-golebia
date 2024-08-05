@@ -14,6 +14,14 @@
 	font-display: swap;
 }
 
+@font-face {
+	font-family: 'Urbanist';
+	src: url('/fonts/Urbanist/Urbanist-Regular.ttf') format('truetype');
+	font-weight: 500;
+	font-style: normal;
+	font-display: swap;
+}
+
 :root {
     --black: #263435;
     --dark-plum: #320E3B;
@@ -22,6 +30,7 @@
     --lavender: #A48CD5;
     --peach: #FFB380;
     --grass: #BBDB9B;
+    --cream: #f9e9e2;
 }
 
 html { 
@@ -39,9 +48,16 @@ html {
 }
 
 body {
-    font-family: 'Roboto';
+    font-family: 'Urbanist';
     font-weight: 300;
+    
 }
+
+
+
+p::selection {
+    background-color: var(--peach);
+  }
 
 
 h2 {
@@ -53,9 +69,9 @@ ul {
 }
 
 p {
-    font-family: 'Urbanist';
+    font-family: 'Verdana';
     font-size: 1.6rem;
-    font-weight: 300;
+    font-weight: 500;
     line-height: 1.8;
     margin-bottom: 1em;
     text-align: justify;

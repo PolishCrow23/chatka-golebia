@@ -10,8 +10,7 @@ const { posts } = Astro.props;
 <!-- checked -->
 <section>
     <div class="container">
-        <h2>Nowości</h2>
-        <hr class="thick-hr">
+        <h2>Poradniki</h2>
         <div class="cards-container">
             {posts.slice(0, 3).map((post) => <Post post={post} />)}
         </div>
@@ -25,7 +24,8 @@ const { posts } = Astro.props;
 <style>
     section {   
         padding: 5em 9em 4em 9em;
-        background-color: #ffeeda;
+        background-color: var(--cream);
+        background-image: url('images/index/bk.svg');
     }
 
     .container {

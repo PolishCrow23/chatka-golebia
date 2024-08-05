@@ -2,7 +2,7 @@
 title: Jakiej płci jest mój gołąb? Badanie DNA płci
 date: 2021.03.21
 info: Jak dowiedzieć się jakiej płci jest nasz gołąb? Na pomoc przychodzi badanie płci DNA.
-image: /images/posts/Badanie DNA płci/Snip Zelda.jpg
+image: /images/posts/badanie-dna-płci/snip-zelda.jpg
 ---
 
 **Kiedy określenie płci gołębia jest ważne?**
@@ -35,11 +35,11 @@ Drugą opcją jest **samodzielne pobranie próbki** i wysłanie jej do laborator
 
 *Wypełniłam formularz zgłoszeniowy. Wsadziłam formularz do koperty wraz z piórami w woreczku. Wysłałam kopertę pocztą, a następnie zrobiłam przelew na konto laboratorium. Na wyniki badań czekałam dosyć długo, około 3 tygodnie. Gdy robiłam badanie DNA płci kolejnego gołębia, Myszki, otrzymałam wyniki po 2 tygodniach.*
 
-![](/images/posts/Badanie DNA płci/pióra.jpg)
+![](/images/posts/badanie-dna-płci/pióra.jpg)
 *Rozwinięte wyrwane pióro i nowowyrastające wyrwane pióro.*
 
-![](/images/posts/Badanie DNA płci/nowe pióra.jpg)
+![](/images/posts/badanie-dna-płci/nowe-pióra.jpg)
 *Nowowyrastające pióra na szyi Malinki.*
 
-![](/images/posts/Badanie DNA płci/Certyfikat.jpg)
+![](/images/posts/badanie-dna-płci/certyfikat.jpg)
 *Certyfikat płci Zeldy.*
