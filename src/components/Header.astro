@@ -4,7 +4,9 @@ import SocialLinks from "./SocialLinks.astro"
 
 <header>
     <div class="social-links-container">
-        <SocialLinks />
+        <div>
+            <SocialLinks />
+        </div>
     </div>
 
     <div class="text">
@@ -46,6 +48,12 @@ import SocialLinks from "./SocialLinks.astro"
     
     .social-links-container {
         background-color: var(--lavender);
+        padding-inline: 20px;
+    }
+
+    .social-links-container {
+        display: flex;
+        justify-content: flex-end;
     }
 
     .buttons {

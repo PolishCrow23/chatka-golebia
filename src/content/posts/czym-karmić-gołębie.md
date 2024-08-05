@@ -2,7 +2,7 @@
 title: Czym karmić gołębie?
 date: 2021.07.20
 image: /images/posts/czym-karmić-gołębie/zima.jpg
-info: Informacje dotyczące diety dzikich gołębi występujących w Polsce oraz gołębi hodowlanych.
+description: Informacje dotyczące diety dzikich gołębi występujących w Polsce oraz gołębi hodowlanych.
 ---
 
 Na wstępie chciałabym zaznaczyć, że istnieje bardzo mało źródeł dotyczących żywienia gołębi-pupili. Co prawda w Internecie można znaleźć sporo poradników dotyczących karmienia ptaków zimą oraz instrukcji żywienia gołębi hodowlanych (pisanych przez sklepy sprzedające karmę), jednak nie do końca można zastosować takie wskazówki w przypadku gołębi-pupili. Istnieje też mnóstwo świetnych poradników i książek dotyczących żywienia papug, ale również niezupełnie sprawdzają się one w przypadku gołębi będących zwierzątkami domowymi. Dlatego ten post jest oparty w głównej mierze na doświadczeniach opiekunów gołębi-pupilów oraz obserwacji diety gołębi dzikich, a nie na profesjonalnych badaniach (które tak jak napisałam nie istnieją, a przynajmniej nie udało mi się do nich dotrzeć).
@@ -19,7 +19,7 @@ Na wstępie chciałabym zaznaczyć, że istnieje bardzo mało źródeł dotyczą
 - Cukrówki *(Streptopelia risoria)* powinno karmić głównie ziarnem i nasionami. Ich dietę można wzbogacić warzywami, owocami i larwami owadów.
 - Gołąbki diamentowe *(Geopelia cuneata)* powinno karmić się głównie ziarnem i nasionami. Ich dietę można wzbogacić warzywami i owocami.
 
-# Ziarno #
+## Ziarno
 
 **Ziarna dostępne w supermarkecie:** kukurydza popcorn, pszenica na kutię, ryż biały, groszek połówki, łuskany słonecznik, siemię lniane, soczewica, płatki owsiane, kasza jaglana, kasza gryczana niepalona, kasza wiejska, kasza jaglana, kuskus, sezam, pokruszone nieprażone niesolone orzeszki ziemne.
 
@@ -44,7 +44,7 @@ Białko: 11%
 
 Tłuszcz: 3%
 
-![](/images/posts/Czym karmić gołębia/ziarno.jpg)
+![](/images/posts/czym-karmić-gołębie/ziarno.jpg)
 *Mieszanka ziaren dla gołębi miejskich i hodowlanych (zmieszane dwie mieszanki), której używam: MDM K dla krótkodziobów bez pszenicy oraz MDM UE - Uniwersalna Economic).*
 
 W przypadku **grzywaczy** wskazana jest bardziej urozmaicona dieta: ziarno i nasiona, warzywa, owoce sezonowe, larwy owadów (np. mącznika).
@@ -57,7 +57,7 @@ Pozostałe owoce: truskawka, malina, winogrono, bluszcz pospolity, jeżyna, pozi
 
 Każdego dnia wyrzucamy ziarno z poprzedniego dnia i wylewamy starą wodę, myjemy miski. Najlepiej rano, gdy apetyt jest największy, podajemy gołębiowi około dwie łyżki stołowe mieszanki (tę ilość można modyfikować, prawdopodobnie to za dużo). Dopiero gdy zje wszystko, dosypujemy więcej. Jeśli od razu nasypiemy gołębiowi zbyt dużą ilość ziarna, w pierwszej kolejności zje tylko te, które mu smakują, najczęściej najtłustsze, takie jak słonecznik czy krokosz barwierski. Taka dieta nie zaspokoi potrzeb jego organizmu, a niezjedzone ziarno zostanie zmarnotrawione.
 
-# Granulat #
+## Granulat
 
 Prócz mieszkanek ziaren na rynku dostępne są również granulaty. Granulat to przetworzony pokarm, składający się z mieszanki ziaren, nasion, warzyw, owoców, witamin, składników mineralnych etc. Opinie na temat granulatu są różne. Niektórzy zalecają, by dieta ptaków składała się w większości z granulatu, inni podchodzą do niego bardziej sceptycznie. Jeśli ktoś jest zainteresowany "za" i "przeciw", polecam przeczytać [post](http://papugi.dt.pl/PCI/artykulyC/granulat.asp) na Papuzie Centrum Informacyjne. Od razu podkreślam, że post dotyczy papug, czyli ptaków egzotycznych, przy których należy się trochę nagimnastykować, by zapewnić im odpowiednią dietę. Natomiast gołębie miejskie/domowe są ziarnojadami, więc osobiście nie widzę sensu, aby ich dieta składała się w większości z granulatu. To prawda, że ziarno nie dostarczy im wszystkich potrzebnych witamin, aminokwasów i składników mineralnych, ale właśnie dlatego prócz ziarna podaje się suplementy diety. 
 
@@ -67,7 +67,7 @@ Jeśli chcemy w jakimś stopniu włączyć granulat do diety ptaka, np. by stano
 
 Jedyny granulat, który mogę na ten moment polecić to Harrison's Bird Foods Adult Lifetime (zielona etykieta). Niestety do tanich nie należy. Istnieją dwie wersje: Fine (małe "ziarenka") i Super Fine (bardzo małe "ziarenka"). Jeśli gołąb nie jest wyjątkowym niejadkiem, który wybiera jedynie ziarna mikroskopijnej wielkości, to polecam wziąć ten większy, czyli Fine. 
 
-# Suplementy diety #
+## Suplementy diety
 
 Mieszanka ziaren nie zaspokoi zapotrzebowania organizmu gołębia na witaminy, aminokwasy i składniki mineralne, dlatego ważne jest stosowanie suplementów diety, które występują w różnej formie: gritu (kamyczki), proszku czy płynu.
 Jeśli decydujemy się na grit, to powinien być drobny i wysokiej jakości. Grit nie jest niezbędny do trawienia. Gołąb nie powinien mieć do niego nieograniczonego dostępu. Jeśli gołąb zje naraz zbyt dużo gritu (lub sepii/proszku witaminowego), grit może zablokować się w wolu lub w dalszej części układu pokarmowego, czasem powodując krwawienie. Podajemy szczyptę gritu na ziarno kilka razy w tygodniu.
@@ -90,10 +90,10 @@ Witaminy w formie płynu: Biosupervit (D3 i inne witaminy), podanie do wody.
 Gdy u samicy zbliża się czas składania jajek, kilka dni przed możemy zwiększyć częstotliwość podawania preparatów z wapniem oraz witamin, np. podawać codziennie/co drugi dzień.
 Przy samicach składających jaja (lub przy gołębiach o nieokreślonej płci, które mogą okazać się samicami) polecam wcześniej kupić w aptece wapń Hasco lub Sanosvit. W przypadku zaparcia jajka warto podać 10 mg wapnia na 100 g masy ciała gołębia; jeśli jest potrzeba, powtórzyć po 12 godzinach (a jeśli dalej nie ma jaja, to oczywiście jak najszybciej udać się do ptasiego weterynarza).
 
-![](/images/posts/Czym karmić gołębia/dolvit.jpg)
+![](/images/posts/czym-karmić-gołębie/dolvit.jpg)
 *Proszek z wapniem i witaminami Dolvit Lęgi.*
 
-# Dodatki do diety #
+## Dodatki do diety
 
 **Przysmaki**
 
@@ -104,10 +104,10 @@ Przy samicach składających jaja (lub przy gołębiach o nieokreślonej płci, 
 Kilka razy w tygodniu można urozmaicić gołębiowi dietę i podać mu warzywa. Warzywa takie jak marchewka i papryka należy pokroić na małe kawałki. Warzywa takie jak bazylia lub sałata można pokroić na małe kawałki; dać gołębiowi roślinę w doniczce do skubania lub urwać liście i przymocować je do jakiegoś przedmiotu, by gołąb mógł je bez problemu skubać. Warzywa należy dokładnie umyć, ponieważ ptaki są szczególnie wrażliwe na chemię, którą są pryskane rośliny. Jeśli jest taka możliwość, najlepiej sięgać po warzywa oznaczone w supermarkecie jako bio, kupować warzywa od lokalnych, sprawdzonych dostawców lub podawać rośliny z własnego ogródka. 
 Można również podawać gołębiom wyhodowane w domu **kiełki**. Żeby kiełki nie gniły ani nie tworzyła się na nich pleśń, należy pamiętać o tym, żeby nie siać nasion zbyt gęsto; odpowiednio często opłukiwać kiełki (według instrukcji) i wylewać nagromadzoną w kiełkownicy wodę.
 
-![](/images/posts/Czym karmić gołębia/kiełki.jpg)
+![](/images/posts/czym-karmić-gołębie/kiełki.jpg)
 *Kiełki bazylii (kiełkownica miseczkowa) i kiełki soczewicy (kiełkownica słoikowa).*
 
-![](/images/posts/Czym karmić gołębia/grochkiełki.jpg)
+![](/images/posts/czym-karmić-gołębie/groszek-kiełki.jpg)
 *Adoptowany gołąb miejski Groszek je kiełki soczewicy.*
 
 Warzywa:
@@ -120,11 +120,13 @@ sałata, bazylia, szpinak (w niewielkich ilościach*), jarmuż (w niewielkich il
 
 **zawiera dużą ilość soli, która w zbyt dużej ilości jest silnie toksyczna dla ptaków
 
-![](/images/posts/Czym karmić gołębia/Gris je.jpg)
+![](/images/posts/czym-karmić-gołębie/gris-warzywa.jpg)
 *Adoptowana gołąbka pocztowa Gris je pokrojoną paprykę i cukinię.*
 
 
 W przypadku chęci otrzymania informacji na temat karmienia piskląt, karmienia sondą czy podawania kroplówki, proszę o prywatną wiadomość (mail, Facebook).
 
-Źródła:
-Ó hUallachain, D., i Dunne J. "Seasonal variation in the diet and food preference of the Woodpigeon Columba palumbus in Ireland" [Bird Study](https://www.tandfonline.com/doi/full/10.1080/00063657.2013.798259); Karocka, J. “Granulat - sucha karma” [Papuzie Centrum Informacyjne](http://www.papugi.dt.pl/PCI/artykulyC/granulat.asp); "Feeding pigeons and doves" [Palomacy](https://www.pigeonrescue.org/birds/care/pigeon-feeding-dove-feeding/).
+**Źródła**
+- Ó hUallachain, D., i Dunne J. *Seasonal variation in the diet and food preference of the Woodpigeon Columba palumbus in Ireland* [Bird Study](https://www.tandfonline.com/doi/full/10.1080/00063657.2013.798259); 
+- Karocka, J. *Granulat - sucha karma* [Papuzie Centrum Informacyjne](http://www.papugi.dt.pl/PCI/artykulyC/granulat.asp); 
+- *Feeding pigeons and doves* [Palomacy](https://www.pigeonrescue.org/birds/care/pigeon-feeding-dove-feeding/).

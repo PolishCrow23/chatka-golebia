@@ -16,8 +16,7 @@ const posts = await getCollection("posts");
     <body>
         <Header/>
         <main>
-            <h2>Poradniki</h2>
-            <hr>
+            <h1>Poradniki</h1>
             <div class="cards-container">
                 {posts.map((post) => <Post post={post}/>)}
             </div>
@@ -27,6 +26,10 @@ const posts = await getCollection("posts");
 </html>
 
 <style>
+    h1 {
+        font-size: 3.6rem;
+        margin-block: 0.6em 2em;
+    }
     body {
         background-color: var(--cream);
     }
@@ -40,12 +43,6 @@ const posts = await getCollection("posts");
 
     h2 {
         font-size: 4rem;
-    }
-
-    hr {
-        border-top: 7px solid #14aaa1;
-        margin-bottom: 3em;
-        width: 65px;
     }
 
     .cards-container {

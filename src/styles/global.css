@@ -88,11 +88,11 @@ span {
 a {
     text-decoration: none;
     transition-duration: 0.3s;
-    font-weight: 400;
+    font-weight: 700;
 }
 
 a:hover {
-    color: var(--gray);
+    color: var(--dark-lavender);
     transition-duration: 0.2s;
 }
 
@@ -115,9 +115,10 @@ a:hover {
     color: black;
 }
 
-.button-dark-purple:hover {
-    background-color: var(--peach);
-    color: var(--peach);
+.button-peach:hover {
+    background-color: var(--grass);
+    border: 1.5px solid var(--grass);
+    color: black;
 }
 
 .button-grass {
@@ -126,9 +127,10 @@ a:hover {
     color: black;
 }
 
-.button-light:hover {
+.button-grass:hover {
     background-color: var(--peach);
-    color: white;
+    border: 1.5px solid var(--peach);
+    color: black;
 }
 
 .bold {
