@@ -1,7 +1,9 @@
-@title Jak zbudować gołębnik dla adoptowanych i uratowanych gołębi?
-@date 2022.10.27
-@info Instrukcja budowy gołębnika dla adoptowanych i uratowanych gołębi.
-@image ../images/posts/Jak%20zbudować%20gołębnik/Wulf%20Aviary%20Front.jpg
+---
+title: Jak zbudować gołębnik dla adoptowanych i uratowanych gołębi?
+date: 2022.10.27
+info: Instrukcja budowy gołębnika dla adoptowanych i uratowanych gołębi.
+image: ../images/posts/Jak%20zbudować%20gołębnik/Wulf%20Aviary%20Front.jpg
+---
 
 @table_of_contents
 

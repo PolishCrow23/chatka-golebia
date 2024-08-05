@@ -2,6 +2,7 @@
 import BaseHead from "../components/BaseHead.astro";
 import Header from "../components/Header.astro";
 import Hero from "../components/Hero.astro";
+import About from "../components/About.astro";
 import BlogHighlight from "../components/BlogHighlight.astro";
 import Footer from "../components/Footer.astro";
 import Accordion from "../components/Accordion.astro";
@@ -24,11 +25,12 @@ declare global {
 		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} title={title} description={description} date={date}/>
 	</head>
 	<body>
-		<Header/>
-		<Hero/>
+		<Header />
+		<Hero />
+		<About />
 		<Accordion/>
-		<BlogHighlight posts={posts}/>
-		<Footer/>
+		<BlogHighlight posts={posts} />
+		<Footer />
 		<script>
 			if (window.netlifyIdentity) {
 			  window.netlifyIdentity.on("init", (user: any) => {  // Explicitly declaring user as any

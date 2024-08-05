@@ -1,47 +1,27 @@
 @font-face {
-	font-family: 'Roboto';
-	src: url('/fonts/Roboto-Medium.ttf') format('truetype');
-	font-weight: 500;
+	font-family: 'Urbanist';
+	src: url('/fonts/Urbanist/Urbanist-Bold.ttf') format('truetype');
+	font-weight: 700;
 	font-style: normal;
 	font-display: swap;
 }
 
 @font-face {
-	font-family: 'Roboto';
-	src: url('/fonts/Roboto-Regular.ttf') format('truetype');
-	font-weight: 400;
-	font-style: normal;
-	font-display: swap;
-}
-
-@font-face {
-	font-family: 'Roboto';
-	src: url('/fonts/Roboto-Light.ttf') format('truetype');
-	font-weight: 300;
-	font-style: normal;
-	font-display: swap;
-}
-
-@font-face {
-	font-family: 'Amatic SC';
-	src: url('/fonts/AmaticSC-Regular.ttf') format('truetype');
-	font-weight: 400;
-	font-style: normal;
-	font-display: swap;
-}
-
-@font-face {
-	font-family: 'Open Sans Condensed';
-	src: url('/fonts/OpenSans-CondLight.ttf') format('truetype');
-	font-weight: 400;
+	font-family: 'Urbanist';
+	src: url('/fonts/Urbanist/Urbanist-Black.ttf') format('truetype');
+	font-weight: 900;
 	font-style: normal;
 	font-display: swap;
 }
 
 :root {
-    --dark-purple: #8478a1;
-    --gray: #6F7775;
     --black: #263435;
+    --dark-plum: #320E3B;
+    --plum: #49354E;
+    --dark-lavender: #9076C7;
+    --lavender: #A48CD5;
+    --peach: #FFB380;
+    --grass: #BBDB9B;
 }
 
 html { 
@@ -63,14 +43,6 @@ body {
     font-weight: 300;
 }
 
-.chevron-link {
-    font-weight: 500;
-    font-size: 1.4rem;
-    color: var(--dark-purple);
-    display: block;
-    text-align: right;
-}
-
 
 h2 {
     font-size: 2.4rem;
@@ -81,6 +53,7 @@ ul {
 }
 
 p {
+    font-family: 'Urbanist';
     font-size: 1.6rem;
     font-weight: 300;
     line-height: 1.8;
@@ -121,44 +94,38 @@ a:hover {
     transition-duration: 0.2s;
 }
 
-hr {
-    border: 0;
-    border-top: 2px solid #14aaa1;
-    width: 27px;
-    margin-bottom: 1.5em;
-}
 
 .button {
     display: inline-block;
-    padding-block: 15px;
-    width: 193px;
+    padding: 14px;
 
-    border: 1.5px solid var(--dark-purple);
-    border-radius: 8px;
+    border-radius: 60px;
 
     text-align: center;
-    font-size: 1.6rem;
-    font-weight: 500;
+    font-size: 2rem;
+    font-weight: 900;
     font-family: 'Roboto';
 }
 
-.button-dark-purple {
-    background-color: var(--dark-purple);
-    color: white;
+.button-peach {
+    border: 1.5px solid var(--peach);
+    background-color: var(--peach);
+    color: black;
 }
 
 .button-dark-purple:hover {
-    background-color: white;
-    color: var(--dark-purple);
+    background-color: var(--peach);
+    color: var(--peach);
 }
 
-.button-light {
-    background-color: white;
-    color: var(--dark-purple)
+.button-grass {
+    border: 1.5px solid var(--grass);
+    background-color: var(--grass);
+    color: black;
 }
 
 .button-light:hover {
-    background-color: var(--dark-purple);
+    background-color: var(--peach);
     color: white;
 }
 

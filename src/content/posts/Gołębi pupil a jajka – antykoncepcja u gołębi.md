@@ -1,6 +1,10 @@
-@date 2020.10.08
-@image ../images/posts/Antykoncepcja/Groszek%20Doki%20w%20gnieździe.jpg
-@info Jajka to ważny temat! Powinniśmy objąć samiczkę składającą jajka szczególną opieką. 
+---
+title: Gołębiowy pupil a jajka – antykoncepcja u gołębi
+date: 2020.10.08
+image: ../images/posts/Antykoncepcja/Groszek%20Doki%20w%20gnieździe.jpg
+info: Jajka to ważny temat! Powinniśmy objąć samiczkę składającą jajka szczególną opieką. 
+---
+
 @table_of_contents
 # Lęgi gołębi miejskich
 

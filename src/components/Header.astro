@@ -14,17 +14,17 @@ import SocialLinks from "./SocialLinks.astro"
             </div></a>
             <div class="links">
                 <div class="buttons">
-                    <a class="button button-light" href='/jak-nam-pomóc'>Wspomóż nas <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 710 780"><path fill="currentColor" d="M651 55q29 27 44 61t15 71t-13 71t-42 63L371 605q-7 7-16 7t-17-7L54 321q-27-28-40-63T1 187t14-71t42.5-61T121 17t70-11t70 16t61 42l33 33l33-33q27-27 61-42t70-16t70 11t62 38z"/></svg></a>
-                    <a class="button button-dark-purple" href='/znalazłem-dzikie-zwierzę'>Znalazłeś zwierzę?</a>
+                    <a class="button button-peach" href='/jak-nam-pomóc'>ZNALAZŁEM GOŁĘBIA</a>
+                    <a class="button button-grass" href='/znalazłem-dzikie-zwierzę'>WSPOMÓŻ NAS</a>
                 </div>
                 <ul class="internal-links">
-                    <li><a href="/o-akcji">O AKCJI</a></li>
-                    <li><a href="/wolontariat">PROJEKTY</a></li> 
-                    <li><a href="/wolontariat">WOLONTARIAT</a></li>              
-                    <li><a href="/jak-nam-pomóc">JAK NAM POMÓC?</a></li>
-                    <li><a href="/wolontariat">WSPIERAJĄ NAS</a></li>
-                    <li><a href="/blog">BLOG</a></li> 
-                    <li><a href="/kontakt">KONTAKT</a></li>
+                    <li><a href="/o-akcji">O nas</a></li>
+                    <li><a href="/wolontariat">Adopcje</a></li> 
+                    <li><a href="/wolontariat">Gołębie z Chatki</a></li>              
+                    <li><a href="/jak-nam-pomóc">Nowości</a></li>
+                    <li><a href="/kontakt">Poradniki</a></li>
+                    <li><a href="/wolontariat">Partnerzy</a></li>
+                    <li><a href="/blog">Kontakt</a></li> 
                 </ul>
             </div>
             </div>
@@ -34,17 +34,19 @@ import SocialLinks from "./SocialLinks.astro"
 
 <style>
 
+    header {
+        background-image: url('/images/index/background-top.png');
+        background-repeat: no-repeat;
+        background-color: #ffeeda;
+        padding-bottom: 90px;
+    }
+
     a {
-        font-weight: 500;
+        font-weight: 700;
     }
     
     .social-links-container {
-        background-color: var(--dark-purple);
-    }
-
-    .button svg {
-    vertical-align: middle;
-    margin-left: 5px;
+        background-color: var(--lavender);
     }
 
     .buttons {
@@ -66,11 +68,11 @@ import SocialLinks from "./SocialLinks.astro"
         justify-content: space-between;
         gap: 2em;
 
-        font-size: 1.4rem;
+        font-size: 2rem;
     }
 
     .internal-links a {
-        color: var(--dark-purple);
+        color: var(--plum);
     }
 
     .internal-links a:hover {

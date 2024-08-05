@@ -1,6 +1,8 @@
-@date 2020.10.08
-@image ../images/posts/Zaparcie%20jaja/Zaparcie.jpg
-@info Niestety, nawet jeśli zapewnimy gołąbce świetne warunki życia i odpowiednią dietę, zawsze musimy być przygotowani na zaparcie jaja.
+---
+date: 2020.10.08
+image: ../images/posts/Zaparcie%20jaja/Zaparcie.jpg
+info: Niestety, nawet jeśli zapewnimy gołąbce świetne warunki życia i odpowiednią dietę, zawsze musimy być przygotowani na zaparcie jaja.
+---
 
 Niestety, nawet jeśli zapewnimy gołąbce świetne warunki życia i odpowiednią dietę, zawsze musimy być przygotowani na zaparcie jaja. O zaparciu jaja mówimy wtedy, gdy samiczka nie jest w stanie znieść jaja. 
 

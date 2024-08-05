@@ -1,34 +1,18 @@
 <!-- checked -->
 <section>
     <div class="flex-container">
-        <div>
-            <img src="/images/index/about.png">
-        </div>
-        <div class="text">
-            <div>
-                <h2>O Akcji</h2>
-                <hr class="thick-hr">
-            </div>
+            <img src="/images/meta/default-pigeon.svg">
             <p>
-                W celu ratowania dzikich zwierząt w przychodni Vetika została powołana Fundacja Akcja dla Dzikich Zwierząt, która prowadzi ośrodek rehabilitacji dzikich zwierząt.
-            </p>
-            <ul>
-                <li>
-                    <img class="check" src="/images/meta/check.png"> Leczymy i rehabilitujemy zwierzęta dziko występujące</li>
-                <li>
-                    <img class="check" src="/images/meta/check.png">
-                    Rocznie przyjmujemy ponad 1000 zwierząt
-                </li>
-            </ul>
+                W 2024 r. została założona Fundacja Chatka Gołębia, mająca siedzibę w Małopolsce. Misją Chatki Gołębia jest ochrona gołębi miejskich, innych ptaków żyjących w miastach oraz gołębi udomowionych.</br>
 
-            <a class="button button-dark-purple" href="o-akcji">
-                O nas 
-                <svg 
-                    xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 710 780"><path fill="currentColor" d="M651 55q29 27 44 61t15 71t-13 71t-42 63L371 605q-7 7-16 7t-17-7L54 321q-27-28-40-63T1 187t14-71t42.5-61T121 17t70-11t70 16t61 42l33 33l33-33q27-27 61-42t70-16t70 11t62 38z"/>
-                </svg>
-            </a>
+                Promujemy adopcję gołębi udomowionych oraz gołębi dzikich, które przez swoją niepełnosprawność nie mogą wrócić na wolność. Informujemy społeczeństwo o pochodzeniu gołębi miejskich (potomkowie gołębi domowych – udomowionych przez człowieka gołębi skalnych). Finansujemy leczenie i rehabilitację ptaków. Bierzemy udział w postępowaniach karnych dotyczących przypadków łamania ustawy o ochronie zwierząt.    Jesteśmy organizatorami Akcji Sznurek, podczas której rozplątujemy łapki gołębi ze sznurków. Powołaliśmy kampanię Zakaz Kolców, która postuluje zakazanie montażu kolców w celu odstraszania ptaków. </br>Działamy dzięki datkom oraz wsparciu wolontariuszy. Razem możemy więcej!
+            </p>
+            <div class="button-container">
+                <a class="button button-grass" href="o-akcji">
+                    WSPÓMÓŻ NAS 
+                </a>
+            </div>
         </div>
-    </div>
 </section>
 
 <style>
@@ -40,8 +24,8 @@
     }
 
     .flex-container {
-        display: flex;
         gap: 5em;
+        padding-inline: 15em;
     }
 
     .text {
@@ -55,24 +39,19 @@
         font-size: 4rem;
     }
 
-    li {
-        display: flex;
-        align-items: center;
-        gap: 1em;
+    img {
+        float: left;
+        width: 340px;
+    }
 
-        margin-bottom: 0.8em;
-
-        font-weight: 400;
-        font-size: 1.6rem;
+    .button-container {
+        text-align: center;
     }
 
     p {
-        color: var(--gray);
-    }
-
-    .check {
-        width: 18px;
-        aspect-ratio: 1;
+        font-size: 2.1rem;
+        font-weight: 700;
+        color: var(--very-dark-purple); 
     }
 
     @media (max-width: 900px) {

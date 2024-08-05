@@ -1,6 +1,9 @@
-@date 2021.11.27
-@info Odgłosy i zachowania gołębi. Post dotyczy głównie gołębi miejskich i domowych.
-@image ../images/posts/Zachowanie gołębi/Zeldon zblizenie.jpg
+---
+title: Zachowanie gołębi
+date: 2021.11.27
+info: Odgłosy i zachowania gołębi. Post dotyczy głównie gołębi miejskich i domowych.
+image: ../images/posts/Zachowanie gołębi/Zeldon zblizenie.jpg
+---
 
 W celu stworzenia tej listy odgłosów i zachowań, posłużyłam się źródłami poniżej oraz moimi obserwacjami. Na podstawie moich obserwacji, stworzyłam własne interpretacje zachowań gołębi. Lista będzie edytowana i poszerzana.
 Lista dotyczy w większości zachowań u Columba livia (gołąb miejski, ozdobny, pocztowy).

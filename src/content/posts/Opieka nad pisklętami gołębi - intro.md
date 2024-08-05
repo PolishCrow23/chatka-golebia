@@ -1,7 +1,9 @@
-@date 2022.11.23
+---
+date: 2022.11.23
 @title Opieka nad pisklętami gołębi
-@info Określenie wieku, ogrzewanie, karmienie, lokum.
-@image ../images/posts/Pisklęta/pisklaki front.jpg
+info: Określenie wieku, ogrzewanie, karmienie, lokum.
+image: ../images/posts/Pisklęta/pisklaki front.jpg
+---
 
 O ile w Internecie można znaleźć sporo informacji na temat opieki nad pisklętami gołębi w języku angielskim, to poradniki w języku polskim są bardzo ogólne i dotyczą wielu gatunków ptaków, a nie konkretnie gołębi. Dlatego pomyślałam, że taki post może być pomocny dla osób, które, np. znalazły wyrzucone pisklęta gołębia hodowlanego na śmietniku i chciałyby się nimi zaopiekować. 
 
