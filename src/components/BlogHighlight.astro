@@ -14,7 +14,7 @@ const { posts } = Astro.props;
         <div class="cards-container">
             {posts.slice(0, 3).map((post) => <Post post={post} />)}
         </div>
-        <a class="older" href="/blog">Starsze</a>
+        <a class="older" href="/blog">Pokaż więcej</a>
     </div>
 </section>
 
@@ -51,6 +51,8 @@ const { posts } = Astro.props;
     .older {
         font-size: 2rem;
         font-weight: 700;
+        display: flex;
+        justify-content: flex-end;
     }
       
     @media  (max-width: 758px) { 

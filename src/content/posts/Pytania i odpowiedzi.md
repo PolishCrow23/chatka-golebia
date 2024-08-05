@@ -2,7 +2,7 @@
 title: Pytania i odpowiedzi
 date: 2021.11.27
 image: /images/posts/Pytania i odpowiedzi/Gris zblizenie.jpg
-info: Podstawowe informacje dotyczące gołębi w formie pytań i odpowiedzi.
+description: Podstawowe informacje dotyczące gołębi w formie pytań i odpowiedzi.
 ---
 
 1. **Jak długo żyją gołębie?**

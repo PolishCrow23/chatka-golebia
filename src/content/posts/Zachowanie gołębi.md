@@ -1,7 +1,7 @@
 ---
 title: Zachowanie gołębi
 date: 2021.11.27
-info: Odgłosy i zachowania gołębi. Post dotyczy głównie gołębi miejskich i domowych.
+description: Odgłosy i zachowania gołębi. Post dotyczy głównie gołębi miejskich i domowych.
 image: /images/posts/Zachowanie gołębi/Zeldon zblizenie.jpg
 ---
 
