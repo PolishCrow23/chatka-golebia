@@ -1,0 +1,179 @@
+<main>
+    <div class="tabs">
+      <input class="radiotab" name="tabs" tabindex="1" type="radio" id="tabone" checked="checked">
+      <label class="label label-one" for="tabone">Wydarzenia</label>
+      <div class="panel panel-one" tabindex="1">
+        <div>
+        <a  class="title" href="https://www.facebook.com/events/1627157821460362">4. Edycja Akcji Sznurek</a>
+        <p class="paragraph">Fundacja Chatka Gołębia zaprasza na kolejną <a href="https://www.facebook.com/events/1627157821460362">Akcję Sznurek</a>.
+            Akcja Sznurek – to cykliczne wydarzenie organizowane przez Fundację Chatka Gołębia.
+            Celem akcji jest udzielanie pomocy weterynaryjnej gołębiom miejskim oraz promocja pozytywnego wizerunku gołębi.</br>
+            W trakcie trwania akcji będziecie mogli uczestniczyć w odławianiu gołębi wymagających pomocy medycznej. Nasi wolontariusze będą udzielać pomocy gołębiom na miejscu (zdjęcie sznurków z nóg). Gołębie, którym udzielenie pomocy na miejscu będzie niemożliwe, zostaną zabezpieczone, i przewiezione do Kliniki Weterynaryjnej „Salamandra”.
+            Cały czas będzie też czynne nasze stoisko, gdzie będziecie mogli za darmo pobrać ziarno dla gołąbków, materiały informacyjne, ulotki. Będziecie mogli również porozmawiać z nami o gołębiach; dowiedzieć się jak na co dzień żyją gołębie miejskie; dlaczego są wyjątkowym gatunkiem zdziczałych, a nie dzikich ptaków?
+            Nasze stoisko będzie funkcjonować do godziny 15:00.
+            Chętne osoby będą mogły przekazać darowiznę na rzecz fundacji do specjalnej puszki. Gorąco zapraszamy!</br>
+            AKCJA SZNUREK</br>
+            Data: 31.08.2024</br>
+            Godzina: 11:00 – 15:00</br>
+            Miejsce: Rynek Główny w Krakowie (obok fontanny)</br>
+            Organizator wydarzenia</br>
+            Fundacja Chatka Gołębia</br>
+            www.chatkagolebia.pl</br>
+            fundacja@chatkagolebia.pl</p>
+        <img src="/images/pages/o-nas/o-nas-caleb.jpg">
+        </div>
+      </div>
+      <input class="radiotab" tabindex="1" name="tabs" type="radio" id="tabtwo">
+      <label class="label label-two" for="tabtwo">Nowości</label>
+      <div class="panel" tabindex="1">
+      </div>
+      <input class="radiotab" tabindex="1" name="tabs" type="radio" id="tabthree">
+      <label class="label label-three" for="tabthree" >Interwencje</label>
+      <div class="panel" tabindex="1">
+      </div>
+    </div>
+
+
+<style>
+
+    .paragraph {
+        font-size: 1.6rem;
+    }
+
+.title {
+    font-size: 3rem;
+}
+
+.panel-one > div {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+a {
+    margin-bottom: 0.5em;
+}
+
+img {
+    width: 460px;
+    margin-top: 3px;
+    display: block
+}
+
+.label-one {
+    background-color: white;
+}
+
+.label-two {
+    background-color: var(--lavender);
+    color: pink;
+}
+
+.label-three {
+    background-color: var(--grass);
+}
+
+*:focus, input:focus + label {
+  outline: none;
+  box-shadow: inset 0 0 0 5px lightBlue;
+}
+
+body {
+  background: #fff;
+  color: #333;
+  background-color: var(--cream);
+}
+
+main {
+padding-block: 2em;
+  max-width: 1400px;
+  padding: 4%;
+  margin: auto;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 0;
+}
+
+h2 {
+  margin: 0 0 12px;
+  font-size: 30px;
+}
+
+p {
+  margin: 0 0 20px;
+  font-size: 20px;
+  line-height: 1.5;
+}
+
+.tabs {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 auto 20px;
+  border-radius: 10px 10px 0 0;
+}
+
+.radiotab {
+  position: absolute;
+  opacity: 0;
+}
+
+.label {
+  width: 100%;
+  padding: 22px 20px;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 23px;
+  color: #7f7f7f;
+  transition: background .3s, color .3s;
+  border: none;
+  border-radius: 0;
+  text-align: center;
+}
+
+.label:hover {
+  background: #d8d8d8;
+}
+
+.label:active {
+  background: #ccc;  
+}
+
+.radiotab:checked + .label {
+  background: #fff;
+  color: #000;
+  /* border-top: solid 2px #000;
+  border-left: solid 2px #000;
+  border-right: solid 2px #000; */
+  border-bottom: none;
+}
+
+.panel {
+  display: none;
+  padding: 20px 30px 30px;
+  background: #fff;
+  width: 100%;
+  /* border-left: solid 2px #000;
+  border-bottom: solid 2px #000;
+  border-right: solid 2px #000; */
+}
+
+.radiotab:checked + .label + .panel {
+  display: block;
+}
+
+@media (min-width: 600px) {
+  .panel {
+    order: 99;
+  }
+
+  .label {
+    width: 33.33%;
+    border-radius: 10px 10px 0 0;
+    /* border-bottom: solid 2px #000; */
+  }
+
+}
+</style>
