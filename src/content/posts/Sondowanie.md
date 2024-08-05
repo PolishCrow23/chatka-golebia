@@ -7,7 +7,7 @@
 - Producent Nutrbird zaleca używać przegotowanej wody ze względu na bakterie, które mogą znajdować się w kranówce. Osobiście polecam po prostu sprawdzić, czy w danym mieście/wsi kranówka nadaje się do picia przez ludzi. Jeśli tak, to według mnie nie ma potrzeby jej przegotowywać.
 - Producent Nutribird zaleca do każdego karmienia przygotowywać świeżą mieszankę. Uważam, że jeśli kolejne karmienie przypada w przeciągu kilku kolejnych godzin, a w pomieszczeniu, w którym przechowywany jest pokarm nie ma wysokiej temperatury, to można po raz kolejny nakarmić ptaka wcześniej przygotowaną mieszanką. Natomiast wieczorne karmienie przygotowaną rano mieszanką, w szczególności jeśli dolaliśmy tam wapń, witaminy czy inne preparaty, uważam za bardziej ryzykowane.
 
-![](../images/posts/Pisklęta/Proporcje.jpg)
+![](/images/posts/Pisklęta/Proporcje.jpg)
 *Proporcje NutriBirda i wody.*
 
 

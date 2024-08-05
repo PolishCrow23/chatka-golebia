@@ -2,14 +2,14 @@
 title: Jak złapać gołębia potrzebującego pomocy?
 date: 2020.12.15
 info: Różne sposoby złapania gołębi potrzebujących naszej pomocy.
-image: ../images/posts/Jak%20złapać%20gołębia/Dokusia%20złapana.jpg
+image: /images/posts/Jak%20złapać%20gołębia/Dokusia%20złapana.jpg
 ---
 
 Poniżej znajduje się kilka metod łapania gołębi potrzebujących naszej pomocy: chorych, rannych czy też hodowlanych (ozdobnych i pocztowych), które nie są w stanie przetrwać na wolności. Sposoby te można ze sobą łączyć, np. rzucić na ziemię jedzenie i zarzucić na gołębie siatkę, czy też zagonić gołębia w róg budynku i użyć podbieraka. Nie każdy ze sposobów będzie skuteczny w konkretnym przypadku, np. wątpliwe jest, że uda złapać się zdrowego, latającego gołębia po prostu podchodząc do niego i łapiąc go w ręce. Jeśli masz wątpliwości co do sposobu łapania gołębia, napisz na [naszej grupie](https://www.facebook.com/groups/chatkagolebiagrupa).
 
 Im bardziej dziki, mniej oswojony z człowiek, zdrowszy i sprawniejszy jest gołąb, tym trudniej będzie nam go złapać. Pamiętajmy o tym, że im dłużej próbujemy łapać gołębia, tym bardziej nieufny w stosunku do nas się staje. Jednak nie poddawajmy się. Sposobów na złapanie potrzebującego naszej pomocy gołębia jest wiele, jeśli jeden okazał się nieskuteczny, przejdźmy do kolejnego, kombinujmy, łączmy ze sobą różne metody. Od tego zależy dobro zwierzęcia.
 
-![](../images/posts/Jak%20złapać%20gołębia/Dokusia%20złapana.jpg)
+![](/images/posts/Jak%20złapać%20gołębia/Dokusia%20złapana.jpg)
 *Wycieńczony i zaatakowany przez drapieżnika gołąb ozdobny został złapany i przeniesiony w bezpieczne miejsce (wewnątrz budynku).*
 
 - **Łapanie w ręce.** Gdy gołąb jest bardzo osłabiony/chory, jest przyzwyczajony do obecności człowieka do tego stopnia, że nie ucieka od niego (jest gołębiem ozdobnym, pocztowym lub dzikim gołębiem wychowanym przez człowieka i wypuszczonym na wolność bez odpowiedniego przygotowania) albo jest pisklęciem, wystarczy powoli zbliżyć się do niego i wziąć go w ręce. Gołębie hodowlane nie potrafią przetrwać na wolności i często przylatują na nasze parapety, balkony lub dniami przesiadują w naszych ogrodach. Te ptaki wręcz proszą, żeby ktoś zaopiekował się nimi, zapewnił pożywienie, wodę, schronienie i bezpieczeństwo.

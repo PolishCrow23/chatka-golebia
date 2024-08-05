@@ -5,7 +5,7 @@ image: "/images/meta/hero.png"
 ---
 Adopcja
 
-<!-- ![](../images/posts/Adopcja/Adopcja.jpg)
+<!-- ![](/images/posts/Adopcja/Adopcja.jpg)
 
 # [Gołębie czekające na adopcję](/birds)
 
@@ -14,7 +14,7 @@ Jesteś zainteresowany adopcją podopiecznego Chatki Gołębia?
 
 Jest możliwość zorganizowania transportu z Krakowa do innego miasta.
 
-![](../images/posts/Adopcja/Adopcjagołębi.jpg)
+![](/images/posts/Adopcja/Adopcjagołębi.jpg)
 
 Gołębie potrafią świetnie przystosować się do nowych warunków. Potrzebują po prostu trochę czasu, cierpliwości i miłości. Są niezwykle towarzyskie i nawet gdy nie mają kontaktu z drugim przedstawicielem swojego gatunku, czują się szczęśliwe i zaspokojone jeśli mogą spędzić czas z człowiekiem, którego w którymś momencie zaczynają traktować jako członka swojego stada lub nawet partnera. 
 
@@ -38,4 +38,4 @@ Gołębie są też niezwykle ciekawskie i będą szczęśliwe, przechadzając si
 
 Więcej gołębi do adopcji możesz znaleźć na naszej stronie [Chatka gołębia - gołębie do adopcji](https://www.facebook.com/chatkagolebia/) oraz na stronie [Gruszętnik - gołębie w potrzebie](https://www.facebook.com/gruszetnik/)
 
-![](../images/posts/Adopcja/Zelda.jpg) -->
+![](/images/posts/Adopcja/Zelda.jpg) -->

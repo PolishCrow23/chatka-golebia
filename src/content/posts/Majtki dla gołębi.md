@@ -2,7 +2,7 @@
 title: Majtki dla gołębi
 date: 2021.03.18
 info: Czym są majtki dla gołębi? Gdzie można je kupić?
-image: ../images/posts/Majtki%20dla%20gołębi/Groszek%20w%20majtkach.jpg
+image: /images/posts/Majtki%20dla%20gołębi/Groszek%20w%20majtkach.jpg
 ---
 
 Czy adoptowanie gołębia do domu lub mieszkania musi wiązać się z poplamionymi ścianami i podłogami, nieprzyjemnym zapachem, bieganiem za ptakiem z chusteczką, czy też rozkładaniem w całym domu folii chroniącej meble i podłogi przed zaciekami? Niekoniecznie. Bardzo atrakcyjną opcją dla gołębi mieszkających w domu lub mieszkaniu są majtki dla gołębi. Dzięki nim ptak **może spędzać czas poza klatką, nie zostawiając po sobie nieczystości**. Co więcej, dzięki majtkom dla gołębi oraz specjalnej smyczy opiekun **może wychodzić ze swoim ptakiem na spacery bez obawy, że jego pupil ucieknie**.
@@ -11,12 +11,12 @@ Noszenie majtek nie jest dla gołębia czymś naturalnym, jednak trzeba pamięta
 
 Wolier przyjmujących kalekie dzikie gołębie jest niewiele i są one często przepełnione, co wiąże się z niskim komfortem życia przebywających w nim ptaków. Z kolei wolier prowadzonych przez hodowców jest w Polsce dużo, jednak dla hodowcy liczby się stado, a nie pojedynczy osobnik – nieefektywne ptaki (chore, stare, kontuzjowane) są często przez hodowców usuwane (czyt. zabijane) lub wypuszczane, co również łączy się ze śmiercią (w tym przypadku często długą i bolesną, np. bycie zjedzonym żywcem przez ptaka drapieżnego). 
 
-![](../images/posts/Majtki%20dla%20gołębi/Groszek%20w%20majtkach.jpg)
+![](/images/posts/Majtki%20dla%20gołębi/Groszek%20w%20majtkach.jpg)
 *Kontuzjowany gołąb miejski Groszek (550 gram) w majtkach dla gołębi Stassi Fulmer, rozmiar King Pigeon (chociaż możliwe, że lepszy byłby rozmiar Chunkster :)*
 
 Gołąb adoptowany do domu lub mieszkania potrafi świetnie przyzwyczaić się do nowego życia, gdy ma zapewnione odpowiednie warunki: kontakt z drugim gołębiem lub człowiekiem, przestrzeń prywatną (klatkę) i przestrzeń, w której może rozprostować skrzydła i socjalizować się z innymi domownikami (przestrzeń poza klatką). **Majtki dla gołębi są kompromisem między opiekunem, który chce zachować czystość i porządek w mieszkaniu, a gołębiem, który otrzymuje nowy, kochający dom**. Są oczywiście osoby, którym nie przeszkadzają nieczystości zostawiane przez gołębie i które na bieżąco za nimi sprzątają. Zanim zamówi/uszyje się majtki, można spróbować wypuszczać gołębia poza klatkę bez majtek (np. rozłożyć folię ochronną w miejscach, w których najczęściej przesiaduje) i zobaczyć, jak uciążliwe będą dla nas pozostawiane przez niego kupy. Jeśli bałagan będzie zbyt duży, może warto zainwestować w majtki dla gołębi. 
 
-![](../images/posts/Majtki%20dla%20gołębi/Dokusia%20bez%20majtek.jpg)
+![](/images/posts/Majtki%20dla%20gołębi/Dokusia%20bez%20majtek.jpg)
 *Uratowana gołąbka ozdobna Doki lubi przesiadywać na górze z poduszek na łóżku (bez majtek, pieluchy dla szczeniaków chronią pościel przed kupami*
 
 **Jaki krój majtek jest najlepszy?** **Czy dobranie odpowiedniego rozmiaru jest ważne?**
@@ -115,15 +115,15 @@ Palomacy sugeruje, aby opiekunowie podczas spacerów ze swoim gołębiem trzymal
 
 Przed wyjściem z gołębiem na spacer warto zdobyć jego zaufanie, [zaprzyjaźnić się z nim](Jak zaprzyjaźnić się z gołębiem). Gołąb, który panicznie boi się swojego właściciela na pewno będzie bardzo zestresowany wspólnym wyjściem, co przy nieumiejętnym trzymaniu ptaka i smyczy, a tym bardziej przy źle dobranym rozmiarze majtek, może skończyć się jego ucieczką. 
 
-![](../images/posts/Majtki%20dla%20gołębi/Zelda%20na%20smyczu.jpg)
+![](/images/posts/Majtki%20dla%20gołębi/Zelda%20na%20smyczu.jpg)
 *Zelda w majtkach i na smyczy ze Stassia Fulmer. Trzymana w bezpiecznej pozycji przy ciele. Zelda doskonale lata i nie jest do końca ufna w stosunku do człowieka.*
 
 Bardziej doświadczony opiekun, który zna zachowanie swojego ptaka oraz potrafi ocenić jakie warunki są dla niego bezpieczne (np. zadaszony taras), może trzymać go w innej pozycji niż przy swoim ciele, np. na ramieniu, dłoni czy kolanach. Oczywiście nie można tracić czujności, ponieważ nawet oswojony ptak może wystraszyć się jakiegoś niedostrzegalnego przez nas elementu w otoczeniu i odlecieć. 
 
-![](../images/posts/Majtki%20dla%20gołębi/Dokusia%20Andrii.jpg)
+![](/images/posts/Majtki%20dla%20gołębi/Dokusia%20Andrii.jpg)
 *Dokusia w majtkach i na smyczy z The Bird Botique. Dokusia jest spokojna i ufna w stosunku do człowieka. Zdjęcie zostało zrobione w bezpiecznym (miejmy nadzieję) miejscu na tarasie, dlatego Dokusia stoi na dłoni. Gdy Dokusia wychodzi na dalsze spacery jest trzymana w bezpiecznej pozycji przy ciele.*
 
-![](../images/posts/Majtki%20dla%20gołębi/Zelda%20w%20majtkach.jpg)
+![](/images/posts/Majtki%20dla%20gołębi/Zelda%20w%20majtkach.jpg)
 *Uratowany gołąb hodowany na mięso (?) Zelda (410 gram) w majtkach ze sklepu Stassia Fulmer, rozmiar Homer*
 
 **Źródła**

@@ -2,7 +2,7 @@
 title: Klatka dla gołębia
 date: 2019.07.27
 info: Poradnik na temat kupna klatki dla gołębia i wyboru odpowiedniego jej wyposażenia.
-image: ../images/posts/Klatka/Klatka%20Doki%20Groch%20Awatar.jpg
+image: /images/posts/Klatka/Klatka%20Doki%20Groch%20Awatar.jpg
 ---
 
 <!-- date_edit: 2022.11.05 -->
@@ -10,8 +10,7 @@ image: ../images/posts/Klatka/Klatka%20Doki%20Groch%20Awatar.jpg
 
 Gołębie są wspaniałymi kompanami i mogą bez problemu zamieszkać ze swoim opiekunem w domu lub mieszkaniu. Warto zapewnić im bezpieczne i komfortowe miejsce, w którym będą mogły zarówno spełniać swoje podstawowy potrzeby, jak i przyjemnie spędzić czas. 
 
-![](../images/posts/Klatka/Klatka%20Doki%20Groch.jpg)
-*Klatka pary gołębi – Dokusi i Groszka.*
+![](/images/posts/Klatka/klatka-doki-groch.jpg "Klatka pary Doki i Groszka")
 
 **Rozmiary klatki zalecane przez [Palomacy](https://www.pigeonrescue.org/2015/09/30/is-this-a-good-cage/) wynoszą (im większa tym lepsza):**
 
@@ -39,17 +38,17 @@ Kolejna opcja to klatki dla królików, które szczególnie dobrze sprawdzają s
 
 Z klatek dla królików mogę polecić Ferplast Casita 100 lub 120 oraz Ferplast Plaza 140 lub 160 (liczby oznaczają przybliżoną długość w cm).
 
-![](../images/posts/Klatka/Steve.jpg)
+![](/images/posts/Klatka/steve.jpg)
 *Zadziorny gołąbek miejski Steve z uszkodzonym skrzydłem mieszka w klatce dla królika.*
 
-Teraz chciałabym rozwinąć trochę kwestię posiadania psa lub/kota oraz gołębia. Trzeba uważać nawet jeśli kupi się klatkę z małym odstępem między szczeblami. Psy i koty posiadają w ślinie niebezpieczne dla ptaków bakterie. Jeśli po ugryzieniu ptak nie trafi natychmiast do weterynarza (gdzie dostanie antybiotyki), to najprawdopodobniej umrze. Zadrapania są równie groźne – skóra ptaków jest cienka i delikatna. Myślę, że w przypadku małych psów jest o tyle dobrze, że klatkę można postawić wyżej i piesek nie wsadzi tam swojego pyska ani pazurów. Gorzej jest z kotami i dużymi psami. W przypadku tych drugich problemem jest nie tylko to, że pies może doskoczyć nawet do wysoko położonej klatki. Jeśli klatka ma słabą konstrukcję, to pies może ją zniszczyć i dostać się do ptaków. Niestety znam taki przypadek – właściciel zapomniał zamknąć drzwi do pokoju, do środka wszedł sporych rozmiarów pies, zniszczył klatkę i zagryzł gołębie. Reasumując, jak najbardziej można mieć w domu i psa/kota, i gołębia, po prostu trzeba być bardzo ostrożnym.
+Teraz chciałabym rozwinąć trochę kwestię posiadania psa lub/kota oraz gołębia. Trzeba uważać nawet jeśli kupi się klatkę z małym odstępem między szczeblami. Psy i koty posiadają w ślinie niebezpieczne dla ptaków bakterie. Jeśli po ugryzieniu ptak nie trafi natychmiast do weterynaHrza (gdzie dostanie antybiotyki), to najprawdopodobniej umrze. Zadrapania są równie groźne – skóra ptaków jest cienka i delikatna. Myślę, że w przypadku małych psów jest o tyle dobrze, że klatkę można postawić wyżej i piesek nie wsadzi tam swojego pyska ani pazurów. Gorzej jest z kotami i dużymi psami. W przypadku tych drugich problemem jest nie tylko to, że pies może doskoczyć nawet do wysoko położonej klatki. Jeśli klatka ma słabą konstrukcję, to pies może ją zniszczyć i dostać się do ptaków. Niestety znam taki przypadek – właściciel zapomniał zamknąć drzwi do pokoju, do środka wszedł sporych rozmiarów pies, zniszczył klatkę i zagryzł gołębie. Reasumując, jak najbardziej można mieć w domu i psa/kota, i gołębia, po prostu trzeba być bardzo ostrożnym.
 
 Kolejna sprawa to ocynkowane klatki, czyli takie, które zostały pokryte warstwą cynku, by zapewnić ochronę przed rdzawieniem. Zdaję sobie sprawę, że takie klatki są niebezpieczne dla papug i odnotowano u nich wiele przypadków zatrucia cynkiem. Natomiast nigdy nie słyszałam o podobnym przypadku u gołębi. Gołębie mają miękkie dzioby i nie gryzą metalowych obiektów, w tym prętów klatki, tak jak papugi. W związku z tym nie obawiałabym się kupna ocynkowanej klatki. Jeśli ktoś mimo to boi się o swojego gołębia, to bardziej polecany jest ocynk galwaniczny, a nie ogniowy. Na powierzchni elementów ocynkowanych tą drugą metodą występują nierówności, które mogą zostać oderwane i połknięte przez ptaka (B. Speer).
 
-![](../images/posts/Klatka/Milo.jpg)
+![](/images/posts/Klatka/Milo.jpg)
 *Klatka gołębia Milo.*
 
-![](../images/posts/Klatka/Holly.jpg)
+![](/images/posts/Klatka/Holly.jpg)
 *Klatka sierpówki Holly.*
 
 * Gołębie nie są bezpieczne na zewnątrz w większości klatek. Drapieżniki nie próżnują i jeśli znajdą gołębie w słabo skonstruowanej klatce z wielkimi odstępami między prętami, z pewnością zrobią sobie ucztę. Jeśli chcemy, żeby gołąb zaczerpnął trochę słońca i świeżego powietrza, możemy po prostu ciągle obok niego siedzieć i pilnować go. Natomiast jeśli nie chcemy pełnić roli ochroniarza, powinniśmy zainwestować w klatkę, w której ptak może znajdować się na zewnątrz nawet jeśli nie ma nas w pobliżu. Klatka powinna być solidnej konstrukcji i mieć bardzo mały odstęp między  prętami. Alternatywnie, można kupić klatkę, która jest porządnie skonstruowana (np. wzmocniony kennel) i obtoczyć wszystkie jej płaszczyzny – spód, boki i górę – siatką metalową o oczkach nie większych niż 12,7 mm z przerwami na łączeniach nie większymi niż 12,7 mm (trochę więcej informacji o siatkach znajduje się w poście o gołębniku). Co istotne, klatka jest zbyt mała, żeby gołębie mogły mieszkać w niej na zewnątrz przez całe życie. W takim przypadku muszą być przynoszone do domu, by móc bezpiecznie polatać (wypuszczanie gołębi na wolny oblot, czyli lot na zewnątrz – poza domem lub gołębnikiem – często kończy się tragicznie – śmiercią w szponach drapieżnika lub spłoszeniem, zagubieniem i śmiercią z głodu, choroby czy wycieńczenia). Aby ptaki mogły mieszkać na zewnątrz przez całe życie bez przynoszenia ich do domu, należy zbudować im gołębnik. Czym różni się gołębnik od zabezpieczonej siatką metalową klatki? Gołębnik oznacza zagrodę na tyle dużą, że człowiek może wejść do środka i swobodnie się poruszać. Wszystko co jest mniejsze i ciaśniejsze jest klatką.
@@ -66,7 +65,7 @@ Kolejna sprawa to ocynkowane klatki, czyli takie, które zostały pokryte warstw
 
 # Wyposażenie klatki
 
-![](../images/posts/Klatka/Wyposażenie%20klatki.jpg)
+![](/images/posts/Klatka/Wyposażenie%20klatki.jpg)
 
 Gołębie nie powinny stać na gołych prętach klatki. Nawet jeśli klatka nie ma spodu, można wyścielić pręty odpowiednim materiałem, umożliwiającym gołębiowi swobodne poruszanie się (np. mata do jogi).
 
@@ -87,10 +86,10 @@ Codziennie powinno się wymieniać wyściełanie w klatce, aby ptak nie deptał 
 
 
 
-![](../images/posts/Klatka/Danielle.png)
+![](/images/posts/Klatka/Danielle.png)
 *Klatka pary gołębi Ms Pigeon Pants i Marty'ego.*
 
-![](../images/posts/Klatka/Fara.jpg)
+![](/images/posts/Klatka/Fara.jpg)
 *Fara spędza czas poza klatką.*
 
 **Miski**
@@ -106,14 +105,14 @@ Wyściełanie gniazda
 *siano, małe patyczki (można zebrać je na zewnątrz i przemyć), patyczki do uszu, rozcięta w długie pasma gazeta, rozcięta w długie pasma rolka po papierze toaletowy*  
 Ptaki, które mają partnera (drugiego gołębia lub ich człowieka), budują gniazdo, znosząc do niego wszelkie dostępne im materiały. Warto zapewnić im wygodne, komfortowe miejsce na założenie gniazda i udostępnić rzeczy, którymi będą mogły go wyściełać. Jeśli w klatce znajduje się samiec i samica, trzeba będzie zapewnić im **jajka podkładowe**. 
 
-![](../images/posts/Klatka/Gniazdo.jpg)
+![](/images/posts/Klatka/Gniazdo.jpg)
 *Luksusowe gniazdo gołąbki Ms Pigeon Pants.*
 
 **Pojemnik z wodą dla kąpieli**
 *podstawka pod doniczkę, plastikowy pojemnik, duża miska, mała kuweta* 
 Większość gołębi lubi od czasu do czasu wykąpać się – jedne robią to codziennie, inne co kilka tygodni (a niektóre są bardzo oporne i wcale nie chcą wejść do wody). W miejscu, w którym stoi pojemnik z wodą można zawiesić na klatce jakiś materiał lub zasłonę prysznicową, żeby ptak nie chlapał wodą po całym pokoju. 
 
-![](../images/posts/Klatka/Winter.jpg)
+![](/images/posts/Klatka/Winter.jpg)
 *Ozdobny gołąbek o imieniu Winter podczas kąpieli.*
 
 **Półka**
@@ -122,7 +121,7 @@ Gołębie najlepiej czują się stojąc na płaskich powierzchniach, dlatego w i
 Jako półka dobra będzie średniej grubości drewniana deska (nie tak cienka, by spadała pod ciężarem gołębia, ale również nie tak gruba, by stwarzała zagrożenie zabicia ptaka w razie upadku). Deski można kupić w markecie budowlanym lub po prostu poszukać ich na śmietniku (i umyć). Następnie trzeba przypiłować je do odpowiedniego rozmiaru, zobaczyć czy powierzchnia deski jest w miarę gładka (można oszlifować ją papierem ściernym), wbić gwoździe w boczne ścianki deski i umieścić deskę na prętach, znajdujących się po przeciwległych stronach klatki. 
 Półki można też kupić w sklepie zoologicznym lub przez Internet, jednak zazwyczaj mają bardzo małą powierzchnię w porównaniu do ,,własnoręcznie” wykonanych desek. 
 
-![](../images/posts/Klatka/Kropelka.jpg)
+![](/images/posts/Klatka/Kropelka.jpg)
 *Adoptowana Kropelka w nowym domu!*
 
 **Żerdź**
@@ -157,13 +156,13 @@ Ptaki potrzebują od pięciu do dwudziestu razy jaśniejszego oświetlenia niż 
 * Poduszka elektryczna – pomocna w utrzymaniu przez chore ptaki odpowiedniej temperatury ciała.
 * Cegła – gołębie, chodząc po cegle lub stojąc na niej, ścierają sobie pazurki (można kupić w niektórych sklepach budowlanych np. Leroy Merlin).
 
-![](../images/posts/Klatka/Katie.jpg)
+![](/images/posts/Klatka/Katie.jpg)
 *Klatka pary gołębi Bucky'ego i Moiry.*
 
-![](../images/posts/Klatka/Poncho.jpg)
+![](/images/posts/Klatka/Poncho.jpg)
 *Klatka gołębia Poncho.*
 
-![](../images/posts/Klatka/Małpka%20i%20Didi%20Pipi.jpg)
+![](/images/posts/Klatka/Małpka%20i%20Didi%20Pipi.jpg)
 *Małpka i Didi spędzają czas poza klatką w majtkach dla gołębi.*
 
 Źródła: "How to Choose a Cage for Pigeons or Doves" w Palomacy; "Dlaczego NIE powinno się trzymać ptaków w okrągłych klatkach" w Papugi. Papuzie Centrum Informacyjne; B. Speer et al., "Preparing for Your Bird’s Arrival" w *Birds For Dummies 2nd Edition*.

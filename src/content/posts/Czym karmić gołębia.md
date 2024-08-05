@@ -1,7 +1,7 @@
 ---
 title: Czym karmić gołębie?
 date: 2021.07.20
-image: ../images/posts/Czym karmić gołębia/zima.jpg
+image: /images/posts/Czym karmić gołębia/zima.jpg
 info: Informacje dotyczące diety dzikich gołębi występujących w Polsce oraz gołębi hodowlanych.
 ---
 
@@ -44,7 +44,7 @@ Białko: 11%
 
 Tłuszcz: 3%
 
-![](../images/posts/Czym karmić gołębia/ziarno.jpg)
+![](/images/posts/Czym karmić gołębia/ziarno.jpg)
 *Mieszanka ziaren dla gołębi miejskich i hodowlanych (zmieszane dwie mieszanki), której używam: MDM K dla krótkodziobów bez pszenicy oraz MDM UE - Uniwersalna Economic).*
 
 W przypadku **grzywaczy** wskazana jest bardziej urozmaicona dieta: ziarno i nasiona, warzywa, owoce sezonowe, larwy owadów (np. mącznika).
@@ -90,7 +90,7 @@ Witaminy w formie płynu: Biosupervit (D3 i inne witaminy), podanie do wody.
 Gdy u samicy zbliża się czas składania jajek, kilka dni przed możemy zwiększyć częstotliwość podawania preparatów z wapniem oraz witamin, np. podawać codziennie/co drugi dzień.
 Przy samicach składających jaja (lub przy gołębiach o nieokreślonej płci, które mogą okazać się samicami) polecam wcześniej kupić w aptece wapń Hasco lub Sanosvit. W przypadku zaparcia jajka warto podać 10 mg wapnia na 100 g masy ciała gołębia; jeśli jest potrzeba, powtórzyć po 12 godzinach (a jeśli dalej nie ma jaja, to oczywiście jak najszybciej udać się do ptasiego weterynarza).
 
-![](../images/posts/Czym karmić gołębia/dolvit.jpg)
+![](/images/posts/Czym karmić gołębia/dolvit.jpg)
 *Proszek z wapniem i witaminami Dolvit Lęgi.*
 
 # Dodatki do diety #
@@ -104,10 +104,10 @@ Przy samicach składających jaja (lub przy gołębiach o nieokreślonej płci, 
 Kilka razy w tygodniu można urozmaicić gołębiowi dietę i podać mu warzywa. Warzywa takie jak marchewka i papryka należy pokroić na małe kawałki. Warzywa takie jak bazylia lub sałata można pokroić na małe kawałki; dać gołębiowi roślinę w doniczce do skubania lub urwać liście i przymocować je do jakiegoś przedmiotu, by gołąb mógł je bez problemu skubać. Warzywa należy dokładnie umyć, ponieważ ptaki są szczególnie wrażliwe na chemię, którą są pryskane rośliny. Jeśli jest taka możliwość, najlepiej sięgać po warzywa oznaczone w supermarkecie jako bio, kupować warzywa od lokalnych, sprawdzonych dostawców lub podawać rośliny z własnego ogródka. 
 Można również podawać gołębiom wyhodowane w domu **kiełki**. Żeby kiełki nie gniły ani nie tworzyła się na nich pleśń, należy pamiętać o tym, żeby nie siać nasion zbyt gęsto; odpowiednio często opłukiwać kiełki (według instrukcji) i wylewać nagromadzoną w kiełkownicy wodę.
 
-![](../images/posts/Czym karmić gołębia/kiełki.jpg)
+![](/images/posts/Czym karmić gołębia/kiełki.jpg)
 *Kiełki bazylii (kiełkownica miseczkowa) i kiełki soczewicy (kiełkownica słoikowa).*
 
-![](../images/posts/Czym karmić gołębia/grochkiełki.jpg)
+![](/images/posts/Czym karmić gołębia/grochkiełki.jpg)
 *Adoptowany gołąb miejski Groszek je kiełki soczewicy.*
 
 Warzywa:
@@ -120,7 +120,7 @@ sałata, bazylia, szpinak (w niewielkich ilościach*), jarmuż (w niewielkich il
 
 **zawiera dużą ilość soli, która w zbyt dużej ilości jest silnie toksyczna dla ptaków
 
-![](../images/posts/Czym karmić gołębia/Gris je.jpg)
+![](/images/posts/Czym karmić gołębia/Gris je.jpg)
 *Adoptowana gołąbka pocztowa Gris je pokrojoną paprykę i cukinię.*
 
 

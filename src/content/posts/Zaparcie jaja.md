@@ -1,6 +1,6 @@
 ---
 date: 2020.10.08
-image: ../images/posts/Zaparcie%20jaja/Zaparcie.jpg
+image: /images/posts/Zaparcie%20jaja/Zaparcie.jpg
 info: Niestety, nawet jeśli zapewnimy gołąbce świetne warunki życia i odpowiednią dietę, zawsze musimy być przygotowani na zaparcie jaja.
 ---
 
@@ -25,7 +25,7 @@ Musimy szybko reagować, ponieważ zaparcie jaja jest stanem zagrażającym życ
   </ol>
 </div>
 
-![](../images/posts/Zaparcie%20jaja/Pudełko.jpg)
+![](/images/posts/Zaparcie%20jaja/Pudełko.jpg)
 *Dokusia miała trudności ze złożeniem jajka. Po około 30 minutach w „saunie" złożyła jajko.*
 
 Weterynarz oceni stan gołębia, stan jego narządów rozrodczych i pozycję jaja (możliwe, że będzie potrzebne zdjęcie rentgenowskie). Lekarz może zdecydować się na podanie wapnia, kroplówki, hormonów, leków przeciwbólowych czy antybiotyków; zwiększenie temperatury otoczenia i sondowanie pokarmu jeśli gołąbka nie je. Jeśli leczenie nie przyniesie oczekiwanych rezultatów, lekarz może próbować usunąć jajo manualnie – znieczulić ogólnie ptaka i odpowiednio masować jego podbrzusze i kloakę (często po wprowadzeniu do kloaki lubrykantu). Innym sposobem jest zassanie zawartości jaja za pomocą igły i zniszczenie skorupki jaja, którego fragmenty zostają wydalone przez ptaka lub manualnie usunięte przez lekarza. W niektórych przypadkach konieczne jest chirurgiczne usunięcie jaja.

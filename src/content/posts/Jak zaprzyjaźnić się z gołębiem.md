@@ -2,7 +2,7 @@
 title: Jak zaprzyjaźnić się z gołębiem?
 date: 2020.11.10
 info: Jak zyskać zaufanie naszego skrzydlatego podpiecznego? Co zrobić, żeby nas polubił? W tym poście znajdziecie kilkanaście pomysłów na to, w jaki sposób możemy zaprzyjaźnić się z naszym gołębiem!
-image: ../images/posts/Oswajanie/Doki%20orzeszek.jpg
+image: /images/posts/Oswajanie/Doki%20orzeszek.jpg
 ---
 
 Jak zyskać zaufanie naszego skrzydlatego podpiecznego? Co zrobić, żeby nas polubił? W tym poście znajdziecie kilkanaście pomysłów na to, w jaki sposób możemy zaprzyjaźnić się z naszym gołębiem!
@@ -35,5 +35,5 @@ Jak zyskać zaufanie naszego skrzydlatego podpiecznego? Co zrobić, żeby nas po
 
 * **Zaakceptujmy osobowość i temperament gołębia.** Niektóre gołębie są spokojne i godzinami przesiadują obok swojego opiekuna. Inne są żywiołowe i przelatują z miejsca na miejsce. Jedne uwielbiają wskakiwać na ramię opiekuna i być głaskane, inne wolą przypatrywać się swojemu opiekunowi i unikają kontaktu fizycznego. Nawet jeśli nasz gołąb nie jest pieszczochem, to jeśli poświęcimy mu wystarczająco dużo czasu, uwagi i miłości, będzie nas traktować jako swojego przyjaciela. :)
 
-![](../images/posts/Oswajanie/Groch%20orzeszek.jpg)
+![](/images/posts/Oswajanie/Groch%20orzeszek.jpg)
 *Gołąb miejski Groszek zjada orzeszka ziemnego z ręki.*

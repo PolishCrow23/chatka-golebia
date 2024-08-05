@@ -1,7 +1,7 @@
 ---
 title: Gołębiowy pupil a jajka – antykoncepcja u gołębi
 date: 2020.10.08
-image: ../images/posts/Antykoncepcja/Groszek%20Doki%20w%20gnieździe.jpg
+image: /images/posts/Antykoncepcja/Groszek%20Doki%20w%20gnieździe.jpg
 info: Jajka to ważny temat! Powinniśmy objąć samiczkę składającą jajka szczególną opieką. 
 ---
 
@@ -39,7 +39,7 @@ W warunkach domowych tworzą się **pary gołąb-opiekun**, bardzo często, gdy 
 
 Jak poznać, że gołąb kocha swojego opiekuna? Lubi być głaskany, podczas pieszczot często kłania się głową i grucha, jego skrzydełka wibrują. Wkłada dziób pomiędzy ręce i próbuje nakarmić swojego ukochanego człowieka. Nawołuje opiekuna (kuuu, kuuu), by przyszedł do ich wspólnego gniazda. Nie atakuje rąk, gdy opiekun wkłada je do klatki lub gniazda. Samiec próbuje kopulować np. z ręką człowieka. :) Samiczka składa jajka i oczekuje, że opiekun pomoże jej w ich wysiadywaniu (więcej w podpunkcie jak pomagać samotnej samiczce w wysiadywaniu jajek?).
 
-![](../images/posts/Antykoncepcja/Domino%202.jpg)
+![](/images/posts/Antykoncepcja/Domino%202.jpg)
 *Gołąbka Domino składa jajka dla swojej opiekunki.*
 
 **Cykl składania jajek**
@@ -58,10 +58,10 @@ U **sierpówek, cukrówek i gołąbków diamentowych** cykl składania jajek wyg
 
 * Warto również wziąć pod uwagę aspekt etyczny. Czy warto rozmanażać nasze zwierzaki w momencie, kiedy mnóstwo ptaków jest poddawanych eutanazji, ponieważ nikt nie chce ich adoptować? W razie chęci powiększenia swojej rodziny o nowego gołębia, wystarczy napisać do [nas](https://www.facebook.com/chatkagolebia/), chętnie pomożemy w znalezieniu odpowiedniego pupila.
 
-![](../images/posts/Antykoncepcja/Groszek%20Doki%20w%20gnieździe.jpg)
+![](/images/posts/Antykoncepcja/Groszek%20Doki%20w%20gnieździe.jpg)
 *Para gołębi Dokusia (samiczka, gołąb rasowy) i Groszek (samiec, gołąb miejski) w gnieździe. Jajka, które składa Dokusia są zamieniane na jajka podkładowe, żeby nie dopuścić do wyklucia się piskląt.*
 
-![](../images/posts/Antykoncepcja/Pigeon%20pants%20nest.jpg)
+![](/images/posts/Antykoncepcja/Pigeon%20pants%20nest.jpg)
 *Para gołębi Marty i Ms. Pigeon Pants. Ms. Pigeon Pants porzuciła swojego opiekuna i związała się z Marty'm.*
 
 # Co robić, żeby zapobiegać wykluwaniu się piskląt?

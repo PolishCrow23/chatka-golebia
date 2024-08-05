@@ -9,7 +9,7 @@
 * Ciężko oddycha.
 * Leży i nie jest w stanie wstać (niektóre gołębie leżą, gdy po prostu odpoczywają i opalają się, więc gdy nie jesteśmy pewni, czy taki gołąb potrzebuje pomocy, możemy przestraszyć go ręką - zdrowy gołąb od razu wstanie i ucieknie).
 
-![](../images/posts/Znalazłem%20gołębia/Chory%20gołąbek.jpg)
+![](/images/posts/Znalazłem%20gołębia/Chory%20gołąbek.jpg)
 *Chory gołąb.*
 
 **W jakich innych przypadkach gołąb potrzebuje pomocy?**
@@ -21,7 +21,7 @@
 * Jest dziobany, atakowany, skalpowany przez inne ptaki.
 * Jest pisklęciem i znajduje się poza gniazdem.
 
- ![](../images/posts/Znalazłem%20gołębia/Sierpówka.jpg)
+ ![](/images/posts/Znalazłem%20gołębia/Sierpówka.jpg)
 *Pisklę sierpówki.*
 
 **Co zrobić gdy znajdziesz gołębia potrzebującego pomocy?**

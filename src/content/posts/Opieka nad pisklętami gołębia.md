@@ -16,7 +16,7 @@ Szansa na natrafienie na pisklę siniaka lub turkawek jest znikoma.
 
 Gołębie są gniazdownikami. Pisklęta po wykluciu mają zamknięte oczy, nie mają piór, są bezradne i całkowicie polegają na opiece swoich rodziców.
 
-![](../images/posts/Pisklęta/Pisklaki%20ściąga.jpg)
+![](/images/posts/Pisklęta/Pisklaki%20ściąga.jpg)
 
 # Określenie wieku
 - [Galeria zdjęć przedstawiająca pierwsze 32 dni życia gołębia hodowlanego (można wzorować się tym również w przypadku gołębi miejskich)](https://www.mumtazticloft.com/BabyPigeons.asp). Gołębie miejskie/domowe otwierają oczy ok. 4–5 dnia życia.
@@ -44,14 +44,14 @@ W drugim tygodniu życia, kiedy pisklęta zaczynają bez problemu przemieszczać
 
 **Uwaga!** Jeśli dopiero co przynieśliśmy pisklęta z zewnątrz i czujemy, że jest wychłodzone, to należy zwiększać temperaturę do temperatury pożądanej stopniowo oraz trzymać je w cichym i ciemnym miejscu (zasada 3xC: cicho, ciemno, ciepło) przez przynajmniej 15–20 minut. Jeśli ptak doznał urazu głowy należy należy skontaktować się z weterynarzem (wysokie temperatury mogą nasilić obrzęk mózgu). Nie podajemy pokarmu wychłodzonemu pisklęciu! (R. Duerr, L. Gage).
 
-![](../images/posts/Pisklęta/grzywacze.jpg)
+![](/images/posts/Pisklęta/grzywacze.jpg)
 *Pisklęta grzywacza niewymagające ogrzewania.*
 
 **2. Wilgotność powietrza**
 
 Aby pisklęta nie odwoniły się w suchym, gorącym otoczeniu należy zapewnić im również odpowiednią wilgotność powietrza (ponad 50%). W tym celu można wstawić do pojemnika, w którym znajduje się pisklę miseczkę z namoczonymi wodą ręcznikami papierowymi (A. Gallagher).
 
-![](../images/posts/Pisklęta/pisklaki%20małe.jpg)
+![](/images/posts/Pisklęta/pisklaki%20małe.jpg)
 *Niedawno wyklute pisklęta gołębia domowego wymagające ogrzewania.*
 
 # Karmienie
@@ -87,7 +87,7 @@ Powyższy pokarm nie nadaje się do długotrwałego karmienia piskląt. Jak najs
 
 // Podstawy rehabilitacji dzikich zwierząt, s. 141
 
-![](../images/posts/Pisklęta/NutriBird.jpg)
+![](/images/posts/Pisklęta/NutriBird.jpg)
 *Trzykilogramowe opakowanie NutriBird A21 (dostępne również w wersji 800 g i 250 g) i rozrobiony z wodą proszek w filiżance.*
 
 ## Jak przygotować mieszankę?
@@ -104,10 +104,10 @@ Powyższy pokarm nie nadaje się do długotrwałego karmienia piskląt. Jak najs
 3. Dobieramy odpowiednie proporcje proszku i ciepłej wody na podstawie wieku ptaka i tabeli proporcji poniżej (ulotka z taką tabelą jest też w środku NutriBirda), np. 1 łyżeczka herbaciana NutriBird i 3 łyżeczki herbaciane wody dla 4-dniowego pisklęcia.
 4. Dokładnie mieszamy wodę z proszkiem i odstawiamy na na minutę. Po minucie sprawdzamy czy konsystencja mieszanki jest odpowiednia (np. nie zrobiła się zbyt gęsta). Czekamy aż mieszanka ochłodzi się do 39°C. Jeszcze raz mieszamy pokarm (mógł się rozwarstwić). Karmimy pisklę.
 
-![](../images/posts/Pisklęta/waga.jpg)
+![](/images/posts/Pisklęta/waga.jpg)
 *Ok. 2-tygodniowe niewymagające ogrzewania pisklę sierpówki ważące 81 gram.*
 
-![](../images/posts/Pisklęta/Proporcje.jpg)
+![](/images/posts/Pisklęta/Proporcje.jpg)
 *Proporcje NutriBirda i wody.*
 
 ## Jak karmić pisklę? Metoda strzykawka i balon
@@ -118,10 +118,10 @@ Najbezpieczniejszym sposobem karmienia pisklęcia jest sposób imitujący [karmi
 
 Ptak, który jest wycieńczony i długo nie jadł, może mieć problemy ze strawieniem zbyt dużej porcji zbyt gęstego pokarmu. Dlatego najlepiej **podczas pierwszego karmienia podać bardziej rozrzedzoną papkę i w mniejszej ilości**. Jeśli po pierwszym karmieniu wole opróżnia się i ptak robi kupy, można zwiększyć ilość i gęstość pokarmu. **Jeśli ptak ma już pokarm w wolu (patrz na zdjęcia poniżej), to czekamy aż wole opróżni się i ptak zrobi kupę.** Jeśli po 6 godzinach pokarm dalej stoi w wolu należy skontaktować się z weterynarzem.
 
-![](../images/posts/Pisklęta/pełnewole.jpg)
+![](/images/posts/Pisklęta/pełnewole.jpg)
 *Pisklę gołębia miejskiego z pełnym wolem.*
 
-![](../images/posts/Pisklęta/pustewole.jpg)
+![](/images/posts/Pisklęta/pustewole.jpg)
 *Pisklę gołębia miejskiego z pustym wolem. Gotowe do karmienia.*
 
 1. Bierzemy strzykawkę 20 lub 10 ml/małą butelkę szklaną/małą butelkę plastikową dla niemowląt. W przypadku strzykawki odcinamy odcinamy górną część, w przypadku butelki dla niemowląt ucinamy w połowie smoczek.
@@ -139,7 +139,7 @@ Do tak przygotowanego sprzętu wlewamy mieszankę i karmimy pisklę. Trzymamy bu
 
 Jeśli pisklę ma już kilka tygodni, całkiem możliwe, że nie będzie już chciało w ten sposób jeść, a jednocześnie nie będzie jeszcze nauczone jedzenia ziarna. W takim przypadku potrzebne będzie sondowanie – karmienie za pomocą rurki wprowadzanej do wola ptaka, co jest niebezpieczne (zachłyśnięcie, przebicie wola) jeśli jest wykonywane w niepoprawny sposób (w razie chęci otrzymania informacji na temat sondowania, proszę o kontakt na chatka.golebia@gmail.com lub [stronie na Facebooku](https://www.facebook.com/chatkagolebia/)). Oczywiście niechęć do samodzielnego pobierania pokarmu powinna być dla nas sygnałem alarmowym (szczególnie w przypadku małych piskląt) – ptak może być chory/zbyt słaby by samodzielnie pobiera pokarm i wymagać pilnej wizyty u ptasiego weterynarza.
 
-![](../images/posts/Pisklęta/Strzykawka.jpg)
+![](/images/posts/Pisklęta/Strzykawka.jpg)
 
 ## Jak często karmić pisklę?
 **Częstotliwość karmienia w zależności od tygodnia życia pisklęcia (A. Maj):**
@@ -173,7 +173,7 @@ Gdy gołąb ma ok. 2–3 tygodnie, warto zacząć oswajać go z ziarnem. Możliw
 
 Sierpówki, cukrówki, turkawki i gołąbki diamentowe powinny dostawać drobniejsze ziarno. Więcej o żywieniu gołębi [tutaj](/Czym%20karmić%20gołębia).
 
-![](../images/posts/Pisklęta/samje.jpg)
+![](/images/posts/Pisklęta/samje.jpg)
 *Ok. 2-tygodniowe niewymagające ogrzewania pisklę gołębia miejskiego samodzielnie jedzące ziarno.*
 
 # Lokum
@@ -182,16 +182,16 @@ Pisklęta, które jeszcze nie stoją powinny być umieszczone **w gnieździe odp
 
 **Uwaga!** Pisklę nie może być umieszczone na śliskiej powierzchni (np. plastikowej, metalowej). Jeśli nogi pisklęcia będą się rozjeżdżać, może dojść do ich deformacji (*splay legs*) (B. Doneley).
 
-![](../images/posts/Pisklęta/gniazdo.jpg)
+![](/images/posts/Pisklęta/gniazdo.jpg)
 *Ok. 3-tygodniowe niejedzące samodzielnie ziarna pisklę gołębia miejskiego w zrobionym przez opiekuna gnieździe.*
 
-![](../images/posts/Pisklęta/sierptrans.jpg)
+![](/images/posts/Pisklęta/sierptrans.jpg)
 *Pisklę sierpówki w transporterze.*
 
-![](../images/posts/Pisklęta/sierptrans2.jpg)
+![](/images/posts/Pisklęta/sierptrans2.jpg)
 *Pisklę sierpówki w transporterze.*
 
-![](../images/posts/Pisklęta/pisklaki%20gniazdo.jpg)
+![](/images/posts/Pisklęta/pisklaki%20gniazdo.jpg)
 *Pisklęta grzywacza niewymagające ogrzewania w gnieździe zrobionym z miski dla psa wyłożonej ręcznikami papierowymi.*
 
 # Wizyta u ptasiego weterynarza
@@ -233,7 +233,7 @@ Na koniec chciałabym zamieścić tutaj przestrogę. Jeśli nie macie ochoty i c
 
 Poniżej gołąb miejski zabrany przez osobę prywatną do domu gdy był jeszcze pisklęciem. W okolicy było mnóstwo miejsc, które mogłyby wytłumaczyć jak odpowiednio się nim opiekować, a nawet przejąć go i zapewnić opiekę na wysokim poziomie. W najważniejszym okresie życie, gdy rósł, intensywnie rozwijał się, był karmiony mącznikami. Gdy kobieta zauważyła, że nie ptak staje na nogi, w końcu przyniosła go do ośrodka rehabilitacji zwierząt Akcja Dla Dzikich Zwierząt przy klinice Vetika. Było dla niego za późno. Kości rozwinęły się nieprawidłowo, nogi były wykrzywione nie w tę stronę co trzeba, pióra były poniszczone i matowe. Gołąb miał okropne niedobory w organizmie. Był w stanie jedynie czołgać się. Intensywna i długotrwała suplementacja w formie zastrzyków nie pomogła. Gołąb został poddany eutanazji. 
 
-![](../images/posts/Pisklęta/Niedobory.jpg)
+![](/images/posts/Pisklęta/Niedobory.jpg)
 *Gołąb miejski, który jako pisklę był na niewłaściwej diecie. Po nieskutecznym leczeniu został poddany eutanazji.*
 
 **Uwagi końcowe:** 
