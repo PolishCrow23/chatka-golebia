@@ -1,5 +1,3 @@
-@hidden
-
 Odrobaczanie golakow
 
 Nie należy traktować tego wpisu jako instrukcji diagnozy i leczen
