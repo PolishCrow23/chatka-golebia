@@ -1,11 +1,11 @@
 ---
 title: Klatka dla gołębia
 date: 2019.07.27
-# date_edit: 2022.11.05
-description: Poradnik na temat kupna klatki dla gołębia i wyboru odpowiedniego jej wyposażenia.
+info: Poradnik na temat kupna klatki dla gołębia i wyboru odpowiedniego jej wyposażenia.
 image: ../images/posts/Klatka/Klatka%20Doki%20Groch%20Awatar.jpg
 ---
 
+<!-- date_edit: 2022.11.05 -->
 <!-- @table_of_contents -->
 
 Gołębie są wspaniałymi kompanami i mogą bez problemu zamieszkać ze swoim opiekunem w domu lub mieszkaniu. Warto zapewnić im bezpieczne i komfortowe miejsce, w którym będą mogły zarówno spełniać swoje podstawowy potrzeby, jak i przyjemnie spędzić czas. 
