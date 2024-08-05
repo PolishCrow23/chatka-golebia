@@ -1,6 +1,6 @@
 ---
 date: 2022.11.23
-@title Opieka nad pisklętami gołębi
+title Opieka nad pisklętami gołębi
 info: Określenie wieku, ogrzewanie, karmienie, lokum.
 image: ../images/posts/Pisklęta/pisklaki front.jpg
 ---
