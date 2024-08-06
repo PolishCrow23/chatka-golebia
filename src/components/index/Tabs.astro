@@ -3,12 +3,14 @@ import type { CollectionEntry } from "astro:content";
 import Meetup from "../MeetupLongCard.astro";
 
 type Props = {
-    meetups: CollectionEntry<"meetups">[]
+    meetups: CollectionEntry<"meetups">[];
 }
 const { meetups } = Astro.props;
 ---
 
-<main>
+<section>
+  <div class="container">
+  <h2>Aktualności</h2>
     <div class="tabs">
       <input class="radiotab" name="tabs" tabindex="1" type="radio" id="tabone" checked="checked">
       <label class="label label-one" for="tabone">Wydarzenia</label>
@@ -18,18 +20,26 @@ const { meetups } = Astro.props;
         </div>
         <a href="/meetups">Pokaż wszystkie</a>
       </div>
+
       <input class="radiotab" tabindex="1" name="tabs" type="radio" id="tabtwo">
       <label class="label label-two" for="tabtwo">Nowości</label>
-      <div class="panel" tabindex="1">
+      <div class="panel panel-two" tabindex="1">
       </div>
+
       <input class="radiotab" tabindex="1" name="tabs" type="radio" id="tabthree">
       <label class="label label-three" for="tabthree" >Interwencje</label>
-      <div class="panel" tabindex="1">
+      <div class="panel panel-three" tabindex="1">
       </div>
     </div>
-
+  </div>
+</section>
 
 <style>
+
+  h2 {
+        font-size: 4rem;
+        margin-bottom: 22px;
+    }
 
     .paragraph {
         font-size: 1.6rem;
@@ -65,34 +75,43 @@ img {
     color: pink;
 }
 
+.panel {
+  border-bottom-left-radius: 35px;
+  border-bottom-right-radius: 35px;
+}
+
+.panel-one {
+  background-color: white;
+}
+
+.panel-two {
+  background-color: var(--lavender);
+}
+
 .label-three {
     background-color: var(--grass);
 }
 
-*:focus, input:focus + label {
-  outline: none;
-  box-shadow: inset 0 0 0 5px lightBlue;
-}
-
-body {
-  background-color: var(--cream);
+.panel-three {
+  background-color: var(--grass);
 }
 
 main {
-padding-block: 2em;
+  background-color: var(--lavender);
+}
+
+section {
+  padding: 12em 4% 10em 4% 
+}
+
+.container {
   max-width: 1920px;
-  padding: 4%;
-  margin: auto;
+  margin-inline: auto;
 }
 
 h1 {
   text-align: center;
   margin-top: 0;
-}
-
-h2 {
-  margin: 0 0 12px;
-  font-size: 30px;
 }
 
 p {
@@ -119,7 +138,7 @@ p {
   cursor: pointer;
   font-weight: bold;
   font-size: 23px;
-  color: #7f7f7f;
+  color: black;
   transition: background .3s, color .3s;
   border: none;
   border-radius: 0;
@@ -127,15 +146,11 @@ p {
 }
 
 .label:hover {
-  background: #d8d8d8;
-}
-
-.label:active {
-  background: #ccc;  
+  background: var(--peach);
 }
 
 .radiotab:checked + .label {
-  background: #fff;
+
   color: #000;
   /* border-top: solid 2px #000;
   border-left: solid 2px #000;
@@ -146,11 +161,7 @@ p {
 .panel {
   display: none;
   padding: 20px 30px 30px;
-  background: #fff;
   width: 100%;
-  /* border-left: solid 2px #000;
-  border-bottom: solid 2px #000;
-  border-right: solid 2px #000; */
 }
 
 .radiotab:checked + .label + .panel {

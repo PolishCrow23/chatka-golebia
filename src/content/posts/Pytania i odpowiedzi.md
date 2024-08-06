@@ -51,7 +51,7 @@ Więcej czasu zajmuje opieka nad jednym gołębiem niż nad parą. Gołąb jest 
 
 Stuprocentową pewność daje tylko [**test DNA**](Badanie DNA płci gołębia) lub **złożenie przez gołębia jajek**. Gdy gołąb osiągnie dojrzałość w wieku 5-6 miesięcy, można jedynie podejrzewać jego płeć na podstawie wyglądu i zachowania. Samce często gruchają i tańczą, wykazują większą agresję w stosunku do innych ptaków, są bardziej masywne, mają okazałą woskówkę, mają szeroki i krótki dziób. Samiczki również wydają odgłosy, ale zwykle rzadziej, mają łagodniejsze usposobienie, nie wykazują agresji w stosunku do innych ptaków w takim samym stopniu jak samce, są mniej masywne, mają mało okazałą woskówkę, ich dzioby są długie i cienkie. Oczywiście często te cechy się nie zgadzają, dlatego bardzo łatwo można pomylić się w swojej ocenie płci ptaka. 
 
-10. **Jak zapobiegać rodzeniu się piskląt w przypadku posiadania samicy i samca?**
+10. **Jak zapobiegać wykluwaniu się piskląt w przypadku posiadania samicy i samca?**
 
 Warto zamówić przez Internet [jajka podkładowe dla gołębi](Gołębi pupil a jajka – antykoncepcja u gołębi). Gdy samica złoży jajka, zabiera się je i zastępuje jajkami podkładowymi. Jajka podkładowe zostawia się w gnieździe do momentu kiedy gołąb je porzuci.
 

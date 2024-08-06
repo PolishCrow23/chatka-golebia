@@ -7,20 +7,25 @@ type Props = {
 }
 const { posts } = Astro.props;
 ---
-
 <section>
     <div class="container">
-        <h2>Poradniki</h2>
-        <div class="cards-container">
-            {posts.slice(0, 3).map((post) => <Post post={post} />)}
+        <div class="container">
+            <h2>Poradniki</h2>
+            <div class="cards-container">
+                {posts.slice(0, 3).map((post) => <Post post={post} />)}
+            </div>
+            <a class="older" href="/blog">Pokaż więcej</a>
         </div>
-        <a class="older" href="/blog">Pokaż więcej</a>
     </div>
 </section>
 
 <style>
+
     section {   
-        padding: 12em 9em 8em 9em;
+        padding: 12em 4% 10em 4%;
+        background-color: var(--grass);
+        
+
         background-image: url('images/index/grass-wave.svg');
         background-color: var(--grass);
         background-repeat: no-repeat;
@@ -28,8 +33,8 @@ const { posts } = Astro.props;
     }
 
     .container {
-        margin-inline: auto;
         max-width: 1920px;
+        margin-inline: auto;
     }
 
     .cards-container {
@@ -37,11 +42,12 @@ const { posts } = Astro.props;
         flex-wrap: wrap;
         justify-content: space-between;
         gap: 3em;
-        margin-block: 7em 3em;
+        margin-bottom: 3em;
     }
 
     h2 {
         font-size: 4rem;
+        margin-bottom: 22px;
     }
 
     h3 {
