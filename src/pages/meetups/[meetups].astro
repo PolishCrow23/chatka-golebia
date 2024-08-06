@@ -1,0 +1,29 @@
+---
+import { getCollection, type CollectionEntry } from "astro:content"
+import PostLayout from "../../layouts/PostLayout.astro"
+
+export const getStaticPaths = async () => {
+    const meetups = await getCollection("meetups")
+    const paths = meetups.map(meetup => {
+        return {
+            params: {
+                slug: meetup.slug
+            },
+            props: {
+                meetup
+            }
+        }
+    })
+    return paths
+}
+
+type Props = {
+    meetup: CollectionEntry<"meetups">
+}
+
+const { meetup } = Astro.props
+const {Content} = await meetup.render()
+---
+<PostLayout {...meetup.data}>
+    <Content />
+</PostLayout>
