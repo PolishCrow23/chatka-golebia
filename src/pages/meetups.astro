@@ -16,7 +16,8 @@ const meetups = await getCollection("meetups");
     <body>
         <Header/>
         <main>
-            <h1>Poradniki</h1>
+            <h1>Aktualności</h1>
+            <h2>Wydarzenia</h2>
             <div class="cards-container">
                 {meetups.map((meetup) => <Meetup meetup={meetup}/>)}
             </div>
@@ -42,7 +43,8 @@ const meetups = await getCollection("meetups");
     }
 
     h2 {
-        font-size: 4rem;
+        font-size: 3rem;
+        margin-block: 0.6em 1em;
     }
 
     .cards-container {

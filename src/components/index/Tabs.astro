@@ -16,6 +16,7 @@ const { meetups } = Astro.props;
         <div class="cards">
           {meetups.slice(0, 3).map((meetup) => <Meetup meetup={meetup} />)}
         </div>
+        <a href="/meetups">Pokaż wszystkie</a>
       </div>
       <input class="radiotab" tabindex="1" name="tabs" type="radio" id="tabtwo">
       <label class="label label-two" for="tabtwo">Nowości</label>

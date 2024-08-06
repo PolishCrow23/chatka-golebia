@@ -29,3 +29,15 @@ collections:
       - {label: "tytuł", name: "title", widget: "string"}
       - {label: "zdjęcie główne", name: "image", widget: "image"}
       - {label: "tekst", name: "body", widget: "markdown"}
+
+  - name: "meetups" # Used in routes, e.g., /admin/collections/blog
+    label: "Wydarzenia" # Used in the UI
+    folder: "src/content/meetups" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      # - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
+      - {label: "tytuł", name: "title", widget: "string"}
+      - {label: "data", name: "date", widget: "datetime", date_format: "MM.DD.YYYY", picker_utc: false}
+      - {label: "zdjęcie główne", name: "image", widget: "image"}
+      - {label: "tekst", name: "body", widget: "markdown"}
