@@ -23,7 +23,7 @@
 }
 
 :root {
-    --black: #263435;
+    --black: #000000;
     --dark-plum: #320E3B;
     --plum: #49354E;
     --dark-lavender: #9076C7;
@@ -117,8 +117,8 @@ a:hover {
 }
 
 .button-peach:hover {
-    background-color: var(--grass);
-    border: 1.5px solid var(--grass);
+    background-color: var(--lavender);
+    border: 1.5px solid var(--lavender);
     color: black;
 }
 
