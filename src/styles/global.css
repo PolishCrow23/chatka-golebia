@@ -123,8 +123,8 @@ a:hover {
 }
 
 .button-grass {
-    border: 1.5px solid var(--grass);
-    background-color: var(--grass);
+    border: 1.5px solid var(--lavender);
+    background-color: var(--lavender);
     color: black;
 }
 
