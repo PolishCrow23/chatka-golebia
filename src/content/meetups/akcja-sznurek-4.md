@@ -1,8 +1,9 @@
 ---
 title: Akcja Sznurek 4. Edycja
 date: 2024.08.24
-description: Zapraszamy na kolejną edycję Akcji Sznurek! 31 sierpnia, 11:00, krakowski rynek.
-image: /images/meetups/akcja-sznurek-4.jpg
+description: Zapraszamy na kolejną edycję Akcji Sznurek! 31 sierpnia, 11:00,
+  krakowski rynek.
+image: /images/posts/2dfe94fb-79ab-4f46-98a6-e94e44c74300.jpeg
 ---
 
 Fundacja Chatka Gołębia zaprasza na kolejną Akcję Sznurek.
