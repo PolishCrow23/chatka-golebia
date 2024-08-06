@@ -3,7 +3,7 @@ import BaseHead from "../components/BaseHead.astro";
 import Header from "../components/Header.astro";
 import Footer from "../components/Footer.astro";
 import { getCollection } from "astro:content"
-import Meetup from "../components/Meetup.astro";
+import Meetup from "../components/MeetupCard.astro";
 const { title, description, date } = Astro.props;
 
 const meetups = await getCollection("meetups");
