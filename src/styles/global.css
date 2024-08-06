@@ -93,7 +93,7 @@ a {
 }
 
 a:hover {
-    color: var(--dark-lavender);
+    color: var(--peach);
     transition-duration: 0.2s;
 }
 

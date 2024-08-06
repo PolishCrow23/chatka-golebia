@@ -1,29 +1,16 @@
 ---
+layout: ../layouts/ContactLayout.astro
 title: Kontakt
 image: "/images/meta/hero.png"
 ---
-## Fundacja Akcja Dla Dzikich Zwierząt
+email: fundacja@chatkagolebia.pl
 
-Adres: ul. Lipska 49, 30-721 Kraków
+## Skrytka pocztowa
 
-e-mail: akcjadladzikichzwierzat@gmail.com
+Dariusz Grochal
 
-NIP: 6751525278
+skrytka pocztowa 18
 
-REGON: 362694433
+Urząd Pocztowy Kraków 60
 
-KRS: 0000465258
-
-Nr konta: 15 1140 2004 0000 3802 8378 9982
-
-**Dla przelewów zagranicznych:**
-
-- IBAN: PL 15 1140 2004 0000 3802 8378 9982
-- SWIFT CODE (BIC): BREXPLPWMBK
-
-## Godziny otwarcia
-
-- **Poniedziałek - Piątek:** 9:00 - 21:00
-- **Czwartek:** 9:00 - 14:00 i 15:00 - 21:00
-- **Sobota:** 9:00 - 16:00
-- **Niedziela:** 10:00 - 15:00
+os. Na Stoku 1 31-705 Kraków
