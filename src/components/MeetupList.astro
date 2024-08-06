@@ -1,0 +1,18 @@
+---
+import type { CollectionEntry } from "astro:content"
+import Meetup from "./Meetup.astro"
+type Props = {
+    meetups: CollectionEntry<"meetups">[]
+}
+
+const { meetups } = Astro.props
+---
+<div>
+{meetups.map((meetup) => <Meetup meetup={meetup}/>)}
+</div>
+<style>
+    div {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+    }
+</style>

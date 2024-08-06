@@ -7,7 +7,7 @@ export const getStaticPaths = async () => {
     const paths = meetups.map(meetup => {
         return {
             params: {
-                slug: meetup.slug
+                meetups: meetup.slug
             },
             props: {
                 meetup
