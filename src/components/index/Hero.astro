@@ -1,24 +1,26 @@
 <section>
     <div class="text">
-        <h1 class="hero-title">Przygarnij <span>gołębia</span></br>pod swoje skrzydła</h1>
+        <h1 class="hero-title item-1">Przygarnij <span>gołębia</span></br> pod swoje skrzydła</h1>
     </div>
-    <div>
+    <div class="item-2">
         <img class="hero-img" src="/images/index/hero.svg">
     </div>
 </section>
 
 <style>
     section {
-        background-image: url('/images/meta/BG_PATTERNS.png');
-        background-position: 20% 100%;
+        background-image: url('/images/meta/feet-pattern.png');
+        background-size: 25%;
+        background-position-x: 38%;
+        background-position-y: %;
         background-repeat: no-repeat;
         display: flex;
         background-color: #f9e9e2;
         padding-inline: 220px;
-    }
-    div {
+        padding-top: 6em;
+        display: flex;
         max-width: 1920px;
-        margin: 0 auto;
+        
     }
 
     .text {
@@ -35,6 +37,10 @@
         color: rgb(30, 41, 29);
     }
 
+    .item-1, .item-2 {
+        flex-basis: 1;
+    }
+
     span {
         font-size: calc(4.5vw + 0.5rem);
         font-family: 'Fraunces';
@@ -45,6 +51,7 @@
 
     .hero-img {
         width: 500px;
+        width: 100%;
     }
 
     .motto {
@@ -55,6 +62,11 @@
     }
 
     @media  (max-width: 768px) {
+        section {
+            display: flex;
+            flex-direction: column;
+
+        }
 
     }
 
