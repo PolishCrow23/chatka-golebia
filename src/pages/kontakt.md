@@ -1,5 +1,4 @@
 ---
-layout: ../layouts/ContactLayout.astro
 title: Kontakt
 image: "/images/meta/hero.png"
 ---
