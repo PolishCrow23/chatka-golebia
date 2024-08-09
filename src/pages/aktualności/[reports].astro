@@ -1,0 +1,29 @@
+---
+import { getCollection, type CollectionEntry } from "astro:content"
+import PostLayout from "../../layouts/PostLayout.astro"
+
+export const getStaticPaths = async () => {
+    const reports = await getCollection("reports")
+    const paths = reports.map(report => {
+        return {
+            params: {
+                reports: report.slug
+            },
+            props: {
+                report
+            }
+        }
+    })
+    return paths
+}
+
+type Props = {
+    report: CollectionEntry<"reports">
+}
+
+const { report } = Astro.props
+const {Content} = await report.render()
+---
+<PostLayout {...report.data}>
+    <Content />
+</PostLayout>

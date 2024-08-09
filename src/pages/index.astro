@@ -16,6 +16,9 @@ const posts = await getCollection("posts");
 const meetups = (await getCollection('meetups'))
   .sort((a, b) => a.data.date.valueOf() - b.data.date.valueOf());
 
+const reports = (await getCollection('reports'))
+  .sort((a, b) => a.data.date.valueOf() - b.data.date.valueOf());
+
 declare global {
   interface Window {
     netlifyIdentity: any;
@@ -32,7 +35,7 @@ declare global {
 		<Header />
 		<Hero />
 		<About />
-		<Tabs meetups={meetups}/>
+		<Tabs meetups={meetups} reports={reports}/>
 		<Accordion/>
 		<BlogHighlight posts={posts} />
 		<Footer />

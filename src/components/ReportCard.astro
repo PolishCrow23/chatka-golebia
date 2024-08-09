@@ -1,40 +1,39 @@
 ---
 import { type CollectionEntry } from "astro:content";
-import FormattedDate from "./FormattedDate.astro";
 
 type Props = {
-    meetup: CollectionEntry<"meetups">
+    report: CollectionEntry<"reports">
 }
 
-const { meetup } = Astro.props
+const { report } = Astro.props
 
 ---
 
 <div class="post-card">
-    <a href={`/meetups/${meetup.slug}`}>
+    <a href={`/reports/${report.slug}`}>
         <img 
-            src ={meetup.data.image}
+            src ={report.data.image}
             width={312}
             height={232}
-            alt={meetup.data.title}
+            alt={report.data.title}
         />
     </a>
     <div class="title-post">
-        <a href={`/meetups/${meetup.slug}`}>
+        <a href={`/reports/${report.slug}`}>
             <h2 class="title">
-                {meetup.data.title}
+                {report.data.title}
             </h2>
         </a>
-        <a href={`/meetups/${meetup.slug}`}>
+        <a href={`/reports/${report.slug}`}>
             <!-- <h2 class="date">
                 <FormattedDate date={post.data.date}>
             </h2>
         </a> -->
     </div>
     <p>
-        {meetup.data.description}
+        {report.data.description}
     </p>
-    <a class="show-more" href={`/meetups/${meetup.slug}`}>
+    <a class="show-more" href={`/reports/${report.slug}`}>
         Więcej<svg xmlns="http://www.w3.org/2000/svg" width="20px" height="20px" viewBox="0 0 24 24"><path fill="currentColor" d="M10 17.75a.74.74 0 0 1-.53-.22a.75.75 0 0 1 0-1.06L13.94 12L9.47 7.53a.75.75 0 0 1 1.06-1.06l5 5a.75.75 0 0 1 0 1.06l-5 5a.74.74 0 0 1-.53.22"/></svg>
     </a>
 
@@ -44,9 +43,9 @@ const { meetup } = Astro.props
     .post-card {
         display: flex;
         flex-direction: column;
-        justify-content: space-around;
+        justify-content: space-between;
         align-items: center;
-        width: 860px;
+        max-width: 344px;
         height: 431px;
         border-radius: 16px;
         padding: 16px;
