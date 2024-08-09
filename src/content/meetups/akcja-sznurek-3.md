@@ -4,8 +4,7 @@ date: 2024.08.25
 description: Zapraszamy na kolejną edycję Akcji Sznurek! 22 czerwca, 11:00, krakowski rynek.
 image: /images/meetups/akcja-sznurek-4.jpg
 ---
-
-Kolejna Akcja Sznurek odbędzie się 22 czerwca 2024 roku.
+Kolejna Akcja Sznurek odbędzie się 22 czerwca 2024 roku!
 
 Spotykamy się jak zawsze na Rynku Głównym pod fontanną.
 
