@@ -22,6 +22,14 @@
 	font-display: swap;
 }
 
+@font-face {
+	font-family: 'Fraunces';
+	src: url('/fonts/Fraunces/Fraunces_72pt-Black.ttf') format('truetype');
+	font-weight: 900;
+	font-style: normal;
+	font-display: swap;
+}
+
 :root {
     --black: #000000;
     --dark-plum: #320E3B;
@@ -100,7 +108,7 @@ a:hover {
 
 .button {
     display: inline-block;
-    padding: 14px;
+    padding: 20px;
 
     border-radius: 60px;
 
@@ -138,11 +146,8 @@ a:hover {
     font-weight: 500;
 }
 
-
-
     @media  (max-width: 468px) {
         .button {
-            width: 50%;
             gap: 10px;
         }
 

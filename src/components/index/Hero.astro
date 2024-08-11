@@ -1,65 +1,126 @@
 <section>
-    <div class="text">
-        <h1 class="hero-title item-1">Przygarnij <span>gołębia</span></br> pod swoje skrzydła</h1>
+    <div class="flex-container">
+        <!-- <img class="background" src="/images/meta/feet-pattern.png"> -->
+        <div class=flex-item>
+            <h1>Przygarnij <span>gołębia</span> </br> pod swoje skrzydła</h1>
+        </div>
+        <div class="flex-item">
+                <img class="hero-img" src="/images/index/hero.svg">
+        </div>
     </div>
-    <div class="item-2">
-        <img class="hero-img" src="/images/index/hero.svg">
+    <div class="flex-container-2">
+        <img class="about-img" src="/images/meta/default-pigeon.svg">
+        <p>
+            W 2024 r. została założona <a href=/o-nas>Fundacja Chatka Gołębia</a>, mająca swoją siedzibę w Małopolsce. Misją Fundacji Chatka Gołębia jest ochrona gołębi miejskich, innych ptaków żyjących w miastach oraz gołębi udomowionych. </br>Promujemy <a href="/adopcja">adopcję</a> gołębi udomowionych oraz gołębi dzikich, które przez swoją niepełnosprawność nie mogą wrócić na wolność. Jesteśmy organizatorami <a href="https://www.radiokrakow.pl/audycje/krakowianie-ratuja-golebie-akcja-sznurek-juz-w-najblizsza-sobote/">Akcji Sznurek</a>, podczas której rozplątujemy łapki gołębi ze sznurków. Powołaliśmy kampanię <a href="https://zakazkolcow.pl/">Zakaz Kolców</a>, która postuluje zakazanie montażu kolców w celu odstraszania ptaków. Działamy dzięki datkom oraz wsparciu wolontariuszy. Razem możemy więcej!
+        </p>
+        <div class="button-container">
+            <a class="button button-grass" href="https://zrzutka.pl/profile/fundacja-chatka-golebia-464519">
+                WSPÓMÓŻ NAS
+            </a>
+        </div>
     </div>
 </section>
 
 <style>
     section {
+        padding-inline: 8em;
+        background-color: var(--cream);
+
         background-image: url('/images/meta/feet-pattern.png');
-        background-size: 25%;
-        background-position-x: 38%;
-        background-position-y: %;
+        background-size: 24%;
+        background-position-x: 42%;
         background-repeat: no-repeat;
-        display: flex;
-        background-color: #f9e9e2;
-        padding-inline: 220px;
-        padding-top: 6em;
-        display: flex;
-        max-width: 1920px;
-        
     }
 
-    .text {
-        display: flex;
+    /* .background {
+        position: absolute;
+        left: 10%;
+        margin-left: -600px;
+        margin-top: 70%;
+        z-index: 600;
+    } */
+
+    .flex-container {
+        display: flex; 
+        justify-content: center;
         align-items: center;
+        gap: 2em;
+
+        max-width: 1920px;
+        margin-inline: auto;
+        padding-bottom: 7em;
     }
 
-    .hero-title {
-        font-size: calc(1vw + 6rem);
-        font-family: 'Fraunces';
-        font-weight: 800;
-        letter-spacing: 2px;
-        display: block;
-        color: rgb(30, 41, 29);
-    }
-
-    .item-1, .item-2 {
-        flex-basis: 1;
-    }
-
-    span {
-        font-size: calc(1vw + 6rem);
-        font-family: 'Fraunces';
-        font-weight: 800;
-        letter-spacing: 2px;
-        color: rgb(223, 141, 58);
+    .flex-item {
+        flex: 1;
+        display: flex;
+        justify-content: center;
     }
 
     .hero-img {
-        width: 600px;
         width: 100%;
+        max-width: 564px;
     }
 
-    @media  (max-width: 768px) {
-        section {
-            display: flex;
-            flex-direction: column;
+    h1, span {
+        font-size: calc(2vw + 2.5rem);
+        font-family: 'Fraunces';
+    }
 
+    h1 {
+        color: var(--dark-plum);
+        margin-top: 2em;
+    }
+
+    span {
+        color: var(--dark-lavender);
+    }
+
+    /* ABOUT */
+
+    .about-img {
+        float: left;
+        width: 100%;
+        max-width: 420px;
+    }
+
+    p {
+        font-size: 2.2rem;
+        font-family: 'Verdana';
+        font-weight: 500;
+        color: var(--very-dark-purple); 
+
+        margin-bottom: 3.6em;
+    }
+
+    .button-container {
+        text-align: center;
+    }
+
+    @media  (max-width: 900px) {
+        section {
+            padding-inline: 2%;
         }
 
+        .flex-container {
+            flex-direction: column;
+            gap: 5em;
+        }
+
+        .flex-container-2 {
+            padding-inline: 2%;
+        }
+
+        h1, span {
+            font-size: calc(2vw + 4rem);
+            text-align: center;
+        }
+
+
+        .about-img {
+            float: none;
+            display: block;
+            margin-inline: auto;
+        }
     }
 </style>
