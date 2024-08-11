@@ -94,7 +94,8 @@ span {
     font-size: 1.2rem;
 }
 
-a {
+a, a:visited {
+    color: var(--dark-lavender);
     text-decoration: none;
     transition-duration: 0.3s;
     font-weight: 700;
