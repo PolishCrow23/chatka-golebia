@@ -10,4 +10,10 @@ Promujemy adopcję gołębi udomowionych oraz gołębi dzikich, które przez swo
 
 Działamy dzięki datkom oraz wsparciu wolontariuszy. Razem możemy więcej!
 
+## Iga Spodzieja
+Uwielbia gawrony! Opiekunka 15-letniej chihuahua. Ukończyła filologię rosyjską, z zawodu programistka full stack i artystka 3D (Blender❤️).
+
+## Dariusz Grochal 
+Opiekun Siwej i Hermana. Trochę pisze, dużo fotografuje, jeszcze więcej czyta a najwięcej czasu spędza na działce, usługując swoim gołębiom
+
 ![](/images/pages/o-nas/o-nas-caleb.jpg)

@@ -117,30 +117,27 @@ a:hover {
     font-size: 2rem;
     font-weight: 900;
     font-family: 'Verdana';
+    color: black;
 }
 
 .button-peach {
     border: 1.5px solid var(--peach);
     background-color: var(--peach);
-    color: black;
 }
 
 .button-peach:hover {
     background-color: var(--lavender);
     border: 1.5px solid var(--lavender);
-    color: black;
 }
 
 .button-grass {
     border: 1.5px solid var(--lavender);
     background-color: var(--lavender);
-    color: black;
 }
 
 .button-grass:hover {
     background-color: var(--peach);
     border: 1.5px solid var(--peach);
-    color: black;
 }
 
 .bold {
