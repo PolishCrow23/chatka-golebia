@@ -10,7 +10,7 @@ const { report } = Astro.props
 ---
 
 <div class="post-card">
-    <a href={`/reports/${report.slug}`}>
+    <a href={`/aktualności/${report.slug}`}>
         <img 
             src ={report.data.image}
             width={312}
@@ -19,12 +19,12 @@ const { report } = Astro.props
         />
     </a>
     <div class="title-post">
-        <a href={`/reports/${report.slug}`}>
+        <a href={`/aktualności/${report.slug}`}>
             <h2 class="title">
                 {report.data.title}
             </h2>
         </a>
-        <a href={`/reports/${report.slug}`}>
+        <a href={`/aktualności/${report.slug}`}>
             <!-- <h2 class="date">
                 <FormattedDate date={post.data.date}>
             </h2>

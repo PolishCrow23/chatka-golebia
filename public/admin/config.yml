@@ -40,6 +40,7 @@ collections:
       - {label: "tytuł", name: "title", widget: "string"}
       - {label: "data", name: "date", widget: "datetime", date_format: "MM.DD.YYYY", picker_utc: false}
       - {label: "zdjęcie główne", name: "image", widget: "image"}
+      - {label: "opis", name: "description", widget: "string"}
       - {label: "tekst", name: "body", widget: "markdown"}
 
   - name: "reports" # Used in routes, e.g., /admin/collections/blog
@@ -52,4 +53,5 @@ collections:
       - {label: "tytuł", name: "title", widget: "string"}
       - {label: "data", name: "date", widget: "datetime", date_format: "MM.DD.YYYY", picker_utc: false}
       - {label: "zdjęcie główne", name: "image", widget: "image"}
+      - {label: "opis", name: "description", widget: "string"}
       - {label: "tekst", name: "body", widget: "markdown"}
