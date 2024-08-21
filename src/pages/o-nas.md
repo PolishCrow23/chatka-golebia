@@ -3,6 +3,7 @@ layout: ../layouts/PageLayout.astro
 title: O nas
 image: "/images/meta/hero.png"
 ---
+![](/images/pages/o-nas/o-nas-caleb.jpg)
 
 W 2024 r. została założona Fundacja Chatka Gołębia, mająca swoją siedzibę w Małopolsce. Misją Fundacji Chatka Gołębia jest ochrona gołębi miejskich, innych ptaków żyjących w miastach oraz gołębi udomowionych. 
 
@@ -10,10 +11,44 @@ Promujemy adopcję gołębi udomowionych oraz gołębi dzikich, które przez swo
 
 Działamy dzięki datkom oraz wsparciu wolontariuszy. Razem możemy więcej!
 
-## Iga Spodzieja
-Uwielbia gawrony! Opiekunka 15-letniej chihuahua. Ukończyła filologię rosyjską, z zawodu programistka full stack i artystka 3D (Blender❤️).
+<div class="button-container">
+    <a class="button button-peach" href="https://zrzutka.pl/profile/fundacja-chatka-golebia-464519">
+        WSPÓMÓŻ NAS
+    </a>
+</div>
 
-## Dariusz Grochal 
-Opiekun Siwej i Hermana. Trochę pisze, dużo fotografuje, jeszcze więcej czyta a najwięcej czasu spędza na działce, usługując swoim gołębiom
+<div class="flex-container flex-container-1">
+    <img class= "flex-img" src="images/pages/o-nas/Iga-about.jpg">
+    <div>
+        <h2>Iga Spodzieja</h2>
+        <p>Uwielbia gawrony! Opiekunka 15-letniej chihuahua. Ukończyła filologię rosyjską, z zawodu programistka full stack i artystka 3D (Blender❤️).</p>
+    </div>
+</div>
 
-![](/images/pages/o-nas/o-nas-caleb.jpg)
+<div class="flex-container">
+    <img class="flex-img" src="images/pages/o-nas/Darek-about.jpg">
+    <div>
+        <h2>Dariusz Grochal</h2>
+        <p>Opiekun Siwej i Hermana. Trochę pisze, dużo fotografuje, jeszcze więcej czyta a najwięcej czasu spędza na działce, usługując swoim gołębiom.</p>
+    </div>
+</div>
+
+<style>
+    .flex-container {
+        display: flex;
+        gap: 3em;
+    }
+
+    .flex-container-1 {
+        margin-block: 5em;
+    }
+
+    .flex-img {
+        width: 350px;
+    }
+
+    .button-container {
+        text-align: center;
+        margin-block: 6em;
+    }
+</style>
