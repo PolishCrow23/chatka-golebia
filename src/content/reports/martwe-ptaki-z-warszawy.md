@@ -2,7 +2,7 @@
 title: Martwe ptaki z Warszawy
 date: 08.21.2024
 image: /images/posts/img_20240722_160717001.jpg
-description: "Jedna z martwych wron znalezionych w Warszawie. "
+description: "Wiemy co zabiło wrony w Warszawie. "
 ---
 Główny Inspektor Sanitarny i Główny Lekarz Weterynarii wydali wspólny komunikat dotyczący zwiększonej liczby śmierci ptaków z rodziny krukowatych odnotowywanych na terenie Warszawy.
 
