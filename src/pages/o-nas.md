@@ -18,7 +18,7 @@ Działamy dzięki datkom oraz wsparciu wolontariuszy. Razem możemy więcej!
 </div>
 
 <div class="flex-container flex-container-1">
-    <img class= "flex-img" src="images/pages/o-nas/Iga-about.jpg">
+    <img class= "flex-img" src="/public/images/pages/o-nas/Iga-about.jpg">
     <div>
         <h2>Iga Spodzieja</h2>
         <p>Uwielbia gawrony! Opiekunka 15-letniej chihuahua. Ukończyła filologię rosyjską, z zawodu programistka full stack i artystka 3D (Blender❤️).</p>
@@ -26,7 +26,7 @@ Działamy dzięki datkom oraz wsparciu wolontariuszy. Razem możemy więcej!
 </div>
 
 <div class="flex-container">
-    <img class="flex-img" src="images/pages/o-nas/Darek-about.jpg">
+    <img class="flex-img" src="/public/images/pages/o-nas/Darek-about.jpg">
     <div>
         <h2>Dariusz Grochal</h2>
         <p>Opiekun Siwej i Hermana. Trochę pisze, dużo fotografuje, jeszcze więcej czyta a najwięcej czasu spędza na działce, usługując swoim gołębiom.</p>
