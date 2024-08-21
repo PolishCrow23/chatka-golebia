@@ -17,6 +17,8 @@ Działamy dzięki datkom oraz wsparciu wolontariuszy. Razem możemy więcej!
     </a>
 </div>
 
+## Załoga Chatki
+
 <div class="flex-container flex-container-1">
     <img class= "flex-img" src="/images/pages/o-nas/Iga-about.jpg">
     <div>

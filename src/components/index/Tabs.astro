@@ -41,15 +41,6 @@ const { meetups, reports } = Astro.props;
 
 <style>
 
-* {
-  box-sizing: border-box;
-}
-
-*:focus, input:focus + label {
-  outline: none;
-  box-shadow: inset 0 0 0 5px lightBlue;
-}
-
 section {
   background-color: var(--cream);
 }
@@ -69,7 +60,7 @@ p {
 .tabs {
   display: flex;
   flex-wrap: wrap;
-  margin: 0 auto 20px;
+  margin: 0 auto;
   border-radius: 10px 10px 0 0;
 }
 
@@ -97,19 +88,18 @@ p {
   border: none;
   border-radius: 0;
   text-align: center;
+
 }
 
-.label:hover {
-  background: #d8d8d8;
+.label:nth-of-type(2) {
+  background-color: var(--light-lavender);
 }
 
-.label:active {
-  background: #ccc;  
+.label:nth-of-type(3) {
+  background-color: var(--peach);
 }
 
 .radiotab:checked + .label {
-  background: #fff;
-  color: #000;
   border-bottom: none;
 }
 
@@ -118,24 +108,87 @@ p {
   padding: 20px 30px 30px;
   background: #fff;
   width: 100%;
+  min-height: 460px;
+}
+
+.panel:nth-of-type(2) {
+  background-color: var(--light-lavender);
+}
+
+.panel:nth-of-type(3) {
+  background-color: var(--peach);
 }
 
 .radiotab:checked + .label + .panel {
   display: block;
 }
 
-@media (min-width: 600px) {
+@media (min-width: 900px) {
   .panel {
     order: 99;
   }
 
   .label {
     width: 33.33%;
-    border-radius: 10px 10px 0 0;
+    border-radius: 36px 36px 0 0;
   }
 
   .cards {
     flex-direction: row;
   }
 
+  .label {
+    max-width: 300px;
+  }
+
+  .label:first-of-type {
+    margin-left: 10%;
+  } 
+
 }
+
+
+.panel {
+  opacity: 0;
+  transform: translateY(30px);
+  transition: opacity 1s ease-in-out, transform 1s ease-in-out;
+}
+
+.radiotab:checked + .label + .panel {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Optional: Add a delay before the tab switches */
+.radiotab:not(:checked) + .label + .panel {
+  transition-delay: 0.5s;
+}
+
+</style>
+
+<script>
+  let currentIndex = 0;
+  const tabs = document.querySelectorAll('.radiotab');
+  let switchInterval = setInterval(switchTab, 6000); // Switch every 8 seconds
+
+  function switchTab() {
+    currentIndex = (currentIndex + 1) % tabs.length;
+    tabs[currentIndex].checked = true;
+
+    // Trigger reflow to restart the animation
+    const panel = tabs[currentIndex].nextElementSibling.nextElementSibling;
+    panel.style.opacity = '0';
+    panel.style.transform = 'translateY(30px)';
+    setTimeout(() => {
+      panel.style.opacity = '1';
+      panel.style.transform = 'translateY(0)';
+    }, 10);
+  }
+
+  // Stop the interval when the user clicks on any tab
+  tabs.forEach(tab => {
+    tab.addEventListener('click', () => {
+      clearInterval(switchInterval);
+    });
+  });
+</script>
