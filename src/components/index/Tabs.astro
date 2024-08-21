@@ -169,20 +169,24 @@ p {
 <script>
   let currentIndex = 0;
   const tabs = document.querySelectorAll('.radiotab');
-  let switchInterval = setInterval(switchTab, 6000); // Switch every 8 seconds
+  let switchInterval = setInterval(switchTab, 6000); // Switch every 6 seconds
 
   function switchTab() {
     currentIndex = (currentIndex + 1) % tabs.length;
-    tabs[currentIndex].checked = true;
+
+    const tab = tabs[currentIndex] as HTMLInputElement; // Type assertion
+    tab.checked = true;
 
     // Trigger reflow to restart the animation
-    const panel = tabs[currentIndex].nextElementSibling.nextElementSibling;
-    panel.style.opacity = '0';
-    panel.style.transform = 'translateY(30px)';
-    setTimeout(() => {
-      panel.style.opacity = '1';
-      panel.style.transform = 'translateY(0)';
-    }, 10);
+    const panel = tab.nextElementSibling?.nextElementSibling as HTMLElement | null;
+    if (panel) {
+      panel.style.opacity = '0';
+      panel.style.transform = 'translateY(30px)';
+      setTimeout(() => {
+        panel.style.opacity = '1';
+        panel.style.transform = 'translateY(0)';
+      }, 10);
+    }
   }
 
   // Stop the interval when the user clicks on any tab
