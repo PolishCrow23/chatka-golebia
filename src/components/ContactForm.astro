@@ -77,44 +77,56 @@
 </style>
 
 <script>
-    const form = document.getElementById('form');
-    const result = document.getElementById('result');
-    
+const form = document.getElementById('form') as HTMLFormElement | null;
+const result = document.getElementById('result');
+
+if (form) {
     form.addEventListener('submit', function(e) {
-        const formData = new FormData(form);
         e.preventDefault();
-    
+
+        const formData = new FormData(form);
         const object = Object.fromEntries(formData);
         const json = JSON.stringify(object);
-    
-        result.innerHTML = "Proszę czekać..."
-    
+
+        if (result) {
+            result.innerHTML = "Proszę czekać...";
+        }
+
         fetch('https://api.web3forms.com/submit', {
-                method: 'POST',
-                headers: {
-                    'Content-Type': 'application/json',
-                    'Accept': 'application/json'
-                },
-                body: json
-            })
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+                'Accept': 'application/json',
+            },
+            body: json,
+        })
             .then(async (response) => {
                 let json = await response.json();
                 if (response.status == 200) {
-                    result.innerHTML = "Formularz został wysłany!";
+                    if (result) {
+                        result.innerHTML = "Formularz został wysłany!";
+                    }
                 } else {
                     console.log(response);
-                    result.innerHTML = json.message;
+                    if (result) {
+                        result.innerHTML = json.message;
+                    }
                 }
             })
-            .catch(error => {
+            .catch((error) => {
                 console.log(error);
-                result.innerHTML = "Something went wrong!";
+                if (result) {
+                    result.innerHTML = "Something went wrong!";
+                }
             })
             .then(function() {
-                form.reset();
-                setTimeout(() => {
-                    result.style.display = "none";
-                }, 10000);
+                form.reset(); // Now TypeScript knows form is HTMLFormElement
+                if (result) {
+                    setTimeout(() => {
+                        result.style.display = "none";
+                    }, 10000);
+                }
             });
     });
-    </script>
+}
+</script>
