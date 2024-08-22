@@ -1,7 +1,7 @@
 ---
 title: Myśliwi, nawet gdy mają ptaka w ręku, nie umieją rozpoznać gatunku.
 date: 08.22.2024
-image: /images/posts/20240722_132346-7060-.jpg
+image: /images/posts/2024_08_22.png
 description: Sezon polowań na grzywacze zaczął się 15 sierpnia, a już pierwszy
   myśliwy będzie tłumaczył się przed prokuratorem.
 ---
