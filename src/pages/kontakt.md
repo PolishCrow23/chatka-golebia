@@ -1,6 +1,6 @@
 ---
 title: Kontakt
-image: "/images/meta/hero.png"
+layout: ../layouts/ContactLayout.astro
 ---
 email: fundacja@chatkagolebia.pl
 
