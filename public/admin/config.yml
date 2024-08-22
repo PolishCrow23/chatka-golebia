@@ -48,6 +48,7 @@ collections:
     folder: "src/content/reports" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    media_folder: ''
     fields: # The fields for each document, usually in front matter
       # - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
       - {label: "tytuł", name: "title", widget: "string"}
