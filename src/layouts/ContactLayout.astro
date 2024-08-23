@@ -13,7 +13,7 @@ const { frontmatter } = Astro.props;
         <BaseHead title={frontmatter.title} description={frontmatter.description} date={frontmatter.date}/>
     </head>
     <body>
-        <Header />
+        <Header backgroundColor="rgb(179,159,220)"/>
         <main>
             <section class = "post">
                 <div class = "title">
@@ -36,7 +36,8 @@ const { frontmatter } = Astro.props;
     }
 
     body {
-        background-color: var(--cream);
+        background: rgb(179,159,220);
+        background: linear-gradient(180deg, rgb(179, 159, 220) 0%, rgba(215,205,237,1) 50%, rgba(243,240,250,1) 100%);
     }
 
     .title { 

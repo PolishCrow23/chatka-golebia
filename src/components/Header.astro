@@ -1,8 +1,14 @@
 ---
 import SocialLinks from "./SocialLinks.astro"
+const { backgroundColor } = Astro.props;
+
+// Define the header style to only set the background color conditionally
+const headerStyle = backgroundColor
+  ? `background-color: ${backgroundColor};`
+  : `background-color: var(--cream);`;
 ---
 
-<header>
+<header style={headerStyle}>
     <div class="social-links-container">
         <div>
             <SocialLinks />
@@ -36,7 +42,7 @@ import SocialLinks from "./SocialLinks.astro"
 <style>
 
     header {
-        background-image: url('/images/index/background-top.png');
+        background-image: url('/images/meta/header/background-top.svg');
         background-repeat: no-repeat;
         background-position: 50% 102%;
         background-size: cover;
