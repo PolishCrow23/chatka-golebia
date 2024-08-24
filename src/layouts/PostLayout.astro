@@ -6,7 +6,7 @@ import Footer from "../components/Footer.astro";
 import "../styles/slotwrapper.css"
 import FormattedDate from "../components/FormattedDate.astro";
 
-const { title, description, date } = Astro.props;
+const { title, author, description, date, sources, photos } = Astro.props;
 
 ---
 
@@ -20,7 +20,11 @@ const { title, description, date } = Astro.props;
             <div class = "post">
                 <div class = "title">
                     <h1>{title}</h1>
-                    <h2><FormattedDate date={date}></h2>
+                    <!-- <span><FormattedDate date={date}></span> -->
+                    <span>{date}</span>
+                    <span>{author}</span>
+                    <span>{sources}</span>
+                    <span>{photos}</span>
                 </div>
                 <div class="slot-wrapper">
                     <slot />
