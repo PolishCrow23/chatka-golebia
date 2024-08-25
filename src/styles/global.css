@@ -1,3 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Condensed&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Special+Elite');
+@import url('https://fonts.googleapis.com/css2?family=McLaren&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Galindo&family=McLaren&display=swap');
+
 @font-face {
 	font-family: 'Urbanist';
 	src: url('/fonts/Urbanist/Urbanist-Bold.ttf') format('truetype');
@@ -59,10 +64,7 @@ html {
 body {
     font-family: 'Verdana';
     font-weight: 300;
-    
 }
-
-
 
 p::selection {
     background-color: var(--peach);
@@ -78,8 +80,9 @@ ul {
 }
 
 p {
-    font-family: 'Verdana';
-    font-size: 1.6rem;
+    font-family: 'Arial';
+    font-size: 1.8rem;
+    color: rgb(11, 8, 5);
     font-weight: 500;
     line-height: 1.8;
     margin-bottom: 1em;
@@ -92,7 +95,8 @@ img {
 }
 
 span {
-    font-size: 1.2rem;
+    font-size: 1.6rem;
+    font-family: 'Arial';
 }
 
 a, a:visited {

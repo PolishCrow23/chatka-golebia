@@ -1,6 +1,7 @@
 ---
 title: Jak zaprzyjaźnić się z gołębiem?
-date: 2020.11.10
+author: Iga Spodzieja
+pubDate: 2020.11.10
 description: Jak zyskać zaufanie naszego skrzydlatego podpiecznego? Co zrobić, żeby nas polubił?
 image: /images/posts/Oswajanie/Doki%20orzeszek.jpg
 ---

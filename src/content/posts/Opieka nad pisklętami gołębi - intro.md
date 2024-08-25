@@ -1,5 +1,6 @@
 ---
-date: 2022.11.23
+pubDate: 2022.11.23
+author: Iga Spodzieja
 title: Opieka nad pisklętami gołębi
 description: Określenie wieku, ogrzewanie, karmienie, lokum.
 image: /images/posts/pisklęta/pisklęta-front.jpg

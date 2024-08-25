@@ -1,6 +1,7 @@
 ---
 title: Zaparcie jaja
-date: 2020.10.08
+author: Iga Spodzieja
+pubDate: 2020.10.08
 image: /images/posts/Zaparcie%20jaja/Zaparcie.jpg
 description: Niestety, nawet jeśli zapewnimy gołąbce świetne warunki życia i odpowiednią dietę, zawsze musimy być przygotowani na zaparcie jaja.
 ---

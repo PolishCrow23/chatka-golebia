@@ -1,6 +1,7 @@
 ---
 title: Klatka dla gołębia
-date: 2019.07.27
+author: Iga Spodzieja
+pubDate: 2019.07.27
 description: Poradnik na temat kupna klatki dla gołębia i wyboru odpowiedniego jej wyposażenia.
 image: /images/posts/Klatka/Klatka%20Doki%20Groch%20Awatar.jpg
 ---

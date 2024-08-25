@@ -1,19 +1,27 @@
 ---
 interface Props {
-	date: Date;
+	date: Date | string;
 }
 
 const { date } = Astro.props;
 
+// Check and parse date
+let validDate;
+if (date instanceof Date) {
+	validDate = date;
+} else {
+	validDate = new Date(date);
+	if (isNaN(validDate.getTime())) {
+		throw new Error("Invalid date provided to FormattedDate component");
+	}
+}
 ---
 
-
-
-<time datetime={date.toISOString()}>
+<time datetime={validDate.toISOString()}>
 	{
-		date.toLocaleDateString('pl-PL', {
+		validDate.toLocaleDateString('pl-PL', {
 			year: 'numeric',
-			month: 'numeric',
+			month: 'long',
 			day: 'numeric',
 		})
 	}

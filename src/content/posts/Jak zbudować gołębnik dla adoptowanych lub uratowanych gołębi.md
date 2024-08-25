@@ -1,6 +1,7 @@
 ---
 title: Jak zbudować gołębnik dla adoptowanych i uratowanych gołębi?
-date: 2022.10.27
+author: Iga Spodzieja
+pubDate: 2022.10.27
 description: Instrukcja budowy gołębnika dla adoptowanych i uratowanych gołębi.
 image: /images/posts/Jak%20zbudować%20gołębnik/Wulf%20Aviary%20Front.jpg
 ---

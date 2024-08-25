@@ -1,6 +1,7 @@
 ---
 title: Gołębiowy pupil a jajka – antykoncepcja u gołębi
-date: 2020.10.08
+author: Iga Spodzieja
+pubDate: 2020.10.08
 image: /images/posts/antykoncepcja/groszek-doki-gniazdo.jpg
 description: Jajka to ważny temat! Powinniśmy objąć samiczkę składającą jajka szczególną opieką. 
 ---

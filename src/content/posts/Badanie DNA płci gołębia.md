@@ -1,6 +1,7 @@
 ---
 title: Jakiej płci jest mój gołąb? Badanie DNA płci
-date: 2021.03.21
+author: Iga Spodzieja
+pubDate: 03.21.2021
 description: Jak dowiedzieć się jakiej płci jest nasz gołąb? Na pomoc przychodzi badanie płci DNA.
 image: /images/posts/badanie-dna-płci/snip-zelda.jpg
 ---

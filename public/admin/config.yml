@@ -55,7 +55,7 @@ collections:
       - {label: "data", name: "date", widget: "datetime", date_format: "MM.DD.YYYY", picker_utc: false}
       - {label: "autor", name: "author", widget: "string"}
       - {label: "zdjęcie główne", name: "image", widget: "image"}
-      - {label: "opis", name: "description", widget: "string"}
+      - {label: "opis (optymalnie 50-160 znaków)", name: "description", widget: "string"}
       - {label: "źródła (opcjonalnie)", name: "sources", widget: "string"}
       - {label: "zdjęcia (opcjonalnie)", name: "photos", widget: "string"}
       - {label: "tekst", name: "body", widget: "markdown"}

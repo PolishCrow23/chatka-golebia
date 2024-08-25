@@ -1,6 +1,7 @@
 ---
 title: Czym karmić gołębie?
-date: 2021.07.20
+author: Iga Spodzieja
+pubDate: 2021.07.20
 image: /images/posts/czym-karmić-gołębie/zima.jpg
 description: Informacje dotyczące diety dzikich gołębi występujących w Polsce oraz gołębi hodowlanych.
 ---

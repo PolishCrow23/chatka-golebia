@@ -6,13 +6,13 @@ import Footer from "../components/Footer.astro";
 import "../styles/slotwrapper.css"
 import FormattedDate from "../components/FormattedDate.astro";
 
-const { title, author, description, date, sources, photos } = Astro.props;
-
+const { title, author, description, pubDate } = Astro.props;
+// type Props = CollectionEntry<'reports'>['data'];
 ---
 
 <html lang="en">
 	<head>
-        <BaseHead title={title} description={description} date={date}/>
+        <BaseHead title={title} description={description} date={pubDate}/>
     </head>
     <body>
         <Header />
@@ -20,11 +20,10 @@ const { title, author, description, date, sources, photos } = Astro.props;
             <div class = "post">
                 <div class = "title">
                     <h1>{title}</h1>
-                    <!-- <span><FormattedDate date={date}></span> -->
-                    <span>{date}</span>
-                    <span>{author}</span>
-                    <span>{sources}</span>
-                    <span>{photos}</span>
+                     <div class="date-author">
+                        <span class="date">Opublikowano: <FormattedDate date={pubDate}/></span>
+                        <span class="author">Autor: {author}</span>
+                     </div>
                 </div>
                 <div class="slot-wrapper">
                     <slot />
@@ -36,7 +35,7 @@ const { title, author, description, date, sources, photos } = Astro.props;
 
 <style>
     main {
-        padding-block: 4em 6em;
+        padding-block: 4em 8em;
         padding-inline: 2%;
 
         background-color: var(--cream);
@@ -51,7 +50,35 @@ const { title, author, description, date, sources, photos } = Astro.props;
     .post h1 {
         text-align: center;
         font-size: 3.6rem;
+        margin-bottom: 0.8em;
     }
 
-    
+    .date-author {
+        display: flex;
+        flex-direction: column;
+        align-items: end;
+    }
+
+    .sources-images {
+        margin-block: 3em;
+    }
+
+    .sources, .images {
+        display: block;
+        margin-block: 0.5em;
+    }
+
+    .date {
+        margin-bottom: 0.5em;
+    }
+
+    span {
+        font-style: italic;
+    }
+
+
+
+    h1 {
+        font-family: 'Ubuntu Condensed';
+} 
 </style>
