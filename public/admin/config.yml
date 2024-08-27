@@ -52,10 +52,9 @@ collections:
     fields: # The fields for each document, usually in front matter
       # - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
       - {label: "tytuł", name: "title", widget: "string"}
-      - {label: "data", name: "date", widget: "datetime", date_format: "MM.DD.YYYY", picker_utc: false}
+      - {label: "data", name: "pubDate", widget: "datetime", date_format: "MM.DD.YYYY", picker_utc: false}
       - {label: "autor", name: "author", widget: "string"}
       - {label: "zdjęcie główne", name: "image", widget: "image"}
       - {label: "opis (optymalnie 50-160 znaków)", name: "description", widget: "string"}
-      - {label: "źródła (opcjonalnie)", name: "sources", widget: "string"}
       - {label: "zdjęcia (opcjonalnie)", name: "photos", widget: "string"}
       - {label: "tekst", name: "body", widget: "markdown"}

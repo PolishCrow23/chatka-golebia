@@ -26,9 +26,9 @@ const reportsCollection = defineCollection({
         author: z.coerce.string(),
         image: z.string(),
         description: z.string(),
+        photos: z.string().optional()
     }),
 });
-
 
 const interventionsCollection = defineCollection({
     schema: z.object({
