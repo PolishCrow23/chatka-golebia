@@ -1,6 +1,6 @@
 ---
 title: Dość tych kłamstw!
-date: 2024.08.25
+pubDate: 08.25.2024
 author: "Dariusz Grochal "
 image: dsc_0011.jpg
 description: "Najpopularniejszym „argumentem” przeciwników gołębi miejskich jest
