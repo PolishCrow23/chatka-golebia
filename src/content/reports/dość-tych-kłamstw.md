@@ -28,55 +28,31 @@ Postanowiliśmy jako Fundacja zapytać Główny Inspektorat Sanitarny o to, ile 
 
 GIS zgodnie z ustawą o zapobieganiu oraz zwalczaniu zakażań i chorób zakaźnych od ludzi prowadzi na bieżąco nadzór nad zoonozami (chorobami odzwierzęcymi) takimi jak:
 
-\- bąblowica i wągrzyca
-
-\- borelioza z Lyme
-
-\- bruceloza
-
-\- chikungunya
-
-\- encefalopatie gąbczaste
-
-\- niektóre wirusowe gorączki krwotoczne
-
-\- dżuma
-
-\- giardioza
-
-\- gorączka Q
-
-\- mykobakteriozy
-
-\- jersinioza
-
-\-kampylobakteriioza
-
-\- leptospiroza
-
-\- grypa ptaków
-
-\- listerioza
-
-\- nosacizna
-
-\- ornitozy
-
-\- pryszczyca
-
-\- salmonellozy
-
-\- tularemia
-
-\- wąglik
-
-\- włośnica
-
-\- wścieklizna
-
-\- zakażenia wirusem Zachodniego Nilu
-
-\- zakażenia E.coli.
+* bąblowica i wągrzyca
+* borelioza z Lyme
+* bruceloza
+* chikungunya
+* encefalopatie gąbczaste
+* niektóre wirusowe gorączki krwotoczne
+* dżuma
+* giardioza
+* gorączka Q
+* mykobakteriozy
+* jersinioza
+* kampylobakteriioza
+* leptospiroza
+* grypa ptaków
+* listerioza
+* nosacizna
+* ornitozy
+* pryszczyca
+* salmonellozy
+* tularemia
+* wąglik
+* włośnica
+* wścieklizna
+* zakażenia wirusem Zachodniego Nilu
+* zakażenia E.coli.
 
 Spośród wymienionych chorób, gołębie mogą ulec zakażeniu Chlamydia psittaci (ornitozy) oraz bakterie z rodzaju Salmonella.
 
@@ -104,10 +80,12 @@ Skończmy wreszcie z tymi kłamstwami. Nie straszmy ludzi, nie szczujmy na goł�
 
 Gorąco prosimy o to, aby powyższy tekst udostępniać każdemu, kto powiela mity na temat chorób przenoszonych przez gołębie. 
 
-\----------------------------------------
+</br>
 
 Artykuł napisany na podstawie odpowiedzi o dostęp do informacji publicznej z dnia 29.07.2024. 
 
 Sygnatura pisma BI.OI.0134.107.2024.
 
-Opracował: Dariusz Grochal
+**Źródła**
+
+BI.OI.0134.107.2024.
