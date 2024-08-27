@@ -18,11 +18,11 @@ Chętne osoby będą mogły przekazać darowiznę na rzecz fundacji do specjalne
 
 AKCJA SZNUREK
 
-Data: 31.08.2024
+**Data: 31.08.2024**
 
-Godzina: 11:00 – 15:00
+**Godzina: 11:00 – 15:00**
 
-Miejsce: Rynek Główny w Krakowie (obok fontanny)
+**Miejsce: Rynek Główny w Krakowie (obok fontanny)**
 
 Organizator wydarzenia
 
