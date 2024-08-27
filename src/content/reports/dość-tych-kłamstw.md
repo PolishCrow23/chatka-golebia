@@ -66,7 +66,7 @@ Drugą chorobą jest ornitoza (zwana też papuzicą) wywołana przez bakterię C
 
 **I teraz prawdziwy hit!**
 
-**W ciągu ostatnich 10 lat w Polsce zanotowano… uwaga… 2, tak słownie DWA przypadki ornitozy.** Przy czym jak pododaje GIS, nie wiadomo, czy były to zakażenia w wyniku kontaktu z gołębiami miejskimi! Główny Inspektorat Sanitarny, nie dysponuje też danymi takimi jak przebieg choroby, stan zdrowia osób, które uległy zakażeniu. Ornitozy mogą mieć przebieg od bezobjawowego po bardzo ciężki. W ciągu ostatnich 10 lat nie zanotowano w Polsce żadnego zgonu wśród ludzi z powodu ornitozy.
+**W ciągu ostatnich 10 lat w Polsce zanotowano… uwaga… 2, tak słownie DWA przypadki ornitozy**. Przy czym jak pododaje GIS, nie wiadomo, czy były to zakażenia w wyniku kontaktu z gołębiami miejskimi! Główny Inspektorat Sanitarny, nie dysponuje też danymi takimi jak przebieg choroby, stan zdrowia osób, które uległy zakażeniu. Ornitozy mogą mieć przebieg od bezobjawowego po bardzo ciężki. W ciągu ostatnich 10 lat nie zanotowano w Polsce żadnego zgonu wśród ludzi z powodu ornitozy.
 
 Od 2014 roku ornitoza była notowana w latach:
 
