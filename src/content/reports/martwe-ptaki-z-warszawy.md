@@ -4,6 +4,7 @@ pubDate: 08.21.2024
 author: Dariusz Grochal
 image: /images/posts/img_20240722_160717001.jpg
 description: Wiemy co zabiło wrony w Warszawie?
+photos: Aneta Jasińska
 ---
 Główny Inspektor Sanitarny i Główny Lekarz Weterynarii wydali wspólny komunikat dotyczący zwiększonej liczby śmierci ptaków z rodziny krukowatych odnotowywanych na terenie Warszawy.
 
@@ -47,5 +48,3 @@ Sprawa martwych wron nie jest wyjaśniona i ma charakter rozwojowy.
 **Źródła**
 
 [Komunikat dotyczący zwiększonej liczby padnięć ptaków z rodziny krukowatych](https://www.gov.pl/web/gis/komunikat-dotyczacy-zwiekszonej-liczby-padniec-ptakow-z-rodziny-krukowatych-odnotowywanych-na-terenie-miasta-stolecznego-warszawy)
-
-Fot. Aneta Jasińska

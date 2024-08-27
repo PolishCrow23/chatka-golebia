@@ -6,7 +6,7 @@ import Footer from "../components/Footer.astro";
 import "../styles/slotwrapper.css"
 import FormattedDate from "../components/FormattedDate.astro";
 
-const { title, author, description, pubDate, photos } = Astro.props;
+const { title, author, description, pubDate, image, photos } = Astro.props;
 // type Props = CollectionEntry<'reports'>['data'];
 ---
 
@@ -24,6 +24,7 @@ const { title, author, description, pubDate, photos } = Astro.props;
                         <span class="date">Opublikowano <FormattedDate date={pubDate}/></span>
                         <span class="author">{author}</span>
                      </div>
+                     <img src={image} class="heroImg">
                 </div>
                 <div class="slot-wrapper">
                     <slot />
@@ -50,7 +51,7 @@ const { title, author, description, pubDate, photos } = Astro.props;
 
     }
     .title {
-        margin-block: 0.6em 5em;
+        margin-top: 0.6em;
     }
     .post h1 {
         text-align: center;
@@ -94,5 +95,9 @@ const { title, author, description, pubDate, photos } = Astro.props;
 
     h1 {
         font-family: 'Ubuntu Condensed';
-} 
+    }
+    
+    .heroImg {
+        margin-block: 2.5em 3.5em;
+    }
 </style>

@@ -79,6 +79,10 @@ ul {
     list-style: none;
 }
 
+span {
+    font-family: 'Arial';
+}
+
 p {
     font-family: 'Arial';
     font-size: 1.8rem;
@@ -95,7 +99,6 @@ img {
 }
 
 span {
-    font-size: 1.6rem;
     font-family: 'Arial';
 }
 
