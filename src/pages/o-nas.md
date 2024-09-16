@@ -35,14 +35,23 @@ Działamy dzięki datkom oraz wsparciu wolontariuszy. Razem możemy więcej!
     </div>
 </div>
 
+<div class="flex-container">
+    <img class="flex-img" src="/images/pages/o-nas/Wika.jpeg">
+    <div>
+        <h2>Dariusz Grochal</h2>
+        <p>Opiekun Siwej i Hermana. Trochę pisze, dużo fotografuje, jeszcze więcej czyta a najwięcej czasu spędza na działce, usługując swoim gołębiom.</p>
+    </div>
+</div>
+
 <style>
     .flex-container {
         display: flex;
+        flex-direction: column;
         gap: 3em;
     }
 
-    .flex-container-1 {
-        margin-block: 5em;
+    .flex-container {
+        margin-block: 3em;
     }
 
     .flex-img {
@@ -53,4 +62,15 @@ Działamy dzięki datkom oraz wsparciu wolontariuszy. Razem możemy więcej!
         text-align: center;
         margin-block: 6em;
     }
+
+        @media  (min-width: 758px) { 
+        .flex-container {
+            flex-direction: row;
+            align-items: center;
+        }
+        img {
+            margin-inline: auto;
+        }
+    }
+
 </style>

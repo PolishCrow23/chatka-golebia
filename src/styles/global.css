@@ -72,7 +72,12 @@ p::selection {
 
 
 h2 {
+    font-family: "Ubuntu Condensed";
     font-size: 2.4rem;
+}
+
+h3 {
+    font-family: "Ubuntu Condensed";
 }
 
 ul {

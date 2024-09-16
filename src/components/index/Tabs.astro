@@ -12,7 +12,7 @@ const { meetups, reports } = Astro.props;
 
 <section>
   <div class="container">
-  <h2>Aktualności</h2>
+  <a href="/meetups"><h2>Aktualności</h2></a>
     <div class="tabs">
       <input class="radiotab" name="tabs" tabindex="1" type="radio" id="tabone" checked="checked">
       <label class="label label-one" for="tabone">Nowości</label>
@@ -42,13 +42,17 @@ const { meetups, reports } = Astro.props;
 
 section {
   background-color: var(--cream);
+  padding-block: 20px;
 }
 
 h2 {
-  font-size: 4rem;
-
-  color: var(--dark-plum);
+  font-family: "Ubuntu Condensed";
+    font-size: 5rem;
+    color: var(--plum);
+    display: block;
+    margin: 0 0 70px 400px;
 }
+
 
 p {
   margin: 0 0 20px;
@@ -83,8 +87,9 @@ p {
   background: #e5e5e5;
   cursor: pointer;
   font-weight: bold;
-  font-size: 23px;
-  color: #7f7f7f;
+  font-size: 3.2rem;
+  color: var(--plum);
+  font-family: "Ubuntu Condensed";
   transition: background .3s, color .3s;
   border: none;
   border-radius: 0;
@@ -110,10 +115,11 @@ p {
 
 .panel {
   display: none;
-  padding: 30px 30px 30px;
+  padding: 80px 30px 80px;
   background: #fff;
   width: 100%;
   min-height: 460px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 }
 
 .panel:nth-of-type(2) {
@@ -145,9 +151,25 @@ p {
     order: 99;
   }
 
+  .label-one {
+  left: 0;
+  z-index: 3;
+}
+
+.label-two {
+  left: 220px; /* Adjust for overlap */
+  z-index: 2;
+}
+
+.label-three {
+  left: 440px; /* Adjust for overlap */
+  z-index: 1;
+}
+
   .label {
     width: 33.33%;
     border-radius: 36px 36px 0 0;
+    postion: absolute;
   }
 
   .label {
@@ -160,6 +182,9 @@ p {
 
 }
 
+.tabs {
+  position: relative;
+}
 
 .panel {
   opacity: 0;

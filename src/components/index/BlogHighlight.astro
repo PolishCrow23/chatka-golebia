@@ -9,7 +9,7 @@ const { posts } = Astro.props;
 ---
 <section>
     <div class="bk">
-        <h2>Poradniki</h2>
+        <a href="/blog"><h2>Poradniki</h2></a>
     </div>
     <div class="container"> 
         <div class="cards-container">
@@ -31,7 +31,7 @@ const { posts } = Astro.props;
 
     .bk {
 
-        background-image: url('/images/index/pigeon-feets.png');
+        background-image: url('/images/index/Union.svg');
         background-color: var(--cream);
         background-size: stretch;
         background-size: 1800px;
@@ -53,16 +53,16 @@ const { posts } = Astro.props;
         justify-content: space-between;
         gap: 3em;
         margin-bottom: 3em;
-        padding-top: 5em;
     }
 
     h2 {
-        font-size: 4rem;
-        color: var(--dark-plum);
+        font-family: "Ubuntu Condensed";
+        font-size: 5rem;
+        color: var(--plum);
         display: block;
         position: absolute;
-        left: 370px;
-        bottom: 80px;
+        left: 390px;
+        bottom: 100px;
     }
 
     h3 {
