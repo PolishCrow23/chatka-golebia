@@ -4,6 +4,7 @@ author: Iga Spodzieja
 pubDate: 2021.11.27
 image: /images/posts/Pytania i odpowiedzi/Gris zblizenie.jpg
 description: Podstawowe informacje dotyczące gołębi w formie pytań i odpowiedzi.
+longDescription: "Podstawowe informacje dotyczące gołębi w formie pytań i odpowiedzi. Jak długo żyją gołębie? Jaki jest koszt utrzymania gołębia? Na co uważać podczas wizyty u weterynarza? Jak w bezpieczny sposób zabierać ptaka na spacery?"
 ---
 
 1. **Jak długo żyją gołębie?**

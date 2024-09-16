@@ -3,7 +3,8 @@ title: Gołębiowy pupil a jajka – antykoncepcja u gołębi
 author: Iga Spodzieja
 pubDate: 2020.10.08
 image: /images/posts/antykoncepcja/groszek-doki-gniazdo.jpg
-description: Jajka to ważny temat! Powinniśmy objąć samiczkę składającą jajka szczególną opieką. 
+description: Jajka to ważny temat! Powinniśmy objąć samiczkę składającą jajka szczególną opieką.
+longDescription: "U wielu par gołębi cykl składania jajek zajmuje mniej więcej miesiąc i powtarza się przez cały rok. Para romansuje ze sobą przez tydzień: czyści sobie nawzajem pióra, karmi się zwróconym jedzeniem (co wygląda jak pocałunek), siedzi razem w gnieździe i kopuluje ze sobą. Gołębie zajmuję się też wtedy budowaniem gniazda, znosząc do niego wszystkie dostępne materiały."
 ---
 
 ## Lęgi gołębi miejskich

@@ -3,6 +3,7 @@ title: Polecane
 author: Iga Spodzieja
 pubDate: 02.20.2021
 description: Polecane strony, artykuły, książki, podcasty i sklepy.
+longDescription: "Polecane strony, artykuły, książki, podcasty i sklepy."
 image: /images/posts/polecane/domino.jpg
 ---
 ## Strony

@@ -3,6 +3,7 @@ title: Zachowanie gołębi
 author: Iga Spodzieja
 pubDate: 2021.11.27
 description: Odgłosy i zachowania gołębi. Post dotyczy głównie gołębi miejskich i domowych.
+longDescription: "Odgłosy i zachowania gołębi (głównie gołębi miejskich i domowych). Dlaczego mój gołąb ziewa? W jaki sposób gołębie miejskie wybierają partnerów? Jak brzmi przestraszony gołąb?"
 image: /images/posts/Zachowanie gołębi/Zeldon zblizenie.jpg
 ---
 

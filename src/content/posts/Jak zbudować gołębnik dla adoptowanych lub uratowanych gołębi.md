@@ -1,12 +1,11 @@
 ---
 title: Jak zbudować gołębnik dla adoptowanych i uratowanych gołębi?
 author: Iga Spodzieja
-pubDate: 2022.10.27
+pubDate: 2022.10.06
 description: Instrukcja budowy gołębnika dla adoptowanych i uratowanych gołębi.
 image: /images/posts/Jak%20zbudować%20gołębnik/Wulf%20Aviary%20Front.jpg
+# longDescription: "Gołębie domowe to spokojne i łagodne ptaki, które prześcigają się w "sztuce leniuchowania". Mogą szczęśliwie mieszkać cały rok w zewnętrznym gołębniku (ogrzewanie ani chłodzenie nie są potrzebne w większości miejsc na świecie). Gołębnik musi chronić gołębie przed drapieżnikami (być porządnie zbudowany), gryzoniami (mieć siatkę metalową z oczkami nie większymi niż 6,4 mm) i posiadać osłonięty obszar, który zapewni gołębiom odpowiedni cień w upały oraz ochroni je zimą przed nawałnicami."
 ---
-
-@table_of_contents
 
 Ten post to tłumaczenie [*How to Create an Aviary for Rescued Pigeons (or Doves)* ze strony *Palomacy*](https://www.pigeonrescue.org/birds/creating-an-aviary/). Dziękuję Elizabeth Young za pozwolenie mi na zamieszczenie na Chatce Gołębia przetłumaczonej wersji jej posta.
 

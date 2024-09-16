@@ -1,0 +1,149 @@
+---
+import { type CollectionEntry } from "astro:content";
+import FormattedDate from "./FormattedDate.astro";
+
+type Props = {
+    post: CollectionEntry<"posts">
+}
+
+const { post } = Astro.props
+let words = post.body.split(' ').slice(0, 66);
+let shortenedBody = words.join(' ');
+let tripleDot = '...';
+let text = shortenedBody + tripleDot;
+---
+
+<div class="post-card">
+    <div class="flex1">
+    <a class="grid-title" href={`/blog/${post.slug}`}>
+        <h2 class="title">{post.data.title}</h2>
+    </a>
+    <p class="description">{post.data.longDescription}</p>
+ 
+    <a class="show-more" href={`/blog/${post.slug}`}>
+        czytaj więcej...
+    </a>
+    </div>
+
+    <div class="flex2">
+        <a class="grid-img" href={`/blog/${post.slug}`}>
+            <img src ={post.data.image} width={312} height={232} alt={post.data.title}/>
+        </a>
+    </div>
+
+</div>
+
+<style>
+    .post-card {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        justify-items: center;
+        
+        gap: 10px;
+        
+        width: 100%;
+        max-width: 820px;
+        min-height: 351px;
+        padding: 16px;
+
+        border-radius: 16px;
+        background-color: #f9e9e2;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+
+        transition-duration: 0.5s;
+    }
+
+    .post-card:hover {
+        transform-origin: top;
+        transition-duration: 0.5s;
+        box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
+    }
+
+    .title {
+        color: var(--plum);
+        font-weight: 700;
+
+    } 
+
+
+    .flex1 {
+        margin-block: 10px;
+        display: flex;
+        gap: 4px;
+        flex-direction: column;
+        justify-content: space-between;
+        
+    }
+
+    flex2 {
+        width: 351px;
+    }
+
+    h2 {
+        font-size: 2.8rem;
+        font-family: "Ubuntu Condensed";
+    }
+
+    h3 {
+        font-size: 2rem;
+    }
+    .description {
+        font-size: 1.4rem;
+        fill: var(--gray);
+    }
+
+    .show-more {
+        margin-left: auto;
+        font-weight: 700;
+        font-size: 2rem;
+        color: var(--plum);
+        font-family: "Ubuntu Condensed";
+    }
+    
+    .description {
+        font-size: 1.8rem;
+        line-height: 24px;
+        margin-block: 10px 2px;
+    }
+    
+    img {
+        width: 100%;
+        max-width: 600px;
+        object-fit: cover;
+        display: block;
+        margin-inline: auto;
+        
+    }
+
+
+
+    @media (min-width: 340px) {
+        img{ 
+        height: 351px;
+        }
+
+    }
+
+    @media (min-width: 700px) {
+        .post-card {
+            flex-direction: row;
+            gap: 20px;
+
+        }
+
+        .flex1 {
+            gap: 20px;
+        }
+        img {
+            width: 351px;
+            height: calc(100% - 5px);          aspect-ratio: 1 / 1;
+             /* Full width of the container */
+            vertical-align: center;
+        }
+    }
+
+    
+
+
+</style>

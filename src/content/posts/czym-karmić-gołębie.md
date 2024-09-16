@@ -4,9 +4,10 @@ author: Iga Spodzieja
 pubDate: 2021.07.20
 image: /images/posts/czym-karmić-gołębie/zima.jpg
 description: Informacje dotyczące diety dzikich gołębi występujących w Polsce oraz gołębi hodowlanych.
+longDescription: "Istnieje bardzo mało źródeł dotyczących żywienia gołębi-pupili, dlatego ten post jest oparty w głównej mierze na doświadczeniach opiekunów gołębi-pupilów oraz obserwacji diety gołębi dzikich, a nie na profesjonalnych badaniach."
 ---
 
-Na wstępie chciałabym zaznaczyć, że istnieje bardzo mało źródeł dotyczących żywienia gołębi-pupili. Co prawda w Internecie można znaleźć sporo poradników dotyczących karmienia ptaków zimą oraz instrukcji żywienia gołębi hodowlanych (pisanych przez sklepy sprzedające karmę), jednak nie do końca można zastosować takie wskazówki w przypadku gołębi-pupili. Istnieje też mnóstwo świetnych poradników i książek dotyczących żywienia papug, ale również niezupełnie sprawdzają się one w przypadku gołębi będących zwierzątkami domowymi. Dlatego ten post jest oparty w głównej mierze na doświadczeniach opiekunów gołębi-pupilów oraz obserwacji diety gołębi dzikich, a nie na profesjonalnych badaniach (które tak jak napisałam nie istnieją, a przynajmniej nie udało mi się do nich dotrzeć).
+Istnieje bardzo mało źródeł dotyczących żywienia gołębi-pupili. Co prawda w Internecie można znaleźć sporo poradników dotyczących karmienia ptaków zimą oraz instrukcji żywienia gołębi hodowlanych (pisanych przez sklepy sprzedające karmę), jednak nie do końca można zastosować takie wskazówki w przypadku gołębi-pupili. Istnieje też mnóstwo świetnych poradników i książek dotyczących żywienia papug, ale również niezupełnie sprawdzają się one w przypadku gołębi będących zwierzątkami domowymi. Dlatego ten post jest oparty w głównej mierze na doświadczeniach opiekunów gołębi-pupilów oraz obserwacji diety gołębi dzikich, a nie na profesjonalnych badaniach (które tak jak napisałam nie istnieją, a przynajmniej nie udało mi się do nich dotrzeć).
 
 **Gołębie występujące dziko w Polsce:**
 - Gołębie miejskie *(Columba Livia)* żywią się przede wszystkim ziarnem, nasionami i liśćmi roślin. 

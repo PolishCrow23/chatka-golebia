@@ -58,6 +58,7 @@ main {
 
 .post img {
     border-radius: 35px;
+    margin-block: 10px;
 }
 
 blockquote {

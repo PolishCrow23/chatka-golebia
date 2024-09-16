@@ -4,6 +4,7 @@ author: Iga Spodzieja
 pubDate: 2020.12.15
 description: Różne sposoby złapania gołębi potrzebujących naszej pomocy.
 image: /images/posts/Jak%20złapać%20gołębia/Dokusia%20złapana.jpg
+longDescription: "W tym poście znajduje się kilka metod łapania gołębi potrzebujących naszej pomocy: chorych, rannych czy też hodowlanych (ozdobnych i pocztowych), które nie są w stanie przetrwać na wolności. Sposoby te można ze sobą łączyć, np. rzucić na ziemię jedzenie i zarzucić na gołębie siatkę, czy też zagonić gołębia w róg budynku i użyć podbieraka."
 ---
 
 Poniżej znajduje się kilka metod łapania gołębi potrzebujących naszej pomocy: chorych, rannych czy też hodowlanych (ozdobnych i pocztowych), które nie są w stanie przetrwać na wolności. Sposoby te można ze sobą łączyć, np. rzucić na ziemię jedzenie i zarzucić na gołębie siatkę, czy też zagonić gołębia w róg budynku i użyć podbieraka. Nie każdy ze sposobów będzie skuteczny w konkretnym przypadku, np. wątpliwe jest, że uda złapać się zdrowego, latającego gołębia po prostu podchodząc do niego i łapiąc go w ręce. Jeśli masz wątpliwości co do sposobu łapania gołębia, napisz na [naszej grupie](https://www.facebook.com/groups/chatkagolebiagrupa).

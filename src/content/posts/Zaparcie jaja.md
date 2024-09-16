@@ -4,6 +4,7 @@ author: Iga Spodzieja
 pubDate: 2020.10.08
 image: /images/posts/Zaparcie%20jaja/Zaparcie.jpg
 description: Niestety, nawet jeśli zapewnimy gołąbce świetne warunki życia i odpowiednią dietę, zawsze musimy być przygotowani na zaparcie jaja.
+longDescription: "Niestety, nawet jeśli zapewnimy gołąbce świetne warunki życia i odpowiednią dietę, zawsze musimy być przygotowani na zaparcie jaja. O zaparciu jaja mówimy wtedy, gdy samiczka nie jest w stanie znieść jaja. Często przyczyną zaparcia jaja jest niedobór wapnia. Zaparcie jaja może pojawić się u samic, które po raz pierwszy składają jajo, w szczególności u tych, które są są na niedopowiedniej diecie."
 ---
 
 Niestety, nawet jeśli zapewnimy gołąbce świetne warunki życia i odpowiednią dietę, zawsze musimy być przygotowani na zaparcie jaja. O zaparciu jaja mówimy wtedy, gdy samiczka nie jest w stanie znieść jaja. 
