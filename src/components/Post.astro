@@ -1,42 +1,47 @@
 ---
+// Card.astro
 import { type CollectionEntry } from "astro:content";
 import FormattedDate from "./FormattedDate.astro";
 
 type Props = {
-    post: CollectionEntry<"posts">
+    item: CollectionEntry<"posts" | "meetups" | "reports"> // Accept multiple collections
 }
 
-const { post } = Astro.props
+const { item } = Astro.props
 
+// Determine the base URL based on the collection type
+const baseSlug = item.collection === 'posts' 
+    ? 'blog' 
+    : item.collection === 'reports' 
+    ? 'aktualności' 
+    : 'meetups'; // Default to 'wydarzenia' for meetups
 ---
 
-<div class="post-card">
-    <a href={`/blog/${post.slug}`}>
+<div class="card">
+    <a href={`/${baseSlug}/${item.slug}`}>
         <img 
-            src ={post.data.image}
+            src={item.data.image}
             width={351}
             height={232}
-            alt={post.data.title}
+            alt={item.data.title}
         />
     </a>
-    <div class="title-post">
-        <a href={`/blog/${post.slug}`}>
+    <div class="title-item">
+        <a href={`/${baseSlug}/${item.slug}`}>
             <h2 class="title">
-                {post.data.title}
+                {item.data.title}
             </h2>
         </a>
+        <span class="date">{item.data.pubDate && <FormattedDate date={item.data.pubDate} />}</span>
     </div>
-    <p>
-        {post.data.description}
-    </p>
-    <a class="show-more" href={`/blog/${post.slug}`}>
+    <p>{item.data.description}</p>
+    <a class="show-more" href={`/${baseSlug}/${item.slug}`}>
         czytaj więcej...
     </a>
-
 </div>
 
 <style>
-    .post-card {
+    .card {
         display: flex;
         flex-direction: column;
         justify-content: space-between;
@@ -46,49 +51,23 @@ const { post } = Astro.props
         height: 461px;
         border-radius: 16px;
         padding: 16px;
-
         background-color: #f9e9e2;
         box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
-
         transition-duration: 0.5s;
     }
-    .date {
-        color: var(--gray);
-        font-size: 1.4rem;
-        font-weight: 400;
-    }
-    .title {
-        color: var(--black);
-        font-size: 2.2rem;
-        font-weight: 500;
-    }  
 
-    .post-card:hover {
+    .card:hover {
         transform-origin: top;
         transition-duration: 0.5s;
         box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
     }
 
-    .title-post {
-        display: flex;
-        gap: 2em;
+    .title-item {
+        display: grid;
+        grid-template-columns: 3fr 1fr;
+        gap: 0.5em;
+        justify-content: space-between;
         align-items: center;
-    }
-
-    h2 {
-        font-size: 2rem;
-    }
-
-    h3 {
-        font-size: 2rem;
-    }
-    .description {
-        font-size: 1.4rem;
-        fill: var(--gray);
-    }
-
-    .title h2 {
-        font-size: 2.2rem;
     }
 
     .title {
@@ -96,13 +75,15 @@ const { post } = Astro.props
         font-family: "Ubuntu Condensed";
         font-weight: 700;
         font-size: 2.6rem;
+        text-align: left;
+        
     }
 
-    .title-date {
-        display: flex;
-        align-items: center;
-        justify-content: space-between;
-        gap: 1em;
+    .date {
+        font-family: 'Ubuntu Condensed';
+        font-size: 1.4rem;
+        color: #342812;
+        text-align: right;
     }
 
     .show-more {
@@ -112,7 +93,7 @@ const { post } = Astro.props
         color: var(--plum);
         font-family: "Ubuntu Condensed";
     }
-    
+
     p {
         font-size: 1.6rem;
         font-weight: 400;
@@ -123,17 +104,6 @@ const { post } = Astro.props
     img {
         border-radius: 8px;
         object-fit: cover;
-        width: 351px;
         width: 100%;
     }
-
-    .post-card:hover {
-        transform-origin: top;
-        transition-duration: 0.5s;
-        box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
-    }
-    .post-card {
-        transition-duration: 0.5s;
-    }
-
 </style>

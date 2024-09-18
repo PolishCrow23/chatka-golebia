@@ -2,6 +2,7 @@
 import type { CollectionEntry } from "astro:content";
 import Meetup from "../MeetupLongCard.astro";
 import Report from "../ReportCard.astro";
+import Post from "../Post.astro";
 
 type Props = {
     meetups: CollectionEntry<"meetups">[];
@@ -18,7 +19,7 @@ const { meetups, reports } = Astro.props;
       <label class="label label-one" for="tabone">Nowości</label>
       <div class="panel panel-one" tabindex="1">
         <div class="cards">
-          {reports.slice(0, 4).map((report) => <Report report={report} />)}
+          {reports.slice(0, 4).map((report) => <Post item={report} />)}
         </div>
       </div>
 
@@ -26,7 +27,7 @@ const { meetups, reports } = Astro.props;
       <label class="label label-two" for="tabtwo">Wydarzenia</label>
       <div class="panel panel-two" tabindex="1">
         <div class="cards">
-          {meetups.slice(0, 4).map((meetup) => <Meetup meetup={meetup} />)}
+          {meetups.slice(0, 3).map((meetup) => <Post item={meetup} />)}
         </div>
       </div>
 
@@ -73,7 +74,7 @@ p {
   justify-content: space-between;
   flex-wrap: wrap;
   gap: 3em;
-  max-width: 1920px;
+  max-width: 1860px;
   margin-inline: auto;
 }
 
