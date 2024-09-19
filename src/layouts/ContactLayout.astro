@@ -30,10 +30,16 @@ const frontmatter = Astro.props;
 
 <style>
     main {
-        padding-bottom: 12em;
+        padding-block: 11em 12em;
+        background: url("/images/pages/kontakt/feet-contact.png");
+        background-repeat: no-repeat;
+        background-size: 800px;
+        background-position-y: -25px;
+
     }
     h1 {
         color: var(--dark-plum);
+        text-align: left;
     }
     .post {
         margin-bottom: 7em;
@@ -41,7 +47,7 @@ const frontmatter = Astro.props;
 
     body {
         background: rgb(179,159,220);
-        background: linear-gradient(180deg, rgba(179,159,220,1) 0%, rgba(179,159,220,1) 25%, rgba(208,195,233,1) 45%, rgba(255,255,255,1) 100%);
+        background: linear-gradient(180deg, rgba(179,159,220,1) 0%, rgba(179,159,220,1) 35%, rgba(208,195,233,1) 60%, rgba(255,255,255,1) 100%);
     }
 
     .title { 
