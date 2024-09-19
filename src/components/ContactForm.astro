@@ -1,38 +1,46 @@
-<section class="contact-form">
-    <h2>Formularz kontaktowy</h2>
-</p>
-    <div class="feedback-form">
 
-        <form method="POST" id="form">
+ <section class="contact-form">
+        <h2>Skontakuj się z nami!</h2>
+    </p>
+        <div class="feedback-form">
 
-            <input type="hidden" name="access_key" value="9ec0edb2-021c-47fa-b597-33696ed222e7">
-            <input type="hidden" name="from_name" value="Formularz kontaktowy ze strony internetowej">
-            <label for="name" "text">Twoje imię i nazwisko:</label>
-            <input type="text" name="name" id="name" required>
-            <label for="email">Twój e-mail:</label>
-            <input type="email" name="email" id="email" required>
-            <label for="message">Wiadomość:</label>
-            <textarea name="message" required></textarea>
+            <form method="POST" id="form">
 
-            <div class="h-captcha"
-             data-captcha="true"
-             data-lang="pl">
-            </div>
+                <input type="hidden" name="access_key" value="9ec0edb2-021c-47fa-b597-33696ed222e7">
+                <input type="hidden" name="from_name" value="Formularz kontaktowy ze strony internetowej">
+                <input placeholder = "Imię i nazwisko:" type="text" name="name" id="name" required>
+                <input placeholder = "E-mail:" type="email" name="email" id="email" required>
+                <textarea placeholder="Wiadomość:" name="message" required></textarea>
 
-            <button type="submit" class="button button-grass">Wyślij</button>
-            <div id="result"></div>
-        </form>
-    
-    </div>
-</section>
+                <div class="h-captcha"
+                data-captcha="true"
+                data-lang="pl">
+                </div>
 
+                <button type="submit" class="button button-grass">Wyślij</button>
+                <div id="result"></div>
+            </form>
+        
+        </div>
+    </section>
+</main>
 <style>
+    main {
+        padding-bottom: 10em;
+    }
+
     .contact-form {
     max-width: 720px;
     margin: 0 auto;
-    background-color: var(--peach);
+    background-color: white;
     padding: 5em 5em;
     border-radius: 16px;
+    box-shadow: 0 0 10px var(--light-lavender);
+    position: relative;
+    }
+
+    input:user-invalid {
+        outline: 2px solid red;
     }
 
     label {
@@ -43,28 +51,43 @@
 
     button {
         display: block;
+        position: absolute;
         margin-inline: auto;
         margin-top: 2em;
         cursor: pointer;
+        top: 540px;
+        left: 300px;
     }
 
     input, textarea {
         width: 100%;
-        border: 1px solid var(--gray);
-        border-radius: 2px;
+        border-radius: 30px;
+        border: none;
+        background-color: var(--lilac);
+        padding: 15px;
+        font-family: "Ubuntu Condensed";
+        font-weight: 700;
+        font-size: 2.5rem;
+    }
+
+    input::placeholder, textarea::placeholder {
+        color: var(--dark-plum);
     }
 
     input {
-        height: 30px;
+        min-height: 30px; 
+        margin-bottom: 18px;    
     }
 
     textarea {
-        height: 200px;
+        min-height: 200px;
+        background: linear-gradient(var(--lilac), white);
+        box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
     }
     h2 {
-        font-size: 3.2rem;
-        margin-bottom:2em;
-        text-align: center;
+        color: var(--dark-plum);
+        font-size: 3rem;
+        margin-bottom: 33px;
     }
     
     .h-captcha {

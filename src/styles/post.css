@@ -1,4 +1,4 @@
-/* .post-card {
+.post-card {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -96,4 +96,4 @@
 }
 .post-card .post-card {
     transition-duration: 0.5s;
-} */
+}

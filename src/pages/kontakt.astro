@@ -1,0 +1,44 @@
+---
+import ContactLayout from "../layouts/ContactLayout.astro"
+---
+<ContactLayout>
+<h4>email: </h4><a id="mail-link" href="mailto:fundacjachatkagolebia.pl">fundacja@chatkagolebia.pl</a>
+
+<h2>Skrytka pocztowa</h2>
+<ul>
+    <li>Dariusz Grochal</li>
+    <li>skrytka pocztowa 18</li>
+    <li>Urząd Pocztowy Kraków 60</li>
+    <li>os. Na Stoku 1 31-705 Kraków</li>
+<ul>
+</ContactLayout>
+
+<style>
+    h2, li {
+        color: var(--dark-plum);
+    }
+
+    ul {
+        list-style: none;
+        margin: 0;
+    }
+
+    li {
+        font-family: "Ubuntu Condensed";
+        font-weight: 700;
+        font-size: 2rem;
+        margin-block: 0.1em;
+    }
+
+    h4 {
+        color: white;
+        display: inline;
+    }
+
+    #mail-link {
+        color: white;
+        font-size: 2rem;
+        font-family: "Ubuntu Condensed"
+    }
+
+</style>

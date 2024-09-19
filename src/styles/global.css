@@ -42,6 +42,7 @@
     --dark-lavender: #9076C7;
     --lavender: #A48CD5;
     --light-lavender: #D0C0F3;
+    --lilac: #E5DCF9;
     --peach: #FFB380;
     --grass: #BBDB9B;
     --cream: #f9e9e2;
@@ -71,6 +72,10 @@ body {
   }
 
 
+h1 {
+    font-family: "Ubuntu Condensed";
+}
+
 h2 {
     font-family: "Ubuntu Condensed";
     font-size: 2.4rem;
@@ -78,6 +83,12 @@ h2 {
 
 h3 {
     font-family: "Ubuntu Condensed";
+    font-size: 2.2rem;
+}
+
+h4 {
+    font-family: "Ubuntu Condensed";
+    font-size: 2rem;
 }
 
 ul {

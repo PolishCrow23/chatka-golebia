@@ -38,8 +38,8 @@ Działamy dzięki datkom oraz wsparciu wolontariuszy. Razem możemy więcej!
 <div class="flex-container">
     <img class="flex-img" src="/images/pages/o-nas/Wika.jpeg">
     <div>
-        <h2>Dariusz Grochal</h2>
-        <p>Opiekun Siwej i Hermana. Trochę pisze, dużo fotografuje, jeszcze więcej czyta a najwięcej czasu spędza na działce, usługując swoim gołębiom.</p>
+        <h2>Wika Kędzierska</h2>
+        <p>Na co dzień studentka kierunku lekarskiego. Prywatnie opiekunka całkiem sporego stada porzuconych i kalekich gołębi, jak również nielotnych mew rozpieszczonych do granic możliwości 🙂</p>
     </div>
 </div>
 
