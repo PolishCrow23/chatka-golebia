@@ -14,7 +14,8 @@
 
                 <div class="h-captcha"
                 data-captcha="true"
-                data-lang="pl">
+                data-lang="pl"
+                data-size="compact">
                 </div>
                 <div class="div-button">
                     <button type="submit" class="button button-grass">Wyślij</button>
@@ -34,7 +35,7 @@
     max-width: 720px;
     margin: 0 auto;
     background-color: white;
-    padding: 3em 3em;
+    padding: 3em 3em 1em;
     border-radius: 30px;
     box-shadow: 0 0 10px var(--light-lavender);
     
@@ -53,6 +54,20 @@
         outline: 2px dashed var(--plum);
     }
 
+    input:-webkit-autofill,
+        input:-webkit-autofill:hover, 
+        input:-webkit-autofill:focus,
+        textarea:-webkit-autofill,
+        textarea:-webkit-autofill:hover,
+        textarea:-webkit-autofill:focus,
+        select:-webkit-autofill,
+        select:-webkit-autofill:hover,
+        select:-webkit-autofill:focus {
+        -webkit-box-shadow: 0 0 0px 1000px var(--lilac) inset;
+        transition: background-color 5000s ease-in-out 0s;
+    }
+
+
     label {
         display: block;
         font-size: 1.6rem;
@@ -65,7 +80,7 @@
         margin-inline: auto;
         margin-top: 2em;
         cursor: pointer;
-        top: -20px;
+        top: -80px;
         left: 50%;
         margin-left: -50px;
     }
@@ -102,8 +117,9 @@
     }
     
     .h-captcha {
-        margin-top: 0.6em;
+        margin-top: 18px;
     }
+
 
     #result {
         font-size: 1.6rem;
@@ -150,7 +166,7 @@ if (form) {
             .catch((error) => {
                 console.log(error);
                 if (result) {
-                    result.innerHTML = "Something went wrong!";
+                    result.innerHTML = "Coś poszło nie tak!";
                 }
             })
             .then(function() {

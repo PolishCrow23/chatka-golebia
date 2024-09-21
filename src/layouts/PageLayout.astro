@@ -2,6 +2,7 @@
 import BaseHead from "../components/BaseHead.astro"
 import Header from "../components/Header.astro"
 import Footer from "../components/Footer.astro"
+import GoogleAnalytics from "../components/GoogleAnalytics.astro"
 import "../styles/slotwrapper.css"
 
 const { frontmatter } = Astro.props;
@@ -11,6 +12,7 @@ const { frontmatter } = Astro.props;
 	<head>
         <BaseHead title={frontmatter.title} description={frontmatter.description} date={frontmatter.date}/>
     </head>
+    <GoogleAnalytics />
     <body>
         <Header />
         <main>

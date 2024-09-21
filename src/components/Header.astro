@@ -71,6 +71,10 @@ const headerStyle = backgroundColor
         gap: 34px;
     }
 
+    .button {
+        color: black;
+    }
+
     .links {
         display: flex;
         flex-direction: column;
@@ -78,13 +82,14 @@ const headerStyle = backgroundColor
     }
 
     .internal-links {
+        font-family: "Ubuntu Condensed";
         display: flex;
         flex-direction: row;
         flex-wrap: wrap;
         justify-content: space-between;
         gap: 2em;
 
-        font-size: 2rem;
+        font-size: 2.6rem;
     }
 
     .internal-links a {
@@ -127,14 +132,6 @@ const headerStyle = backgroundColor
         align-items: center;
         gap: 2em;
     }
-
-    h1 {
-        font-family: 'Amatic SC';
-        font-weight: 400;
-        color: var(--black);
-        font-size: calc(3.6vw + 0.1rem)
-    }
-
 
 	@media  (max-width: 1320px) {
 

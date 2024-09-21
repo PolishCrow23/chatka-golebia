@@ -1,6 +1,7 @@
 ---
 import BaseHead from "../components/BaseHead.astro";
 import Header from "../components/Header.astro";
+import GoogleAnalytics from "../components/GoogleAnalytics.astro";
 import Hero from "../components/index/Hero.astro";
 import BlogHighlight from "../components/index/BlogHighlight.astro";
 import Footer from "../components/Footer.astro";
@@ -30,6 +31,7 @@ declare global {
 		<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} title={title} description={description} date={date}/>
 	</head>
+	<GoogleAnalytics />
 	<body>
 		<Header />
 		<Hero />

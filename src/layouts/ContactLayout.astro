@@ -4,6 +4,7 @@ import Header from "../components/Header.astro"
 import Footer from "../components/Footer.astro"
 import ContactForm from "../components/ContactForm.astro"
 import "../styles/slotwrapper.css"
+import GoogleAnalytics from "../components/GoogleAnalytics.astro"
 const frontmatter = Astro.props;
 ---
 
@@ -11,6 +12,7 @@ const frontmatter = Astro.props;
 	<head>
         <BaseHead title={frontmatter.title}, date={frontmatter.date}, description={frontmatter.description}, image={frontmatter.image}/>
     </head>
+    <GoogleAnalytics />
     <body>
         <Header backgroundColor="rgb(179,159,220)"/>
         <main>
@@ -30,7 +32,7 @@ const frontmatter = Astro.props;
 
 <style>
     main {
-        padding-block: 11em 12em;
+        padding-block: 11em 14em;
         background: url("/images/pages/kontakt/feet-contact.png");
         background-repeat: no-repeat;
         background-size: 800px;
