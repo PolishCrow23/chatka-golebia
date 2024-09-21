@@ -12,3 +12,4 @@ export function initializeGA(trackingId: string) {
   gtag('js', new Date());
   gtag('config', trackingId);
 }
+
