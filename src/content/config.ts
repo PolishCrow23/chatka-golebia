@@ -33,16 +33,18 @@ const reportsCollection = defineCollection({
 
 const interventionsCollection = defineCollection({
     schema: z.object({
-        title: z.string().optional(),
-        date: z.coerce.date().optional(),
-        image: z.string().optional(),
-        description: z.string().optional()
+        title: z.string(),
+        pubDate: z.coerce.date(),
+        author: z.coerce.string(),
+        image: z.string(),
+        description: z.string(),
+        photos: z.string().optional()
     }),
 });
 
 export const collections = {
     posts: postsCollection,
     meetups: meetupsCollection,
-    updats: reportsCollection,
+    reports: reportsCollection,
     interventions: interventionsCollection
 };

@@ -1,7 +1,6 @@
 ---
 import type { CollectionEntry } from 'astro:content';
 import BaseHead from "../components/BaseHead.astro";
-import GoogleAnalytics from '../components/GoogleAnalytics.astro';
 import Header from "../components/Header.astro";
 import Footer from "../components/Footer.astro";
 import "../styles/slotwrapper.css"
@@ -15,7 +14,6 @@ const { title, author, description, pubDate, photos } = Astro.props;
 	<head>
         <BaseHead title={title} description={description} date={pubDate}/>
     </head>
-    <GoogleAnalytics />
     <body>
         <Header />
         <main>

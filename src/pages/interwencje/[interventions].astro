@@ -1,0 +1,29 @@
+---
+import { getCollection, type CollectionEntry } from "astro:content"
+import ReportLayout from "../../layouts/ReportLayout.astro"
+
+export const getStaticPaths = async () => {
+    const interventions = await getCollection("interventions")
+    const paths = interventions.map(intervention => {
+        return {
+            params: {
+                interventions: intervention.slug
+            },
+            props: {
+                intervention
+            }
+        }
+    })
+    return paths
+}
+
+type Props = {
+    intervention: CollectionEntry<"interventions">
+}
+
+const { intervention } = Astro.props
+const { Content } = await intervention.render()
+---
+<ReportLayout {...intervention.data}>
+    <Content />
+</ReportLayout>

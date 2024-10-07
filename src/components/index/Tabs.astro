@@ -1,14 +1,13 @@
 ---
 import type { CollectionEntry } from "astro:content";
-import Meetup from "../MeetupLongCard.astro";
-import Report from "../ReportCard.astro";
 import Post from "../Post.astro";
 
 type Props = {
     meetups: CollectionEntry<"meetups">[];
     reports: CollectionEntry<"reports">[];
+    interventions: CollectionEntry<"interventions">[];
 }
-const { meetups, reports } = Astro.props;
+const { meetups, reports, interventions } = Astro.props;
 ---
 
 <section>
@@ -32,8 +31,13 @@ const { meetups, reports } = Astro.props;
       </div>
 
       <input class="radiotab" tabindex="1" name="tabs" type="radio" id="tabthree">
-      <label class="label label-three" for="tabthree" >Interwencje</label>
+      <label class="label label-three" for="tabthree">Interwencje</label>
       <div class="panel panel-three" tabindex="1">
+        <div class="cards">
+          <div class="cards">
+            {interventions.slice(0, 3).map((intervention) => <Post item={intervention} />)}
+          </div>
+        </div>
       </div>
     </div>
   </div>

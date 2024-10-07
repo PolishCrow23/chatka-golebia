@@ -1,7 +1,6 @@
 ---
 import BaseHead from "../components/BaseHead.astro";
 import Header from "../components/Header.astro";
-import GoogleAnalytics from "../components/GoogleAnalytics.astro";
 import Hero from "../components/index/Hero.astro";
 import BlogHighlight from "../components/index/BlogHighlight.astro";
 import Footer from "../components/Footer.astro";
@@ -18,6 +17,9 @@ const meetups = (await getCollection('meetups'))
 
 const reports = (await getCollection('reports'))
   .sort((a, b) => a.data.pubDate.valueOf() - b.data.pubDate.valueOf());
+  
+const interventions = (await getCollection('interventions'))
+  .sort((a, b) => a.data.pubDate.valueOf() - b.data.pubDate.valueOf());
 
 declare global {
   interface Window {
@@ -31,11 +33,10 @@ declare global {
 		<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} title={title} description={description} date={date}/>
 	</head>
-	<GoogleAnalytics />
 	<body>
 		<Header />
 		<Hero />
-		<Tabs meetups={meetups} reports={reports}/>
+		<Tabs meetups={meetups} reports={reports} interventions={interventions}/>
 		<Accordion/>
 		<BlogHighlight posts={posts} />
 		<Footer />
