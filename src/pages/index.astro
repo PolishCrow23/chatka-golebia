@@ -36,8 +36,8 @@ declare global {
 	<body>
 		<Header />
 		<Hero />
-		<Tabs meetups={meetups} reports={reports} interventions={interventions}/>
-		<Accordion/>
+		<Tabs meetups={meetups} reports={reports} interventions={interventions} client:load/>
+		<Accordion client:load />
 		<BlogHighlight posts={posts} />
 		<Footer />
 		<script>
