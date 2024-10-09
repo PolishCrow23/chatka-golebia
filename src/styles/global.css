@@ -68,7 +68,7 @@ body {
 }
 
 *::selection {
-    background-color: var(--peach);
+    background-color: var(--light-lavender);
   }
 
 
@@ -76,6 +76,9 @@ h1, h2, h3, h4, h5, h6 {
     font-family: "Ubuntu Condensed";
 }
 
+h2 {
+    font-family: 'Ubuntu Condensed';
+}
 
 h2 {
     font-size: 2.4rem;
@@ -145,6 +148,7 @@ a:hover {
 .button-peach {
     border: 1.5px solid var(--peach);
     background-color: var(--peach);
+    color: var(--dark-plum) !important;
 }
 
 .button-peach:hover {
@@ -155,6 +159,7 @@ a:hover {
 .button-grass {
     border: 1.5px solid var(--lavender);
     background-color: var(--lavender);
+    color: var(--dark-plum) !important;
 }
 
 .button-grass:hover {
