@@ -1,66 +1,79 @@
 <section>
     <div class="flex-container">
         <!-- <img class="background" src="/images/meta/feet-pattern.png"> -->
-        <div class=flex-item>
-            <h1>Przygarnij <span>gołębia</span> </br> pod swoje skrzydła</h1>
+        <div class="flex-item flex-item-1">
+            <h1>Przygarnij <span>Gołębia</span> </br> Pod Swoje Skrzydła</h1>
+            <p class="about">
+                Promujemy <a href="/adopcja">adopcję</a> gołębi udomowionych oraz gołębi dzikich, które przez swoją niepełnosprawność nie mogą wrócić na wolność. Jesteśmy organizatorami <a href="https://www.radiokrakow.pl/audycje/krakowianie-ratuja-golebie-akcja-sznurek-juz-w-najblizsza-sobote/">Akcji Sznurek</a>, podczas której rozplątujemy łapki gołębi ze sznurków. Powołaliśmy kampanię <a href="https://zakazkolcow.pl/">Zakaz Kolców</a>, która postuluje zakazanie montażu kolców w celu odstraszania ptaków. Działamy dzięki datkom oraz wsparciu wolontariuszy. Razem możemy więcej!
+            </p>
+            
+            <div class="button-container">
+            <a class="button button-peach" href="https://www.facebook.com/groups/783765922151332">
+                DOŁĄCZ DO GRUPY
+            </a>
+            </div>
         </div>
-        <div class="flex-item">
+        
+        <div class="flex-item flex-item-2">
                 <img class="hero-img" src="/images/index/hero.svg">
         </div>
     </div>
-    <div class="flex-container-2">
+    <!-- <div class="flex-container-2">
         <img class="about-img" src="/images/index/collage-pigeon.png">
-        <h2>O Chatce</h2>
-        <p class="about">
-            W 2024 r. została założona <a href=/o-nas>Fundacja Chatka Gołębia</a>, mająca swoją siedzibę w Małopolsce. Misją Fundacji Chatka Gołębia jest ochrona gołębi miejskich, innych ptaków żyjących w miastach oraz gołębi udomowionych. </br>Promujemy <a href="/adopcja">adopcję</a> gołębi udomowionych oraz gołębi dzikich, które przez swoją niepełnosprawność nie mogą wrócić na wolność. Jesteśmy organizatorami <a href="https://www.radiokrakow.pl/audycje/krakowianie-ratuja-golebie-akcja-sznurek-juz-w-najblizsza-sobote/">Akcji Sznurek</a>, podczas której rozplątujemy łapki gołębi ze sznurków. Powołaliśmy kampanię <a href="https://zakazkolcow.pl/">Zakaz Kolców</a>, która postuluje zakazanie montażu kolców w celu odstraszania ptaków. Działamy dzięki datkom oraz wsparciu wolontariuszy. Razem możemy więcej!
-        </p>
-        <div class="button-container">
-            <a class="button button-peach" href="https://zrzutka.pl/profile/fundacja-chatka-golebia-464519">
-                WSPÓMÓŻ NAS
-            </a>
-        </div>
+        <h2>O Chatce</h2> -->
     </div>
 </section>
 
 <style>
     section {
-        padding-inline: 8em;
-        padding-bottom: 11em;
+        padding-inline: 3%;
         background-color: var(--cream);
 
         background-image: url('/images/meta/feet-pattern.png');
         background-size: 340px;
-        background-position-x: 44%;
-        background-position-y: -8px;
+        background-position-x: 54%;
+        background-position-y: 10%;
         background-repeat: no-repeat;
         background-position: stretch;
     }
 
     .flex-container {
         display: flex; 
-        justify-content: center;
+        flex-direction: row;
+        justify-content: space-between;
         align-items: center;
-        gap: 2em;
+        gap: 4em;
 
-        max-width: 1920px;
+        max-width: 1550px;
         margin-inline: auto;
         padding-bottom: 10em;
     }
 
     .flex-item {
         flex: 1;
-        display: flex;
-        justify-content: center;
     }
+
+    .flex-item-1 {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    /* flex-item-2 {
+        flex-direction: row;
+        justify-content: flex-end;
+    } */
 
     .hero-img {
         width: 100%;
         max-width: 564px;
+        float: right;
     }
 
     h1, span {
-        font-size: calc(2vw + 2.7rem);
+        font-size: calc(1.8vw + 2.7rem);
         font-family: 'Fraunces';
+        margin-bottom: 0.5em;
     }
 
     h1 {
@@ -95,10 +108,10 @@
     }
 
     .about {
-        font-family: "Arial";
-        font-size: 2.6rem;
+        font-family: "Montserrat";
+        font-size: 2rem;
         font-weight: 500;
-        color: var(--very-dark-purple); 
+        color: var(--dark-plum); 
 
         margin-bottom: 2.5em;
     }

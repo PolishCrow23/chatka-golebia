@@ -3,6 +3,10 @@
 @import url('https://fonts.googleapis.com/css2?family=McLaren&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Galindo&family=McLaren&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+
 @font-face {
 	font-family: 'Urbanist';
 	src: url('/fonts/Urbanist/Urbanist-Bold.ttf') format('truetype');
@@ -45,7 +49,7 @@
     --lilac: #E5DCF9;
     --peach: #FFB380;
     --grass: #BBDB9B;
-    --cream: #f9e9e2;
+    --cream: #fff3ea;
 }
 
 html { 
@@ -143,28 +147,36 @@ a:hover {
     font-weight: 900;
     font-family: "Ubuntu Condensed";
     color: black;
+    border: none;
 }
 
 .button-peach {
     border: 1.5px solid var(--peach);
     background-color: var(--peach);
     color: var(--dark-plum) !important;
+    border: none;
+    transition-duration: 1s;
 }
 
 .button-peach:hover {
     background-color: var(--lavender);
     border: 1.5px solid var(--lavender);
+    background: linear-gradient(var(--peach), var(--peach), #ffd8be);
+    border: none;
+    transition-duration: 1s;
 }
 
 .button-grass {
     border: 1.5px solid var(--lavender);
     background-color: var(--lavender);
     color: var(--dark-plum) !important;
+    transition-duration: 0.3s;
 }
 
 .button-grass:hover {
     background-color: var(--peach);
     border: 1.5px solid var(--peach);
+    transition-duration: 0.3s;
 }
 
 iframe {

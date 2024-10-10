@@ -50,10 +50,10 @@ const baseSlug = item.collection === 'posts'
         align-items: center;
         max-width: 381px;
         width: 100%;
-        height: 481px;
+        height: 581px;
         border-radius: 16px;
         padding: 16px;
-        background-color: #f9e9e2;
+        background-color: #ffffff;
         box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
         transition-duration: 0.5s;
     }
@@ -82,10 +82,10 @@ const baseSlug = item.collection === 'posts'
     }
 
     .date {
-        font-family: 'Ubuntu Condensed';
+        font-family: "Montserrat";
         font-size: 1.4rem;
-        color: #342812;
         text-align: right;
+        font-weight: 500;
     }
 
     .show-more {
@@ -106,7 +106,18 @@ const baseSlug = item.collection === 'posts'
     img {
         border-radius: 8px;
         object-fit: cover;  /* This will ensure the image covers the area specified */
-        width: 347px;       /* Specify the width */
-        height: 232px;      /* Specify the height */
+        width: 380px;       /* Specify the width */
+        height: 287px;      /* Specify the height */
     }
+
+    @media  (max-width: 458px) { 
+        .card {
+            max-width: 260px;
+        }
+
+        img {
+            width: 100%;
+        }
+    }
+
 </style>

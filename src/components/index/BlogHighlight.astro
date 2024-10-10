@@ -6,17 +6,52 @@ type Props = {
     posts: CollectionEntry<"posts">[]
 }
 const { posts } = Astro.props;
+
+// Import Swiper
+import Swiper from "swiper";
+    
+    // Import Swiper modules
+    import { Navigation, FreeMode, Thumbs, Mousewheel, Autoplay } from "swiper/modules";
+    
+    // Import Swiper styles
+    import "swiper/css";
+    import "swiper/css/navigation";
+    import "swiper/css/free-mode";
+    import "swiper/css/thumbs";
 ---
 <section>
     <div class="bk">
         <a href="/blog"><h2>Poradniki</h2></a>
     </div>
+
     <div class="container"> 
-        <div class="cards-container">
-            {posts.slice(0, 3).map((post) => <Post item={post} />)}
+        <div class="swiper">
+            <!-- Additional required wrapper -->
+            <div class="swiper-wrapper">
+            <!-- Slides -->
+            <div class="swiper">
+                <div class="swiper-wrapper">
+                    <div class="swiper-slide">{posts.slice(0, 3).map((post) => <Post item={post} />)}</div>
+                    <div class="swiper-slide">{posts.slice(3, 6).map((post) => <Post item={post} />)}</div>
+                    <div class="swiper-slide">{posts.slice(6, 9).map((post) => <Post item={post} />)}</div>
+                </div>
+            </div>
+
+            </div>
+            <!-- If we need pagination -->
+
+        
+            <!-- If we need navigation buttons -->
+            <div class="swiper-button-prev"></div>
+            <div class="swiper-button-next"></div>
+        
+            <!-- If we need scrollbar -->
         </div>
-        <a class="older" href="/blog">pokaż wszystkie...</a>
+        <a href="/meetups" class="show-more">Pokaż wszystkie poradniki
+            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24"><g fill="none"><path d="M24 0v24H0V0zM12.593 23.258l-.011.002l-.071.035l-.02.004l-.014-.004l-.071-.035q-.016-.005-.024.005l-.004.01l-.017.428l.005.02l.01.013l.104.074l.015.004l.012-.004l.104-.074l.012-.016l.004-.017l-.017-.427q-.004-.016-.017-.018m.265-.113l-.013.002l-.185.093l-.01.01l-.003.011l.018.43l.005.012l.008.007l.201.093q.019.005.029-.008l.004-.014l-.034-.614q-.005-.019-.02-.022m-.715.002a.02.02 0 0 0-.027.006l-.006.014l-.034.614q.001.018.017.024l.015-.002l.201-.093l.01-.008l.004-.011l.017-.43l-.003-.012l-.01-.01z"/><path fill="currentColor" d="m15.06 5.283l5.657 5.657a1.5 1.5 0 0 1 0 2.12l-5.656 5.658a1.5 1.5 0 0 1-2.122-2.122l3.096-3.096H4.5a1.5 1.5 0 0 1 0-3h11.535L12.94 7.404a1.5 1.5 0 0 1 2.122-2.121Z"/></g></svg>
     </div>
+
+
 </section>
 
 <style>
@@ -24,10 +59,33 @@ const { posts } = Astro.props;
     section {   
         
         background-color: #ffcfac;
-        padding-bottom: 10em;
+        
         background-repeat: no-repeat;
         
     }
+
+    .swiper {
+        max-width: 1980px;
+        margin-inline: auto;
+        padding-bottom: 2em;
+    }
+
+    .swiper-wrapper {
+        margin-inline: auto;
+        max-width: 1900px;
+    }
+
+    .swiper-slide {
+        display: flex;
+        justify-content: space-around;
+        flex-wrap: wrap;
+        gap: 5em;
+    }
+
+    .swiper-button-next, .swiper-button-prev {
+    color: var(--plum);
+    
+}
 
     .bk {
 
@@ -41,10 +99,11 @@ const { posts } = Astro.props;
     }
 
     .container {
-        max-width: 1700px;
+        max-width: 1980px;
         margin-inline: auto;
         padding: 2em;
         background-color: #ffcfac;
+        padding-bottom: 10em;
     }
 
     .cards-container {
@@ -69,14 +128,18 @@ const { posts } = Astro.props;
         font-size: 2rem;
     }
 
-    .older {
-        font-size: 2.1rem;
-        font-weight: 700;
-        display: flex;
-        color: var(--plum);
-        justify-content: flex-end;
-        font-family: "Ubuntu Condensed";
-    }
+.show-more {
+    font-family: 'Ubuntu Condensed';
+    font-size: 2rem;
+    font-weight: 600;
+    color: var(--plum);
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 0.1em;
+    padding-right: 5.5em;
+}
+
       
     @media  (max-width: 758px) { 
         .cards-container {
@@ -95,3 +158,5 @@ const { posts } = Astro.props;
     }
 
 </style>
+
+<script src="/src/libs/slider-simple.js"></script>

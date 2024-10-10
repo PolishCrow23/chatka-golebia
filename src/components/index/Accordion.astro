@@ -1,9 +1,13 @@
 <section>
     <div>
+      <img class="about-img" src="/images/index/collage-pigeon.png">
+    </div>
+
+    <div>
         <div class="accordionItem">
           <div class=accordion-header>
             <h2 class="accordionTitle">Dlaczego warto adoptować gołębie?</h2>
-            <button><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24"><path fill="currentColor" d="M18 10h-4V6a2 2 0 0 0-4 0l.071 4H6a2 2 0 0 0 0 4l4.071-.071L10 18a2 2 0 0 0 4 0v-4.071L18 14a2 2 0 0 0 0-4"/></svg></button>
+            <!-- <button><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24"><path fill="currentColor" d="M18 10h-4V6a2 2 0 0 0-4 0l.071 4H6a2 2 0 0 0 0 4l4.071-.071L10 18a2 2 0 0 0 4 0v-4.071L18 14a2 2 0 0 0 0-4"/></svg></button> -->
           </div>
         
         <div class="accordionContent">
@@ -12,9 +16,22 @@
         </div>
 
         <div class="accordionItem">
-        <h2 class="accordionTitle">Co to znaczy, że gołębie miejskie są zwierzętami zdziczałymi?</h2>
+          <div class=accordion-header>
+            <h2 class="accordionTitle">Co to znaczy, że gołębie miejskie są zwierzętami zdziczałymi?</h2>
+          </div>
         <div class="accordionContent">
             <p>Gołębie miejskie są potomkami. Gołębie domowe to udomowione gołębie skalne. Gołębie domowe uciekały z hodowli lub były z nich celowo wypuszczane i tworzyły zdziczałe populacje. Gołębie skalne (dzikie) występują w odizolowanych rejonach Wielkiej Brytanii i Irlandii.</p>
+        </div>
+        </div>
+
+        <div class="accordionItem">
+          <div class=accordion-header>
+            <h2 class="accordionTitle">Jak długo żyją gołębie?</h2>
+            <!-- <button><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24"><path fill="currentColor" d="M18 10h-4V6a2 2 0 0 0-4 0l.071 4H6a2 2 0 0 0 0 4l4.071-.071L10 18a2 2 0 0 0 4 0v-4.071L18 14a2 2 0 0 0 0-4"/></svg></button> -->
+          </div>
+        
+        <div class="accordionContent">
+            <p>Badania przeprowadzone w 1990 roku w szwajcarskim mieście Basel wykazały, że jedynie 10% lub mniej obserwowanej populacji gołębi miejskich dożywało wieku ponad 4 lat. Z kolei gołębie znajdujące się pod opieką człowieka mogą żyć nawet około 30 lat.</p>
         </div>
         </div>
     </div>
@@ -23,9 +40,17 @@
   
 <style>
 
+img {
+  width: 300px;
+}
+
 section {
+    display: flex;
+    justify-content: center;
+    gap: 5em;
     background-color: var(--cream);
-    padding: 12em 4% 16em 4%;
+    padding: 0 4% 13em 4%;
+    flex-wrap: wrap;
 }
 
 .accordion-header {
@@ -35,6 +60,8 @@ section {
   color: var(--plum);
   background-color: var(--light-lavender);
   padding: 24px;
+  border-top-left-radius: 36px;
+  border-top-right-radius: 36px;
 }
 
 .accordionItem {
@@ -43,7 +70,7 @@ section {
     
     max-width: 1000px;
     margin-inline: auto;
-    cursor: pointer;
+    /* cursor: pointer; */
    
 }
 
@@ -86,6 +113,13 @@ button:active {
 .accordionTitle.is-open {
   border-bottom-left-radius: 0;
   border-bottom-right-radius: 0;
+}
+
+      
+@media  (max-width: 758px) { 
+  img {
+    width: 100%;
+  }
 }
 </style>
 
