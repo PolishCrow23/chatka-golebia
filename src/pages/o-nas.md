@@ -20,7 +20,7 @@ Działamy dzięki datkom oraz wsparciu wolontariuszy. Razem możemy więcej!
 ## Załoga Chatki
 
 <div class="flex-container flex-container-1">
-    <img class= "flex-img" src="/images/pages/o-nas/Iga-about.jpg">
+    <img class= "flex-img" src="/images/pages/o-nas/iga.jpeg">
     <div>
         <h2>Iga Spodzieja</h2>
         <p>Uwielbia gawrony! Opiekunka 15-letniej chihuahua. Ukończyła filologię rosyjską, z zawodu programistka full stack i artystka 3D (Blender❤️).</p>

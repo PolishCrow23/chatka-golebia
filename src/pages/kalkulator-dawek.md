@@ -1,11 +1,15 @@
-@hidden
+---
+layout: ../layouts/PageLayout.astro
+title: Dawki
+image: "/images/meta/hero.png"
+---
 
-<div>
+<div class="container">
 Waga ptaka <input id="weight"> gram <br>
 Zalecona dawka leku <input id="recommended_dosage"> mg/kg <br>
 Dawka leku: <span id="dosage"></span> mg
 
-<h1>Lek w płynie</h1>
+<h2>Lek w płynie</h2>
 Koncentracja leku <input id="liquid_concentration"> 
 <select id="method_of_liquid_concentration_specification">
     <option value="mg_ml">mg/ml</option>
@@ -14,10 +18,11 @@ Koncentracja leku <input id="liquid_concentration">
 </select>
 <br>
 Dawka leku w płynie: <span id="liquid_dosage"></span> ml
+</div>
 
-<h1>Tabletka</h1>
+<!-- <h1>Tabletka</h1>
 Koncentracja leku w tabletce <input id="tablet_concentration"> mg <br>
-Dawka: <span id="tablet_dosage"></span> część tabletki
+Dawka: <span id="tablet_dosage"></span> część tabletki -->
 
 <script>
 function calculate_dosages() {
@@ -51,24 +56,24 @@ function calculate_liquid() {
     }    
 }
 
-function calculate_tablet() {
-    var dosage = document.getElementById("dosage").innerHTML;
-    var tablet_concentration = document.getElementById("tablet_concentration").value;
-    if (tablet_concentration) {
-        var tablet_dosage = tablet_concentration / dosage;
+// function calculate_tablet() {
+//     var dosage = document.getElementById("dosage").innerHTML;
+//     var tablet_concentration = document.getElementById("tablet_concentration").value;
+//     if (tablet_concentration) {
+//         var tablet_dosage = tablet_concentration / dosage;
 
-        if (dosage > tablet_concentration) {
-            tablet_dosage = dosage / tablet_concentration;
-            console.log(dosage);
-            console.log(tablet_concentration);
-            console.log(tablet_dosage);
-        }
+//         if (dosage > tablet_concentration) {
+//             tablet_dosage = dosage / tablet_concentration;
+//             console.log(dosage);
+//             console.log(tablet_concentration);
+//             console.log(tablet_dosage);
+//         }
 
-        document.getElementById("tablet_dosage").innerHTML = tablet_dosage.toFixed(0);
-    } else {
-        document.getElementById("tablet_dosage").innerHTML = "0.000";
-    }
-}
+//         document.getElementById("tablet_dosage").innerHTML = tablet_dosage.toFixed(0);
+//     } else {
+//         document.getElementById("tablet_dosage").innerHTML = "0.000";
+//     }
+// }
 
 function connect_input_listener(element_id) {
     document.getElementById(element_id).addEventListener("input", function (e) {
@@ -93,13 +98,9 @@ connect_input_listener("tablet_concentration");
 
 </script>
 
-Wiek ptaka <input id="wiek"> tygodni <br>
-Waga ptaka <input id="waga"> g <br>
 
-
-
-connect_input_listener("wiek");
-connect_input_listener("waga")
-
-
-</div>
+<style>
+    .container {
+        padding-block: 2em 5em;
+    }
+</style>
