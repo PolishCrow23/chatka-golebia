@@ -20,10 +20,17 @@ const reports = (await getCollection('reports'))
   
 const interventions = (await getCollection('interventions'))
   .sort((a, b) => a.data.pubDate.valueOf() - b.data.pubDate.valueOf());
+
+// declare global {
+//   interface Window {
+//     netlifyIdentity: any;
+//   }
+// }
 ---
 
 <html lang="en">
 	<head>
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} title={title} description={description} date={date}/>
 	</head>
 	<body>
 		<Header />
