@@ -3,6 +3,7 @@ import type { CollectionEntry } from 'astro:content';
 import BaseHead from "../components/BaseHead.astro";
 import Header from "../components/Header.astro";
 import Footer from "../components/Footer.astro";
+import PiwikPro from '../components/PiwikPro.astro';
 import "../styles/slotwrapper.css"
 import FormattedDate from "../components/FormattedDate.astro";
 
@@ -15,6 +16,7 @@ const { title, author, description, pubDate, image, photos } = Astro.props;
         <BaseHead title={title} description={description} date={pubDate}/>
     </head>
     <body>
+        <PiwikPro />
         <Header />
         <main>
             <div class = "post">

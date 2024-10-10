@@ -1,7 +1,11 @@
 <section>
     <div>
         <div class="accordionItem">
-        <h2 class="accordionTitle">Dlaczego warto adoptować gołębie?</h2>
+          <div class=accordion-header>
+            <h2 class="accordionTitle">Dlaczego warto adoptować gołębie?</h2>
+            <button><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24"><path fill="currentColor" d="M18 10h-4V6a2 2 0 0 0-4 0l.071 4H6a2 2 0 0 0 0 4l4.071-.071L10 18a2 2 0 0 0 4 0v-4.071L18 14a2 2 0 0 0 0-4"/></svg></button>
+          </div>
+        
         <div class="accordionContent">
             <p>Gołębie są świetnymi zwierzakami domowymi! Doskonale odnajdują się w towarzystwie ludzi, mają nieskomplikowaną dietę oraz delikatne dzioby i pazury (nie niszczą mebli).</p>
         </div>
@@ -24,21 +28,51 @@ section {
     padding: 12em 4% 16em 4%;
 }
 
+.accordion-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: var(--plum);
+  background-color: var(--light-lavender);
+  padding: 24px;
+}
+
 .accordionItem {
-    background-color: var(--lavender);
-    margin-block: 1em;
-    padding: 2%;
-    border-radius: 16px;
+
+    margin-block: 3em;
+    
     max-width: 1000px;
     margin-inline: auto;
+    cursor: pointer;
+   
 }
+
+button {
+  padding: 10px;
+  border-radius: 22px;
+  border: none;
+  cursor: pointer;
+  color: var(--plum);
+}
+
+button:active {
+  transform: scale(.9);
+}
+
 
 .accordionContent {
   padding-top: 2em;
+  background-color: white;
+  border-bottom-left-radius: 60px;
+  border-bottom-right-radius: 60px;
+  padding: 24px;
 }
 
 .accordionTitle {
-  cursor: pointer;
+  
+  
+  
+  border-radius: 60px;
 }
 
 .accordionTitle + .accordionContent {
@@ -48,24 +82,27 @@ section {
 .accordionTitle.is-open + .accordionContent {
   display: block;
 }
+
+.accordionTitle.is-open {
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
 </style>
 
 <script>
-  document.addEventListener("DOMContentLoaded", () => {
-    const accordionTitles = document.querySelectorAll(".accordionTitle");
+  const accordionTitles = document.querySelectorAll(".accordionTitle");
 
-    accordionTitles.forEach((accordionTitle) => {
-      accordionTitle.addEventListener("click", () => {
-        if (accordionTitle.classList.contains("is-open")) {
-          accordionTitle.classList.remove("is-open");
-        } else {
-          const accordionTitlesWithIsOpen = document.querySelectorAll(".is-open");
-          accordionTitlesWithIsOpen.forEach((accordionTitleWithIsOpen) => {
-            accordionTitleWithIsOpen.classList.remove("is-open");
-          });
-          accordionTitle.classList.add("is-open");
-        }
-      });
+  accordionTitles.forEach((accordionTitle) => {
+    accordionTitle.addEventListener("click", () => {
+      if (accordionTitle.classList.contains("is-open")) {
+        accordionTitle.classList.remove("is-open");
+      } else {
+        const accordionTitlesWithIsOpen = document.querySelectorAll(".is-open");
+        accordionTitlesWithIsOpen.forEach((accordionTitleWithIsOpen) => {
+          accordionTitleWithIsOpen.classList.remove("is-open");
+        });
+        accordionTitle.classList.add("is-open");
+      }
     });
   });
 </script>

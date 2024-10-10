@@ -3,6 +3,7 @@ import BaseHead from "../components/BaseHead.astro"
 import Header from "../components/Header.astro"
 import Footer from "../components/Footer.astro"
 import "../styles/slotwrapper.css"
+import PiwikPro from "../components/PiwikPro.astro"
 
 const { frontmatter } = Astro.props;
 ---
@@ -12,6 +13,7 @@ const { frontmatter } = Astro.props;
         <BaseHead title={frontmatter.title} description={frontmatter.description} date={frontmatter.date}/>
     </head>
     <body>
+        <PiwikPro />
         <Header />
         <main>
             <div class = "post">

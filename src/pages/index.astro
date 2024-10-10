@@ -6,6 +6,7 @@ import BlogHighlight from "../components/index/BlogHighlight.astro";
 import Footer from "../components/Footer.astro";
 import Accordion from "../components/index/Accordion.astro";
 import Tabs from "../components/index/Tabs.astro"
+import PiwikPro from "../components/PiwikPro.astro";
 import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
 const { title, description, date, pubDate } = Astro.props;
 
@@ -33,10 +34,11 @@ const interventions = (await getCollection('interventions'))
 		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} title={title} description={description} date={date}/>
 	</head>
 	<body>
+	<PiwikPro />
 		<Header />
 		<Hero />
 		<Tabs meetups={meetups} reports={reports} interventions={interventions} />
-		<Accordion />
+		<!-- <Accordion /> -->
 		<BlogHighlight posts={posts} />
 		<Footer />
 	</body>
