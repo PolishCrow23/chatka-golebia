@@ -1,24 +1,24 @@
 ---
-import BaseHead from "../components/BaseHead.astro"
-import Header from "../components/Header.astro"
-import Footer from "../components/Footer.astro"
-import "../styles/slotwrapper.css"
-import PiwikPro from "../components/PiwikPro.astro"
+import BaseHead from "../components/BaseHead.astro";
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
+import "../styles/slotwrapper.css";
+import PiwikPro from "../components/PiwikPro.astro";
 
-const { frontmatter } = Astro.props;
+const { frontmatter = {}, title, description, date, maxWidth = '720px'} = Astro.props ;
 ---
 
 <html lang="en">
-	<head>
-        <BaseHead title={frontmatter.title} description={frontmatter.description} date={frontmatter.date}/>
+    <head>
+        <BaseHead title={frontmatter.title || title} description={frontmatter.description || description} date={frontmatter.date || date} />
     </head>
     <body>
         <PiwikPro />
         <Header />
         <main>
-            <div class = "post">
-                <div class = "title">
-                    <h1>{frontmatter.title}</h1>
+            <div class="post" style={`max-width: ${maxWidth};`}>
+                <div class="title">
+                    <h1>{frontmatter.title || title}</h1>
                 </div>
                 <div class="slot-wrapper">
                     <slot />
@@ -27,8 +27,7 @@ const { frontmatter } = Astro.props;
         </main>
         <Footer />
     </body>
-    </head>
-
+</html>
 
 <style>
     .title {
@@ -42,4 +41,5 @@ const { frontmatter } = Astro.props;
         font-size: 3.6rem;
         color: var(--dark-plum);
     }
+
 </style>

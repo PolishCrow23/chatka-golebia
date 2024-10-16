@@ -20,7 +20,7 @@ Działamy dzięki datkom oraz wsparciu wolontariuszy. Razem możemy więcej!
 ## Załoga Chatki
 
 <div class="flex-container flex-container-1">
-    <img class= "flex-img" src="/images/pages/o-nas/iga.jpeg">
+    <img class= "flex-img" src="/images/pages/o-nas/Iga.jpg">
     <div>
         <h2>Iga Spodzieja</h2>
         <p>Uwielbia gawrony! Opiekunka 15-letniej chihuahua. Ukończyła filologię rosyjską, z zawodu programistka full stack i artystka 3D (Blender❤️).</p>
@@ -28,7 +28,7 @@ Działamy dzięki datkom oraz wsparciu wolontariuszy. Razem możemy więcej!
 </div>
 
 <div class="flex-container">
-    <img class="flex-img" src="/images/pages/o-nas/Darek-about.jpg">
+    <img class="flex-img" src="/images/pages/o-nas/Dariusz.jpg">
     <div>
         <h2>Dariusz Grochal</h2>
         <p>Opiekun Siwej i Hermana. Trochę pisze, dużo fotografuje, jeszcze więcej czyta a najwięcej czasu spędza na działce, usługując swoim gołębiom.</p>
@@ -40,6 +40,14 @@ Działamy dzięki datkom oraz wsparciu wolontariuszy. Razem możemy więcej!
     <div>
         <h2>Wika Kędzierska</h2>
         <p>Na co dzień studentka kierunku lekarskiego. Prywatnie opiekunka całkiem sporego stada porzuconych i kalekich gołębi, jak również nielotnych mew rozpieszczonych do granic możliwości 🙂</p>
+    </div>
+</div>
+
+<div class="flex-container">
+    <img class="flex-img" src="/images/pages/o-nas/Tomasz.jpg">
+    <div>
+        <h2>Tomasz Plasa</h2>
+        <p>Gości 11 gatunków ptaków na swoim balkonie.  Ekonomista i menedżer.  Lubi góry, o każdej porze roku.</p>
     </div>
 </div>
 

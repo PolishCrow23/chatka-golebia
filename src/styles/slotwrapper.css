@@ -1,13 +1,9 @@
 .slot-wrapper a {
-    color: var(--black);
-    border-bottom: solid 4px var(--peach);
-    transition: 0.1s;
+    color: var(--lavender);
 }
 
 .slot-wrapper a:hover {
-    color: var(--black);
-    border-bottom: solid 6px var(--peach);
-    transition: 0.1s;
+    color: var(--light-lavender);
 }
 
 .slot-wrapper ul {
@@ -40,7 +36,7 @@
 
 main {
     padding-block: 4em 6em;
-    padding-inline: 2%;
+    padding-inline: 3%;
 }
 .post {
     max-width: 720px;

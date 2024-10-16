@@ -1,0 +1,33 @@
+---
+import PageLayout from "../layouts/PageLayout.astro";
+import SponsorCard from "../components/SponsorCard.astro";
+
+const title = "Sponsorzy i partnerzy";
+const description = "Nasi sponsorzy i partnerzy";
+---
+
+<PageLayout title={title} description={description} maxWidth={'900px'}> 
+    <h2>Partnerzy</h2>
+    <div class="grid-container">
+        <SponsorCard href="https://www.facebook.com/przychodniasalamandrakrakow" src="/images/pages/sponsorzy/Salamandra.png" alt={"Przychodnia Weterynaryjna Salamandra"}/>
+
+        <SponsorCard href="https://www.facebook.com/przychodniasalamandrakrakow" src="/images/pages/sponsorzy/Lucyna-Kontna.png" alt={"Przychodnia Weterynaryjna Salamandra"}/>
+    </div>
+
+    <h2>Sponsorzy</h2>
+    <ul>
+        <li>Kinga Włodarska</li>
+    </ul>
+</PageLayout>
+
+<style>
+    .grid-container {
+        display: grid;
+        align-items: center;
+        justify-items: center;
+        gap: 1rem;
+        grid-template-columns: 
+            repeat(auto-fit,
+                minmax(min(24rem, 100%), 1fr));
+        };
+</style>

@@ -1,0 +1,38 @@
+---
+const { href, src, alt } = Astro.props;
+---
+<a href={href}>
+<div class="box-shadow">
+    <img 
+    src={src}
+    alt={alt}
+    >
+</div>
+</a>
+
+<style>
+    div {
+        background-color: white;
+        width: 100%;
+        max-height: 260px;
+        aspect-ratio: 1 / 1;
+        padding: 2px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius: 36px;
+        -webkit-transition: transform 0.4s;
+    }
+
+    div:hover {
+        transform: scale(.98);
+        -webkit-transition: transform 0.4s;
+    }
+
+    img {
+        width: 100%;
+        height: auto;
+        margin: 0;
+    }
+
+</style>
