@@ -224,7 +224,7 @@ nav {
         position: static;
         padding-inline: 0;
         box-shadow: 0 0 0;
-        background-color: white;
+        background-color: rgba(255, 255, 255, 0);
         pointer-events: all;
 }
 
@@ -281,19 +281,26 @@ nav {
 </style>
 
 <script>
-const toggle = document.querySelector('.toggle-class');
-const nav = document.querySelector('nav'); // or the appropriate selector
+document.addEventListener('DOMContentLoaded', () => {
+  const showMenu = (toggleId: string, navId: string) => {
+    const toggle = document.getElementById(toggleId);
+    const nav = document.getElementById(navId);
 
-// Check if both elements exist
-if (toggle && nav) {
-    toggle.addEventListener('click', () => {
+    // Check if both toggle and nav exist before adding event listeners
+    if (toggle && nav) {
+      toggle.addEventListener('click', () => {
         // Add show-menu class to nav menu
         nav.classList.toggle('show-menu');
 
         // Add show-icon to show and hide the menu icon
         toggle.classList.toggle('show-icon');
-    });
-} else {
-    console.log('Either toggle or nav is missing, skipping event listener setup.');
-}
+      });
+    } else {
+      console.log('Toggle or nav element not found');
+    }
+  };
+
+  // Initialize the showMenu function
+  showMenu('nav-toggle', 'nav-menu');
+});
 </script>
