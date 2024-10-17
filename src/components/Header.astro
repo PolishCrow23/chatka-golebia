@@ -281,20 +281,19 @@ nav {
 </style>
 
 <script>
-    const showMenu = (toggleId, navId) =>{
-    const toggle = document.getElementById(toggleId),
-            nav = document.getElementById(navId)
+const toggle = document.querySelector('.toggle-class');
+const nav = document.querySelector('nav'); // or the appropriate selector
 
-    toggle.addEventListener('click', () =>{
+// Check if both elements exist
+if (toggle && nav) {
+    toggle.addEventListener('click', () => {
         // Add show-menu class to nav menu
-        nav.classList.toggle('show-menu')
+        nav.classList.toggle('show-menu');
 
         // Add show-icon to show and hide the menu icon
-        toggle.classList.toggle('show-icon')
-    })
-    }
-
-    showMenu('nav-toggle','nav-menu')
-    
-
+        toggle.classList.toggle('show-icon');
+    });
+} else {
+    console.log('Either toggle or nav is missing, skipping event listener setup.');
+}
 </script>
