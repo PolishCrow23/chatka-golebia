@@ -16,8 +16,8 @@ const headerStyle = backgroundColor
     </div>
 
     <div class="text">
-        <navigation>
-            <a href="/"><div class="logo-div">
+        <nav>
+            <a href="/"><div class="logo-div item1">
                 <img class="logo" src="/images/meta/logo.png">
             </div></a>
             <div class="links">
@@ -25,94 +25,234 @@ const headerStyle = backgroundColor
                     <a class="button button-peach" href='/'>ZNALAZŁEM GOŁĘBIA</a>
                     <a class="button button-grass" href='https://zrzutka.pl/profile/fundacja-chatka-golebia-464519'>WSPOMÓŻ NAS</a>
                 </div>
-                <ul class="internal-links">
-                    <li><a href="/o-nas">O nas</a></li>
-                    <li><a href="/adopcja">Adopcja</a></li>              
-                    <li><a href="/meetups">Aktualności</a></li>
-                    <li><a href="/blog">Poradniki</a></li>
-                    <li><a href="/kalkulator-dawek">Kalkulator dawek</a></li>
-                    <li><a href="/kontakt">Kontakt</a></li>         
-                </ul>
+                <button id="nav-toggle" class="nav-button"><svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 15 15"><path fill="currentColor" fill-rule="evenodd" d="M1.5 3a.5.5 0 0 0 0 1h12a.5.5 0 0 0 0-1zM1 7.5a.5.5 0 0 1 .5-.5h12a.5.5 0 0 1 0 1h-12a.5.5 0 0 1-.5-.5m0 4a.5.5 0 0 1 .5-.5h12a.5.5 0 0 1 0 1h-12a.5.5 0 0 1-.5-.5" clip-rule="evenodd"/></svg></button>
+                
+                <div id="nav-menu" class="nav-menu">
+                    <ul class="nav-list">
+                        <li><a href="/o-nas">O nas</a></li>
+                        <li><a href="/adopcja">Adopcja</a></li>              
+                        <li><a href="/meetups">Aktualności</a></li>
+                        <li><a href="/blog">Poradniki</a></li>
+                        <li><a href="/kalkulator-dawek">Kalkulator dawek</a></li>
+                        <li><a href="/sponsorzy">Sponsorzy</a></li>
+                        <li><a href="/kontakt">Kontakt</a></li>         
+                    </ul>
+                </div>
             </div>
             </div>
-        </navigation>
+        </nav>
     </div>
 </header>
 
 <style>
 
-    header {
-        background-image: url('/images/meta/header/background-top.svg');
-        background-repeat: no-repeat;
-        background-position: 50% 102%;
-        background-size: cover;
-        background-color: var(--cream);
-        padding-bottom: 160px;
+header {
+    background-image: url('/images/meta/header/background-top-mobile.svg');
+    background-repeat: no-repeat;
+    background-position: 50% 102%;
+    background-size: cover;
+    background-color: white;
+}
+
+a {
+    font-weight: 700;
+}
+
+.social-links-container {
+    display: flex;
+    justify-content: flex-end;
+    padding-inline: 5%;
+    background-color: var(--lavender);
+}
+
+.buttons {
+    display: none;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 1.5em;
+}
+
+.button {
+    color: black;
+    padding: 14px;
+    font-size: 2rem;
+}
+
+.links {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5em;
+}
+
+.nav-menu {
+    font-family: "Ubuntu Condensed";
+    position: absolute; 
+    left: 0;
+    background-color: var(--cream);
+    width: 100%;
+    pointer-events: none;
+    overflow: auto;
+    opacity: 0; 
+    /* transition: 0.3s; */
+    font-size: 2.6rem; 
+    top: 21.8rem;
+    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.2);
+}
+
+.show-menu {
+    opacity: 1;
+    pointer-events: initial;
     }
 
-    a {
-        font-weight: 700;
+.nav-menu a {
+    padding: 1em 2em;
+    color: var(--plum);
+    border-bottom: 1px solid #eacec9;
+}
+
+.nav-menu a:hover {
+    color: var(--peach);
+}
+
+.logo {
+    max-width: 160px;
+    width: auto;
+}
+
+.logo-div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1.5em;
+}
+
+nav {
+    flex-direction: row;
+    padding-inline: 3%;
+    padding-block: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 1.5em;
+}
+
+.nav-list {
+    display: flex;
+    flex-direction: column;
+}
+
+.nav-list a {
+    display: block;
+    width: 100%;
+}
+
+    .links a {
+        color: var(--white);
     }
 
-    .social-links-container {
-        display: flex;
-        justify-content: flex-end;
-        padding-inline: 70px;
-        background-color: var(--lavender);
-    }
-
-    .buttons {
-        display: flex;
-        justify-content: flex-end;
-        gap: 34px;
-    }
-
-    .button {
-        color: black;
-    }
-
-    .links {
-        display: flex;
-        flex-direction: column;
-        gap: 30px;
-    }
-
-    .internal-links {
-        font-family: "Ubuntu Condensed";
-        display: flex;
-        flex-direction: row;
-        flex-wrap: wrap;
-        justify-content: space-between;
-        gap: 2em;
-
-        font-size: 2.6rem;
-    }
-
-    .internal-links a {
+    .nav-button {
+        border: none;
+        background-color: rgba(255, 255, 255, 0);
         color: var(--plum);
     }
 
-    .internal-links a:hover {
-        color: var(--peach);
+    /* Show menu */
+
+
+/* Larger screens (e.g., tablets) */
+@media (min-width: 468px) {
+
+
+    nav {
+        display: flex;
+        flex-direction: row;
+        gap: 20px;
+    }
+
+    .links {
+        gap: 30px;
+    }
+
+    .nav-menu {
+        font-size: 2.6rem; 
+    }
+}
+
+@media (min-width: 760px) {
+    header {
+        padding-bottom: 180px;
+        background-image: url('/images/meta/header/background-top.svg');
+        box-shadow: 0 0 0;
+    }
+
+    .social-links-container {
+        padding-inline: 70px;
+    }
+
+  nav {
+    padding-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .links {
+    align-items: center;
+  }
+
+  .buttons {
+        display: flex;
+        gap: 34px;
     }
 
     .logo {
-        max-height: 244px;
-        position: absolute;
-        top: 96px;
-        width: auto;
+        max-width: 244px; 
+        
     }
 
-    .logo-text {
-        height: 116px;
+    .button {
+        font-size: 2.6rem;
+        padding: 18px;
     }
 
-    navigation {
-        padding-inline: calc(6vw + 0.1rem);
-        padding-top: 40px;
-        margin-inline: auto;
-
+    .nav-menu {
+        font-family: "Ubuntu Condensed";
         display: flex;
+        opacity: 1;
+        position: static;
+        font-size: 2.6rem;
+        position: static;
+        padding-inline: 0;
+        box-shadow: 0 0 0;
+        background-color: white;
+        pointer-events: all;
+}
+
+.nav-list {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 1em;
+}
+
+.nav-list a {
+    padding: 0;
+    border: none;
+}
+
+.nav-button {
+    display: none;
+}
+}
+
+/* Larger screens (e.g., desktops) */
+@media (min-width: 1320px) {
+    nav {
+        padding-inline: calc(6vw + 0.1rem);
+        padding-top: 60px;
+        margin-inline: auto;
+        flex-direction: row;
         justify-content: space-between;
         align-items: center;
         gap: 20px;
@@ -120,46 +260,41 @@ const headerStyle = backgroundColor
         background: 70% 50% no-repeat url("/images/index/wave-copy.png");
     }
 
-    navigation .internal-links {
-        color: var(--dark-purple);
-        flex-wrap: wrap;
+    header {
+        padding-bottom: 160px;
     }
 
+    .buttons {
+        margin-left: auto;
+    }
     .logo-div {
-        display: flex;
-        align-items: center;
+        flex-direction: row; /* Row layout for desktop */
         gap: 2em;
     }
 
-	@media  (max-width: 1320px) {
+    .logo {
+        position: absolute;
+        top: 90px;
+        max-width: 260px;
+}
+}
+</style>
 
-        navigation {
-            flex-direction: column;
-            padding-inline: 2%;
-        }
-        .buttons {
-            justify-content: center;
-            flex-wrap: wrap;
-            gap: 1em;
-        }
+<script>
+    const showMenu = (toggleId, navId) =>{
+    const toggle = document.getElementById(toggleId),
+            nav = document.getElementById(navId)
 
-        .internal-links {
-            margin-block: 1.5em;
-        }
+    toggle.addEventListener('click', () =>{
+        // Add show-menu class to nav menu
+        nav.classList.toggle('show-menu')
 
-        h1 {
-            font-size: calc(2.8vw + 2.5rem)
-        }
-
-        .logo {
-            position: static;
-            width: 100%;
-        }
-
-	}
-
-    @media  (max-width: 468px) {
-        .logo-div {
-            flex-direction: column;
-        }
+        // Add show-icon to show and hide the menu icon
+        toggle.classList.toggle('show-icon')
+    })
     }
+
+    showMenu('nav-toggle','nav-menu')
+    
+
+</script>
