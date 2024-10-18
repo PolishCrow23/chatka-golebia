@@ -30,7 +30,12 @@
 }
 
 .slot-wrapper h2 {
-    font-size: 2.4rem;
+    font-size: 2.8rem;
+    margin-block: 1.2em 0.8em;
+}
+
+.slot-wrapper h3 {
+    font-size: 2.2rem;
     margin-block: 1.2em 0.8em;
 }
 

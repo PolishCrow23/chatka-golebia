@@ -2,7 +2,7 @@
 import PageLayout from "../layouts/PageLayout.astro";
 import SponsorCard from "../components/SponsorCard.astro";
 
-const title = "Sponsorzy i partnerzy";
+const title = "Partnerzy i patroni";
 const description = "Nasi sponsorzy i partnerzy";
 ---
 
@@ -11,10 +11,11 @@ const description = "Nasi sponsorzy i partnerzy";
     <div class="grid-container">
         <SponsorCard href="https://www.facebook.com/przychodniasalamandrakrakow" src="/images/pages/sponsorzy/Salamandra.png" alt={"Przychodnia Weterynaryjna Salamandra"}/>
 
-        <SponsorCard href="https://www.facebook.com/przychodniasalamandrakrakow" src="/images/pages/sponsorzy/Lucyna-Kontna.png" alt={"Przychodnia Weterynaryjna Salamandra"}/>
+        <SponsorCard href="https://www.kontna.pl/" src="/images/pages/sponsorzy/Lucyna-Kontna.png" alt={"Przychodnia Weterynaryjna Salamandra"}/>
     </div>
 
-    <h2>Sponsorzy</h2>
+    <h2>Patroni</h2>
+    <a href="https://patronite.pl/Chatka_Golebia"><h3>Zostań naszym patronem!</h3></a>
     <ul>
         <li>Kinga Włodarska</li>
     </ul>
@@ -29,5 +30,6 @@ const description = "Nasi sponsorzy i partnerzy";
         grid-template-columns: 
             repeat(auto-fit,
                 minmax(min(24rem, 100%), 1fr));
-        };
+        padding-block: 2em;
+    }
 </style>

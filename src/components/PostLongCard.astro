@@ -18,7 +18,8 @@ let text = shortenedBody + tripleDot;
     <a class="grid-title" href={`/blog/${post.slug}`}>
         <h2 class="title">{post.data.title}</h2>
     </a>
-    <p class="description">{post.data.longDescription}</p>
+    <span class="date">{post.data.pubDate && <FormattedDate date={post.data.pubDate} />}</span>
+    <p class="description">{post.data.description}</p>
  
     <a class="show-more" href={`/blog/${post.slug}`}>
         czytaj więcej...
@@ -87,10 +88,6 @@ let text = shortenedBody + tripleDot;
     h3 {
         font-size: 2rem;
     }
-    .description {
-        font-size: 1.4rem;
-        fill: var(--gray);
-    }
 
     .show-more {
         margin-left: auto;
@@ -101,7 +98,7 @@ let text = shortenedBody + tripleDot;
     }
     
     .description {
-        font-size: 1.8rem;
+        font-size: 2rem;
         line-height: 24px;
         margin-block: 10px 2px;
     }
