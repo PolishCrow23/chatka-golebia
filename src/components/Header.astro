@@ -80,6 +80,7 @@ a {
 .links {
     display: flex;
     flex-direction: column;
+    justify-content: space-between;
     gap: 1.5em;
 }
 
@@ -91,22 +92,21 @@ a {
     width: 100%;
     pointer-events: none;
     overflow: auto;
-    opacity: 0; 
-    /* transition: 0.3s; */
-    font-size: 2.6rem; 
-    top: 21.8rem;
+    display: grid; 
+    grid-template-rows: 0fr;
+    transition: 0.3s grid-template-rows ease;
+    top: 18.1rem;
     box-shadow: 0 10px 10px rgba(0, 0, 0, 0.2);
 }
 
 .show-menu {
-    opacity: 1;
+    grid-template-rows: 1fr;
     pointer-events: initial;
     }
 
 .nav-menu a {
     padding: 1em 2em;
-    color: var(--plum);
-    border-bottom: 1px solid #eacec9;
+    text-align: center;
 }
 
 .nav-menu a:hover {
@@ -131,13 +131,14 @@ nav {
     padding-block: 8px;
     display: flex;
     align-items: center;
-    justify-content: space-around;
+    justify-content: space-between;
     gap: 1.5em;
 }
 
 .nav-list {
     display: flex;
     flex-direction: column;
+    overflow: hidden;
 }
 
 .nav-list a {
@@ -161,19 +162,34 @@ nav {
 /* Larger screens (e.g., tablets) */
 @media (min-width: 468px) {
 
+    nav {
+        position: relative;
+    }
 
+    .buttons {
+        position: absolute;;
+        display: flex;
+        flex-direction: column;
+        gap: 1em;
+        top: 15%;
+        left: 42%;
+    }
     nav {
         display: flex;
         flex-direction: row;
+        justify-content: space-between;
+        padding-inline: 6%;
         gap: 20px;
     }
 
     .links {
-        gap: 30px;
+        flex-direction: row;
+        gap: 1em;
+       
     }
 
     .nav-menu {
-        font-size: 2.6rem; 
+        font-size: 2.2rem; 
     }
 }
 
@@ -189,6 +205,7 @@ nav {
     }
 
   nav {
+    position: static;
     padding-top: 20px;
     display: flex;
     flex-direction: column;
@@ -197,12 +214,14 @@ nav {
 
   .links {
     align-items: center;
+    flex-direction: column;
+    gap: 34px;
   }
 
   .buttons {
-        display: flex;
-        gap: 34px;
-    }
+    position: static;
+    flex-direction: row;
+  }
 
     .logo {
         max-width: 244px; 
@@ -265,7 +284,10 @@ nav {
 
     .buttons {
         margin-left: auto;
+        gap: 34px;
     }
+
+
     .logo-div {
         flex-direction: row; /* Row layout for desktop */
         gap: 2em;
