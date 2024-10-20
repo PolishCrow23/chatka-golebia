@@ -43,10 +43,6 @@ main {
     padding-block: 4em 6em;
     padding-inline: 3%;
 }
-.post {
-    max-width: 720px;
-    margin: 0 auto;
-}
 
 .post h1 {
     text-align: center;

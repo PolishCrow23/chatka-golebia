@@ -1,11 +1,11 @@
 ---
 import type { CollectionEntry } from 'astro:content';
-import BaseHead from "../components/BaseHead.astro";
-import Header from "../components/Header.astro";
-import Footer from "../components/Footer.astro";
-import PiwikPro from '../components/PiwikPro.astro';
+import BaseHead from "../components/essentials/BaseHead.astro";
+import Header from "../components/essentials/Header.astro";
+import Footer from "../components/essentials/Footer.astro";
+import PiwikPro from "../components/essentials/PiwikPro.astro";
 import "../styles/slotwrapper.css"
-import FormattedDate from "../components/FormattedDate.astro";
+import FormattedDate from "../components/essentials/FormattedDate.astro";
 
 const { title, author, description, pubDate, image, photos } = Astro.props;
 // type Props = CollectionEntry<'reports'>['data'];

@@ -1,6 +1,7 @@
 ---
 import { getCollection, type CollectionEntry } from "astro:content"
 import ReportLayout from "../../layouts/ReportLayout.astro"
+import ReportCard from "../../components/ReportCard.astro"
 
 export const getStaticPaths = async () => {
     const reports = await getCollection("reports")

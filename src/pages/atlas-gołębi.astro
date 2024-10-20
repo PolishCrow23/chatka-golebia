@@ -3,11 +3,11 @@ import BaseHead from "../components/essentials/BaseHead.astro";
 import Header from "../components/essentials/Header.astro";
 import Footer from "../components/essentials/Footer.astro";
 import { getCollection } from "astro:content"
-import Post from "../components/Post.astro";
 import PostLongCard from "../components/PostLongCard.astro";
+import Post from "../components/Post.astro";
 const { title, description, date } = Astro.props;
 
-const posts = await getCollection("posts");
+const posts = await getCollection("pigeons");
 ---
 
 <html lang="en">
@@ -15,12 +15,19 @@ const posts = await getCollection("posts");
         <BaseHead title={title} description={description} date={date}/>
 	</head>
     <body>
-        <Header backgroundColor="rgb(246, 196, 159)"/>
+        <Header backgroundColor="rgb(229, 220, 249)"/>
         <main>
             <section>
-                <h1>Poradniki</h1>
+                <h1>Atlas gołębi</h1>
+                <div class="buttons">
+                    <a href="#" class="button button-peach">Występowanie</a>
+                    <a href="#" class="button button-peach">Habitat</a>
+                    <a href="#" class="button button-peach">Wymiary</a>
+                    <a href="#" class="button button-peach">Dieta</a>
+                </div>
                 <div class="cards-container">
-                    {posts.map((post) => <PostLongCard item={post}/>)}
+                    {posts.map((post) => <Post item={post}/>)}
+                </div>
             </section>
             </div>
         </main>
@@ -36,19 +43,27 @@ const posts = await getCollection("posts");
         font-family: "Ubuntu Condensed";
     }
 
+    .buttons {
+        display: flex;
+        justify-content: center;
+        gap: 2em;
+        padding-block: 2em;
+    }
+
     body {
-        background-color: rgb(246, 196, 159);
+        background-color: white;
     }
 
     main {
-        margin: 8em 3% 14em;
+        padding: 8em 3% 14em;
+        background-color: var(--lilac);
     }
 
     section {
         max-width: 1760px;
         margin-inline: auto;
     }
-
+    
     div {
         margin: 0 auto;
     }
@@ -64,6 +79,10 @@ const posts = await getCollection("posts");
         row-gap: 40px;
         column-gap: 40px;
         justify-items: center;
+}
+
+img {
+    width: 100%;
 }
 
 

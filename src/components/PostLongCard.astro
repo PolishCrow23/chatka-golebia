@@ -1,34 +1,37 @@
 ---
 import { type CollectionEntry } from "astro:content";
-import FormattedDate from "./FormattedDate.astro";
+import FormattedDate from "./essentials/FormattedDate.astro";
 
 type Props = {
-    post: CollectionEntry<"posts">
+    item: CollectionEntry<"posts" | "pigeons">
 }
 
-const { post } = Astro.props
-let words = post.body.split(' ').slice(0, 66);
-let shortenedBody = words.join(' ');
-let tripleDot = '...';
-let text = shortenedBody + tripleDot;
+const { item } = Astro.props;
+
+const baseSlug = item.collection === 'posts' 
+    ? 'blog' 
+    : item.collection === 'pigeons' 
+    ? 'atlas-gołębi' 
+    : '';  
 ---
 
 <div class="post-card">
     <div class="flex1">
-    <a class="grid-title" href={`/blog/${post.slug}`}>
-        <h2 class="title">{post.data.title}</h2>
+    <a class="grid-title" href={`/${baseSlug}/${item.slug}`}>
+        <h2 class="title">{item.data.title}</h2>
+        <h2 class="species pigeon-info">{item.data.species}</h2>
     </a>
-    <span class="date">{post.data.pubDate && <FormattedDate date={post.data.pubDate} />}</span>
-    <p class="description">{post.data.description}</p>
+    <!-- <span class="date">{item.data.pubDate && <FormattedDate date={item.data.pubDate} />}</span> -->
+    <p class="description">{item.data.longDescription}</p>
  
-    <a class="show-more" href={`/blog/${post.slug}`}>
+    <a class="show-more" href={`/${baseSlug}/${item.slug}`}>
         czytaj więcej...
     </a>
     </div>
 
     <div class="flex2">
-        <a class="grid-img" href={`/blog/${post.slug}`}>
-            <img src ={post.data.image} width={312} height={232} alt={post.data.title}/>
+        <a class="grid-img" href={`/${baseSlug}/${item.slug}`}>
+            <img src ={item.data.image} width={300} height={300} alt={item.data.title}/>
         </a>
     </div>
 
@@ -44,8 +47,8 @@ let text = shortenedBody + tripleDot;
         gap: 10px;
         
         width: 100%;
-        max-width: 740px;
-        min-height: 351px;
+        max-width: 780px;
+        min-height: 300px;
         padding: 16px;
 
         border-radius: 16px;
@@ -64,8 +67,17 @@ let text = shortenedBody + tripleDot;
     .title {
         color: var(--plum);
         font-weight: 700;
+        margin-bottom: 0.2em;
     } 
 
+    .species {
+        font-style: italic;
+    }
+
+    .pigeon-info {
+        font-size: 1.6rem;
+        margin-bottom: 0.2em;
+    }
 
     .flex1 {
         margin-block: 10px;

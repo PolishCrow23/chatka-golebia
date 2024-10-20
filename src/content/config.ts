@@ -42,9 +42,22 @@ const interventionsCollection = defineCollection({
     }),
 });
 
+const pigeonsCollection = defineCollection({
+    schema: z.object({
+        title: z.string(),
+        species: z.string(),
+        distribution: z.string(),
+        habitat: z.string(),
+        diet: z.string(),
+        image: z.string(),
+        description: z.string(),
+    }),
+});
+
 export const collections = {
     posts: postsCollection,
     meetups: meetupsCollection,
     reports: reportsCollection,
-    interventions: interventionsCollection
+    interventions: interventionsCollection,
+    pigeons: pigeonsCollection
 };

@@ -9,6 +9,9 @@ const headerStyle = backgroundColor
 
 <header style={headerStyle}>
     <div class="social-links-container">
+        <div class=>
+            <!-- <a href="#" id="newsletter">ZAPISZ SIĘ DO NASZEGO NEWSLETTERA</a> -->
+        </div>
         <div>
             <SocialLinks />
         </div>
@@ -33,6 +36,7 @@ const headerStyle = backgroundColor
                         <li><a href="/meetups">Aktualności</a></li>
                         <li><a href="/blog">Poradniki</a></li>
                         <li><a href="/kalkulator-dawek">Kalkulator dawek</a></li>
+                        <!-- <li><a href="/atlas-gołębi">Atlas gołębi</a></li> -->
                         <li><a href="/sponsorzy">Partnerzy</a></li>
                         <li><a href="/kontakt">Kontakt</a></li>         
                     </ul>
@@ -60,8 +64,16 @@ a {
 .social-links-container {
     display: flex;
     justify-content: flex-end;
+    gap: 3em;
+    align-items: center;
     padding-inline: 5%;
     background-color: var(--lavender);
+}
+
+#newsletter {
+    font-family: "Ubuntu Condensed";
+    font-size: 1.6rem;
+    color: white;
 }
 
 .buttons {
@@ -241,12 +253,14 @@ nav {
         display: flex;
         opacity: 1;
         position: static;
-        font-size: 2.6rem;
-        position: static;
         padding-inline: 0;
         box-shadow: 0 0 0;
         background-color: rgba(255, 255, 255, 0);
         pointer-events: all;
+}
+
+.nav-menu a {
+    font-size: 2.4rem;
 }
 
 .nav-list {
@@ -254,7 +268,7 @@ nav {
     justify-content: space-between;
     flex-direction: row;
     flex-wrap: wrap;
-    gap: 1em;
+    gap: 2em;
 }
 
 .nav-list a {

@@ -1,15 +1,13 @@
 ---
-// Card.astro
 import { type CollectionEntry } from "astro:content";
-import FormattedDate from "./FormattedDate.astro";
+import FormattedDate from "./essentials/FormattedDate.astro";
 
 type Props = {
-    item: CollectionEntry<"posts" | "meetups" | "reports" | "interventions"> // Accept multiple collections
+    item: CollectionEntry<"posts" | "meetups" | "reports" | "interventions">
 }
 
 const { item } = Astro.props
 
-// Determine the base URL based on the collection type
 const baseSlug = item.collection === 'posts' 
     ? 'blog' 
     : item.collection === 'reports' 
@@ -18,6 +16,8 @@ const baseSlug = item.collection === 'posts'
     ? 'meetups'
     : item.collection === 'interventions'
     ? 'interwencje'
+    : item.collection === 'pigeons' 
+    ? 'atlas-gołębi' 
     : '';   
 ---
 
@@ -125,7 +125,7 @@ const baseSlug = item.collection === 'posts'
 
         img {
             object-fit: cover;
-            max-width: 260px;
+            max-width: 200px;
             max-height: 200px;
         }
     }

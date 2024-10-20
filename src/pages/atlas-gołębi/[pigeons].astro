@@ -1,0 +1,29 @@
+---
+import { getCollection, type CollectionEntry } from "astro:content"
+import AtlasLayout from "../../layouts/AtlasLayout.astro"
+
+export const getStaticPaths = async () => {
+    const pigeons = await getCollection("pigeons")
+    const paths = pigeons.map(pigeon => {
+        return {
+            params: {
+                pigeons: pigeon.slug
+            },
+            props: {
+                pigeon
+            }
+        }
+    })
+    return paths
+}
+
+type Props = {
+    pigeon: CollectionEntry<"pigeons">
+}
+
+const { pigeon } = Astro.props
+const {Content} = await pigeon.render()
+---
+<AtlasLayout {...pigeon.data}>
+    <Content />
+</AtlasLayout>

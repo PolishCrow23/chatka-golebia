@@ -1,0 +1,133 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import BaseHead from '../components/essentials/BaseHead.astro';
+import Header from "../components/essentials/Header.astro";
+import Footer from "../components/essentials/Footer.astro";
+import PiwikPro from "../components/essentials/PiwikPro.astro";
+import "../styles/slotwrapper.css"
+
+const { title, description, pubDate, species, distribution, habitat, diet } = Astro.props;
+---
+
+<html lang="en">
+	<head>
+        <BaseHead title={title} description={description} date={pubDate}/>
+    </head>
+    <body>
+        <PiwikPro />
+        <Header />
+        <main>
+            <div class = "title grid-title">
+                <h1>{title}</h1>
+            </div>
+            <div class="side grid-side">
+                <ul class="list box-shadow">
+                    <h3>{title}</h3>
+                    <span class="species">{species}</span>
+                    <h4>Występowanie</h4><span> {distribution}</span>
+                    <h4>Habitat</h4><span> {habitat}</span>
+                    <h4>Dieta</h4><span>{diet}</span>
+                </ul>
+            </div>
+                </div>
+                <div class="slot-wrapper grid-slot">
+                    <slot />
+                </div>
+        </main>
+        <Footer />
+    </body>
+
+<style>
+    .post {
+    max-width: 720px;
+    margin-inline: auto;
+}
+
+    main {
+        padding-block: 4em 8em;
+        padding-inline: 2%;
+        display: flex;
+        flex-direction: column;
+        gap: 1em;
+
+        background-color: var(--cream);
+    }
+
+    /* .title {
+        margin-block: 0.6em 5em;
+        margin-inline: auto;
+    } */
+
+    .grid-side {
+        margin-bottom: 3em;
+    }
+
+    .list {
+        display: flex;
+        flex-direction: column;
+        gap: 1em;
+        font-size: 1.6rem;
+        background-color: #fffcf9;
+        border-radius: 36px;
+        padding: 1em 3%;
+        max-width: 460px;
+        text-align: center;
+        
+        margin: 0 auto;
+
+    }
+
+    span {
+        display: block;
+    }
+
+    .bold-info {
+
+    }
+
+    li {
+        font-size: 1.6rem;
+    }
+
+    .species {
+        font-style: italic;
+    }
+
+    h1 {
+        text-align: center;
+        font-size: 3.6rem;
+        margin-bottom: 0.8em;
+    }
+
+    @media (min-width: 1000px) {
+        main {
+            display: grid;
+            grid-template-columns: 1fr 720px 1fr;
+            grid-template-rows: [row1-start] 60px [row1-end] auto [row2-end];       
+            gap: 5em;
+
+        }
+
+        .grid-title {
+            grid-column: 2;
+            grid-row: 1 / 3;
+        }
+
+        .grid-side {
+            grid-column: 3;
+            grid-row: 2 / 3;    
+        }
+
+        .grid-slot {
+            grid-column: 2;
+            grid-row: 2 / 3;
+        }
+
+        .list {
+            padding: 5em 2em;
+            max-width: 240px;
+            height: auto;
+        }
+    }
+
+</style>
