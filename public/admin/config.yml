@@ -84,8 +84,8 @@ collections:
     fields: # The fields for each document, usually in front matter
       # - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
       - {label: "imię", name: "pigeon_name", widget: "string"}
-      - {label: "gatunek", name: "species", widget: "datetime", date_format: "MM.DD.YYYY", picker_utc: false}
+      - {label: "gatunek", name: "species", widget: "string"}
       - {label: "rasa", name: "breed", widget: "string"}
-      - {label: "płeć", name: "pubImage", widget: "image"}
+      - {label: "płeć", name: "gender", widget: "image"}
       - {label: "zdjęcie główne", name: "pubImage", widget: "image"}
       - {label: "tekst", name: "body", widget: "markdown"}
