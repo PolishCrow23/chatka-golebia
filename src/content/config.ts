@@ -54,10 +54,22 @@ const pigeonsCollection = defineCollection({
     }),
 });
 
+const adoptionsCollection = defineCollection({
+    schema: z.object({
+        pigeon_name: z.string(),
+        species: z.string(),
+        breed: z.string(),
+        gender: z.string(),
+        age: z.number(),
+        pubImage: z.string(),
+    }),
+});
+
 export const collections = {
     posts: postsCollection,
     meetups: meetupsCollection,
     reports: reportsCollection,
     interventions: interventionsCollection,
-    pigeons: pigeonsCollection
+    pigeons: pigeonsCollection,
+    adoptions: adoptionsCollection
 };

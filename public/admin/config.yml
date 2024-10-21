@@ -74,3 +74,18 @@ collections:
       - {label: "opis (optymalnie 50-160 znaków)", name: "description", widget: "string"}
       - {label: "zdjęcia (opcjonalnie)", name: "photos", widget: "string"}
       - {label: "tekst", name: "body", widget: "markdown"}
+
+  - name: "adoptions" # Used in routes, e.g., /admin/collections/blog
+    label: "Adopcje" # Used in the UI
+    folder: "src/content/adoptions" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    media_folder: ''
+    fields: # The fields for each document, usually in front matter
+      # - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
+      - {label: "imię", name: "pigeon_name", widget: "string"}
+      - {label: "gatunek", name: "species", widget: "datetime", date_format: "MM.DD.YYYY", picker_utc: false}
+      - {label: "rasa", name: "breed", widget: "string"}
+      - {label: "płeć", name: "pubImage", widget: "image"}
+      - {label: "zdjęcie główne", name: "pubImage", widget: "image"}
+      - {label: "tekst", name: "body", widget: "markdown"}

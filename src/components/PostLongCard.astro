@@ -3,15 +3,13 @@ import { type CollectionEntry } from "astro:content";
 import FormattedDate from "./essentials/FormattedDate.astro";
 
 type Props = {
-    item: CollectionEntry<"posts" | "pigeons">
+    item: CollectionEntry<"posts">
 }
 
 const { item } = Astro.props;
 
 const baseSlug = item.collection === 'posts' 
     ? 'blog' 
-    : item.collection === 'pigeons' 
-    ? 'atlas-gołębi' 
     : '';  
 ---
 
@@ -19,9 +17,8 @@ const baseSlug = item.collection === 'posts'
     <div class="flex1">
     <a class="grid-title" href={`/${baseSlug}/${item.slug}`}>
         <h2 class="title">{item.data.title}</h2>
-        <h2 class="species pigeon-info">{item.data.species}</h2>
     </a>
-    <!-- <span class="date">{item.data.pubDate && <FormattedDate date={item.data.pubDate} />}</span> -->
+    <span class="date">{item.data.pubDate && <FormattedDate date={item.data.pubDate} />}</span>
     <p class="description">{item.data.longDescription}</p>
  
     <a class="show-more" href={`/${baseSlug}/${item.slug}`}>
@@ -31,7 +28,7 @@ const baseSlug = item.collection === 'posts'
 
     <div class="flex2">
         <a class="grid-img" href={`/${baseSlug}/${item.slug}`}>
-            <img src ={item.data.image} width={300} height={300} alt={item.data.title}/>
+            <img src ={item.data.image} width={300} height={260} alt={item.data.title}/>
         </a>
     </div>
 
@@ -142,8 +139,8 @@ const baseSlug = item.collection === 'posts'
             gap: 20px;
         }
         img {
-            width: 351px;
-            height: calc(100% - 5px);          aspect-ratio: 1 / 1;
+            width: 350px;
+            height: 350px;
              /* Full width of the container */
             vertical-align: center;
         }

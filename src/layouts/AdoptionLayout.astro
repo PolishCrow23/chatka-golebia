@@ -1,0 +1,171 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import BaseHead from "../components/essentials/BaseHead.astro";
+import Header from "../components/essentials/Header.astro";
+import Footer from "../components/essentials/Footer.astro";
+import PiwikPro from "../components/essentials/PiwikPro.astro";
+import "../styles/slotwrapper.css"
+
+const { title, description, date, pigeon_name, species, breed, gender, pubImage } = Astro.props;
+// type Props = CollectionEntry<'reports'>['data'];
+---
+
+<html lang="en">
+	<head>
+        <BaseHead title={title} description={description} date={date}/>
+    </head>
+    <body>
+        <PiwikPro />
+        <Header />
+        <main>
+            <div class = "post">
+
+                <div class="flex-container">
+                    <img src={pubImage}>
+                    <div class="specification box-shadow">
+                        <div class = "title">
+                            <h1>{pigeon_name}</h1>
+                        </div>
+                        <div class="title-specs">
+                            <h3>Gatunek:</h3><span>{species}</span>
+                        </div>
+                        <div class="title-specs">
+                            <h3>Rasa:</h3><span>{breed}</span>
+                        </div>
+                        <div class="title-specs">
+                            <h3>Płeć:</h3><span>{gender}</span>
+                        </div>
+                        <div>
+                            <a class="button button-peach button-div" href="#">Skontaktuj się</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="description">
+                    <h2>Opis</h2>
+                    <div class="slot-wrapper">
+                        <slot />
+                    </div>
+                </div>
+            </div>
+        </main>
+        <Footer />
+    </body>
+
+<style>
+
+.post {
+    margin-inline: auto;
+    max-width: 900px;
+}
+
+.description {
+    margin-block: 5em;
+}
+
+    main {
+        padding-block: 4em 8em;
+        padding-inline: 2%;
+
+        background-color: var(--cream);
+    }
+
+    .specification {
+        margin-bottom: 4em;
+        display: flex;
+        flex-direction: column;
+        gap: 2em;
+        background-color: white;
+        padding: 30px;
+        border-radius: 36px;
+        width: 100%
+        margin-inline: auto;
+    }
+
+    .title-specs {
+        display: flex;
+        align-items: end;
+        gap: 0.5em;
+    }
+
+    .specification span {
+        font-size: 2rem;
+        font-family: "Arial";
+        font-weight: 400;     
+    }
+
+    .title {
+        margin-block: 0.6em 1em;
+        color: var(--plum);
+    }
+    .post h1 {
+        text-align: center;
+        font-size: 3.6rem;
+        margin-bottom: 0.8em;
+    }
+    
+    .description h2 {
+        font-size: 3.6rem;
+        margin-bottom: 0.8em;
+        color: var(--plum);
+    }
+
+    .date-author {
+        display: flex;
+        flex-direction: column;
+        align-items: end;
+    }
+
+    .sources-images {
+        margin-block: 3em;
+    }
+
+    .sources, .images {
+        display: block;
+        margin-block: 0.5em;
+    }
+
+    .date {
+        margin-bottom: 0.5em;
+    }
+
+    .button-div {
+        margin-top: 1em;
+        width: 100%;
+    }
+
+    .date, .author {
+        font-style: italic;
+        font-size: 1.6rem;
+        color: #342812;
+    }
+    
+    .photos {
+        display: block;
+        font-size: 1.8rem;
+    }
+
+    .accent {
+        font-weight: bold;
+    }
+
+    h1 {
+        font-family: 'Ubuntu Condensed';
+} 
+
+img {
+    width: 100%;
+}
+
+@media (min-width: 1200px) {
+    .flex-container {
+        display: grid;
+        grid-template-columns: 3fr 2fr;
+        gap: 3em;    }
+
+    .specification {
+        width: 100%;
+        margin-bottom: 0;
+        justify-content: center;
+    }
+}
+</style>

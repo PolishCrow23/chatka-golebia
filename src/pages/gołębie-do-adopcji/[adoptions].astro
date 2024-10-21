@@ -1,0 +1,29 @@
+---
+import { getCollection, type CollectionEntry } from "astro:content"
+import AdoptionLayout from "../../layouts/AdoptionLayout.astro"
+
+export const getStaticPaths = async () => {
+    const adoptions = await getCollection("adoptions")
+    const paths = adoptions.map(adoption => {
+        return {
+            params: {
+                adoptions: adoption.slug
+            },
+            props: {
+                adoption
+            }
+        }
+    })
+    return paths
+}
+
+type Props = {
+    adoption: CollectionEntry<"adoptions">
+}
+
+const { adoption } = Astro.props
+const {Content} = await adoption.render()
+---
+<AdoptionLayout {...adoption.data}>
+    <Content />
+</AdoptionLayout>

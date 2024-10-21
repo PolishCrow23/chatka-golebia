@@ -1,49 +1,31 @@
 ---
-import { type CollectionEntry } from "astro:content";
-import FormattedDate from "./essentials/FormattedDate.astro";
-
-type Props = {
-    item: CollectionEntry<"posts" | "meetups" | "reports" | "interventions" | "pigeons">
-}
-
-const { item } = Astro.props
-
-const baseSlug = item.collection === 'posts' 
-    ? 'blog' 
-    : item.collection === 'reports' 
-    ? 'aktualności' 
-    : item.collection === 'meetups'
-    ? 'meetups'
-    : item.collection === 'interventions'
-    ? 'interwencje'
-    : item.collection === 'pigeons' 
-    ? 'atlas-gołębi'
-    : '';   
+const { adoption } = Astro.props
 ---
 
 <div class="card">
-    <a href={`/${baseSlug}/${item.slug}`}>
+    <a href={`/gołębie-do-adopcji/${adoption.slug}`}>
         <img 
-            src={item.data.image}
-            alt={item.data.title}
+            src={adoption.data.pubImage}
+            alt={adoption.data.pigeon_name}
         />
     </a>
-    <div class="title-item">
-        <a href={`/${baseSlug}/${item.slug}`}>
+    <div class="title-adoption">
+        <a href={`/gołębie-do-adopcji/${adoption.slug}`}>
             <h2 class="title">
-                {item.data.title}
+                {adoption.data.pigeon_name}
             </h2>
         </a>
-        {item.collection !== 'pigeons' && item.data?.pubDate && (
-            <span class="date">
-              <FormattedDate date={item.data.pubDate} />
-            </span>
-        )}
+        <h3>
+            {adoption.data.species}
+        </h3>
+        <h3>
+            {adoption.data.gender}
+        </h2>
     </div>
-    <p>{item.data.description}</p>
-    <a class="show-more" href={`/${baseSlug}/${item.slug}`}>
+    <p>{adoption.data.description}</p>
+    <!-- <a class="show-more" href={`/gołębie-do-adopcji/${adoption.slug}`}>
         czytaj więcej...
-    </a>
+    </a> -->
 </div>
 
 <style>
@@ -51,13 +33,12 @@ const baseSlug = item.collection === 'posts'
     .card {
         display: flex;
         flex-direction: column;
-        justify-content: space-between;
-        align-items: center;
-        max-width: 381px;
+        gap: 1em;
+        max-width: 272px;
         width: 100%;
-        height: 581px;
-        border-radius: 16px;
-        padding: 16px;
+        height: 334px;
+        padding: 10px;
+        border-radius: 20px;
         background-color: #ffffff;
         box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
         transition-duration: 0.5s;
@@ -69,21 +50,25 @@ const baseSlug = item.collection === 'posts'
         box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
     }
 
-    .title-item {
+    .title-adoption {
         display: grid;
-        grid-template-columns: 3fr 1fr;
+        grid-template-columns: 1fr;
         gap: 0.5em;
         justify-content: space-between;
-        align-items: center;
+        justify-items: center;
     }
 
     .title {
         color: var(--plum);
         font-family: "Ubuntu Condensed";
         font-weight: 700;
-        font-size: 2rem;
+        font-size: 2.4rem;
         text-align: left;
         
+    }
+
+    h3 {
+        font-size: 1.6rem;
     }
 
     .date {
@@ -111,11 +96,12 @@ const baseSlug = item.collection === 'posts'
     img {
         border-radius: 8px;
         object-fit: cover;  /* This will ensure the image covers the area specified */
-        width: 360px;     
-        height: 287px;      /* Specify the height */
+        width: 100%;
+        border-radius: 20px;
+        height: 210px;      /* Specify the height */
     }
 
-    @media  (min-width: 458px) { 
+    /* @media  (min-width: 458px) { 
         .title {
             font-size: 2.6rem;
         }
@@ -132,6 +118,6 @@ const baseSlug = item.collection === 'posts'
             max-width: 200px;
             max-height: 200px;
         }
-    }
+    } */
 
 </style>
