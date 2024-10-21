@@ -86,6 +86,6 @@ collections:
       - {label: "imię", name: "pigeon_name", widget: "string"}
       - {label: "gatunek", name: "species", widget: "string"}
       - {label: "rasa", name: "breed", widget: "string"}
-      - {label: "płeć", name: "gender", widget: "image"}
+      - {label: "płeć", name: "gender", widget: "string"}
       - {label: "zdjęcie główne", name: "pubImage", widget: "image"}
       - {label: "tekst", name: "body", widget: "markdown"}
