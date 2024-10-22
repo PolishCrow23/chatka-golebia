@@ -19,12 +19,12 @@ const posts = await getCollection("pigeons");
         <main>
             <section>
                 <h1>Atlas gołębi</h1>
-                <div class="buttons">
+                <!-- <div class="buttons">
                     <a href="#" class="button button-peach">Występowanie</a>
                     <a href="#" class="button button-peach">Habitat</a>
                     <a href="#" class="button button-peach">Wymiary</a>
                     <a href="#" class="button button-peach">Dieta</a>
-                </div>
+                </div> -->
                 <div class="cards-container">
                     {posts.map((post) => <Post item={post}/>)}
                 </div>
