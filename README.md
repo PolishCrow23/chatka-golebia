@@ -10,7 +10,7 @@ All commands are run from the root of the project, from a terminal:
 | `npm run astro ...`	| Run CLI commands like astro add, astro check |
 | `npm run astro -- --help` |	Get help using the Astro CLI |
 
-Server-side rendering (SSR) is enabled (Netlify adapter): `astro.config.mjs` in root folder for Supabase.
+Server-side rendering (SSR) is enabled (Netlify adapter): `astro.config.mjs` in root folder.
 
 Supabase client is in `src/lib/supabase.ts`.
 
@@ -21,6 +21,6 @@ The following authentication endpoints are at `src/pages/api/auth`:
 - `GET /api/auth/signout.ts`
 
 The following auth pages for endpoints are at `src/pages`:
-- `src/pages/register`
-- `src/pages/signin`
-- `src/pages/dashboard`
+- `src/pages/register.astro`
+- `src/pages/signin.astro`
+- `src/pages/dashboard.astro`
