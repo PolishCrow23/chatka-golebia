@@ -27,5 +27,5 @@ export const POST: APIRoute = async ({ request, cookies, redirect }) => {
   cookies.set("sb-refresh-token", refresh_token, {
     path: "/",
   });
-  return redirect("https://chatkagolebia.pl//dashboard");
+  return redirect("https://chatkagolebia.pl/dashboard");
 };
