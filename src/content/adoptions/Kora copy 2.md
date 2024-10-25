@@ -1,10 +1,14 @@
 ---
-"pigeon_name": "Myszka"
+"pigeon_name": "Boba"
 "gender": "samica"
 "species": "gołąb miejski"
 "breed": "srebrniak"
 "age": 5
 "pubImage": "/images/birds/Myszka.jpg"
+"sideImage1": "/images/birds/Myszka.jpg"
+"sideImage2": "/images/pages/o-nas/o-nas-caleb.jpg"
+"sideImage3": "/images/birds/Myszka.jpg"
+"sideImage4": "/images/pages/o-nas/o-nas-caleb.jpg"
 ---
 Poznaj Myszkę – uroczego gołębia o wielkim sercu i delikatnym charakterze! 🕊️ Myszka to młody, spokojny ptak, który szuka bezpiecznego i kochającego domu, gdzie będzie mógł wieść szczęśliwe życie.
 

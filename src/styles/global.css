@@ -50,6 +50,7 @@
     --peach: #FFB380;
     --grass: #BBDB9B;
     --cream: #fff3ea;
+    --white: #ffffff;
 }
 
 html { 
@@ -181,6 +182,13 @@ a:hover {
     background-color: var(--peach);
     border: 1.5px solid var(--peach);
     transition-duration: 0.3s;
+}
+
+.button-next, .button-prev {
+    background-color: var(--white);
+    border-radius: 12px;
+    padding: 26px;
+    
 }
 
 iframe {

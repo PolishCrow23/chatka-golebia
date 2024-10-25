@@ -4,10 +4,15 @@ import BaseHead from "../components/essentials/BaseHead.astro";
 import Header from "../components/essentials/Header.astro";
 import Footer from "../components/essentials/Footer.astro";
 import PiwikPro from "../components/essentials/PiwikPro.astro";
+import AdoptionCard from '../components/AdoptionCard.astro';
 import "../styles/slotwrapper.css"
 
-const { title, description, date, pigeon_name, species, breed, gender, pubImage } = Astro.props;
-// type Props = CollectionEntry<'reports'>['data'];
+const { title, description, date, pigeon_name, species, breed, gender, pubImage, sideImage1, sideImage2, sideImage3, sideImage4, slug} = Astro.props;
+
+import { getCollection } from "astro:content"
+const adoptions = await getCollection("adoptions");
+const otherAdoptions = adoptions.filter(adoption => adoption.slug !== slug);
+
 ---
 
 <html lang="en">
@@ -40,30 +45,67 @@ const { title, description, date, pigeon_name, species, breed, gender, pubImage 
                         </div>
                     </div>
                 </div>
+
+
                 <div class="description">
                     <h2>Opis</h2>
                     <div class="slot-wrapper">
                         <slot />
                     </div>
                 </div>
+            
             </div>
+            <section class="image-gallery">
+                <div class="image-gallery-container">
+                    <img src={sideImage1}>
+                    <img src={sideImage2}>
+                    <img src={sideImage3}>
+                    <img src={sideImage4}>
+                </div>
+            </section>
         </main>
+            <div class="other-pigeons">
+                <div class="swiper">
+                    <!-- Additional required wrapper -->
+                    <div class="swiper-wrapper">
+                    <!-- Slides -->
+                    <div class="swiper">
+                        <div class="swiper-wrapper">
+                            <div class="swiper-slide">{adoptions.slice(0, 4).map((adoption) => <AdoptionCard adoption={adoption} />)}</div>
+                            <div class="swiper-slide">{adoptions.slice(0, 4).map((adoption) => <AdoptionCard adoption={adoption} />)}</div>
+                            <div class="swiper-slide">{adoptions.slice(0, 4).map((adoption) => <AdoptionCard adoption={adoption} />)}</div>
+                        </div>
+                    </div>
+        
+                    </div>
+                    <!-- If we need pagination -->
+                
+                    <!-- If we need navigation buttons -->
+                    <div class="swiper-button-prev button-prev"></div>
+
+                    <div class="swiper-button-next button-next"></div>
+                
+                    <!-- If we need scrollbar -->
+                </div>
+            </div>
+            </section>
+
         <Footer />
     </body>
 
 <style>
 
-.post {
-    margin-inline: auto;
-    max-width: 900px;
-}
+    .post {
+        margin-inline: auto;
+        max-width: 900px;
+    }
 
-.description {
-    margin-block: 5em;
-}
+    .description {
+        margin-block: 5em;
+    }
 
     main {
-        padding-block: 4em 8em;
+        padding-top: 4em;
         padding-inline: 2%;
 
         background-color: var(--cream);
@@ -77,7 +119,7 @@ const { title, description, date, pigeon_name, species, breed, gender, pubImage 
         background-color: white;
         padding: 30px;
         border-radius: 36px;
-        width: 100%
+        width: 100%;
         margin-inline: auto;
     }
 
@@ -97,6 +139,7 @@ const { title, description, date, pigeon_name, species, breed, gender, pubImage 
         margin-block: 0.6em 1em;
         color: var(--plum);
     }
+
     .post h1 {
         text-align: center;
         font-size: 3.6rem;
@@ -150,22 +193,77 @@ const { title, description, date, pigeon_name, species, breed, gender, pubImage 
 
     h1 {
         font-family: 'Ubuntu Condensed';
-} 
+    } 
 
-img {
-    width: 100%;
-}
 
-@media (min-width: 1200px) {
-    .flex-container {
-        display: grid;
-        grid-template-columns: 3fr 2fr;
-        gap: 3em;    }
-
-    .specification {
-        width: 100%;
-        margin-bottom: 0;
-        justify-content: center;
+    .other-pigeons {
+        background-color: var(--peach);
+        padding: 160px 3% 100px;
+        background-image: url('/images/index/blog-highlight.svg');
+        background-color: var(--cream);
+        background-size: stretch;
+        background-size: 1800px;
     }
+
+    .swiper-wrapper {
+        margin-inline: auto;
+        max-width: 1160px;
+    }
+
+    .swiper-slide {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        gap: 15px;
+    }
+
+    .image-gallery {
+        gap: 15px;
+        background-color: var(--cream);
+        margin-inline: auto;
+        
+    }
+
+    .swiper-button-next, .swiper-button-prev {
+    color: var(--plum);
 }
+
+    .image-gallery-container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 15px;
+        max-width: 1160px;
+        margin-inline: auto;
+    }
+
+    .image-gallery img {
+        object-fit: cover;
+        max-width: 272px;
+        height: 232px;
+        }
+
+    @media (min-width: 700px) {
+
+
+    }
+
+    @media (min-width: 1200px) {
+        .flex-container {
+            display: grid;
+            grid-template-columns: 3fr 2fr;
+            gap: 3em;    }
+
+        .specification {
+            width: 100%;
+            margin-bottom: 0;
+            justify-content: center;
+        }
+
+        .image-gallery {
+            padding-block: 5em 10em;
+        }
+    }
 </style>
+
+<script src="/src/libs/slider-simple.js"></script>

@@ -21,12 +21,6 @@ const reports = (await getCollection('reports'))
   
 const interventions = (await getCollection('interventions'))
   .sort((a, b) => a.data.pubDate.valueOf() - b.data.pubDate.valueOf());
-
-// declare global {
-//   interface Window {
-//     netlifyIdentity: any;
-//   }
-// }
 ---
 
 <html lang="en">

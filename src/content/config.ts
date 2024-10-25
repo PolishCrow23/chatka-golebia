@@ -62,6 +62,10 @@ const adoptionsCollection = defineCollection({
         gender: z.string(),
         age: z.number(),
         pubImage: z.string(),
+        sideImage1: z.string().optional(),
+        sideImage2: z.string().optional(),
+        sideImage3: z.string().optional(),
+        sideImage4: z.string().optional(),
     }),
 });
 

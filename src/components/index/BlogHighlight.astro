@@ -6,18 +6,11 @@ type Props = {
     posts: CollectionEntry<"posts">[]
 }
 const { posts } = Astro.props;
-
-// Import Swiper
-import Swiper from "swiper";
     
-    // Import Swiper modules
-    import { Navigation, FreeMode, Thumbs, Mousewheel, Autoplay } from "swiper/modules";
-    
-    // Import Swiper styles
-    import "swiper/css";
-    import "swiper/css/navigation";
-    import "swiper/css/free-mode";
-    import "swiper/css/thumbs";
+import "swiper/css";
+import "swiper/css/navigation";
+import "swiper/css/free-mode";
+import "swiper/css/thumbs";
 ---
 <section>
     <div class="bk">
@@ -39,7 +32,6 @@ import Swiper from "swiper";
 
             </div>
             <!-- If we need pagination -->
-
         
             <!-- If we need navigation buttons -->
             <div class="swiper-button-prev"></div>
@@ -83,7 +75,7 @@ import Swiper from "swiper";
     }
 
     .swiper-button-next, .swiper-button-prev {
-    color: var(--plum);
+        color: var(--plum);
     
 }
 
@@ -95,7 +87,6 @@ import Swiper from "swiper";
         background-size: 1800px;
         padding-bottom: 30em;
         position: relative;
-
     }
 
     .container {
@@ -128,17 +119,17 @@ import Swiper from "swiper";
         font-size: 2rem;
     }
 
-.show-more {
-    font-family: 'Ubuntu Condensed';
-    font-size: 2rem;
-    font-weight: 600;
-    color: var(--plum);
-    display: flex;
-    justify-content: flex-end;
-    align-items: center;
-    gap: 0.1em;
-    padding-right: 5.5em;
-}
+    .show-more {
+        font-family: 'Ubuntu Condensed';
+        font-size: 2rem;
+        font-weight: 600;
+        color: var(--plum);
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+        gap: 0.1em;
+        padding-right: 5.5em;
+    }
 
       
     @media  (max-width: 758px) { 
