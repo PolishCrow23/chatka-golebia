@@ -5,7 +5,7 @@ import netlify from "@astrojs/netlify";
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://example.com',
+  site: 'https://chatkagolebia.pl',
   integrations: [mdx(), sitemap()],
   output: 'hybrid',
   adapter: netlify()
