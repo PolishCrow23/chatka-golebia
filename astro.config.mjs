@@ -7,5 +7,6 @@ import netlify from "@astrojs/netlify";
 export default defineConfig({
   site: 'https://chatkagolebia.pl',
   integrations: [mdx(), sitemap()],
-  output: 'server'
+  output: 'hybrid',
+  adapter: netlify()
 });
