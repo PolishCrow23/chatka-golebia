@@ -36,10 +36,6 @@ try {
 
 const email = session.data.user?.email;
 
-const { data: pigeons, error } = await supabase
-  .from('pigeons')
-  .select()
-
 ---
 <PageLayout title="dashboard">
   <h1>Welcome {email}</h1>
@@ -48,14 +44,4 @@ const { data: pigeons, error } = await supabase
     <button type="submit">Sign out</button>
   </form>
 
-    {/* Display the pigeons data */}
-    {pigeons && pigeons.length > 0 ? (
-      <ul>
-        {pigeons.map(pigeon => (
-          <li key={pigeon.id}>{pigeon.name}</li> 
-        ))}
-      </ul>
-    ) : (
-      <p>No pigeons found.</p>
-    )}
 </PageLayout>
