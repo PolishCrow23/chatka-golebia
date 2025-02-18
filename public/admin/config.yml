@@ -3,8 +3,6 @@ backend:
   branch:
 
 publish_mode: editorial_workflow
-media_folder: "/public/images/{{ collection.slug }}/{{ entry.slug }}"
-public_folder: "/images/{{ collection.slug }}/{{ entry.slug }}"
 
 collections:
   - name: "posts" # Used in routes, e.g., /admin/collections/blog
@@ -48,8 +46,8 @@ collections:
     folder: "src/content/reports" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
-    media_folder: "public/images/reports"  # Images for reports will go here
-    public_folder: "images/reports"
+    media_folder: "/public/images/reports/{{slug}}"
+    public_folder: "/images/reports/{{slug}}"
     fields: # The fields for each document, usually in front matter
       # - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
       - {label: "tytuł", name: "title", widget: "string"}
