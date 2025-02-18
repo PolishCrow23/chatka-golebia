@@ -8,7 +8,7 @@ public_folder: "/images/{{ collection.slug }}/{{ entry.slug }}"
 
 collections:
   - name: "posts" # Used in routes, e.g., /admin/collections/blog
-    label: "Blog" # Used in the UI
+    label: "Poradniki" # Used in the UI
     folder: "src/content/posts" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
@@ -48,7 +48,8 @@ collections:
     folder: "src/content/reports" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
-    media_folder: ''
+    media_folder: "public/images/reports"  # Images for reports will go here
+    public_folder: "images/reports"
     fields: # The fields for each document, usually in front matter
       # - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
       - {label: "tytuł", name: "title", widget: "string"}
