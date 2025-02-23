@@ -2,10 +2,7 @@
 @import url('https://fonts.googleapis.com/css?family=Special+Elite');
 @import url('https://fonts.googleapis.com/css2?family=McLaren&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Galindo&family=McLaren&display=swap');
-
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
-
-
 
 @font-face {
 	font-family: 'Urbanist';
@@ -43,6 +40,7 @@
     --black: #000000;
     --dark-plum: #320E3B;
     --plum: #49354E;
+    --greyed-out-plum: #675d6b;
     --dark-lavender: #9076C7;
     --lavender: #A48CD5;
     --light-lavender: #D0C0F3;

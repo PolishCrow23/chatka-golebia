@@ -9,6 +9,10 @@ type Props = {
 }
 const { meetups, reports, interventions } = Astro.props;
 
+const sortedPosts = [...reports, ...meetups, ...interventions].sort((a, b) =>
+  new Date(b.data.pubDate).valueOf() - new Date(a.data.pubDate).valueOf()
+);
+
 // Import Swiper
 import Swiper from "swiper";
     
@@ -20,33 +24,12 @@ import Swiper from "swiper";
     import "swiper/css/navigation";
     import "swiper/css/free-mode";
     import "swiper/css/thumbs";
-    
 ---
 
 <section>
     <div class="wrapper">
         <div class="flex-container">
             <a href="/meetups"><h2>Aktualności</h2></a>
-            <!-- <div class="button-container">
-                <a class="button button-peach" href="https://zrzutka.pl/profile/fundacja-chatka-golebia-464519">
-                    DOŁĄCZ DO GRUPY
-                </a>
-            </div>
-            <div class="button-container">
-                <a class="button button-peach" href="https://zrzutka.pl/profile/fundacja-chatka-golebia-464519">
-                    DOŁĄCZ DO GRUPY
-                </a>
-            </div>
-            <div class="button-container">
-                <a class="button button-peach" href="https://zrzutka.pl/profile/fundacja-chatka-golebia-464519">
-                    DOŁĄCZ DO GRUPY
-                </a>
-            </div> -->
-        </div>
-        <div class="container"> 
-            <!-- <div class="cards-container">
-                {reports.slice(0, 4).map((report) => <Post item={report} />)}
-            </div> -->
         </div>
 
         <div class="swiper">
@@ -55,9 +38,8 @@ import Swiper from "swiper";
             <!-- Slides -->
             <div class="swiper">
                 <div class="swiper-wrapper">
-                <div class="swiper-slide">{reports.slice(0, 3).map((report) => <Post item={report} />)}</div>
-                <div class="swiper-slide">{meetups.slice(0, 3).map((meetup) => <Post item={meetup} />)}</div>
-                <div class="swiper-slide">{interventions.slice(0, 3).map((intervention) => <Post item={intervention} />)}</div>
+                <div class="swiper-slide">{sortedPosts.slice(0, 3).map((post) => <Post item={post} />)}</div>
+                <div class="swiper-slide">{sortedPosts.slice(3, 6).map((post) => <Post item={post} />)}</div>
                 </div>
             </div>
 
@@ -72,7 +54,7 @@ import Swiper from "swiper";
             <!-- If we need scrollbar -->
 
         </div>
-        <a href="/meetups" class="show-more">Pokaż wszystkie aktualności 
+        <a href="/aktualnosci" class="show-more">Pokaż wszystkie aktualności 
         <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24"><g fill="none"><path d="M24 0v24H0V0zM12.593 23.258l-.011.002l-.071.035l-.02.004l-.014-.004l-.071-.035q-.016-.005-.024.005l-.004.01l-.017.428l.005.02l.01.013l.104.074l.015.004l.012-.004l.104-.074l.012-.016l.004-.017l-.017-.427q-.004-.016-.017-.018m.265-.113l-.013.002l-.185.093l-.01.01l-.003.011l.018.43l.005.012l.008.007l.201.093q.019.005.029-.008l.004-.014l-.034-.614q-.005-.019-.02-.022m-.715.002a.02.02 0 0 0-.027.006l-.006.014l-.034.614q.001.018.017.024l.015-.002l.201-.093l.01-.008l.004-.011l.017-.43l-.003-.012l-.01-.01z"/><path fill="currentColor" d="m15.06 5.283l5.657 5.657a1.5 1.5 0 0 1 0 2.12l-5.656 5.658a1.5 1.5 0 0 1-2.122-2.122l3.096-3.096H4.5a1.5 1.5 0 0 1 0-3h11.535L12.94 7.404a1.5 1.5 0 0 1 2.122-2.121Z"/></g></svg>
     </a>
       <div>
@@ -82,38 +64,47 @@ import Swiper from "swiper";
 
 <style>
 
-.show-more {
-    font-family: 'Ubuntu Condensed';
-    font-size: 2rem;
-    font-weight: 600;
-    color: var(--plum);
-    margin-block: 2em 3em;
-    display: flex;
-    justify-content: flex-end;
-    align-items: center;
-    gap: 0.1em;
-    padding-right: 5.5em;
-}
+    .show-more {
+        font-family: 'Ubuntu Condensed';
+        font-size: 2rem;
+        font-weight: 600;
+        color: var(--plum);
+        margin-block: 2em 3em;
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+        gap: 0.1em;
+        padding-right: 5.5em;
+    }
 
+    .swiper-button-next, .swiper-button-prev {
+        color: var(--plum);
+        background: white;
+        width: 50px;
+        height: 50px;
+        border-radius: 16px;
+        box-shadow: 0 0 4px rgba(0, 0, 0, 0.2);
+        positon: absolute;
+    }
 
+    .swiper-button-prev {
+        left: 4px;
+    }
 
-.swiper-button-next, .swiper-button-prev {
-    color: var(--plum);
-    
-}
+    .swiper-button-next {
+        right: 4px;
+    }
 
     .wrapper {
-        max-width: 1980px;
+        max-width: 1920px;
         margin-inline: auto;
     }
 
-    section {
-        
+    section { 
         padding-inline: 2%;
         background-color: var(--cream);
-        padding-block: 5em 5em;
+        padding-block: 2em 5em;
         background-repeat: no-repeat;
-        
     }
 
     .swiper-slide {
@@ -134,33 +125,20 @@ import Swiper from "swiper";
     }
 
     .swiper {
-        max-width: 1980px;
+        max-width: 1600px;
         margin-inline: auto;
+        padding-block: 16px;
     }
 
     .swiper-wrapper {
         margin-inline: auto;
-        max-width: 1900px;
+        max-width: 1500px;
     }
 
     .flex-container {
         display: flex;
         align-items: center;
         gap: 1em;
-    }
-
-    .container {
-        max-width: 1700px;
-        margin-inline: auto;
-        padding: 2em;
-    }
-
-    .cards-container {
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: space-between;
-        gap: 3em;
-        margin-bottom: 3em;
     }
 
     h2 {
@@ -184,17 +162,6 @@ import Swiper from "swiper";
         font-family: "Ubuntu Condensed";
     }
 
-    {
-  --swiper-scrollbar-border-radius: 10px;
-  --swiper-scrollbar-top: auto;
-  --swiper-scrollbar-bottom: 4px;
-  --swiper-scrollbar-left: auto;
-  --swiper-scrollbar-right: 4px;
-  --swiper-scrollbar-sides-offset: 1%;
-  --swiper-scrollbar-bg-color: rgba(0, 0, 5, 0.1);
-  --swiper-scrollbar-drag-bg-color: rgba(0, 5, 0, 0.5);
-  --swiper-scrollbar-size: 4px;
-}
       
     @media  (max-width: 758px) { 
         .cards-container {
