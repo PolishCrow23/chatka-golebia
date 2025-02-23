@@ -5,7 +5,7 @@ import Footer from "../components/essentials/Footer.astro";
 import { getCollection } from "astro:content"
 import Post from "../components/Post.astro";
 import PostLongCard from "../components/PostLongCard.astro";
-const { title, description, date } = Astro.props;
+const { title, description, date, backgroundColor } = Astro.props;
 
 const posts = await getCollection("posts");
 ---
@@ -20,9 +20,9 @@ const posts = await getCollection("posts");
             <section>
                 <h1>Poradniki</h1>
                 <div class="cards-container">
-                    {posts.map((post) => <PostLongCard item={post}/>)}
+                    {posts.map((post) => <Post item={post} backgroundColor="var(--cream)"/>)}
+                </div>
             </section>
-            </div>
         </main>
         <Footer/>
     </body>
@@ -45,7 +45,7 @@ const posts = await getCollection("posts");
     }
 
     section {
-        max-width: 1760px;
+        max-width: 1600px;
         margin-inline: auto;
     }
 
@@ -66,10 +66,16 @@ const posts = await getCollection("posts");
         justify-items: center;
 }
 
-
-    @media  (min-width: 1250px) {
+@media  (min-width: 720px) {
         .cards-container {
             grid-template-columns: 1fr 1fr;   
+        }
+    }
+
+
+    @media  (min-width: 1240px) {
+        .cards-container {
+            grid-template-columns: 1fr 1fr 1fr;   
         }
 
         h1 {

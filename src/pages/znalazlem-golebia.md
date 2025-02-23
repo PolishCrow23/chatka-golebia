@@ -1,5 +1,8 @@
-@hidden
-
+---
+layout: ../layouts/PageLayout.astro
+title: Znalazłem gołębia
+image: "/images/meta/hero.png"
+---
 **Jak wygląda chory gołąb potrzebujący pomocy człowieka?**
 * Ma zgarbioną postawę ciała: zaokrąglony grzbiet, opuszczoną głowę, opuszczone skrzydła i ogon.
 * Jest napuszony.
@@ -25,12 +28,17 @@
 *Pisklę sierpówki.*
 
 **Co zrobić gdy znajdziesz gołębia potrzebującego pomocy?**
-1. Złap gołębia. Sposoby łapania gołębia znajdziesz w [tym poście.](Jak złapać gołębia potrzebującego pomocy?)
+1. Złap gołębia. Sposoby łapania gołębia znajdziesz w [tym poradniku.](poradniki/jak-z%C5%82apa%C4%87-go%C5%82%C4%99bia-potrzebuj%C4%85cego-pomocy)
 2. Włóż gołębia do pudełka kartonowego, transportera, papierowej torby na zakupy lub zawiń go w ubranie, kocyk, ręcznik.
 3. Wnieś gołębia do środka budynku (na zewnątrz jest narażony na atak drapieżników) i umieść go w cichym, ciepłym, ciemnym miejscu w pudełku kartonowym lub transporterze wyłożonym gazetami lub ręcznikami papierowymi.
-4. Znajdź profesjonalną pomoc (patrz na mapę poniżej).
+4. Znajdź pomoc. Możesz to zrobić poprzez naszą grupę na Facebooku.
 
-Gołębi weterynarze, fundacje, ośrodki rehabilitacji zwierząt, osoby prywatne, u których możemy szukać pomocy z gołębiem.
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1P2clAUDpoljrBXtNNsOorfAm_ku_54Ur" width="640" height="480"></iframe>
+<div class="help-btn-container">
+    <a class="button button-peach" href='https://www.facebook.com/groups/783765922151332'>DOŁĄCZ DO NASZEJ GRUPY</a>
+</div>
 
-Jeśli znalazłeś gołębia potrzebującego pomocy i chciałbyś otrzymać wskazówki i informacje od osób pomagającym gołębiem, napisz na grupie [Gołębie w potrzebie](https://www.facebook.com/groups/337075187170718).
+<style>
+    .help-btn-container {
+        text-align: center;
+    }
+</style>

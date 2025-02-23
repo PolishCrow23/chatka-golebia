@@ -1,15 +1,16 @@
 ---
 import { type CollectionEntry } from "astro:content";
-import FormattedDate from "./essentials/FormattedDate.astro";
+import FormattedDateShort from "./essentials/FormattedDateShort.astro";
 
 type Props = {
-    item: CollectionEntry<"posts" | "meetups" | "reports" | "interventions" | "pigeons">
+    item: CollectionEntry<"posts" | "meetups" | "reports" | "interventions" | "pigeons">;
+    backgroundColor?: string;
 }
 
-const { item } = Astro.props
+const { item, backgroundColor } = Astro.props
 
 const baseSlug = item.collection === 'posts' 
-    ? 'blog' 
+    ? 'poradniki' 
     : item.collection === 'reports' 
     ? 'aktualności' 
     : item.collection === 'meetups'
@@ -19,10 +20,14 @@ const baseSlug = item.collection === 'posts'
     : item.collection === 'pigeons' 
     ? 'atlas-gołębi'
     : '';   
+
+const postBackgroundColor = backgroundColor
+  ? `background-color: ${backgroundColor};`
+  : `background-color: var(--white);`;
 ---
 
-<div class="card">
-    <a href={`/${baseSlug}/${item.slug}`}>
+<div class="card" style={postBackgroundColor}>
+    <a class="card-img" href={`/${baseSlug}/${item.slug}`}>
         <img 
             src={item.data.image}
             alt={item.data.title}
@@ -36,7 +41,7 @@ const baseSlug = item.collection === 'posts'
         </a>
         {item.collection !== 'pigeons' && item.data?.pubDate && (
             <span class="date">
-              <FormattedDate date={item.data.pubDate} />
+              <FormattedDateShort date={item.data.pubDate} />
             </span>
         )}
     </div>
@@ -53,25 +58,25 @@ const baseSlug = item.collection === 'posts'
         flex-direction: column;
         justify-content: space-between;
         align-items: center;
-        max-width: 381px;
+        max-width: 380px;
         width: 100%;
-        height: 581px;
+        height: 500px;
         border-radius: 16px;
-        padding: 16px;
+        padding: 12px;
         background-color: #ffffff;
-        box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+        box-shadow: 0 0 6px rgba(0, 0, 0, 0.2);
         transition-duration: 0.5s;
     }
 
     .card:hover {
         transform-origin: top;
         transition-duration: 0.5s;
-        box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
+        box-shadow: 0 0 12px rgba(0, 0, 0, 0.4);
     }
 
     .title-item {
         display: grid;
-        grid-template-columns: 3fr 1fr;
+        grid-template-columns: 6fr 1fr;
         gap: 0.5em;
         justify-content: space-between;
         align-items: center;
@@ -89,6 +94,7 @@ const baseSlug = item.collection === 'posts'
     .date {
         font-family: "Montserrat";
         font-size: 1.4rem;
+        color: var(--greyed-out-plum);
         text-align: right;
         font-weight: 500;
     }
@@ -106,13 +112,17 @@ const baseSlug = item.collection === 'posts'
         font-weight: 400;
         color: var(--gray);
         line-height: 22px;
+        margin-bottom: 0;
+    }
+
+    .card-img {
+        width: 100%;
     }
 
     img {
         border-radius: 8px;
-        object-fit: cover;  /* This will ensure the image covers the area specified */
-        width: 360px;     
-        height: 287px;      /* Specify the height */
+        object-fit: cover;
+        aspect-ratio: 3/2;
     }
 
     @media  (min-width: 458px) { 
@@ -121,16 +131,9 @@ const baseSlug = item.collection === 'posts'
         }
     }
 
-    @media  (max-width: 458px) { 
+    @media  (max-width: 500px) { 
         .card {
-            max-width: 260px;
-            max-height: 420px;
-        }
-
-        img {
-            object-fit: cover;
-            max-width: 200px;
-            max-height: 200px;
+            max-height: 400px;
         }
     }
 
