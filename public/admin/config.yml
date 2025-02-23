@@ -7,6 +7,65 @@ media_folder: "public/images"
 public_folder: "/images"
 
 collections:
+  - name: "reports" # Used in routes, e.g., /admin/collections/blog
+    label: "Nowości" # Used in the UI
+    folder: "src/content/reports" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      # - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
+      - {label: "tytuł", name: "title", widget: "string"}
+      - {label: "data", name: "pubDate", widget: "datetime", date_format: "MM.DD.YYYY", picker_utc: false}
+      - {label: "autor", name: "author", widget: "string"}
+      - {label: "zdjęcie główne", name: "image", widget: "image"}
+      - {label: "opis (optymalnie 50-160 znaków)", name: "description", widget: "string"}
+      - {label: "autor zdjęć (opcjonalnie)", name: "photos", widget: "string"}
+      - {label: "tekst", name: "body", widget: "markdown"}
+
+  - name: "meetups" # Used in routes, e.g., /admin/collections/blog
+    label: "Wydarzenia" # Used in the UI
+    folder: "src/content/meetups" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      # - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
+      - {label: "tytuł", name: "title", widget: "string"}
+      - {label: "data", name: "pubDate", widget: "datetime", date_format: "MM.DD.YYYY", picker_utc: false}
+      - {label: "zdjęcie główne", name: "image", widget: "image"}
+      - {label: "opis", name: "description", widget: "string"}
+      - {label: "tekst", name: "body", widget: "markdown"}
+
+  - name: "interventions" # Used in routes, e.g., /admin/collections/blog
+    label: "Interwencje" # Used in the UI
+    folder: "src/content/interventions" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    media_folder: ''
+    fields: # The fields for each document, usually in front matter
+      # - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
+      - {label: "tytuł", name: "title", widget: "string"}
+      - {label: "data", name: "pubDate", widget: "datetime", date_format: "MM.DD.YYYY", picker_utc: false}
+      - {label: "autor", name: "author", widget: "string"}
+      - {label: "zdjęcie główne", name: "image", widget: "image"}
+      - {label: "opis (optymalnie 50-160 znaków)", name: "description", widget: "string"}
+      - {label: "autor zdjęć (opcjonalnie)", name: "photos", widget: "string"}
+      - {label: "tekst", name: "body", widget: "markdown"}
+
+  - name: "adoptions" # Used in routes, e.g., /admin/collections/blog
+    label: "Adopcje" # Used in the UI
+    folder: "src/content/adoptions" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    media_folder: ''
+    fields: # The fields for each document, usually in front matter
+      # - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
+      - {label: "imię", name: "pigeon_name", widget: "string"}
+      - {label: "gatunek", name: "species", widget: "string"}
+      - {label: "rasa", name: "breed", widget: "string"}
+      - {label: "płeć", name: "gender", widget: "string"}
+      - {label: "zdjęcie główne", name: "pubImage", widget: "image"}
+      - {label: "tekst", name: "body", widget: "markdown"}
+
   - name: "posts" # Used in routes, e.g., /admin/collections/blog
     label: "Poradniki" # Used in the UI
     folder: "src/content/posts" # The path to the folder where the documents are stored
@@ -28,63 +87,4 @@ collections:
       # - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
       - {label: "tytuł", name: "title", widget: "string"}
       - {label: "zdjęcie główne", name: "image", widget: "image"}
-      - {label: "tekst", name: "body", widget: "markdown"}
-
-  - name: "meetups" # Used in routes, e.g., /admin/collections/blog
-    label: "Wydarzenia" # Used in the UI
-    folder: "src/content/meetups" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
-    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
-    fields: # The fields for each document, usually in front matter
-      # - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
-      - {label: "tytuł", name: "title", widget: "string"}
-      - {label: "data", name: "pubDate", widget: "datetime", date_format: "MM.DD.YYYY", picker_utc: false}
-      - {label: "zdjęcie główne", name: "image", widget: "image"}
-      - {label: "opis", name: "description", widget: "string"}
-      - {label: "tekst", name: "body", widget: "markdown"}
-
-  - name: "reports" # Used in routes, e.g., /admin/collections/blog
-    label: "Nowości" # Used in the UI
-    folder: "src/content/reports" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
-    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
-    fields: # The fields for each document, usually in front matter
-      # - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
-      - {label: "tytuł", name: "title", widget: "string"}
-      - {label: "data", name: "pubDate", widget: "datetime", date_format: "MM.DD.YYYY", picker_utc: false}
-      - {label: "autor", name: "author", widget: "string"}
-      - {label: "zdjęcie główne", name: "image", widget: "image"}
-      - {label: "opis (optymalnie 50-160 znaków)", name: "description", widget: "string"}
-      - {label: "zdjęcia (opcjonalnie)", name: "photos", widget: "string"}
-      - {label: "tekst", name: "body", widget: "markdown"}
-
-  - name: "interventions" # Used in routes, e.g., /admin/collections/blog
-    label: "Interwencje" # Used in the UI
-    folder: "src/content/interventions" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
-    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
-    media_folder: ''
-    fields: # The fields for each document, usually in front matter
-      # - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
-      - {label: "tytuł", name: "title", widget: "string"}
-      - {label: "data", name: "pubDate", widget: "datetime", date_format: "MM.DD.YYYY", picker_utc: false}
-      - {label: "autor", name: "author", widget: "string"}
-      - {label: "zdjęcie główne", name: "image", widget: "image"}
-      - {label: "opis (optymalnie 50-160 znaków)", name: "description", widget: "string"}
-      - {label: "zdjęcia (opcjonalnie)", name: "photos", widget: "string"}
-      - {label: "tekst", name: "body", widget: "markdown"}
-
-  - name: "adoptions" # Used in routes, e.g., /admin/collections/blog
-    label: "Adopcje" # Used in the UI
-    folder: "src/content/adoptions" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
-    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
-    media_folder: ''
-    fields: # The fields for each document, usually in front matter
-      # - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
-      - {label: "imię", name: "pigeon_name", widget: "string"}
-      - {label: "gatunek", name: "species", widget: "string"}
-      - {label: "rasa", name: "breed", widget: "string"}
-      - {label: "płeć", name: "gender", widget: "string"}
-      - {label: "zdjęcie główne", name: "pubImage", widget: "image"}
       - {label: "tekst", name: "body", widget: "markdown"}
