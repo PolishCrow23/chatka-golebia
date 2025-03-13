@@ -2,7 +2,7 @@
 title: Dość tych kłamstw!
 pubDate: 08.25.2024
 author: "Dariusz Grochal "
-image: /images/reports/dość-tych-kłamstw/dsc_0011.jpg
+image: /images/choroby-gołębi.png
 description: "Najpopularniejszym „argumentem” przeciwników gołębi miejskich jest
   ten o rzekomo roznoszonych przez nie chorobach. "
 sources: BI.OI.0134.107.2024.
