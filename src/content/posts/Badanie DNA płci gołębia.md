@@ -7,7 +7,7 @@ image: /images/posts/badanie-dna-płci/snip-zelda.jpg
 longDescription: "Jeśli mamy jednego gołębia i nie planujemy adopcji drugiego, możemy zrobić mu test płci DNA, żeby zaspokoić swoją ciekawość, ale oczywiście nie jest to konieczne. Natomiast jeśli chcemy adoptować drugiego gołębia i mieć pewność, że gołębie nie zrobią sobie krzywdy, wtedy ważne jest poznanie ich płci."
 ---
 
-**Kiedy określenie płci gołębia jest ważne?**
+## Kiedy określenie płci gołębia jest ważne?
 
 Jeśli mamy jednego gołębia i nie planujemy adopcji drugiego, możemy zrobić mu test płci DNA, żeby zaspokoić swoją ciekawość, ale oczywiście nie jest to konieczne. Natomiast jeśli chcemy adoptować drugiego gołębia i mieć pewność, że gołębie nie zrobią sobie krzywdy, wtedy ważne jest poznanie ich płci. 
 
@@ -19,17 +19,17 @@ Jeśli po zrobieniu testu płci DNA okaże się, że nasz gołąb jest samiczką
 <center><p><span style="color:pink;font-size: 150%">♀</span> ＋ <span style="color:pink;font-size: 150%">♀</span> ✓ brak konieczności podmiany prawdziwych jaj na podkładowe</p></center>
 <center><p><span style="color:lightblue;font-size: 150%">♂</span> ＋ <span style="color:lightblue;font-size: 150%">♂</span> ✗ agresja, walka</p></center>
 
-**Jak ze stuprocentową dokładnością określić płeć gołębia?**
+## Jak z prawie stuprocentową dokładnością określić płeć gołębia?
 - **Robiąc mu badanie DNA płci.**
 - **Czekając aż złoży jajko.** Samica składa jajka tylko wtedy, gdy czuje, że ma partnera (partnerem może być człowiek lub drugi gołąb). Brak jajka nie oznacza, że gołąb jest samcem.
 
-**Gdzie można zrobić badanie płci?**
+## Gdzie można zrobić badanie płci?
 
 Badanie płci jest wykonywane w laboratorium. Jeśli nie chcemy samodzielnie pobierać od gołębia próbki, możemy umówić się na wizytę do **kliniki weterynaryjnej**, która ma w swojej ofercie badanie płci ptaków. Ptasi lekarz popiera od gołębia próbkę – wyrywa kilka piór z klatki piersiowej lub nacina pazurka i pobiera kilka kropli krwi, a następnie wysyła ją do laboratorium. Jeśli robimy gołębiowi badanie krwi (podczas którego krew jest pobierana z żyły), możemy poprosić lekarza, żeby część próbki została wykorzystana na badanie płci. Jeśli zdecydujemy się na badanie płci za pośrednictwem kliniki weterynaryjnej, koniecznie zapytajmy jaki jest koszt badania w laboratorium, z którym klinika ma podpisaną umowę. Ceny potrafią się bardzo różnić – w jednej klinice zaoferowano mi zrobienie badania płci za aż 200 zł.
 
 Drugą opcją jest **samodzielne pobranie próbki** i wysłanie jej do laboratorium. Do wyboru mamy wyrwanie kilku sztuk piór z klatki piersiowej, szyi lub zrobienie na pazurze nacięcia skalpelem albo lancetem i pobranie kilku kropli krwi na bibułkę filtracyjną. Zdecydowanie polecam wyrywanie piór, gdyż jest to bezpieczniejsza i łatwiejsza metoda.
 
-**Badanie DNA płci Zeldy**
+## Przykład z życia – badanie DNA płci Zeldy
 
 *Zdecydowałam się na zrobienie Zeldzie badania płci w laboratorium [CIGEN – Genetyka Ptaków](http://www.genetykaptakow.pl/). Koszt badania to 55 zł za jednego gołębia. Czas realizacji to 10-12 dni roboczych. Do badania koniecznych jest 3-5 świeżo wyrwanych piór (lepiej wyrwać trochę więcej), najlepsze są nowowyrastające pióra, ale nie są one konieczne do badania. Jeśli nie chce się otrzymać certyfikatu płci gołębia, to w podpunkcie „deklarowany sposób otrzymania wyników badań" trzeba napisać z boku „otrzymanie wyników smsem".*
 

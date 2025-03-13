@@ -10,7 +10,7 @@ image: /images/posts/Zachowanie gołębi/Zeldon zblizenie.jpg
 W celu stworzenia tej listy odgłosów i zachowań, posłużyłam się źródłami poniżej oraz moimi obserwacjami. Na podstawie moich obserwacji, stworzyłam własne interpretacje zachowań gołębi. Lista będzie edytowana i poszerzana.
 Lista dotyczy w większości zachowań u Columba livia (gołąb miejski, ozdobny, pocztowy).
 
-# Odgłosy
+## Odgłosy
 
 ***Ku!*** (krótkie, głośne, może powtarzać się co kilka sekund)
 
@@ -41,7 +41,7 @@ W zależności od sytuacji:
 Gołąb najczęściej wydaje ten odgłos gdy romansuje ze swoim partnerem (drugim gołębiem lub człowiekiem).
 
 
-# Zachowania
+## Zachowania
 
 **Atakowanie innych gołębi**
 

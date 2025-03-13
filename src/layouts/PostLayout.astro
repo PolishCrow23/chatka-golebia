@@ -24,7 +24,7 @@ const { title, author, description, pubDate, photos } = Astro.props;
                     <h1>{title}</h1>
                      <div class="date-author">
                         <span class="date">Opublikowano <FormattedDate date={pubDate}/></span>
-                        <span class="author">{author}</span>
+                        <a class="author-link" href="/o-nas"><span class="author">{author}</span></a>
                      </div>
                 </div>
                 <div class="slot-wrapper">
@@ -56,10 +56,14 @@ const { title, author, description, pubDate, photos } = Astro.props;
     .title {
         margin-block: 0.6em 5em;
     }
+
     .post h1 {
         text-align: center;
         font-size: 3.6rem;
+        color: var(--dark-plum);
         margin-bottom: 0.8em;
+        font-family: 'Ubuntu Condensed';
+        line-height: 1.6;
     }
 
     .date-author {
@@ -79,14 +83,25 @@ const { title, author, description, pubDate, photos } = Astro.props;
 
     .date {
         margin-bottom: 0.5em;
+        color: #59565a;
+        font-weight: 300;
     }
 
     .date, .author {
-        font-style: italic;
-        font-size: 1.6rem;
-        color: #342812;
+        font-family: "Poppins";
+        font-size: 1.6rem; 
     }
-    
+
+    .author-link {
+        color: var(--lavender);
+        font-weight: 500;
+    }
+
+    .author-link:hover {
+        color: var(--light-lavender);
+    }
+
+
     .photos {
         display: block;
         font-size: 1.8rem;
@@ -96,7 +111,9 @@ const { title, author, description, pubDate, photos } = Astro.props;
         font-weight: bold;
     }
 
-    h1 {
-        font-family: 'Ubuntu Condensed';
-} 
+    @media  (min-width: 760px) {
+        .post h1 {
+        font-size: 4.2rem;
+    }
+}
 </style>

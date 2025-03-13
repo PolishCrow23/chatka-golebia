@@ -3,6 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=McLaren&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Galindo&family=McLaren&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
 @font-face {
 	font-family: 'Urbanist';
@@ -104,10 +105,10 @@ span {
 }
 
 p {
-    font-family: 'Arial';
+    font-family: 'Poppins';
+    font-weight: 300;
     font-size: 1.8rem;
     color: rgb(11, 8, 5);
-    font-weight: 500;
     line-height: 1.8;
     margin-bottom: 1em;
     text-align: justify;
@@ -158,15 +159,14 @@ a:hover {
     background-color: var(--peach);
     color: var(--dark-plum) !important;
     border: none;
-    transition-duration: 1s;
+    transition-duration: 0.3s;
 }
 
 .button-peach:hover {
     background-color: var(--lavender);
     border: 1.5px solid var(--lavender);
-    background: linear-gradient(var(--peach), var(--peach), #ffd8be);
     border: none;
-    transition-duration: 1s;
+    transition-duration: 0.3s;
 }
 
 .button-grass {
