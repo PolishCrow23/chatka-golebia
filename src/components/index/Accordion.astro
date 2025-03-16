@@ -1,39 +1,22 @@
+---
+import AccordionInput from "./AccordionInput.astro"
+---
 <section>
     <div>
+      <h2>Fakty o gołębiach</h2>
       <img class="about-img" src="/images/index/collage-pigeon.png">
     </div>
 
-    <div>
-        <div class="accordionItem">
-          <div class=accordion-header>
-            <h2 class="accordionTitle">Dlaczego warto adoptować gołębie?</h2>
-            <!-- <button><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24"><path fill="currentColor" d="M18 10h-4V6a2 2 0 0 0-4 0l.071 4H6a2 2 0 0 0 0 4l4.071-.071L10 18a2 2 0 0 0 4 0v-4.071L18 14a2 2 0 0 0 0-4"/></svg></button> -->
-          </div>
-        
-        <div class="accordionContent">
-            <p>Gołębie są świetnymi zwierzakami domowymi! Doskonale odnajdują się w towarzystwie ludzi, mają nieskomplikowaną dietę oraz delikatne dzioby i pazury (nie niszczą mebli).</p>
-        </div>
-        </div>
+    <div class="accordion accordion--radio">
+      <AccordionInput accordionTabTitle="Jakie gatunki gołębi występują w Polsce?" accordionTabContent="Gołąb miejski (Columba Livia), sierpówka (Streptopelia decaocto), grzywacz (Columba palumbus), turkawka (Streptopelia turtur), turkawka wschodnia (Streptopelia orientalis), siniak (Columba oenas)."/>
 
-        <div class="accordionItem">
-          <div class=accordion-header>
-            <h2 class="accordionTitle">Co to znaczy, że gołębie miejskie są zwierzętami zdziczałymi?</h2>
-          </div>
-        <div class="accordionContent">
-            <p>Gołębie miejskie są potomkami. Gołębie domowe to udomowione gołębie skalne. Gołębie domowe uciekały z hodowli lub były z nich celowo wypuszczane i tworzyły zdziczałe populacje. Gołębie skalne (dzikie) występują w odizolowanych rejonach Wielkiej Brytanii i Irlandii.</p>
-        </div>
-        </div>
+      <AccordionInput accordionTabTitle="Dlaczego warto adoptować gołębie?" accordionTabContent="Gołębie są świetnymi zwierzakami domowymi! Doskonale odnajdują się w towarzystwie ludzi, mają nieskomplikowaną dietę oraz delikatne dzioby i pazury (nie niszczą mebli)."/>
 
-        <div class="accordionItem">
-          <div class=accordion-header>
-            <h2 class="accordionTitle">Jak długo żyją gołębie?</h2>
-            <!-- <button><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24"><path fill="currentColor" d="M18 10h-4V6a2 2 0 0 0-4 0l.071 4H6a2 2 0 0 0 0 4l4.071-.071L10 18a2 2 0 0 0 4 0v-4.071L18 14a2 2 0 0 0 0-4"/></svg></button> -->
-          </div>
-        
-        <div class="accordionContent">
-            <p>Badania przeprowadzone w 1990 roku w szwajcarskim mieście Basel wykazały, że jedynie 10% lub mniej obserwowanej populacji gołębi miejskich dożywało wieku ponad 4 lat. Z kolei gołębie znajdujące się pod opieką człowieka mogą żyć nawet około 30 lat.</p>
-        </div>
-        </div>
+      <AccordionInput accordionTabTitle="Co to znaczy, że gołębie miejskie są zwierzętami zdziczałymi?" accordionTabContent="Gołębie miejskie są potomkami. Gołębie domowe to udomowione gołębie skalne. Gołębie domowe uciekały z hodowli lub były z nich celowo wypuszczane i tworzyły zdziczałe populacje. Gołębie skalne (dzikie) występują w odizolowanych rejonach Wielkiej Brytanii i Irlandii."/>
+
+      <AccordionInput accordionTabTitle="Jak długo żyją gołębie?" accordionTabContent="Badania przeprowadzone w 1990 roku w szwajcarskim mieście Basel wykazały, że jedynie 10% lub mniej obserwowanej populacji gołębi miejskich dożywało wieku ponad 4 lat. Z kolei gołębie znajdujące się pod opieką człowieka mogą żyć nawet około 30 lat."/>
+
+      <AccordionInput accordionTabTitle="Jaki jest koszt utrzymania gołębia?" accordionTabContent="Najwięcej kosztów ponosi się na początku: klatka, miseczki, transporter itd. Potem utrzymanie gołębia nie jest drogie. Mieszanka ziaren dla gołębi 20 kg kosztuje ok. 50 zł. Raz w roku warto zabrać gołębia na badanie profilaktyczne u ptasiego weterynarza."/>
     </div>
 </section>
 
@@ -45,97 +28,38 @@ img {
 
 section {
     display: flex;
+    flex-direction: row;
     justify-content: center;
-    gap: 5em;
+    align-items: center;
+    gap: 6em;
     background-color: var(--cream);
     padding: 0 4% 13em 4%;
-    flex-wrap: wrap;
 }
 
-.accordion-header {
+.accordion {
+  max-width: 860px;
+  width: 100%;
   display: flex;
-  justify-content: space-between;
+  flex-direction: column;
   align-items: center;
+  overflow: hidden;
+  border-radius: 24px;
+}
+
+h2 {
+  font-family: "Ubuntu Condensed";
+  font-size: 5rem;
   color: var(--plum);
-  background-color: var(--light-lavender);
-  padding: 24px;
-  border-top-left-radius: 36px;
-  border-top-right-radius: 36px;
+  margin-bottom: 3.4rem;
 }
-
-.accordionItem {
-
-    margin-block: 3em;
-    
-    max-width: 1000px;
-    margin-inline: auto;
-    /* cursor: pointer; */
-   
-}
-
-button {
-  padding: 10px;
-  border-radius: 22px;
-  border: none;
-  cursor: pointer;
-  color: var(--plum);
-}
-
-button:active {
-  transform: scale(.9);
-}
-
-
-.accordionContent {
-  padding-top: 2em;
-  background-color: white;
-  border-bottom-left-radius: 60px;
-  border-bottom-right-radius: 60px;
-  padding: 24px;
-}
-
-.accordionTitle {
-  
-  
-  
-  border-radius: 60px;
-}
-
-.accordionTitle + .accordionContent {
-  display: none;
-}
-
-.accordionTitle.is-open + .accordionContent {
-  display: block;
-}
-
-.accordionTitle.is-open {
-  border-bottom-left-radius: 0;
-  border-bottom-right-radius: 0;
-}
-
-      
+ 
 @media  (max-width: 758px) { 
+  section {
+    flex-direction: column;
+  }
+
   img {
-    width: 100%;
+    display: none;
   }
 }
 </style>
-
-<script>
-  const accordionTitles = document.querySelectorAll(".accordionTitle");
-
-  accordionTitles.forEach((accordionTitle) => {
-    accordionTitle.addEventListener("click", () => {
-      if (accordionTitle.classList.contains("is-open")) {
-        accordionTitle.classList.remove("is-open");
-      } else {
-        const accordionTitlesWithIsOpen = document.querySelectorAll(".is-open");
-        accordionTitlesWithIsOpen.forEach((accordionTitleWithIsOpen) => {
-          accordionTitleWithIsOpen.classList.remove("is-open");
-        });
-        accordionTitle.classList.add("is-open");
-      }
-    });
-  });
-</script>

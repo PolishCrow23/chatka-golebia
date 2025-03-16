@@ -1,0 +1,111 @@
+---
+const { accordionTabTitle, accordionTabContent, id = crypto.randomUUID() } = Astro.props;
+---
+
+<div class="tab">
+  <input type="radio" name="accordion-2" id={id}>
+  <label for={id} class="tab__label">{accordionTabTitle}</label>
+  <div class="tab__content">
+    <p>{accordionTabContent}</p>
+  </div>
+</div>
+
+<style>
+/* Core styles/functionality */
+.tab {
+  max-width: 860px;
+  width: 100%;
+  position: relative;
+  margin-bottom: 24px;
+}
+
+.tab input {
+  position: absolute;
+  opacity: 0;
+  z-index: -1;
+}
+
+.tab__content {
+  max-height: 0;
+  overflow: hidden;
+  transition: all 0.35s;
+  border-bottom-left-radius: 36px;
+  border-bottom-right-radius: 36px;
+
+  background-color: var(--white);
+  padding: 0 1.8rem; 
+}
+
+.tab input:checked ~ .tab__content {
+  max-height: 20rem;
+  padding: 1.8rem;
+}
+
+/* Visual styles */
+.accordion {
+  overflow: hidden;
+}
+
+.tab__label,
+.tab__close {
+  display: flex;
+  color: var(--plum);
+  font-size: 1.8rem;
+  cursor: pointer;
+}
+
+.tab__label {
+  justify-content: space-between;
+  padding: 1rem;
+  border-radius: 36px;
+  padding: 2.4rem;
+
+  background-color: var(--light-lavender);
+  font-family: "Ubuntu Condensed";
+  font-size: 2.4rem;
+  font-weight: 600;
+}
+
+.tab__label::after {
+  content: "\276F";
+  width: 1em;
+  height: 1em;
+  text-align: center;
+  transform: rotate(90deg);
+  transition: all 0.35s;
+}
+
+.tab input:checked + .tab__label {
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.tab input:checked + .tab__label::after {
+  transform: rotate(270deg);
+}
+
+.tab__content p {
+  margin: 0;
+  padding: 1rem;
+}
+
+.tab__close {
+  justify-content: flex-end;
+  padding: 0.5rem 1rem;
+  font-size: 0.75rem;
+}
+
+/* Arrow animation */
+.tab input:not(:checked) + .tab__label:hover::after {
+  animation: bounce .5s infinite;
+}
+
+@keyframes bounce {
+  25% {
+    transform: rotate(90deg) translate(.25rem);
+  }
+  75% {
+    transform: rotate(90deg) translate(-.25rem);
+  }
+}
+</style>
