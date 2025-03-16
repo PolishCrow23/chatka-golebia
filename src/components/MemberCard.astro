@@ -48,27 +48,23 @@ const { memberImg, memberName, memberFunction, memberDescription } = Astro.props
     }
 
     @media  (max-width: 758px) {
-        img {
-            margin-top: 4rem;
-        }
-
         .member-card {
             flex-direction: column;
             align-items: center;
             position: relative;
-            margin-block: 2rem;
+            margin-block: 5rem 2rem;
         }
 
         .member-name {
             position: absolute;
-            top: -70px;
+            top: -100px;
             left: 50%;
             transform: translateX(-50%);
         }
 
         .member-function-wrapper {
             position: absolute;
-            top: -10px;
+            top: -32px;
             left: 50%;
             transform: translateX(-50%);
         }
