@@ -1,11 +1,8 @@
 ---
 layout: ../layouts/PageLayout.astro
 title: Adoptuj gołębia pod swoje skrzydła
-image: "/images/meta/hero.png"
+image: "/images/pages/adopcja/adopcja.jpg"
 ---
-
-![](/images/pages/adopcja/adopcja.jpg)
-
 Gołębie potrafią świetnie przystosować się do nowych warunków. Potrzebują po prostu trochę czasu, cierpliwości i miłości. Są niezwykle towarzyskie i nawet gdy nie mają kontaktu z drugim przedstawicielem swojego gatunku, czują się szczęśliwe i zaspokojone jeśli mogą spędzić czas z człowiekiem, którego w którymś momencie zaczynają traktować jako członka swojego stada lub nawet partnera. 
 
 Klatka kojarzy nam się z cierpieniem i niewolą, jednak gołębie uwielbiają swoje klatki! Traktują je jako swoją prywatną przestrzeń, w której jedzą, śpią, bawią się czy dzielą się miłością ze swoim ludzkim lub gołębim partnerem. 

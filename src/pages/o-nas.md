@@ -1,9 +1,8 @@
 ---
 layout: ../layouts/PageLayout.astro
 title: O nas
-image: "/images/meta/hero.png"
+image: "/images/pages/o-nas/o-nas-caleb.jpg"
 ---
-![](/images/pages/o-nas/o-nas-caleb.jpg)
 
 W 2024 r. została założona Fundacja Chatka Gołębia, mająca swoją siedzibę w Małopolsce. Misją Fundacji Chatka Gołębia jest ochrona gołębi miejskich, innych ptaków żyjących w miastach oraz gołębi udomowionych. 
 
