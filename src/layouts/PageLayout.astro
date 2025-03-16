@@ -5,7 +5,7 @@ import Footer from "../components/essentials/Footer.astro";
 import "../styles/slotwrapper.css";
 import PiwikPro from "../components/essentials/PiwikPro.astro";
 
-const { frontmatter = {}, title, description, date, maxWidth = '720px'} = Astro.props ;
+const { frontmatter = {}, title, description, date, image, maxWidth = '720px'} = Astro.props ;
 ---
 
 <html lang="en">
@@ -17,8 +17,8 @@ const { frontmatter = {}, title, description, date, maxWidth = '720px'} = Astro.
         <Header />
         <main>
             <div class="title">
-                <img src={frontmatter.image}></img>
                 <h1>{frontmatter.title || title}</h1>
+                <img src={frontmatter.image || image}></img>
             </div>
             
             <div class="post" style={`max-width: ${maxWidth};`}>
@@ -47,7 +47,7 @@ const { frontmatter = {}, title, description, date, maxWidth = '720px'} = Astro.
         text-align: center;
         font-size: 4.1rem;
         color: var(--dark-plum);
-        margin-top: 4rem;
+        margin-bottom: 4rem;
     }
 
     img {

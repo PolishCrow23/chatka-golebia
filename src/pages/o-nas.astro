@@ -1,0 +1,159 @@
+---
+import PageLayout from "../layouts/PageLayout.astro";
+import MemberCard from "../components/MemberCard.astro"
+---
+
+<PageLayout 
+    image="/images/pages/o-nas/o-nas-caleb.jpg"
+    title="O nas"
+    maxWidth="1400px"
+>
+
+<section class="post">
+    <div class="fond-info">
+        <h4>Fundacja Chatka Gołębia</h4>
+        <div class="fond-info-wrapper">
+            <div>
+                <h5>KRS</h5>
+                <span>0001104995</span>
+                <h5>NIP</h5>
+                <span>8733296495</span>
+            </div>
+            <div>
+                <h5>REGON</h5>
+                <span>528630880</span>
+                <h5>DATA REJESTRACJI</h5>
+                <span>14 maja 2024 r.</span>
+            </div>
+        </div>
+    </div>
+
+    <p>
+        W 2024 r. została założona Fundacja Chatka Gołębia, mająca swoją siedzibę w Małopolsce. Misją Fundacji Chatka Gołębia jest ochrona gołębi miejskich, innych ptaków żyjących w miastach oraz gołębi udomowionych.
+    </p>
+
+    <p>
+        Promujemy adopcję gołębi udomowionych oraz gołębi dzikich, które przez swoją niepełnosprawność nie mogą wrócić na wolność. Informujemy społeczeństwo o pochodzeniu gołębi miejskich (potomkowie wypuszczonych/zbiegłych z hodowli gołębi domowych – udomowionych przez człowieka gołębi skalnych). Finansujemy leczenie i rehabilitację ptaków przebywających w ośrodkach rehabilitacji dzikich zwierząt, fundacjach, stowarzyszeniach i domach tymczasowych. Jako organizacja społeczna bierzemy udział w postępowaniach karnych dotyczących przypadków łamania ustawy o ochronie zwierząt.    Jesteśmy organizatorami cyklicznej, odbywającej się na krakowskim rynku Akcji Sznurek, podczas której rozplątujemy łapki gołębi ze sznurków oraz zabieramy wymagające leczenia ptaki do kliniki weterynaryjnej. Edukujemy otoczenie na temat humanitarnego traktowania ptaków w miastach. W tym celu powołaliśmy kampanię Zakaz Kolców, która postuluje zakazanie montażu kolców w celu odstraszania ptaków.
+    </p>
+
+    <p>Działamy dzięki datkom oraz wsparciu wolontariuszy. Razem możemy więcej!</p>
+
+    <div class="button-container">
+        <a class="button button-peach" href="https://zrzutka.pl/profile/fundacja-chatka-golebia-464519">
+            WSPÓMÓŻ NAS
+        </a>
+    </div>
+</section>
+
+
+<h2>Załoga Chatki</h2>
+
+<div class="member-cards-wrapper">
+    <MemberCard 
+        memberImg="/images/pages/o-nas/Iga.jpg" 
+        memberName="Iga Spodzieja"
+        memberFunction="Prezeska Zarządu" 
+        memberDescription="Uwielbia gawrony! Opiekunka 15-letniej chihuahua. Ukończyła filologię rosyjską, z zawodu programistka full stack i artystka 3D (Blender❤️)."
+    />
+
+    <MemberCard 
+        memberImg="/images/pages/o-nas/Dariusz.jpg" 
+        memberName="Dariusz Grochal"
+        memberFunction="Wiceprezes Zarządu"
+        memberDescription="Opiekun Siwej i Hermana. Trochę pisze, dużo fotografuje, jeszcze więcej czyta a najwięcej czasu spędza na działce, usługując swoim gołębiom."
+    />
+
+    <MemberCard 
+        memberImg="/images/pages/o-nas/Wika.jpeg" 
+        memberName="Wika Kędzierska"
+        memberFunction="Członkini Zarządu"
+        memberDescription="Na co dzień studentka kierunku lekarskiego. Prywatnie opiekunka całkiem sporego stada porzuconych i kalekich gołębi, jak również nielotnych mew rozpieszczonych do granic możliwości 🙂"
+    />
+
+    <MemberCard 
+        memberImg="/images/pages/o-nas/Tomasz.jpg" 
+        memberName="Tomasz Plasa"
+        memberFunction="Członek Zarządu"
+        memberDescription="Gości 11 gatunków ptaków na swoim balkonie.  Ekonomista i menedżer.  Lubi góry, o każdej porze roku."
+    />
+
+    <MemberCard 
+    memberImg="/images/pages/o-nas/Ula.jpg" 
+    memberName="Ula Taraszka"
+    memberFunction="Członkini Zarządu"
+    memberDescription="Graficzka Chatki Gołębia."
+    />
+
+    <MemberCard 
+    memberImg="/images/pages/o-nas/Julia.jpg" 
+    memberName="Julia Ziarkowska"
+    memberFunction="Członkini Zarządu"
+    memberDescription="Studiuje zoologię."
+    />
+</div>
+
+</PageLayout>
+
+<style>
+    h2 {
+        margin-bottom: 6rem;
+    }
+
+    .post {
+        max-width: 720px;
+        margin-inline: auto;
+    }
+
+    .fond-info {
+        margin-inline: auto;
+        padding: 3rem;
+        margin-bottom: 4rem;
+        border-radius: 24px;
+
+        background-color: var(--white);
+        box-shadow: 0 0 6px rgba(0, 0, 0, 0.2);
+    }
+
+    .fond-info h4 {
+        text-align: center;
+        margin-bottom: 3rem;
+    }
+
+    .fond-info-wrapper {
+        display: flex;
+        justify-content: space-around;
+    }
+
+    .fond-info span {
+        font-size: 1.8rem;
+    }
+
+    .member-cards-wrapper {
+        margin-inline: auto;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 2.4rem;
+    }
+
+    .main-img {
+        max-width: 960px;
+    }
+
+    .button-container {
+        text-align: center;
+        margin-block: 6em;
+    }
+
+    @media  (max-width: 480px) { 
+        .fond-info-wrapper {
+            flex-direction: column;
+        }
+    }
+
+    @media  (max-width: 1300px) { 
+        .member-cards-wrapper {
+            grid-template-columns: 1fr;
+            max-width: 860px;
+        }
+    }
+</style>

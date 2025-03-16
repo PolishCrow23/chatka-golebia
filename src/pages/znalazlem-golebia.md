@@ -1,7 +1,7 @@
 ---
 layout: ../layouts/PageLayout.astro
 title: Znalazłem gołębia
-image: "/images/meta/hero.png"
+image: "/images/birds/Snip3.jpg"
 ---
 **Jak wygląda chory gołąb potrzebujący pomocy człowieka?**
 * Ma zgarbioną postawę ciała: zaokrąglony grzbiet, opuszczoną głowę, opuszczone skrzydła i ogon.

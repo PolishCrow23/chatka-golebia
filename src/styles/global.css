@@ -41,7 +41,7 @@
     --black: #000000;
     --dark-plum: #320E3B;
     --plum: #49354E;
-    --greyed-out-plum: #675d6b;
+    --greyed-out-plum: #7d7182;
     --dark-lavender: #9076C7;
     --lavender: #A48CD5;
     --light-lavender: #D0C0F3;
@@ -94,18 +94,23 @@ h3 {
 
 h4 {
     font-size: 2rem;
+    margin-block: 1rem;
+}
+
+h5 {
+    font-size: 1.8rem;
+    margin-block: 0.8rem;
 }
 
 ul {
     list-style: none;
 }
 
-span {
-    font-family: 'Arial';
+p, span, li {
+    font-family: 'Poppins';
 }
 
 p {
-    font-family: 'Poppins';
     font-weight: 300;
     font-size: 1.8rem;
     color: rgb(11, 8, 5);
@@ -121,10 +126,6 @@ img {
 
 .box-shadow {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
-}
-
-span {
-    font-family: 'Arial';
 }
 
 a, a:visited {
