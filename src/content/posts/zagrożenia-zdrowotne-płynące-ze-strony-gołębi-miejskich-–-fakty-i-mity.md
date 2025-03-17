@@ -4,10 +4,6 @@ pubDate: 03.17.2025
 image: /images/choroby-gołębi.png
 description: Choroby gołębi
 ---
-
-
-
-
 Autor: Tomasz Plasa
 
 **„Wśród ludności często panuje nierealny strach przed przenoszeniem chorób przez gołębie, który jest dodatkowo podsycany przez niektóre grupy interesów”** – pisze prof. Daniel Haag-Wackernagel z Uniwersytetu w Bazylei, w artykule „Gesundheitsgefährdungen durch die Straßentaube”.
@@ -24,7 +20,7 @@ Natomiast media, szukają „taniej” sensacji, która przyciągnie uwagę czyt
 
 Zagrożenia zdrowotne płynące od gołębi miejskich można podzielić na dwie części: zagrożenia chorobami i  zagrożenia pasożytami. W dalszej części tekstu znajdują się rozdziały dotyczące tych dwóch rodzajów zagrożeń.
 
-## Zagrożenia chorobami od gołębi miejskich.
+## Zagrożenia chorobami od gołębi miejskich
 
 Zaczynamy od publikacji największych światowych autorytetów w dziedzinie gołębi miejskich. Daniel Haag-Wackernagel jest profesorem biologii na Uniwersytecie w Bazylei (obecnie już profesorem emerytowanym); jest największym światowym autorytetem odnośnie gołębi miejskich, obok R. Johnstona i M. Janigi. Napisał kilkadziesiąt prac naukowych nt. gołębi miejskich i jedną książkę o gołębiach. Jego artykuł z 2004 r. „Health hazards posed by feral pigeons”, napisany wspólnie z H. Moch, jest najczęściej cytowanym artykułem odnośnie zagrożeń zdrowotnych płynących od gołębi \[6]. Profesor Haag-Wackernagel opublikował w 2006 r. trochę rozbudowane wersje tego artykułu, pod tytułami „Human diseases caused by feral pigeons” \[7], „Die Strassentaube: Biologie - Probleme – Lösungen“ \[8] i „Gesundheitsgefährdungen durch die Straßentaube” \[9], a w 2012 roku opublikował kolejną zaktualizowaną wersję swojego pierwotnego artykułu, tym razem pod tytułem „Unerwünschte Gäste. Die Strassentaube - ein Blick hinter die Kulissen” \[10].
 
@@ -44,7 +40,7 @@ Gołębie nie są wektorem roznoszenia wirusa ptasiej grypy. Kneidl-Fenske i Dä
 
 Gołębie nie są wektorem roznoszenia wirusa gorączki zachodniego Nilu. Wirus ten jest przenoszony przez ptaki, ale są to ptaki migrujące na zimę do Afryki. Wirus ten przenosi się pomiędzy ptakami, a kruki i wrony są jego najczęstszymi ofiarami. Przenoszenie wirusa zachodniego Nilu między ptakami a ssakami (w tym ludźmi) następuje poprzez komary.
 
-## Zagrożenia pasożytami od gołębi miejskich.
+## Zagrożenia pasożytami od gołębi miejskich
 
 Kolejny ważny artykuł profesora Haag-Wackernagel to „Parasites from feral pigeons as a health hazard for humans” z 2005 r \[11]. Prof. Haag-Wackernagel opublikował w 2009 r. trochę rozbudowaną wersję tego artykułu, pod tytułem „Ectoparasites from Feral Pigeons Affecting Humans”, wspólnie z A. Bircher \[12]. Podsumowanie treści tych artykułów jest następujące: **Spośród pasożytów żerujących na gołębiach, roztocze ptaszyniec kurzy oraz kleszcz obrzeżek gołębi, mogą przejść do pomieszczeń zamieszkałych przez ludzi, jeśli pasożyty te stracą możliwość żerowania na swoim naturalnym gospodarzu, jakim jest gołąb**. Dzieje się to w przypadkach, kiedy w budynku mieszkalnym, np. na strychu lub dachu, gołębie miały swoje gniazda i zamieszkiwały je. Jeśli gołębie z jakichś powodów opuszczą swoje gniazda, lub gniazda te zostaną usunięte przez człowieka, to pasożyty mieszkające w pobliżu tych gniazd stracą swojego naturalnego „żywiciela”. Wtedy może się zdarzyć, że pasożyt zacznie wędrować po budynku szukając innych żywicieli, i trafi do pomieszczenia zamieszkanego przez człowieka.
 
@@ -64,11 +60,9 @@ Kneidl-Fenske i Dämmrich wymieniają jeszcze pchłę gołębią jako pasożyta,
 
 Wszystkie kontakty z dzikimi zwierzętami niosą zagrożenia zdrowotne, należy więc pamiętać o stosowaniu elementarnych zasad higieny. W przypadku kontaktów z gołębiami należy:
 
-a) Myć ręce po bezpośrednim kontakcie (dotykanie, trzymanie) z gołębiami lub używać jednorazowych rękawiczek
-
-b) Usuwać na bieżąco (najlepiej w ciągu 24 godzin) odchody gołębi z parapetów, balkonów, poręczy, itp.
-
-c) Nie dotykać martwych gołębi, a jeśli musimy je usunąć, to za pomocą łopaty, jednorazowych rękawiczek, itp. Łopatę należy po tym umyć.
+1. Myć ręce po bezpośrednim kontakcie (dotykanie, trzymanie) z gołębiami lub używać jednorazowych rękawiczek.
+2. Usuwać na bieżąco (najlepiej w ciągu 24 godzin) odchody gołębi z parapetów, balkonów, poręczy, itp.
+3. Nie dotykać martwych gołębi, a jeśli musimy je usunąć, to za pomocą łopaty, jednorazowych rękawiczek, itp. Łopatę należy po tym umyć.
 
 Dla osób karmiących gołębie, zwłaszcza na parapetach i balkonach, warto zwrócić uwagę na fakt, że gołębie od czasu do czasu podnoszą piórka i otrząsają się. Powstaje wówczas wokół nich taka chmurka pyłu, składająca się w 90% z talku gołębiego. Natomiast ta chmurka pyłu może zawierać mikroskopijne ilości wyschniętych odchodów gołębia, które z kolei mogą zawierać ww. bakterie lub grzyby. Dlatego, jeśli gołąb koło nas otrząśnie się tworząc chmurkę pyłu, to bezpieczniej jest się odsunąć, aby nic z tego nie wdychać.
 
@@ -88,42 +82,22 @@ Stanowisko Państwowego Instytutu Ochrony Konsumenta i Weterynarii (BgVV) w Berl
 
 
 
-*Marzec 2025 r.*
-
-
-
 Źródła:
 
 1. Alexakis L., Fusaro A., Kuiken T., Mirinavičiūtė G., Ståhl K., Staubach Ch. Svartström O., Terregino C., Willgert K., Delacourt R., Goudjihounde S. M., Grant M., Tampach S., Kohnle L.: “Avian influenza overview March–June 2024”, European Food Safety Authority, European Centre for Disease Prevention and Control, European Union Reference Laboratory for Avian Influenza
-
 2. Assunta Cafiero M., Camarda A., Galante D., Mancini G., Circella E., Cavaliere N., Santagada G., Caiazzo M., Lomuto M.: „Outbreaks of Red Mite (Dermanyssus Gallinae) Dermatitis in City-dwellers: An Emerging Urban Epizoonosis” w: „Hypotheses in Clinical Medicine” pod redakcją M. M. Shoja, P. S. Agutter, S. Tubbs, M. Ghanei, K. Ghabili, A. Harris, M. Loukas; Nova Biomedical, New York, 2013
-
 3. &quot;Bei Tauben ist das eine sehr, sehr abstrakte Gefahr&quot;. https://www.tierschutzverein-augsburg.de/wordpress/wp-content/uploads/2024/05/Tauben-in-der-Stadt-und-ueber-die-vermeintlichen-Gefahren.pdf, 2012
-
 4. Dąbrowska-Juszczak J.: „Ptasie pchły”, https://medibas.pl/home/tematy-kliniczne/dermatologia/informacje-dla-pacjentow/swiad-w-chorobach-skory/pchly-ptasie, 2025
-
 5. Grochal D.: „Choroby gołębi – dość tych kłamstw”, https://chatkagolebia.pl/aktualno%C5%9Bci/do%C5%9B%C4%87-tych-k%C5%82amstw/, 2024
-
 6. Haag-Wackernagel D., Moch H.: „Health hazards posed by feral pigeons”, Journal of Infections, (2004) 48, 307–313
-
 7. Haag-Wackernagel D.: „Human diseases caused by feral pigeons”, Advances in Vertebrate Pest Management, Vol. 4: 31-58, 2006, pod redakcją Feare Ch. J., Cowan D.P., Filander Verlag, Fürth
-
 8. Haag-Wackernagel D.: „Die Strassentaube: Biologie - Probleme – Lösungen“, TONI, Tagung; "Tauben in der Stadt. Konflikte und tierschutzgerechte Lösungen", https://www.vogelabwehr.de/media/Strassentauben---Biologie-Probleme-Loesungen.pdf, 2006
-
 9. Haag-Wackernagel D.: „Gesundheitsgefährdungen durch die Straßentaube Columba Livia“, Amtstierärztlicher Dienst und Lebensmittelkontrolle, 2006, 13. Jg – 4: 262–272
-
 10. Haag-Wackernagel D.: „Unerwünschte Gäste. Die Strassentaube - ein Blick hinter die Kulissen”. Anatomisches Museum der Universität Basel, 2012
-
 11. Haag-Wackernagel D.: “Parasites from feral pigeons as a health hazard for humans”, Annals of Applied Biology, ISSN 0003-4746, 2005
-
 12. Haag-Wackernagel D., Bircher A. J.: „Ectoparasites from Feral Pigeons Affecting Humans”, Dermatology 2010; 220:82–92
-
 13. Kneidl-Fenske M., Dämmrich M: „Gefährdungseinstufung von Stadttauben. Übertragen Tauben Krankheiten und Parasiten? Überprüfung aktueller Aussagen aus dem Internet auf ihren Wahrheitsgehalt“, 2017, https://www.erna-graff-stiftung.de/wp-content/uploads/2017/08/Gef%C3%A4hrdungseinstufung-der-Stadttauben.pdf
-
 14. Raele D.A., Galante D., Pugliese N., La Salandra G., Lomuto M., Assunta Cafiero M.: “First report of Coxiella burnetii and Borrelia burgdorferi sensu lato in poultry red mites, Dermanyssus gallinae (Mesostigmata, Acari), related to urban outbreaks of dermatitis in Italy”, Elsevier Ltd, NMNI, 23, 103–109, 2018.
-
 15. „Schädlingseigenschaft von verwilderten Haustauben“. Stanowisko Państwowego Instytutu Ochrony Konsumenta i Weterynarii (BgVV) w Berlinie z 26.02.1998.
-
 16. „Tauben sind für Menschen keine gefährliche Krankheitsüberträger“. https://www.stadttauben-kulmbach.de/module/aktuelles/aktuelles.asp?kategorie_id=5
-
 17. https://tvn24.pl/krakow/to-krucjata-przeciwko-golebiom-spor-w-krakowie-ra328936-ls3435410, 2013.
