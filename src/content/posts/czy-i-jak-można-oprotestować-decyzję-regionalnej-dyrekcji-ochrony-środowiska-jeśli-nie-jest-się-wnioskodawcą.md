@@ -80,7 +80,7 @@ a) nie ma rozwiązań alternatywnych
 
 b) odstępstwo nie jest szkodliwe dla zachowania we właściwym stanie ochrony dziko występujących populacji chronionych gatunków zwierząt
 
-2.  **zezwolenia na czynności objęte zakazami** (pkt I w Tabeli) w stosunku do gatunków objętych ochroną gatunkową, w tym gołębia miejskiego (art. 56 ust. 4 u.o.p.), mogą być wprowadzone pod następującymi warunkami: 
+2.  **zezwolenia na czynności objęte zakazami** (pkt I, jak wyżej) w stosunku do gatunków objętych ochroną gatunkową, w tym gołębia miejskiego (art. 56 ust. 4 u.o.p.), mogą być wprowadzone pod następującymi warunkami: 
 
 a) **nie ma rozwiązań alternatywnych**,
 
@@ -101,7 +101,7 @@ b) zezwolenie **nie jest szkodliwe dla zachowania we właściwym stanie** ochro
 W przypadku zezwoleń, warunki a) i b) muszą być spełnione łącznie oraz dodatkowo należy wykazać spełnienie któregokolwiek z warunków wskazanych w punktach 1-7. Na marginesie, warto w tym miejscu nadmienić, że
 zgodnie z art. 131 ust. 2 tzw. ustawy ocenowej „RDOŚ może zwracać się do regionalnej rady ochrony przyrody o wydanie opinii w sprawach z zakresu ochrony przyrody należących do jego kompetencji.”
 
-#### ***Ad udział organizacji społecznej w postępowaniu administracyjnym – dopuszczenie do udziału w postępowaniu*** 
+#### ***Ad udział organizacji społecznej w postępowaniu administracyjnym – dopuszczenie do udziału w postępowaniu***
 
 Zgodnie z art. 131 tzw. ustawy ocenowej (ustawa z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania
 na środowisko), wydawanie decyzji na podstawie ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody należy do zadań RDOŚ. 
@@ -211,7 +211,6 @@ Dopuszczenie organizacji społecznej do udziału w postępowaniu administracyjny
 Uprawnienie to zależy od tego, czy:
 
 1. cele statutowe organizacji pokrywają się z przedmiotem postępowania oraz 
-
 2. czy organizacja została dopuszczona do udziału w postępowaniu **przed organem pierwszej instancji na prawach strony** oraz 
 
 3. czy organizacja wniosła przewidziane prawem środki zaskarżenia decyzji w toku instancji administracyjnych i czy zostały one wyczerpane.
