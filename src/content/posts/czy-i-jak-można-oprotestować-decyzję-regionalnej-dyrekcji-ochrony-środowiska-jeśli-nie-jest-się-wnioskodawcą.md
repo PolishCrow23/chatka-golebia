@@ -8,16 +8,14 @@ description: Co zrobić z decyzją RDOŚ
 Poniższa analiza została przeprowadzona przy założeniu, że
 pytanie dotyczy:
 
-\- decyzji RDOŚ, o których mowa w art. 56 ust. 2 ustawy o ochronie przyrody z dnia 16 kwietnia 2004 r. (dalej zwanej u.o.p), **zezwalających na czynności podlegające** zakazom w stosunku do dziko występujących zwierząt objętych ochroną gatunkową, o których mowa w [§ 9 Rozporządzenie Ministra Środowiska w sprawie ochrony
-gatunkowej zwierząt](#_§_9), tj. w szczególności gołębia miejskiego, który należy do gatunków objętych ochroną częściową, ujętych w Załączniku nr 2 do Rozporządzenia
-
-\- legitymacji procesowej organizacja społecznej,  która nie brała udziału w postępowaniu,
-
-\- możliwości wniesienia skargi przez organizację na ostateczną decyzję administracyjną.
+* decyzji RDOŚ, o których mowa w art. 56 ust. 2 ustawy o ochronie przyrody z dnia 16 kwietnia 2004 r. (dalej zwanej u.o.p), **zezwalających na czynności podlegające** zakazom w stosunku do dziko występujących zwierząt objętych ochroną gatunkową, o których mowa w [§ 9 Rozporządzenie Ministra Środowiska w sprawie ochrony
+  gatunkowej zwierząt](#_§_9), tj. w szczególności gołębia miejskiego, który należy do gatunków objętych ochroną częściową, ujętych w Załączniku nr 2 do Rozporządzenia
+* legitymacji procesowej organizacja społecznej,  która nie brała udziału w postępowaniu,
+* możliwości wniesienia skargi przez organizację na ostateczną decyzję administracyjną.
 
 Analiza, dla pełnego obrazu zagadnienia, [oprócz odpowiedzi na zasadnicze pytanie](#_Ad._udział_organizacji), obejmuje także zwięzłe omówienie zakazów w stosunku do gołębia miejskiego, odstępstw od zakazów oraz zasad wydawania zezwoleń RDOŚ na czynności podlegające zakazom. W części dotyczącej udziału organizacji społecznych, analiza omawia także kwestię dopuszczenia udziału organizacji społecznej do postępowania administracyjnego oraz dopuszczenia organizacji społecznej do udziału w postępowaniach wymagających udziału społeczeństwa. 
 
-#### *Ad zakazy i zezwolenia RDOŚ*
+## Ad zakazy i zezwolenia RDOŚ
 
 *czynności zakazane / dozwolone względem gołębia miejskiego (Columba livia forma urbana)*
 
@@ -101,7 +99,7 @@ b) zezwolenie **nie jest szkodliwe dla zachowania we właściwym stanie** ochro
 W przypadku zezwoleń, warunki a) i b) muszą być spełnione łącznie oraz dodatkowo należy wykazać spełnienie któregokolwiek z warunków wskazanych w punktach 1-7. Na marginesie, warto w tym miejscu nadmienić, że
 zgodnie z art. 131 ust. 2 tzw. ustawy ocenowej „RDOŚ może zwracać się do regionalnej rady ochrony przyrody o wydanie opinii w sprawach z zakresu ochrony przyrody należących do jego kompetencji.”
 
-#### ***Ad udział organizacji społecznej w postępowaniu administracyjnym – dopuszczenie do udziału w postępowaniu***
+## Ad udział organizacji społecznej w postępowaniu administracyjnym – dopuszczenie do udziału w postępowaniu
 
 Zgodnie z art. 131 tzw. ustawy ocenowej (ustawa z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania
 na środowisko), wydawanie decyzji na podstawie ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody należy do zadań RDOŚ. 
@@ -204,7 +202,7 @@ W przedmiocie wyrażenia zgody na przedstawienie przez organizację społeczną 
 
 Przedstawienie organowi poglądu w sprawie przez organizację społeczną w trybie art. 31 § 5 k.p.a. **nie pozbawia tej organizacji uprawnienia do późniejszego wystąpienia z żądaniem dopuszczenia jej do udziału w postępowaniu w tej sprawie na prawach strony** (zob. wyr. NSA z 9.3.1988 r., IV SAB 30/87, OSP 1989 Nr 6 poz. 133).
 
-#### [](<>)*Ad udział organizacji społecznej w postępowaniu administracyjnym – wnoszenie środków zaskarżenia*
+## [](<>)Ad udział organizacji społecznej w postępowaniu administracyjnym – wnoszenie środków zaskarżenia
 
 Dopuszczenie organizacji społecznej do udziału w postępowaniu administracyjnym na podstawie [art. 31 k.p.a.](#_Art._31), o którym mowa powyżej, daje organizacji prawa procesowe wyłącznie w postępowaniu administracyjnym. Ewentualne uprawnienie organizacji społecznej biorącej udział w postępowaniu na prawach strony, do wniesienia **skargi do sądu administracyjne**go („legitymacja skargowa”), uregulowane zostało natomiast w [art. 50 § 1 p.p.s.a](#_Art._50). oraz [art. 52 p.p.s.a.](#_Art._52)
 
@@ -252,7 +250,7 @@ wniesienia skargi do sądu administracyjnego po uprzednim wniesieniu środka zas
 Zgodnie z [art. 58 p.p.s.a.,](#_Art._58) sąd może odrzucić skargę, jeżeli jest niedopuszczalna, np. z powodu braku interesu
 prawnego strony, o którym mowa w [art. 50 p.p.s.a](#_Art._50). Sąd odrzuca skargę postanowieniem, na które przysługuje skarga kasacyjna do NSA, bez względu na przyczynę odrzucenia skargi.
 
-#### *Ad udział organizacji społecznej w postępowaniu wymagającym udziału społeczeństwa*
+## Ad udział organizacji społecznej w postępowaniu wymagającym udziału społeczeństwa
 
 Na marginesie tylko wskazać można, że w postępowaniach wymagających udziału społeczeństwa organizacjom ekologicznym spełniającym warunek z [art. 44 ust. 1 ustawy ocenowej](#_Art._44) przysługują szczególne uprawnienia, m.in. uprawnienie do wniesienia odwołania od decyzji wydanej w postępowaniu wymagającym udziału społeczeństwa, jeżeli jest to uzasadnione celami statutowymi tej organizacji, także w przypadku, gdy nie brała ona udziału w postępowaniu przed organem I instancji.
 
