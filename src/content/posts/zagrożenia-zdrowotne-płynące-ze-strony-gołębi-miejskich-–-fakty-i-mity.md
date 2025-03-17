@@ -1,0 +1,131 @@
+---
+title: Zagrożenia zdrowotne płynące ze strony gołębi miejskich – fakty i mity
+pubDate: 03.17.2025
+image: /images/choroby-gołębi.png
+description: Choroby gołębi
+---
+
+
+
+
+Autor: Tomasz Plasa
+
+**„Wśród ludności często panuje nierealny strach przed przenoszeniem chorób przez gołębie, który jest dodatkowo podsycany przez niektóre grupy interesów”** – pisze prof. Daniel Haag-Wackernagel z Uniwersytetu w Bazylei, w artykule „Gesundheitsgefährdungen durch die Straßentaube”.
+
+**1. Geneza i cel publikacji**
+
+Temat zagrożeń zdrowotnych płynących ze strony gołębi miejskich pojawia się często: w mediach, w postaci ulotek rozwieszanych przez administratorów budynków na tablicach informacyjnych, w mediach społecznościowych, na oficjalnych stronach organów państwowych – Dyrekcji Ochrony Środowiska czy Sanepidu. Niestety, większość zamieszczanych tam informacji jest nieprecyzyjna, jest półprawdami, lub jest wprost nieprawdziwa, zwłaszcza w świetle badań naukowych prowadzonych na świecie w ostatnich kilkunastu latach. Inne zamieszczane tam informacje znacząco wyolbrzymiają ryzyka zdrowotne płynące od gołębi, tym samym wprowadzając w błąd odbiorców tych informacji, a czasami nawet siejąc niepotrzebną panikę.
+
+Należy na wstępie zwrócić uwagę na fakt, że firmy sprzedające artykuły odstraszające gołębie i firmy zajmujące się dezynfekcją mają interes ekonomiczny w tym, aby aktywnie i w wyolbrzymiony sposób straszyć społeczeństwo zagrożeniami płynącymi od gołębi. Firmy te liczą na to, że przestraszony obywatel kupi produkty lub usługi tych firm, aby uniknąć rzekomych zagrożeń od gołębi. Z kolei administratorzy lub właściciele budynków nie są zwolennikami gołębi, ponieważ gołębie brudzą budynki odchodami. Zatem administratorzy lub właściciele budynków mają interes ekonomiczny w tym, aby przekonać mieszkańców budynków do niekarmienia gołębi i do odstraszania gołębi. W tym celu administratorzy i właściciele budynków chętnie rozpowszechniają nieprawdziwe lub zmanipulowane informacje o zagrożeniach płynących od gołębi.
+
+Natomiast media, szukają „taniej” sensacji, która przyciągnie uwagę czytelników, słuchaczy lub widzów, podchwytują temat (rzekomych) zagrożeń płynących od gołębi. Niektóre informacje publikowane przez media podają nieprawdziwe lub półprawdziwe informacje dotyczące ryzyk zdrowotnych możliwych do wywołania przez gołębie, inne zawyżają skalę zagrożenia płynącego od gołębi do absurdalnych poziomów.
+
+**Celem niniejszej publikacji jest zwięzłe zaprezentowanie wyników aktualnych badań naukowych nt. zagrożeń zdrowotnych płynących od gołębi, a tym samym przedstawienie obiektywnych, w miarę możliwości zobrazowanych ilościowo, faktów odnośnie tych zagrożeń.** Na końcu niniejszego opracowania znajdują się źródła, na których opiera się niniejszy tekst, wraz z datami ich publikacji. Głównymi źródłami są artykuły i opracowania profesora D. Haag-Wackernagel’a z lat 2004-12 oraz nowszy artykuł dwojga niemieckich autorów - lekarz weterynarii - dr M. Kneidl-Fenske - oraz Pełnomocnika ds. Ochrony Zwierząt - M. Dämmrich - z roku 2017 \[13]. Artykuły tych autorów mają tę zaletę, że oprócz definiowania patogenów (wirusów, bakterii, grzybów, roztoczy, itp.) występujących na gołębiach, podają statystyki rzeczywistych zachorowań ludzi w wyniku kontaktu z tymi patogenami, opisują sytuacje, w jakich te zachorowania wystąpiły, oraz określają w wielu przypadkach możliwe środki zaradcze.
+
+Zagrożenia zdrowotne płynące od gołębi miejskich można podzielić na dwie części: zagrożenia chorobami i  zagrożenia pasożytami. W dalszej części tekstu znajdują się rozdziały dotyczące tych dwóch rodzajów zagrożeń.
+
+
+
+**2. Zagrożenia chorobami od gołębi miejskich.**
+
+Zaczynamy od publikacji największych światowych autorytetów w dziedzinie gołębi miejskich. Daniel Haag-Wackernagel jest profesorem biologii na Uniwersytecie w Bazylei (obecnie już profesorem emerytowanym); jest największym światowym autorytetem odnośnie gołębi miejskich, obok R. Johnstona i M. Janigi. Napisał kilkadziesiąt prac naukowych nt. gołębi miejskich i jedną książkę o gołębiach. Jego artykuł z 2004 r. „Health hazards posed by feral pigeons”, napisany wspólnie z H. Moch, jest najczęściej cytowanym artykułem odnośnie zagrożeń zdrowotnych płynących od gołębi \[6]. Profesor Haag-Wackernagel opublikował w 2006 r. trochę rozbudowane wersje tego artykułu, pod tytułami „Human diseases caused by feral pigeons” \[7], „Die Strassentaube: Biologie - Probleme – Lösungen“ \[8] i „Gesundheitsgefährdungen durch die Straßentaube” \[9], a w 2012 roku opublikował kolejną zaktualizowaną wersję swojego pierwotnego artykułu, tym razem pod tytułem „Unerwünschte Gäste. Die Strassentaube - ein Blick hinter die Kulissen” \[10].
+
+Najważniejsze zdanie zamieszczone w artykułach „Health hazards posed by feral pigeons” i „Human diseases caused by feral pigeons” jest następujące: **Zdarzają się sporadyczne przypadki przeniesienia choroby z gołębi na ludzi, ale ryzyko zarażenia jest bardzo niewielkie, nawet dla osób zajmujących się zawodowo gołębiami.** Prof. Haag-Wackernagel pisze, że na gołębiach występuje ok. 70 patogenów, które mogą stanowić ryzyko dla ludzi, ale tylko 7 z nich rzeczywiście spowodowało zachorowania ludzi. W artykule \[10] prof. Haag-Wackernagel aktualizuje, że gołębie mogą przenosić 111 niebezpiecznych dla ludzi patogenów, ale tylko 8 z nich rzeczywiście spowodowało zachorowania u człowieka. A liczba tych zachorowań jest bardzo mała, można wręcz powiedzieć: „mikroskopijna”. Zebrane zostały przez prof. Haag-Wackernagela wszystkie przypadki zarażenia się człowieka od gołębi między 1941 o 2003 rokiem udokumentowane w językach angielskim, francuskim, niemieckim, włoskim i holenderskim. Oznacza to, że zostały zebrane dane nt. zachorowań od gołębi z kilkunastu krajów Europy Zachodniej i Ameryki Północnej. **Przypadków zachorowań w okresie 62 lat w tych kilkunastu krajach było raptem tylko 176.** W artykułach z 2006 roku prof. Haag-Wackernagel zaktualizował te dane, podając 230 przypadków zachorowań między rokiem 1941 a 2006 \[9]. W 99% przypadków zarażenie nastąpiło drogą oddechową. Jest to o tyle dobra wiadomość, że łatwo jest zaradzić transmisji patogenu drogą oddechową, poprzez noszenie maski. Najczęstsze przypadki zarażenia ludzi dotyczą czterech patogenów: a. ornitozy (wywoływanej przez bakterię chlamydophila psittaci) – 101 przypadków; b. kryptokokozy (wywoływanej przez grzyb cryptococcus neoformans) – 11 przypadków; c. histoplazmozy (wywołanej przez grzyb histoplasma capsulatum) – 91 przypadków; d. aspergilozy (wywołanej przez grzyb aspergillus spp.) – 13 przypadków. Te wymienione bakterie i grzyby znajdują się w odchodach gołębi.
+
+Przypadki zarażenia ornitozą zdarzają się najczęściej podczas sprzątania gołębników lub podczas usuwania znacznej ilości odchodów gołębi, np. zgromadzonych przez wiele lat na strychu, gdzie gnieździły się gołębie. Podczas tego typu prac należy używać masek i kombinezonów. Kneidl-Fenske i Dämmrich podają, że zgodnie z informacją z Instytutu Roberta Kocha w latach 2006-16 w Niemczech pojawiły się zaledwie dwa przypadki ornitozy pochodzącej od gołębi. Polski Główny Inspektor Sanitarny przekazał z kolei informację, że w Polsce w ciągu ostatnich 10 lat odnotowano dwa przypadki zachorowania ludzi na ornitozę, przy czym nie można ustalić, czy ornitoza ta pochodziła od gołębi \[5].
+
+Przypadki zachorowania na kryptokokozę, histoplazmozę czy aspergilozę zdarzyły się przede wszystkim w szpitalach, w których gołębie założyły gniazda we wlocie kanału do wentylacji lub klimatyzacji. Wentylacja zaczęła po jakimś czasie roznosić pył ze zgromadzonych wokół gniazda odchodów gołębi, a ten pył zawierał wymienione wyżej grzyby. Dlatego należy usuwać gniazda gołębi założone we wlotach wentylacji lub klimatyzacji.
+
+Kneidl-Fenske i Dämmrich wskazują z kolei w swoim artykule, że przypadki histoplasmozy są w Europie sporadyczne, a jeśli się pojawiają, to pochodzą od nietoperzy.
+
+Dalej Kneidl-Fenske i Dämmrich przytaczają stanowiska Instytutu Roberta Kocha z Berlina oraz Instytutu Medycyny Tropikalnej Bernharda Nochta z Hamburga stwierdzające, że gołębie nie przenoszą wirusowego zapalenia mózgu.
+
+Jeśli chodzi o salmonellę, to Kneidl-Fenske i Dämmrich wskazują, że bakteria salmonelli przenoszonej przez gołębie jest specyficzna dla gołębi i jest niegroźna dla ludzi. Prof. Haag-Wackernagel potwierdza to w swoim artykule \[9] podając tylko jeden przypadek zarażenia człowieka salmonellą od gołębi w latach 1941-2006 w badanych kilkunastu krajach.
+
+Gołębie nie są wektorem roznoszenia wirusa ptasiej grypy. Kneidl-Fenske i Dämmrich przytaczają, że badania Instytutu Friedricha Loefflera ds. Zdrowia Zwierząt wykazały, że gołębie są bardzo odporne na ptasią grypę. Prof. Haag-Wackernagel również potwierdza w artykule \[8], że gołębie są odporne na wirusa ptasiej grypy H5N1. Z publikacji „Avian influenza overview” przygotowanej przez European Centre for Disease Prevention and Control \[1] także można wywnioskować, że gołębie nie przenoszą ptasiej grypy.
+
+Gołębie nie są wektorem roznoszenia wirusa gorączki zachodniego Nilu. Wirus ten jest przenoszony przez ptaki, ale są to ptaki migrujące na zimę do Afryki. Wirus ten przenosi się pomiędzy ptakami, a kruki i wrony są jego najczęstszymi ofiarami. Przenoszenie wirusa zachodniego Nilu między ptakami a ssakami (w tym ludźmi) następuje poprzez komary.
+
+**3. Zagrożenia pasożytami od gołębi miejskich.**
+
+Kolejny ważny artykuł profesora Haag-Wackernagel to „Parasites from feral pigeons as a health hazard for humans” z 2005 r \[11]. Prof. Haag-Wackernagel opublikował w 2009 r. trochę rozbudowaną wersję tego artykułu, pod tytułem „Ectoparasites from Feral Pigeons Affecting Humans”, wspólnie z A. Bircher \[12]. Podsumowanie treści tych artykułów jest następujące: **Spośród pasożytów żerujących na gołębiach, roztocze ptaszyniec kurzy oraz kleszcz obrzeżek gołębi, mogą przejść do pomieszczeń zamieszkałych przez ludzi, jeśli pasożyty te stracą możliwość żerowania na swoim naturalnym gospodarzu, jakim jest gołąb**. Dzieje się to w przypadkach, kiedy w budynku mieszkalnym, np. na strychu lub dachu, gołębie miały swoje gniazda i zamieszkiwały je. Jeśli gołębie z jakichś powodów opuszczą swoje gniazda, lub gniazda te zostaną usunięte przez człowieka, to pasożyty mieszkające w pobliżu tych gniazd stracą swojego naturalnego „żywiciela”. Wtedy może się zdarzyć, że pasożyt zacznie wędrować po budynku szukając innych żywicieli, i trafi do pomieszczenia zamieszkanego przez człowieka.
+
+Ugryzienie człowieka przez ptaszyńca kurzego powoduje swędzenie, ale poza tym jest niegroźne. Człowiek może pozbyć się tego roztocza poprzez kąpiel pod prysznicem. Ptaszyńca kurzego można usunąć z mieszkania za pomocą odkurzacza. Jedyny przykład skwantyfikowania skali zagrożenia płynącego od ptaszyńca kurzego przenoszonego przez gołębie podają naukowcy z Instytutu Eksperymentalnej Profilaktyki Zoologicznej w Foggii \[2]: było to 11 przypadków obejmujących łącznie 37 osób w ciągu 8 lat (2001-09) w południowych Włoszech. W artykule z 2018 r. \[14] autorzy z tej samej instytucji piszą o 12 przypadkach obejmujących 31 osób w ciągu 2 lat w południowych Włoszech, przy czym 10 przypadków dotyczyło ptaszyńca kurzego pochodzącego z gniazd gołębi, jeden przypadek z gniazda wróbla, a jeden przypadek od domowego kanarka.
+
+Większym problemem jest obrzeżek gołębi. **Prof. Haag-Wackernagel nazywa obrzeżka największym zagrożeniem zdrowotnym, jakie gołąb stwarza dla człowieka**. Obrzeżek atakuje swoich żywicieli w nocy, powodując ukąszenia. W dzień obrzeżek chowa się w szczelinach i innych tego typu zakamarkach. Ukąszenia obrzeżka mogą wywoływać objawy alergiczne lub nawet wstrząs analifaktyczny. Przy poważnych objawach po ukąszeniu pacjent powinien poddać się leczeniu szpitalnemu. Obrzeżka można usunąć w drodze dezynfekcji przeprowadzonej przez wyspecjalizowaną firmę. Generalnie, każde usunięcie gniazd gołębi z dachów lub strychów budynków powinno pociągać za sobą dezynfekcję tych miejsc, przeprowadzaną parokrotnie specjalistycznymi insektycydami, ponieważ obrzeżek jest trudny do zlikwidowania.
+
+Wynika z tego, że jeśli w budynku lub na budynku gołębie mają swoje gniazda, to albo należy zostawić je w spokoju, albo usunąć w profesjonalny sposób połączony z dezynfekcją.
+
+Jeśli gołębie założą nam gniazdo na balkonie podczas naszego wyjazdu lub nieuwagi, to ryzyko pojawienia się obrzeżka w nowym gnieździe jest niewielkie. Prof. Haag-Wackernagel podaje, że dopiero w gniazdach istniejących dłużej niż rok może pojawić się obrzeżek. Należy więc pozostawić gołębie w nowo-założonym gnieździe w spokoju, aby wysiedziały jajka i wychowały młode. Potem można gniazdo usunąć, a balkon zabezpieczyć, aby gołębie nie zadomowiły się ponownie.
+
+Kneidl-Fenske i Dämmrich wskazują w swoim artykule, że nie pojawił się ani jeden przypadek przeniesienia z gołębi na ludzi za pośrednictwem pasożytów odkleszczowego zapalenia mózgu lub boreliozy. Te choroby przenoszą kleszcze żerujące na ssakach, nie na ptakach.
+
+Kneidl-Fenske i Dämmrich wymieniają jeszcze pchłę gołębią jako pasożyta, który może zaatakować człowieka. Lekarz Joanna Dąbrowska-Juszczak w artykule \[4] opisuje, że ptasie pchły, podobnie jak obrzeżek, żyją w gniazdach ptaków. Jeśli ptaki wyniosą się z gniazd, pchła może szukać kolejnego żywiciela. Ptasia pchła zwykle trafia do mieszkań przyniesiona przez wychodzące koty. Ukąszenia przez ptasią pchłę są utrapieniem, ale ptasia pchła przeżywa w ogrzewanym mieszkaniu tylko ok. dwa tygodnie. Dezynfekcja mieszkania zainfekowanego przez ptasią pchłę jest bezcelowa. Prof. Haag-Wackernagel informuje w swoim artykule \[12], że ukąszenia człowieka przez pchłę gołębią są bardzo rzadkie.
+
+**4. Praktyczne uwagi ogólne dotyczące zachowania higieny przy kontakcie z gołębiami**
+
+Wszystkie kontakty z dzikimi zwierzętami niosą zagrożenia zdrowotne, należy więc pamiętać o stosowaniu elementarnych zasad higieny. W przypadku kontaktów z gołębiami należy:
+
+a) Myć ręce po bezpośrednim kontakcie (dotykanie, trzymanie) z gołębiami lub używać jednorazowych rękawiczek
+
+b) Usuwać na bieżąco (najlepiej w ciągu 24 godzin) odchody gołębi z parapetów, balkonów, poręczy, itp.
+
+c) Nie dotykać martwych gołębi, a jeśli musimy je usunąć, to za pomocą łopaty, jednorazowych rękawiczek, itp. Łopatę należy po tym umyć.
+
+Dla osób karmiących gołębie, zwłaszcza na parapetach i balkonach, warto zwrócić uwagę na fakt, że gołębie od czasu do czasu podnoszą piórka i otrząsają się. Powstaje wówczas wokół nich taka chmurka pyłu, składająca się w 90% z talku gołębiego. Natomiast ta chmurka pyłu może zawierać mikroskopijne ilości wyschniętych odchodów gołębia, które z kolei mogą zawierać ww. bakterie lub grzyby. Dlatego, jeśli gołąb koło nas otrząśnie się tworząc chmurkę pyłu, to bezpieczniej jest się odsunąć, aby nic z tego nie wdychać.
+
+Podczas karmienia stada gołębi zdarza się, że niektóre gołębie siadają swoim „karmicielom” na ramionach lub nawet na głowie. Zdarza się to zwłaszcza, jeśli gołębie znają swoich opiekunów-karmicieli i nie obawiają się ich, a opiekun nie odtrąca siadających na nim gołębi. Należy zwrócić tutaj uwagę, że łapki gołębi są zazwyczaj zabrudzone odchodami. Siadając na opiekunie, gołąb pobrudzi ubranie lub skórę opiekuna tymi odchodami. Jeśli więc gołąb usiądzie na nas, to ubranie należy potem wyprać, a skórę umyć.
+
+**5. Inne wypowiedzi autorytetów naukowych nt. zagrożeń płynących od gołębi**
+
+Wypowiedź dr Kazimierza Walasza, prezesa Małopolskiego Towarzystwa Ornitologicznego: „Kontakt z gołębiami miejskimi nie powoduje tego, że możemy się od nich zarazić. Teoretycznie możemy, ale praktycznie nie rejestrujemy takich przypadków”. \[17].
+
+Wypowiedź Jens’a Hübel’a, lekarza weterynarii z Lipska: „Informacje \[dotyczące gołębi] zamieszczane na stronach internetowych firm zajmujących się zwalczaniem szkodników i ich odstraszaniem należy uznać za całkowicie przesadzone. Tutaj wzbudza się panikę, a potencjalnym klientom sugeruje się poprzez dezinformację, że gołębie mogą przenosić dużą ilość groźnych chorób”. \[13].
+
+Wypowiedzi Almut Malone, lekarz weterynarii z Berlina: „Doniesienia o tym, że gołębie mogą przenosić choroby, są chętnie rozpowszechniane. Ryzyko jest jednak znacznie wyższe w przypadku psów, kotów i ptaków domowych, ale ludzie nie zwracają na to aż tak dużej uwagi. … Ptaki miejskie nie przenoszą więcej patogenów niż inne zwierzęta. … Teoretycznie można zarazić się od każdego kręgowca, ale u gołębi jest to bardzo, bardzo abstrakcyjne zagrożenie” \[3].
+
+Wypowiedź dr. Ludger’a Kamphausen, lekarza weterynarii z Kliniki Gołębi w Essen: „Regularnie podlewana ziemia rośliny doniczkowej jest bardziej niebezpiecznym nosicielem chorób, niż gołąb. Choroby mogą przenosić wszystkie zwierzęta, w tym psy, koty, papugi, papużki faliste, chomiki i inne zwierzęta domowe. Jednakże choroby te, które mogą dotknąć ludzi, nazywane zoonozami, są stosunkowo rzadkie i można im zapobiegać, stosując się do normalnych zasad higieny. Jeśli nie całujesz zwierzęcia i myjesz ręce po kontakcie z nim, nie jesz z tego samego talerza co zwierzę ani nie jesz razem z nim kawałka chleba z masłem, ryzyko zakażenia jest niskie” \[16].
+
+Stanowisko Państwowego Instytutu Ochrony Konsumenta i Weterynarii (BgVV) w Berlinie: „Chociaż w zasadzie istnieje możliwość przeniesienia patogenów na ludzi przez dzikie gołębie, dotyczy to w równym stopniu innych gatunków dzikich ptaków żyjących w miastach, takich jak kaczki, łabędzie, wróble, kosy i sikory, a także gatunków ssaków, takich jak wiewiórki i kuny. Absurdalne byłoby klasyfikowanie wszystkich gatunków zwierząt, które żyją w otoczeniu człowieka i nieuchronnie mają kontakt z patogenami, jako szkodniki dla zdrowia. Pod tym względem daleko bliższy kontakt ze zwierzętami domowymi niesie ze sobą większe ryzyka.” \[15].
+
+
+
+*Marzec 2025 r.*
+
+
+
+Źródła:
+
+1. Alexakis L., Fusaro A., Kuiken T., Mirinavičiūtė G., Ståhl K., Staubach Ch. Svartström O., Terregino C., Willgert K., Delacourt R., Goudjihounde S. M., Grant M., Tampach S., Kohnle L.: “Avian influenza overview March–June 2024”, European Food Safety Authority, European Centre for Disease Prevention and Control, European Union Reference Laboratory for Avian Influenza
+
+2. Assunta Cafiero M., Camarda A., Galante D., Mancini G., Circella E., Cavaliere N., Santagada G., Caiazzo M., Lomuto M.: „Outbreaks of Red Mite (Dermanyssus Gallinae) Dermatitis in City-dwellers: An Emerging Urban Epizoonosis” w: „Hypotheses in Clinical Medicine” pod redakcją M. M. Shoja, P. S. Agutter, S. Tubbs, M. Ghanei, K. Ghabili, A. Harris, M. Loukas; Nova Biomedical, New York, 2013
+
+3. &quot;Bei Tauben ist das eine sehr, sehr abstrakte Gefahr&quot;. https://www.tierschutzverein-augsburg.de/wordpress/wp-content/uploads/2024/05/Tauben-in-der-Stadt-und-ueber-die-vermeintlichen-Gefahren.pdf, 2012
+
+4. Dąbrowska-Juszczak J.: „Ptasie pchły”, https://medibas.pl/home/tematy-kliniczne/dermatologia/informacje-dla-pacjentow/swiad-w-chorobach-skory/pchly-ptasie, 2025
+
+5. Grochal D.: „Choroby gołębi – dość tych kłamstw”, https://chatkagolebia.pl/aktualno%C5%9Bci/do%C5%9B%C4%87-tych-k%C5%82amstw/, 2024
+
+6. Haag-Wackernagel D., Moch H.: „Health hazards posed by feral pigeons”, Journal of Infections, (2004) 48, 307–313
+
+7. Haag-Wackernagel D.: „Human diseases caused by feral pigeons”, Advances in Vertebrate Pest Management, Vol. 4: 31-58, 2006, pod redakcją Feare Ch. J., Cowan D.P., Filander Verlag, Fürth
+
+8. Haag-Wackernagel D.: „Die Strassentaube: Biologie - Probleme – Lösungen“, TONI, Tagung; "Tauben in der Stadt. Konflikte und tierschutzgerechte Lösungen", https://www.vogelabwehr.de/media/Strassentauben---Biologie-Probleme-Loesungen.pdf, 2006
+
+9. Haag-Wackernagel D.: „Gesundheitsgefährdungen durch die Straßentaube Columba Livia“, Amtstierärztlicher Dienst und Lebensmittelkontrolle, 2006, 13. Jg – 4: 262–272
+
+10. Haag-Wackernagel D.: „Unerwünschte Gäste. Die Strassentaube - ein Blick hinter die Kulissen”. Anatomisches Museum der Universität Basel, 2012
+
+11. Haag-Wackernagel D.: “Parasites from feral pigeons as a health hazard for humans”, Annals of Applied Biology, ISSN 0003-4746, 2005
+
+12. Haag-Wackernagel D., Bircher A. J.: „Ectoparasites from Feral Pigeons Affecting Humans”, Dermatology 2010; 220:82–92
+
+13. Kneidl-Fenske M., Dämmrich M: „Gefährdungseinstufung von Stadttauben. Übertragen Tauben Krankheiten und Parasiten? Überprüfung aktueller Aussagen aus dem Internet auf ihren Wahrheitsgehalt“, 2017, https://www.erna-graff-stiftung.de/wp-content/uploads/2017/08/Gef%C3%A4hrdungseinstufung-der-Stadttauben.pdf
+
+14. Raele D.A., Galante D., Pugliese N., La Salandra G., Lomuto M., Assunta Cafiero M.: “First report of Coxiella burnetii and Borrelia burgdorferi sensu lato in poultry red mites, Dermanyssus gallinae (Mesostigmata, Acari), related to urban outbreaks of dermatitis in Italy”, Elsevier Ltd, NMNI, 23, 103–109, 2018.
+
+15. „Schädlingseigenschaft von verwilderten Haustauben“. Stanowisko Państwowego Instytutu Ochrony Konsumenta i Weterynarii (BgVV) w Berlinie z 26.02.1998.
+
+16. „Tauben sind für Menschen keine gefährliche Krankheitsüberträger“. https://www.stadttauben-kulmbach.de/module/aktuelles/aktuelles.asp?kategorie_id=5
+
+17. https://tvn24.pl/krakow/to-krucjata-przeciwko-golebiom-spor-w-krakowie-ra328936-ls3435410, 2013.
