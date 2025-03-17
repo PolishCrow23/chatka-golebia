@@ -12,7 +12,7 @@ Autor: Tomasz Plasa
 
 **„Wśród ludności często panuje nierealny strach przed przenoszeniem chorób przez gołębie, który jest dodatkowo podsycany przez niektóre grupy interesów”** – pisze prof. Daniel Haag-Wackernagel z Uniwersytetu w Bazylei, w artykule „Gesundheitsgefährdungen durch die Straßentaube”.
 
-**1. Geneza i cel publikacji**
+## Geneza i cel publikacji
 
 Temat zagrożeń zdrowotnych płynących ze strony gołębi miejskich pojawia się często: w mediach, w postaci ulotek rozwieszanych przez administratorów budynków na tablicach informacyjnych, w mediach społecznościowych, na oficjalnych stronach organów państwowych – Dyrekcji Ochrony Środowiska czy Sanepidu. Niestety, większość zamieszczanych tam informacji jest nieprecyzyjna, jest półprawdami, lub jest wprost nieprawdziwa, zwłaszcza w świetle badań naukowych prowadzonych na świecie w ostatnich kilkunastu latach. Inne zamieszczane tam informacje znacząco wyolbrzymiają ryzyka zdrowotne płynące od gołębi, tym samym wprowadzając w błąd odbiorców tych informacji, a czasami nawet siejąc niepotrzebną panikę.
 
@@ -24,9 +24,7 @@ Natomiast media, szukają „taniej” sensacji, która przyciągnie uwagę czyt
 
 Zagrożenia zdrowotne płynące od gołębi miejskich można podzielić na dwie części: zagrożenia chorobami i  zagrożenia pasożytami. W dalszej części tekstu znajdują się rozdziały dotyczące tych dwóch rodzajów zagrożeń.
 
-
-
-**2. Zagrożenia chorobami od gołębi miejskich.**
+## Zagrożenia chorobami od gołębi miejskich.
 
 Zaczynamy od publikacji największych światowych autorytetów w dziedzinie gołębi miejskich. Daniel Haag-Wackernagel jest profesorem biologii na Uniwersytecie w Bazylei (obecnie już profesorem emerytowanym); jest największym światowym autorytetem odnośnie gołębi miejskich, obok R. Johnstona i M. Janigi. Napisał kilkadziesiąt prac naukowych nt. gołębi miejskich i jedną książkę o gołębiach. Jego artykuł z 2004 r. „Health hazards posed by feral pigeons”, napisany wspólnie z H. Moch, jest najczęściej cytowanym artykułem odnośnie zagrożeń zdrowotnych płynących od gołębi \[6]. Profesor Haag-Wackernagel opublikował w 2006 r. trochę rozbudowane wersje tego artykułu, pod tytułami „Human diseases caused by feral pigeons” \[7], „Die Strassentaube: Biologie - Probleme – Lösungen“ \[8] i „Gesundheitsgefährdungen durch die Straßentaube” \[9], a w 2012 roku opublikował kolejną zaktualizowaną wersję swojego pierwotnego artykułu, tym razem pod tytułem „Unerwünschte Gäste. Die Strassentaube - ein Blick hinter die Kulissen” \[10].
 
@@ -46,7 +44,7 @@ Gołębie nie są wektorem roznoszenia wirusa ptasiej grypy. Kneidl-Fenske i Dä
 
 Gołębie nie są wektorem roznoszenia wirusa gorączki zachodniego Nilu. Wirus ten jest przenoszony przez ptaki, ale są to ptaki migrujące na zimę do Afryki. Wirus ten przenosi się pomiędzy ptakami, a kruki i wrony są jego najczęstszymi ofiarami. Przenoszenie wirusa zachodniego Nilu między ptakami a ssakami (w tym ludźmi) następuje poprzez komary.
 
-**3. Zagrożenia pasożytami od gołębi miejskich.**
+## Zagrożenia pasożytami od gołębi miejskich.
 
 Kolejny ważny artykuł profesora Haag-Wackernagel to „Parasites from feral pigeons as a health hazard for humans” z 2005 r \[11]. Prof. Haag-Wackernagel opublikował w 2009 r. trochę rozbudowaną wersję tego artykułu, pod tytułem „Ectoparasites from Feral Pigeons Affecting Humans”, wspólnie z A. Bircher \[12]. Podsumowanie treści tych artykułów jest następujące: **Spośród pasożytów żerujących na gołębiach, roztocze ptaszyniec kurzy oraz kleszcz obrzeżek gołębi, mogą przejść do pomieszczeń zamieszkałych przez ludzi, jeśli pasożyty te stracą możliwość żerowania na swoim naturalnym gospodarzu, jakim jest gołąb**. Dzieje się to w przypadkach, kiedy w budynku mieszkalnym, np. na strychu lub dachu, gołębie miały swoje gniazda i zamieszkiwały je. Jeśli gołębie z jakichś powodów opuszczą swoje gniazda, lub gniazda te zostaną usunięte przez człowieka, to pasożyty mieszkające w pobliżu tych gniazd stracą swojego naturalnego „żywiciela”. Wtedy może się zdarzyć, że pasożyt zacznie wędrować po budynku szukając innych żywicieli, i trafi do pomieszczenia zamieszkanego przez człowieka.
 
@@ -62,7 +60,7 @@ Kneidl-Fenske i Dämmrich wskazują w swoim artykule, że nie pojawił się ani 
 
 Kneidl-Fenske i Dämmrich wymieniają jeszcze pchłę gołębią jako pasożyta, który może zaatakować człowieka. Lekarz Joanna Dąbrowska-Juszczak w artykule \[4] opisuje, że ptasie pchły, podobnie jak obrzeżek, żyją w gniazdach ptaków. Jeśli ptaki wyniosą się z gniazd, pchła może szukać kolejnego żywiciela. Ptasia pchła zwykle trafia do mieszkań przyniesiona przez wychodzące koty. Ukąszenia przez ptasią pchłę są utrapieniem, ale ptasia pchła przeżywa w ogrzewanym mieszkaniu tylko ok. dwa tygodnie. Dezynfekcja mieszkania zainfekowanego przez ptasią pchłę jest bezcelowa. Prof. Haag-Wackernagel informuje w swoim artykule \[12], że ukąszenia człowieka przez pchłę gołębią są bardzo rzadkie.
 
-**4. Praktyczne uwagi ogólne dotyczące zachowania higieny przy kontakcie z gołębiami**
+## Praktyczne uwagi ogólne dotyczące zachowania higieny przy kontakcie z gołębiami
 
 Wszystkie kontakty z dzikimi zwierzętami niosą zagrożenia zdrowotne, należy więc pamiętać o stosowaniu elementarnych zasad higieny. W przypadku kontaktów z gołębiami należy:
 
@@ -76,7 +74,7 @@ Dla osób karmiących gołębie, zwłaszcza na parapetach i balkonach, warto zwr
 
 Podczas karmienia stada gołębi zdarza się, że niektóre gołębie siadają swoim „karmicielom” na ramionach lub nawet na głowie. Zdarza się to zwłaszcza, jeśli gołębie znają swoich opiekunów-karmicieli i nie obawiają się ich, a opiekun nie odtrąca siadających na nim gołębi. Należy zwrócić tutaj uwagę, że łapki gołębi są zazwyczaj zabrudzone odchodami. Siadając na opiekunie, gołąb pobrudzi ubranie lub skórę opiekuna tymi odchodami. Jeśli więc gołąb usiądzie na nas, to ubranie należy potem wyprać, a skórę umyć.
 
-**5. Inne wypowiedzi autorytetów naukowych nt. zagrożeń płynących od gołębi**
+## Inne wypowiedzi autorytetów naukowych nt. zagrożeń płynących od gołębi
 
 Wypowiedź dr Kazimierza Walasza, prezesa Małopolskiego Towarzystwa Ornitologicznego: „Kontakt z gołębiami miejskimi nie powoduje tego, że możemy się od nich zarazić. Teoretycznie możemy, ale praktycznie nie rejestrujemy takich przypadków”. \[17].
 
