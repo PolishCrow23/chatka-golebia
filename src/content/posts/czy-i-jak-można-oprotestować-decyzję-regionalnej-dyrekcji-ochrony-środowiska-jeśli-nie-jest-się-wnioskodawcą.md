@@ -1,9 +1,10 @@
 ---
-title: Czy i jak można oprotestować decyzję Regionalnej Dyrekcji Ochrony
-  Środowiska, jeśli nie jest się wnioskodawcą?
+title: Czy i jak można oprotestować decyzję Regionalnej Dyrekcji Ochrony Środowiska, jeśli nie jest się wnioskodawcą?
+author: Hanna Cichocka
 pubDate: 03.17.2025
 image: /images/20250128_190518.jpg
 description: Co zrobić z decyzją RDOŚ
+tag: Prawo
 ---
 Poniższa analiza została przeprowadzona przy założeniu, że
 pytanie dotyczy:

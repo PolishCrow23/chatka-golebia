@@ -1,0 +1,45 @@
+---
+import type { MarkdownHeading } from 'astro';
+
+interface Props {
+  headings: MarkdownHeading[];
+}
+
+const { headings } = Astro.props;
+
+const filteredHeadings = headings.filter((heading) => heading.depth <= 2);
+---
+
+<div>
+    <h2>Spis treści</h2>
+    <ol>
+      {
+        filteredHeadings.map((heading) => (
+          <li>
+            <a href={`#${heading.slug}`}>{heading.text}</a>
+          </li>
+        ))
+      }
+    </ol>
+</div>
+
+<style>
+    h2 {
+        font-size: 3.4rem;
+        margin-bottom: 2rem;
+        color: var(--black;)
+    }
+
+    div {
+        margin-bottom: 4rem;
+    }
+
+    ol {
+        padding-left: 2rem;
+    }
+
+    li {
+        font-size: 1.8rem;
+        line-height: 1.8;
+    }
+</style>

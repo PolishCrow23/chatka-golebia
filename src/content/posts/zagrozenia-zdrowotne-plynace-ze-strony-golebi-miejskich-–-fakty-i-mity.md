@@ -1,11 +1,11 @@
 ---
 title: Zagrożenia zdrowotne płynące ze strony gołębi miejskich – fakty i mity
+author: Tomasz Plasa
 pubDate: 03.17.2025
 image: /images/choroby-gołębi.png
-description: Choroby gołębi
+description: Zwięzłe zaprezentowanie wyników aktualnych badań naukowych nt. zagrożeń zdrowotnych płynących od gołębi.
+tag: Zdrowie
 ---
-Autor: Tomasz Plasa
-
 **„Wśród ludności często panuje nierealny strach przed przenoszeniem chorób przez gołębie, który jest dodatkowo podsycany przez niektóre grupy interesów”** – pisze prof. Daniel Haag-Wackernagel z Uniwersytetu w Bazylei, w artykule „Gesundheitsgefährdungen durch die Straßentaube”.
 
 ## Geneza i cel publikacji
@@ -70,34 +70,32 @@ Podczas karmienia stada gołębi zdarza się, że niektóre gołębie siadają s
 
 ## Inne wypowiedzi autorytetów naukowych nt. zagrożeń płynących od gołębi
 
-Wypowiedź dr Kazimierza Walasza, prezesa Małopolskiego Towarzystwa Ornitologicznego: „Kontakt z gołębiami miejskimi nie powoduje tego, że możemy się od nich zarazić. Teoretycznie możemy, ale praktycznie nie rejestrujemy takich przypadków”. \[17].
+Wypowiedź dr Kazimierza Walasza, prezesa Małopolskiego Towarzystwa Ornitologicznego: <blockquote>„Kontakt z gołębiami miejskimi nie powoduje tego, że możemy się od nich zarazić. Teoretycznie możemy, ale praktycznie nie rejestrujemy takich przypadków”. \[17].</blockquote>
 
-Wypowiedź Jens’a Hübel’a, lekarza weterynarii z Lipska: „Informacje \[dotyczące gołębi] zamieszczane na stronach internetowych firm zajmujących się zwalczaniem szkodników i ich odstraszaniem należy uznać za całkowicie przesadzone. Tutaj wzbudza się panikę, a potencjalnym klientom sugeruje się poprzez dezinformację, że gołębie mogą przenosić dużą ilość groźnych chorób”. \[13].
+Wypowiedź Jens’a Hübel’a, lekarza weterynarii z Lipska: <blockquote>„Informacje \[dotyczące gołębi] zamieszczane na stronach internetowych firm zajmujących się zwalczaniem szkodników i ich odstraszaniem należy uznać za całkowicie przesadzone. Tutaj wzbudza się panikę, a potencjalnym klientom sugeruje się poprzez dezinformację, że gołębie mogą przenosić dużą ilość groźnych chorób”. \[13].</blockquote>
 
-Wypowiedzi Almut Malone, lekarz weterynarii z Berlina: „Doniesienia o tym, że gołębie mogą przenosić choroby, są chętnie rozpowszechniane. Ryzyko jest jednak znacznie wyższe w przypadku psów, kotów i ptaków domowych, ale ludzie nie zwracają na to aż tak dużej uwagi. … Ptaki miejskie nie przenoszą więcej patogenów niż inne zwierzęta. … Teoretycznie można zarazić się od każdego kręgowca, ale u gołębi jest to bardzo, bardzo abstrakcyjne zagrożenie” \[3].
+Wypowiedzi Almut Malone, lekarz weterynarii z Berlina: <blockquote>„Doniesienia o tym, że gołębie mogą przenosić choroby, są chętnie rozpowszechniane. Ryzyko jest jednak znacznie wyższe w przypadku psów, kotów i ptaków domowych, ale ludzie nie zwracają na to aż tak dużej uwagi. … Ptaki miejskie nie przenoszą więcej patogenów niż inne zwierzęta. … Teoretycznie można zarazić się od każdego kręgowca, ale u gołębi jest to bardzo, bardzo abstrakcyjne zagrożenie” \[3].</blockquote>
 
-Wypowiedź dr. Ludger’a Kamphausen, lekarza weterynarii z Kliniki Gołębi w Essen: „Regularnie podlewana ziemia rośliny doniczkowej jest bardziej niebezpiecznym nosicielem chorób, niż gołąb. Choroby mogą przenosić wszystkie zwierzęta, w tym psy, koty, papugi, papużki faliste, chomiki i inne zwierzęta domowe. Jednakże choroby te, które mogą dotknąć ludzi, nazywane zoonozami, są stosunkowo rzadkie i można im zapobiegać, stosując się do normalnych zasad higieny. Jeśli nie całujesz zwierzęcia i myjesz ręce po kontakcie z nim, nie jesz z tego samego talerza co zwierzę ani nie jesz razem z nim kawałka chleba z masłem, ryzyko zakażenia jest niskie” \[16].
+Wypowiedź dr. Ludger’a Kamphausen, lekarza weterynarii z Kliniki Gołębi w Essen: <blockquote>„Regularnie podlewana ziemia rośliny doniczkowej jest bardziej niebezpiecznym nosicielem chorób, niż gołąb. Choroby mogą przenosić wszystkie zwierzęta, w tym psy, koty, papugi, papużki faliste, chomiki i inne zwierzęta domowe. Jednakże choroby te, które mogą dotknąć ludzi, nazywane zoonozami, są stosunkowo rzadkie i można im zapobiegać, stosując się do normalnych zasad higieny. Jeśli nie całujesz zwierzęcia i myjesz ręce po kontakcie z nim, nie jesz z tego samego talerza co zwierzę ani nie jesz razem z nim kawałka chleba z masłem, ryzyko zakażenia jest niskie” \[16].</blockquote>
 
-Stanowisko Państwowego Instytutu Ochrony Konsumenta i Weterynarii (BgVV) w Berlinie: „Chociaż w zasadzie istnieje możliwość przeniesienia patogenów na ludzi przez dzikie gołębie, dotyczy to w równym stopniu innych gatunków dzikich ptaków żyjących w miastach, takich jak kaczki, łabędzie, wróble, kosy i sikory, a także gatunków ssaków, takich jak wiewiórki i kuny. Absurdalne byłoby klasyfikowanie wszystkich gatunków zwierząt, które żyją w otoczeniu człowieka i nieuchronnie mają kontakt z patogenami, jako szkodniki dla zdrowia. Pod tym względem daleko bliższy kontakt ze zwierzętami domowymi niesie ze sobą większe ryzyka.” \[15].
+Stanowisko Państwowego Instytutu Ochrony Konsumenta i Weterynarii (BgVV) w Berlinie: <blockquote>„Chociaż w zasadzie istnieje możliwość przeniesienia patogenów na ludzi przez dzikie gołębie, dotyczy to w równym stopniu innych gatunków dzikich ptaków żyjących w miastach, takich jak kaczki, łabędzie, wróble, kosy i sikory, a także gatunków ssaków, takich jak wiewiórki i kuny. Absurdalne byłoby klasyfikowanie wszystkich gatunków zwierząt, które żyją w otoczeniu człowieka i nieuchronnie mają kontakt z patogenami, jako szkodniki dla zdrowia. Pod tym względem daleko bliższy kontakt ze zwierzętami domowymi niesie ze sobą większe ryzyka.” \[15].</blockquote>
 
+**Źródła:**
 
-
-Źródła:
-
-1. Alexakis L., Fusaro A., Kuiken T., Mirinavičiūtė G., Ståhl K., Staubach Ch. Svartström O., Terregino C., Willgert K., Delacourt R., Goudjihounde S. M., Grant M., Tampach S., Kohnle L.: “Avian influenza overview March–June 2024”, European Food Safety Authority, European Centre for Disease Prevention and Control, European Union Reference Laboratory for Avian Influenza
-2. Assunta Cafiero M., Camarda A., Galante D., Mancini G., Circella E., Cavaliere N., Santagada G., Caiazzo M., Lomuto M.: „Outbreaks of Red Mite (Dermanyssus Gallinae) Dermatitis in City-dwellers: An Emerging Urban Epizoonosis” w: „Hypotheses in Clinical Medicine” pod redakcją M. M. Shoja, P. S. Agutter, S. Tubbs, M. Ghanei, K. Ghabili, A. Harris, M. Loukas; Nova Biomedical, New York, 2013
-3. &quot;Bei Tauben ist das eine sehr, sehr abstrakte Gefahr&quot;. https://www.tierschutzverein-augsburg.de/wordpress/wp-content/uploads/2024/05/Tauben-in-der-Stadt-und-ueber-die-vermeintlichen-Gefahren.pdf, 2012
-4. Dąbrowska-Juszczak J.: „Ptasie pchły”, https://medibas.pl/home/tematy-kliniczne/dermatologia/informacje-dla-pacjentow/swiad-w-chorobach-skory/pchly-ptasie, 2025
-5. Grochal D.: „Choroby gołębi – dość tych kłamstw”, https://chatkagolebia.pl/aktualno%C5%9Bci/do%C5%9B%C4%87-tych-k%C5%82amstw/, 2024
-6. Haag-Wackernagel D., Moch H.: „Health hazards posed by feral pigeons”, Journal of Infections, (2004) 48, 307–313
-7. Haag-Wackernagel D.: „Human diseases caused by feral pigeons”, Advances in Vertebrate Pest Management, Vol. 4: 31-58, 2006, pod redakcją Feare Ch. J., Cowan D.P., Filander Verlag, Fürth
-8. Haag-Wackernagel D.: „Die Strassentaube: Biologie - Probleme – Lösungen“, TONI, Tagung; "Tauben in der Stadt. Konflikte und tierschutzgerechte Lösungen", https://www.vogelabwehr.de/media/Strassentauben---Biologie-Probleme-Loesungen.pdf, 2006
-9. Haag-Wackernagel D.: „Gesundheitsgefährdungen durch die Straßentaube Columba Livia“, Amtstierärztlicher Dienst und Lebensmittelkontrolle, 2006, 13. Jg – 4: 262–272
-10. Haag-Wackernagel D.: „Unerwünschte Gäste. Die Strassentaube - ein Blick hinter die Kulissen”. Anatomisches Museum der Universität Basel, 2012
-11. Haag-Wackernagel D.: “Parasites from feral pigeons as a health hazard for humans”, Annals of Applied Biology, ISSN 0003-4746, 2005
-12. Haag-Wackernagel D., Bircher A. J.: „Ectoparasites from Feral Pigeons Affecting Humans”, Dermatology 2010; 220:82–92
-13. Kneidl-Fenske M., Dämmrich M: „Gefährdungseinstufung von Stadttauben. Übertragen Tauben Krankheiten und Parasiten? Überprüfung aktueller Aussagen aus dem Internet auf ihren Wahrheitsgehalt“, 2017, https://www.erna-graff-stiftung.de/wp-content/uploads/2017/08/Gef%C3%A4hrdungseinstufung-der-Stadttauben.pdf
+1. Alexakis L., Fusaro A., Kuiken T., Mirinavičiūtė G., Ståhl K., Staubach Ch. Svartström O., Terregino C., Willgert K., Delacourt R., Goudjihounde S. M., Grant M., Tampach S., Kohnle L.: “Avian influenza overview March–June 2024”, European Food Safety Authority, European Centre for Disease Prevention and Control, European Union Reference Laboratory for Avian Influenza.
+2. Assunta Cafiero M., Camarda A., Galante D., Mancini G., Circella E., Cavaliere N., Santagada G., Caiazzo M., Lomuto M.: „Outbreaks of Red Mite (Dermanyssus Gallinae) Dermatitis in City-dwellers: An Emerging Urban Epizoonosis” w: „Hypotheses in Clinical Medicine” pod redakcją M. M. Shoja, P. S. Agutter, S. Tubbs, M. Ghanei, K. Ghabili, A. Harris, M. Loukas; Nova Biomedical, New York, 2013.
+3. [„Bei Tauben ist das eine sehr, sehr abstrakte Gefahr"](https://www.tierschutzverein-augsburg.de/wordpress/wp-content/uploads/2024/05/Tauben-in-der-Stadt-und-ueber-die-vermeintlichen-Gefahren.pdf), 2012.
+4. Dąbrowska-Juszczak J.: [„Ptasie pchły”](https://medibas.pl/home/tematy-kliniczne/dermatologia/informacje-dla-pacjentow/swiad-w-chorobach-skory/pchly-ptasie), 2025.
+5. Grochal D.: [„Choroby gołębi – dość tych kłamstw”](https://chatkagolebia.pl/aktualno%C5%9Bci/do%C5%9B%C4%87-tych-k%C5%82amstw/), 2024.
+6. Haag-Wackernagel D., Moch H.: „Health hazards posed by feral pigeons”, Journal of Infections, (2004) 48, 307–313.
+7. Haag-Wackernagel D.: „Human diseases caused by feral pigeons”, Advances in Vertebrate Pest Management, Vol. 4: 31-58, 2006, pod redakcją Feare Ch. J., Cowan D.P., Filander Verlag, Fürth.
+8. Haag-Wackernagel D.: [„Die Strassentaube: Biologie - Probleme – Lösungen“, TONI, Tagung; "Tauben in der Stadt. Konflikte und tierschutzgerechte Lösungen"](https://www.vogelabwehr.de/media/Strassentauben---Biologie-Probleme-Loesungen.pdf), 2006.
+9. Haag-Wackernagel D.: „Gesundheitsgefährdungen durch die Straßentaube Columba Livia“, Amtstierärztlicher Dienst und Lebensmittelkontrolle, 2006, 13. Jg – 4: 262–272.
+10. Haag-Wackernagel D.: „Unerwünschte Gäste. Die Strassentaube - ein Blick hinter die Kulissen”. Anatomisches Museum der Universität Basel, 2012.
+11. Haag-Wackernagel D.: “Parasites from feral pigeons as a health hazard for humans”, Annals of Applied Biology, ISSN 0003-4746, 2005.
+12. Haag-Wackernagel D., Bircher A. J.: „Ectoparasites from Feral Pigeons Affecting Humans”, Dermatology 2010; 220:82–92.
+13. Kneidl-Fenske M., [Dämmrich M: „Gefährdungseinstufung von Stadttauben. Übertragen Tauben Krankheiten und Parasiten? Überprüfung aktueller Aussagen aus dem Internet auf ihren Wahrheitsgehalt“](https://www.erna-graff-stiftung.de/wp-content/uploads/2017/08/Gef%C3%A4hrdungseinstufung-der-Stadttauben.pdf), 2017.
 14. Raele D.A., Galante D., Pugliese N., La Salandra G., Lomuto M., Assunta Cafiero M.: “First report of Coxiella burnetii and Borrelia burgdorferi sensu lato in poultry red mites, Dermanyssus gallinae (Mesostigmata, Acari), related to urban outbreaks of dermatitis in Italy”, Elsevier Ltd, NMNI, 23, 103–109, 2018.
 15. „Schädlingseigenschaft von verwilderten Haustauben“. Stanowisko Państwowego Instytutu Ochrony Konsumenta i Weterynarii (BgVV) w Berlinie z 26.02.1998.
-16. „Tauben sind für Menschen keine gefährliche Krankheitsüberträger“. https://www.stadttauben-kulmbach.de/module/aktuelles/aktuelles.asp?kategorie_id=5
-17. https://tvn24.pl/krakow/to-krucjata-przeciwko-golebiom-spor-w-krakowie-ra328936-ls3435410, 2013.
+16. [„Tauben sind für Menschen keine gefährliche Krankheitsüberträger“](https://www.stadttauben-kulmbach.de/module/aktuelles/aktuelles.asp?kategorie_id=5).
+17. [„To krucjata przeciwko gołębiom". Spór w Krakowie](https://tvn24.pl/krakow/to-krucjata-przeciwko-golebiom-spor-w-krakowie-ra328936-ls3435410), 2013.

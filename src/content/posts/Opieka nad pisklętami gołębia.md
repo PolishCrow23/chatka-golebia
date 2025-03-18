@@ -4,6 +4,7 @@ author: Iga Spodzieja
 pubDate: 2021.09.20
 description: Czym karmić pisklęta gołębi? Jakie warunki im zapewnić?
 image: /images/posts/pisklęta/pisklęta-małe.jpg
+tag: Opieka
 ---
 
 Na wstępie chciałabym poruszyć kilka ważnych spraw. Poradnik nie jest przeznaczony dla osób rozmnażających gołębi, tylko dla osób ratujące gołębie. Po drugie, poradnik nie zastąpi pomocy weterynarza specjalizującego się w leczeniu ptaków (od razu podkreślam, że psio-koci weterynarz, który nie ma wiedzy na temat leczenia ptaków to nie jest dobry wybór jeśli ptak nie wymaga pilnej pomocy) albo pracowników przyjaznego dla gołębi ośrodka rehabilitacji zwierząt lub fundacji. Nawet jeśli gołąb wygląda dobrze, to trzeba wcześniej lub później (oczywiście lepiej zrobić to wcześniej) skontaktować się z lekarzem. Po trzecie, jeśli masz link do tego poradnika, to mam nadzieję, że otrzymałeś go od naszej strony i w razie problemów jesteś z nami w kontakcie. W innym przypadku nie mogę zagwarantować, że podane tutaj porady będą odpowiednie dla Twojego przypadku, np. pisklęcia z ranami lub urazem głowy. I ostatnia kwestia – o ile istnieje wiele szczegółowych badań dotyczących lęgów *Columby livii* (gołąb miejski, domowy, skalny), to w przypadku pozostałych gołębi dostępnych badań jest zdecydowanie mniej (i są mniej szczegółowe). Dlatego jeśli chodzi o źródła ornitologiczne, to poradnik jest w dużej mierze oparty na źródłach dotyczących właśnie *Columby livii*, co nie zmienia faktu, że podane tutaj wskazówki sprawdzają się dobrze w przypadku podanych poniżej gatunków. 

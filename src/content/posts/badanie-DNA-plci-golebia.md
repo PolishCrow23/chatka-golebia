@@ -5,6 +5,7 @@ pubDate: 03.21.2021
 description: Jak dowiedzieć się jakiej płci jest nasz gołąb? Na pomoc przychodzi badanie płci DNA.
 image: /images/posts/badanie-dna-płci/snip-zelda.jpg
 longDescription: "Jeśli mamy jednego gołębia i nie planujemy adopcji drugiego, możemy zrobić mu test płci DNA, żeby zaspokoić swoją ciekawość, ale oczywiście nie jest to konieczne. Natomiast jeśli chcemy adoptować drugiego gołębia i mieć pewność, że gołębie nie zrobią sobie krzywdy, wtedy ważne jest poznanie ich płci."
+tag: Opieka
 ---
 
 ## Kiedy określenie płci gołębia jest ważne?

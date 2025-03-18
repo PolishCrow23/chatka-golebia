@@ -36,7 +36,7 @@
 
 .slot-wrapper p {
     text-align: left;
-    line-height: 2;
+    line-height: 1.8;
     margin-bottom: 2.8rem;
 }
 
@@ -68,10 +68,11 @@ blockquote {
     position: relative;
     
     /*Font*/
-    font-family: Georgia, serif;
-    font-size: 16px;
-    line-height: 1.2;
+    font-family: "Poppins";
+    font-size: 1.8rem;
+    line-height: 1.8;
     text-align: justify;
+    color: var(--black);
     
     /*Borders - (Optional)*/
     border-left: 12px solid var(--peach);

@@ -1,29 +1,33 @@
 ---
-import { getCollection, type CollectionEntry } from "astro:content"
+import { getCollection, type CollectionEntry, render } from "astro:content"
 import PostLayout from "../../layouts/PostLayout.astro"
+import type { MarkdownHeading } from 'astro';
 
 export const getStaticPaths = async () => {
-    const posts = await getCollection("posts")
-    const paths = posts.map(post => {
-        return {
-            params: {
-                slug: post.slug
-            },
-            props: {
-                post
-            }
-        }
+  const posts = await getCollection("posts");
+
+  const headings = await Promise.all(
+    posts.map(async (post) => {
+      const data = await render(post);
+      return data.headings;
     })
-    return paths
-}
+  );
+
+  return posts.map((post, index) => ({
+    params: { slug: post.slug },
+    props: { post, headings: headings[index] },
+  }));
+};
 
 type Props = {
-    post: CollectionEntry<"posts">
+  post: CollectionEntry<"posts">;
+  headings: MarkdownHeading[];
 }
 
-const {post} = Astro.props
-const {Content} = await post.render()
+const { post, headings } = Astro.props;
+const { Content } = await post.render();
 ---
-<PostLayout {...post.data}>
-    <Content />
+
+<PostLayout {...post.data} headings={headings}>
+  <Content />
 </PostLayout>

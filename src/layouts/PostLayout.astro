@@ -1,14 +1,27 @@
 ---
-import type { CollectionEntry } from 'astro:content';
+import type { MarkdownHeading } from 'astro';
 import BaseHead from "../components/essentials/BaseHead.astro";
 import Header from "../components/essentials/Header.astro";
 import Footer from "../components/essentials/Footer.astro";
 import PiwikPro from "../components/essentials/PiwikPro.astro";
-import "../styles/slotwrapper.css"
 import FormattedDate from "../components/essentials/FormattedDate.astro";
+import "../styles/slotwrapper.css"
+import TableOfContents from '../components/TableOfContents.astro';
 
-const { title, author, description, pubDate, photos } = Astro.props;
-// type Props = CollectionEntry<'reports'>['data'];
+interface PostFrontmatter {
+  title: string;
+  description: string;
+  author: string;
+  pubDate: Date;
+  image?: string;
+  tag?: string;
+  photos?: string[];
+}
+
+type Props = PostFrontmatter & { headings: MarkdownHeading[] };
+
+const { image, title, author, description, pubDate, photos, tag, headings } = Astro.props;
+
 ---
 
 <html lang="en">
@@ -19,14 +32,30 @@ const { title, author, description, pubDate, photos } = Astro.props;
         <PiwikPro />
         <Header />
         <main>
-            <div class = "post">
-                <div class = "title">
+            <div class="post-intro">
+                <div class="title">
                     <h1>{title}</h1>
-                     <div class="date-author">
-                        <span class="date">Opublikowano <FormattedDate date={pubDate}/></span>
-                        <a class="author-link" href="/o-nas"><span class="author">{author}</span></a>
-                     </div>
                 </div>
+                
+                <div class="date-author">
+                    <div>
+                        <svg xmlns="http://www.w3.org/2000/svg" width="21" height="21" viewBox="0 0 512 512"><path fill="currentColor" d="M332.64 64.58C313.18 43.57 286 32 256 32c-30.16 0-57.43 11.5-76.8 32.38c-19.58 21.11-29.12 49.8-26.88 80.78C156.76 206.28 203.27 256 256 256s99.16-49.71 103.67-110.82c2.27-30.7-7.33-59.33-27.03-80.6M432 480H80a31 31 0 0 1-24.2-11.13c-6.5-7.77-9.12-18.38-7.18-29.11C57.06 392.94 83.4 353.61 124.8 326c36.78-24.51 83.37-38 131.2-38s94.42 13.5 131.2 38c41.4 27.6 67.74 66.93 76.18 113.75c1.94 10.73-.68 21.34-7.18 29.11A31 31 0 0 1 432 480"/></svg><a class="author-link" href="/o-nas">
+                        <span class="author">{author}</span></a>
+                    </div>
+                    <div>
+                        <svg xmlns="http://www.w3.org/2000/svg" width="21" height="21" viewBox="0 0 24 24"><g fill="none"><path d="m12.593 23.258l-.011.002l-.071.035l-.02.004l-.014-.004l-.071-.035q-.016-.005-.024.005l-.004.01l-.017.428l.005.02l.01.013l.104.074l.015.004l.012-.004l.104-.074l.012-.016l.004-.017l-.017-.427q-.004-.016-.017-.018m.265-.113l-.013.002l-.185.093l-.01.01l-.003.011l.018.43l.005.012l.008.007l.201.093q.019.005.029-.008l.004-.014l-.034-.614q-.005-.018-.02-.022m-.715.002a.02.02 0 0 0-.027.006l-.006.014l-.034.614q.001.018.017.024l.015-.002l.201-.093l.01-.008l.004-.011l.017-.43l-.003-.012l-.01-.01z"/><path fill="currentColor" d="M21 12v7a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-7zm-5-9a1 1 0 0 1 1 1v1h2a2 2 0 0 1 2 2v3H3V7a2 2 0 0 1 2-2h2V4a1 1 0 0 1 2 0v1h6V4a1 1 0 0 1 1-1"/></g></svg>
+                        <span class="date"><FormattedDate date={pubDate}/></span>
+                    </div>
+                    <div class="tag-container">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="21" height="21" viewBox="0 0 24 24"><g fill="none" fill-rule="evenodd"><path d="m12.594 23.258l-.012.002l-.071.035l-.02.004l-.014-.004l-.071-.036q-.016-.004-.024.006l-.004.01l-.017.428l.005.02l.01.013l.104.074l.015.004l.012-.004l.104-.074l.012-.016l.004-.017l-.017-.427q-.004-.016-.016-.018m.264-.113l-.014.002l-.184.093l-.01.01l-.003.011l.018.43l.005.012l.008.008l.201.092q.019.005.029-.008l.004-.014l-.034-.614q-.005-.019-.02-.022m-.715.002a.02.02 0 0 0-.027.006l-.006.014l-.034.614q.001.018.017.024l.015-.002l.201-.093l.01-.008l.003-.011l.018-.43l-.003-.012l-.01-.01z"/><path fill="currentColor" d="M15.586 2.757a2 2 0 0 1 2.828 0l2.829 2.829a2 2 0 0 1 0 2.828l-2.829 2.829a2 2 0 0 1-2.828 0l-2.829-2.829a2 2 0 0 1 0-2.828zM9 3a2 2 0 0 1 2 2v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2zm12 12a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v4a2 2 0 0 0 2 2h4a2 2 0 0 0 2-2zM9 13a2 2 0 0 1 2 2v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4a2 2 0 0 1 2-2z"/></g></svg>
+                        <span class="tag">{tag}</span>
+                    </div>
+                </div>
+                <img src={image} class="pub-img">
+            </div>
+
+            <div class="post">
+                <TableOfContents headings={headings}/>
                 <div class="slot-wrapper">
                     <slot />
                 </div>
@@ -41,35 +70,59 @@ const { title, author, description, pubDate, photos } = Astro.props;
     </body>
 
 <style>
+    .post-intro {
+        max-width: 880px;
+        margin-inline: auto;
+        display: flex;
+        flex-direction: column;
+        gap: 2.8rem;
+        margin-bottom: 3.6rem;
+    }
+
     .post {
         max-width: 720px;
         margin-inline: auto;
-}
+    }
 
     main {
-        padding-block: 4em 8em;
+        padding-block: 5rem 7rem;
         padding-inline: 2%;
 
         background-color: var(--cream);
     }
 
-    .title {
-        margin-block: 0.6em 5em;
+    .pub-img {
+        margin-inline: auto;
+        width: 860px;
+        height: 550px;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        box-shadow: 0 0 6px rgba(0, 0, 0, 0.2);
     }
 
-    .post h1 {
+    .title h1 {
         text-align: center;
-        font-size: 3.6rem;
+        font-size: 4.1rem;
         color: var(--dark-plum);
-        margin-bottom: 0.8em;
         font-family: 'Ubuntu Condensed';
         line-height: 1.6;
     }
 
     .date-author {
         display: flex;
-        flex-direction: column;
-        align-items: end;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        gap: 10rem;
+        margin-bottom: 1.2rem;
+        color: var(--greyed-out-plum);
+    }
+
+    .date-author div {
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
     }
 
     .sources-images {
@@ -82,12 +135,11 @@ const { title, author, description, pubDate, photos } = Astro.props;
     }
 
     .date {
-        margin-bottom: 0.5em;
         color: #59565a;
         font-weight: 300;
     }
 
-    .date, .author {
+    .date, .author, .tag {
         font-family: "Poppins";
         font-size: 1.6rem; 
     }
@@ -101,7 +153,6 @@ const { title, author, description, pubDate, photos } = Astro.props;
         color: var(--light-lavender);
     }
 
-
     .photos {
         display: block;
         font-size: 1.8rem;
@@ -111,9 +162,17 @@ const { title, author, description, pubDate, photos } = Astro.props;
         font-weight: bold;
     }
 
+    @media  (max-width: 480px) {
+        .date-author {
+            flex-direction: column;
+            gap: 1.2rem;
+        }
+    }
+
+
     @media  (min-width: 760px) {
         .post h1 {
-        font-size: 4.2rem;
+            font-size: 4.2rem;
     }
 }
 </style>
