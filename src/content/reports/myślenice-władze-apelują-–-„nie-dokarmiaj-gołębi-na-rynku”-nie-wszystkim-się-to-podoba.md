@@ -3,7 +3,7 @@ title: Myślenice. Władze apelują – „Nie dokarmiaj gołębi na Rynku”. N
   wszystkim się to podoba
 pubDate: 03.19.2025
 author: Redakcja MiastoInfo. Myślenice oczami mieszkańców
-image: /images/20250128_190518.jpg
+image: /images/golebie-11.jpg
 description: Myślenice. Władze apelują – „Nie dokarmiaj gołębi na Rynku”.
 photos: MiastoInfo
 ---
