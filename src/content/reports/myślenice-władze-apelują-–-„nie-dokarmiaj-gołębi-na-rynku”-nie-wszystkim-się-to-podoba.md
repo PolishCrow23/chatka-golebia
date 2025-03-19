@@ -5,7 +5,7 @@ pubDate: 03.19.2025
 author: Redakcja MiastoInfo. Myślenice oczami mieszkańców
 image: /images/20250128_190518.jpg
 description: Myślenice. Władze apelują – „Nie dokarmiaj gołębi na Rynku”.
-photos: Iga Spodzieja
+photos: MiastoInfo
 ---
 Gmina Myślenice publikuje apel do mieszkańców, w którym zwraca uwagę na to, aby nie dokarmiać gołębi w Rynku. Te, jak piszą urzędnicy, mają m.in. „zanieczyszczać przestrzeń publiczną i mogą przenosić groźne choroby”. Przypominają też o grzywnie za zaśmiecanie w wysokości 500 zł. Nie wszystkim podoba się takie podejście, a wiceprezes fundacji Chatka Gołębia zapowiada interwencję w gminie. 
 
