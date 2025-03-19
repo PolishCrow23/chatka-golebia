@@ -9,4 +9,7 @@ description: Myślenice. Władze apelują – „Nie dokarmiaj gołębi na Rynku
 photos: Iga Spodzieja
 ---
 
+
+![](/images/post-fb.png)
+
 Myślenice. Władze apelują – „Nie dokarmiaj gołębi na Rynku”. Nie wszystkim się to podoba
