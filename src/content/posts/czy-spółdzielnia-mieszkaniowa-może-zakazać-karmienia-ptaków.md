@@ -22,9 +22,6 @@ droga, ulica, plac, ogród, trawnik, zieleniec ([art. 145 kodeksu wykroczeń](#_
 w ten sposób znamiona czynu zabronionego na gruncie kodeksu wykroczeń oraz
 otrzymać mandat w wysokości min. 500 zł.
 
-
-
-
 ##### Regulamin czystości i utrzymania porządku na terenie gminy – art. 4
 u.cz.p.g.
 
