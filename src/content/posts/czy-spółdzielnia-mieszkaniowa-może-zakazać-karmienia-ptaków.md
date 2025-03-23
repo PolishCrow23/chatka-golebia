@@ -4,7 +4,7 @@ pubDate: 03.23.2025
 image: /images/gołąbdsc_0015.jpg
 description: W tym poradniku odpowiadamy na pytanie - Czy spółdzielnia
   mieszkaniowa może zakazać karmienia ptaków? Omówimy w nim kwestie miejsc
-  publicznych, prywatnych oraz pokażemy,
+  publicznych, prywatnych oraz pokażemy
 ---
 MIEJSCA PUBLICZNE
 
