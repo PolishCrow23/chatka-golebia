@@ -22,7 +22,7 @@ droga, ulica, plac, ogród, trawnik, zieleniec ([art. 145 k.w](#_Art._145_[Zanie
 w ten sposób znamiona czynu zabronionego na gruncie kodeksu wykroczeń oraz
 otrzymać mandat w wysokości min. 500 zł.
 
-##### Regulamin czystości i utrzymania porządku na terenie gminy – art. 4 ustawy z 1996 r. o utrzymaniu czystości i porządku w gminach.
+##### Regulamin czystości i utrzymania porządku na terenie gminy – art. 4 u.c.p.g
 
 Zgodnie z [art. 4 u.c.p.g.](#_Art.__4) rady
 gminy mają obowiązek uchwalania regulaminu utrzymania czystości i porządku
