@@ -13,18 +13,18 @@ MIEJSCA PUBLICZNE
 Na wstępie zaznaczyć należy, że nie ma w polskim prawie przepisów, które by
 wprost zabraniały dokarmiania ptaków (ale także tzw. „wolno-żyjących” lub „wolno-bytujących bezdomnych” kotów) w miejscach publicznych.
 
-##### Zakaz śmiecenia i zanieczyszczania miejsc publicznych – art. 145 k.w.
+##### Zakaz śmiecenia i zanieczyszczania miejsc publicznych – art. 145 kodeksu wykroczeń.
 
 Niemniej, jeśli dokarmiając powodujemy zanieczyszczenie lub
 zaśmiecenie np. karmą (resztkami jedzenia) miejsc publicznych takich jak
-droga, ulica, plac, ogród, trawnik, zieleniec ([art. 145 kodeksu wykroczeń](#_Art._145_[Zanieczyszczanie)), chodnik,
+droga, ulica, plac, ogród, trawnik, zieleniec ([art. 145 k.w](#_Art._145_[Zanieczyszczanie)), chodnik,
 ścieżka rowerowa, plac zabaw, plac do ćwiczeń, skwer, park to możemy popełnić
 w ten sposób znamiona czynu zabronionego na gruncie kodeksu wykroczeń oraz
 otrzymać mandat w wysokości min. 500 zł.
 
-##### Regulamin czystości i utrzymania porządku na terenie gminy – art. 4 u.cz.p.g.
+##### Regulamin czystości i utrzymania porządku na terenie gminy – art. 4 ustawy z 1996 r. o utrzymaniu czystości i porządku w gminach.
 
-Zgodnie z [art. 4 u.cz.p.g.](#_Art.__4) rady
+Zgodnie z [art. 4 u.c.p.g.](#_Art.__4) rady
 gminy mają obowiązek uchwalania regulaminu utrzymania czystości i porządku
 na terenie gminy, który jest aktem prawa miejscowego w którym uregulowane
 są zasady zbierania i odbierania odpadów oraz utrzymania w odpowiednim stanie
@@ -33,7 +33,7 @@ sanitarnym i porządkowym miejsc gromadzenia odpadów.
 „Rady gminy nie mogą w Regulaminie czystości i utrzymania
 porządku na terenie gminy uchwalanym na podstawie ustawy o utrzymaniu czystości
 i porządku w gminach zakazać dokarmiania ptaków gdyż wykraczałyby w ten sposób
-poza delegację ustawową zawartą w [art. 4 ust. 2 u.cz.p.g.](#_Art.__4)
+poza delegację ustawową zawartą w [art. 4 ust. 2 u.c.p.g.](#_Art.__4)
 a uchwała wprowadzająca taki regulamin zostałyby uznana w tej części za
 nieważną jako wydana z naruszeniem prawa” - tak orzekł sąd w wyroku
 Wojewódzkiego Sądu Administracyjnego w Łodzi z dnia 12 maja 2016 r., sygn. akt
