@@ -44,7 +44,7 @@ utrzymujących zwierzęta domowe” do ochrony przed zagrożeniem lub uciążliw
 dla ludzi oraz przed zanieczyszczeniem terenów przeznaczonych do wspólnego
 użytku ale przepis ten dotyczy tylko zwierząt domowych a nie dzikich. 
 
-Podsumowując, jakkolwiek dokarmianie ptaków w terenie
+Podsumowując, jakkolwiek dokarmianie ptaków na terenie
 „dostępnym dla publiczności” nie jest zabronione, a rady gminy nie mogą
 wprowadzić takiego zakazu, to, jeśli dokarmianie powoduje zanieczyszczenie/zaśmiecenie
 przestrzeni publicznej karmą czy resztkami jedzenia, będzie uznane za
