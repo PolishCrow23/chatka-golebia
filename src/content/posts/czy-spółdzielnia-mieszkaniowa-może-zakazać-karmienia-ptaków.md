@@ -28,7 +28,7 @@ Zgodnie z [art. 4 u.c.p.g.](#_Art.__4) rady
 gminy mają obowiązek uchwalenia regulaminu utrzymania czystości i porządku
 na terenie gminy, który jest aktem prawa miejscowego, w którym uregulowane
 są zasady zbierania i odbierania odpadów oraz utrzymania w odpowiednim stanie
-sanitarnym i porządkowym miejsc ich gromadzenia. 
+sanitarnym i porządkowym miejsc gromadzenia odpadów. 
 
 „Rady gminy nie mogą w Regulaminie czystości i utrzymania
 porządku na terenie gminy uchwalanym na podstawie ustawy o utrzymaniu czystości
@@ -39,7 +39,7 @@ nieważną jako wydana z naruszeniem prawa” - tak orzekł sąd w wyroku
 Wojewódzkiego Sądu Administracyjnego w Łodzi z dnia 12 maja 2016 r., sygn. akt
 II SA/Łd 240/16). Art. 4 ust. 2 nie upoważnia bowiem do formułowania w regulaminie
 określonych zakazów, a jedynie do określenia wymagań w zakresie
-utrzymania czystości i porządku na terenie nieruchomości. Co prawda art. 4  ust. 2 pkt 6 wprowadza obowiązek „osób
+utrzymania czystości i porządku na terenie nieruchomości. Co prawda art. 4  ust. 2 pkt 6 wprowadza obowiązek  dla „osób
 utrzymujących zwierzęta domowe” do ochrony przed zagrożeniem lub uciążliwością
 dla ludzi oraz przed zanieczyszczeniem terenów przeznaczonych do wspólnego
 użytku ale przepis ten dotyczy tylko zwierząt domowych a nie dzikich. 
