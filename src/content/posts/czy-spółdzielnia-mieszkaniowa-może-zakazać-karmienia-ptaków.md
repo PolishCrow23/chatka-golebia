@@ -26,7 +26,7 @@ otrzymać mandat w wysokości min. 500 zł.
 
 Zgodnie z [art. 4 u.c.p.g.](#_Art.__4) rady
 gminy mają obowiązek uchwalania regulaminu utrzymania czystości i porządku
-na terenie gminy, który jest aktem prawa miejscowego w którym uregulowane
+na terenie gminy, który jest aktem prawa miejscowego, w którym uregulowane
 są zasady zbierania i odbierania odpadów oraz utrzymania w odpowiednim stanie
 sanitarnym i porządkowym miejsc gromadzenia odpadów. 
 
