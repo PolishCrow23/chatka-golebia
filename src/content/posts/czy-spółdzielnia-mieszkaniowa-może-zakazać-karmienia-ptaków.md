@@ -104,4 +104,62 @@ Podobnie w wyroku SA w Warszawie z dnia 27.05.2009 roku sygn. akt VI ACa 1124/08
 
 Jak spółdzielnie mogą egzekwować zakazy dokarmiania ptaków określone w regulaminach porządku domowego
 
-Jeżeli dana osoba jest właścicielem lokalu zgodnie zart. 16 ustawy o własności lokali, jeżeli właściciel lokalu wykracza w sposób rażący lub uporczywy przeciwko obowiązującemu porządkowi domowemu albo przez swoje niewłaściwe zachowanie czyni korzystanie z innych lokali lub nieruchomości wspólnej uciążliwym, wspólnota mieszkaniowa może w trybie procesu żądać sprzedaży lokalu w drodze licytacji na podstawie przepisów kodeksu postępowania cywilnego o egzekucji z nieruchomości. Aby wspólnota mogła zlicytować lokal to uchybienia właściciela lokalu muszą mieć duży ciężar gatunkowy. Wykazanie spełnienia przesłanek spoczywa na
+Jeżeli dana osoba jest właścicielem lokalu zgodnie zart. 16 ustawy o własności lokali, jeżeli właściciel lokalu wykracza w sposób rażący lub uporczywy przeciwko obowiązującemu porządkowi domowemu albo przez swoje niewłaściwe zachowanie czyni korzystanie z innych lokali lub nieruchomości wspólnej uciążliwym, wspólnota mieszkaniowa może w trybie procesu żądać sprzedaży lokalu w drodze licytacji na podstawie przepisów kodeksu postępowania cywilnego o egzekucji z nieruchomości. Aby wspólnota mogła zlicytować lokal to uchybienia właściciela lokalu muszą mieć duży ciężar gatunkowy. Wykazanie spełnienia przesłanek spoczywa na 
+
+
+
+
+wspólnocie mieszkaniowej, a z orzecznictwa sądów można
+wywnioskować, że sądy bardzo powściągliwie podchodzą do sprawy i uważają tą
+procedurę za ostateczność.
+
+Ponadto, zgodnie z art. 27 ust. 5 ustawy o spółdzielniach
+mieszkaniowych, z żądaniem, o którym mowa w art. 16 ust. 1 u.w.l., występuje
+zarząd spółdzielni na wniosek większości właścicieli lokali w budynku
+lub budynkach położonych w obrębie danej nieruchomości.
+
+Nie będzie rażącym i uporczywym naruszaniem porządku
+domowego:
+
+·        
+remont (Wyrok SA w Warszawie - I Wydział Cywilny
+z dnia 8 listopada 2018 r., I ACa 849/17)
+
+·        
+funkcjonowanie baru z kebabem o ile właściciel
+dba o porządkowanie chodnika przy budynku, zainstaluje odpowiedni system wentylacji
+(Wyrok Sądu Apelacyjnego w Warszawie - I Wydział Cywilny z dnia 12 grudnia 2014
+r. I ACa 877/14)
+
+Będzie przykładem rażącego i uporczywego naruszania porządku
+domowego:
+
+·        
+długotrwałe zaległości w opłatach  (Wyrok Trybunału Konstytucyjnego z dnia 8
+października 2015 r. SK 11/13)
+
+·        
+gromadzenie śmieci i makulatury w mieszkaniu i
+innych przedmiotów co stwarza zagrożenie dla konstrukcji budynku (Wyrok Sądu
+Apelacyjnego w Krakowie - I Wydział Cywilny z dnia 14 czerwca 2022 r. I ACa
+76/21)
+
+·        
+nieudostępnianie lokalu mieszkalnego służbom
+technicznym (Wyrok Sądu Apelacyjnego w Krakowie - I Wydział Cywilny z dnia 14
+czerwca 2022 r. I ACa 76/21)
+
+·        
+długotrwałe i regularne zaśmiecanie klatki
+schodowej, dewastacja klatki schodowej, uderzanie w kaloryfery, zakłócanie
+spokoju nocnego, grożenie sąsiadom, wyzwiska, wulgaryzm, powodowanie zagrożenia
+pożarem, regularne interwencji policji (Wyrok Sądu Apelacyjnego w Katowicach -
+I Wydział Cywilny z dnia 30 marca 2017 r. I ACa 1031/16)
+
+Jeśli wspólnota uzna, że doszło do szkody (np. trwałe
+zabrudzenie chodnika/zniszczenie trawnika) - może swoje roszczenia o
+naprawienie szkody dochodzić na drodze sądowej od sprawcy szkody na
+podstawie art. [415 k.c](#_Art._415_[Odpowiedzialność). przy czym
+osobą odpowiedzialną za szkodę nie może być uznana osoba, która z jakichkolwiek
+powodów znajduje się w stanie wyłączającym świadome albo swobodne powzięcie
+decyzji i wyrażenie woli ([art. 425 k.c.](#_Art._425_[Niepoczytalność]))
