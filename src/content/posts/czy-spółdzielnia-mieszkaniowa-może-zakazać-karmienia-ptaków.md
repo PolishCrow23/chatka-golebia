@@ -63,27 +63,23 @@ W tym ostatnim przypadku, szansę na ewentualne skuteczne wzruszenie legalności
 Zasady regulaminów porządku domowego nie stanowią obowiązujących norm prawnych. Nie można wprowadzać więc za nieprzestrzeganie regulaminu kar porządkowych lub pieniężnych, „zadaniem wspólnoty jest tylko \
 i wyłącznie zarządzanie nieruchomością wspólną i do tego powinna się ograniczać. Wspólnota nie może narzucać właścicielowi dalej idących ograniczeń czy obowiązków, a zatem i opłat niż wynikające z przepisów prawa.” – tak orzekł Sąd Najwyższy w wyroku z dnia 3.04.2009 roku sygn. akt II CSK 601/08. 
 
-Podobnie w wyroku SA w Warszawie z dnia 27.05.2009 roku sygn. akt VI ACa 1124/08, sąd stwierdził, że wspólnota nie może też stosować żadnych sankcji. Wyrok, który zapadł na tle chaosu parkingowego panującego we wspólnocie mieszkaniowej, w celu jego opanowania wspólnota mieszkaniowa podjęła uchwałę ustalającą regulamin parkowania pojazdów. W uchwale tej w celu zdyscyplinowania mieszkańców wspólnota ustaliła **opłatę karną** oraz w celu jej wyegzekwowania upoważniła zarząd do zakładania blokad na koła. Jednak sąd uznał, że wspólnota nie ma prawa stosować sankcji. Według sądu nie znajduje to poparcia ani w ustawie o własności lokali, ani w innych przepisach.
+Podobnie w wyroku SA w Warszawie z dnia 27.05.2009 roku sygn. akt VI ACa 1124/08, sąd stwierdził, że wspólnota nie może też stosować żadnych sankcji. Wyrok, który zapadł na tle chaosu parkingowego panującego we wspólnocie mieszkaniowej, w celu jego opanowania wspólnota mieszkaniowa podjęła uchwałę ustalającą regulamin parkowania pojazdów. W uchwale tej w celu zdyscyplinowania mieszkańców wspólnota ustaliła **opłatę karną** oraz w celu jej wyegzekwowania upoważniła zarząd do zakładania blokad na koła. Jednak sąd uznał, że **wspólnota** **nie ma prawa stosować sankcji**. Według sądu nie znajduje to poparcia ani w ustawie o własności lokali, ani w innych przepisach.
 
 ### **Jak spółdzielnie mogą egzekwować zakazy dokarmiania ptaków określone w regulaminach porządku domowego?**
 
-Jeżeli dana osoba jest właścicielem lokalu zgodnie z art. 16 ustawy o własności lokali, jeżeli właściciel lokalu wykracza w sposób rażący lub uporczywy przeciwko obowiązującemu porządkowi domowemu albo przez swoje niewłaściwe zachowanie czyni korzystanie z innych lokali lub nieruchomości wspólnej uciążliwym, wspólnota mieszkaniowa może w trybie procesu żądać sprzedaży lokalu w drodze licytacji na podstawie przepisów kodeksu postępowania cywilnego o egzekucji z nieruchomości. Aby wspólnota mogła zlicytować lokal to uchybienia właściciela lokalu muszą mieć duży ciężar gatunkowy. Wykazanie spełnienia przesłanek spoczywa na wspólnocie mieszkaniowej, ale z orzecznictwa sądów można
-wywnioskować, że sądy bardzo powściągliwie podchodzą do sprawy i uważają tą
-procedurę za ostateczność.
+Jeżeli dana osoba jest właścicielem lokalu zgodnie z art. 16 ustawy o własności lokali, jeżeli właściciel lokalu wykracza w sposób **rażący lub uporczywy** przeciwko obowiązującemu porządkowi domowemu albo przez swoje niewłaściwe zachowanie czyni korzystanie z innych lokali lub nieruchomości wspólnej uciążliwym, wspólnota mieszkaniowa może **w trybie procesu żądać sprzedaży lokalu w drodze licytacji** na podstawie przepisów kodeksu postępowania cywilnego o egzekucji z nieruchomości. Aby wspólnota mogła zlicytować lokal to **uchybienia właściciela lokalu muszą mieć duży ciężar gatunkowy**. \
+Wykazanie spełnienia przesłanek spoczywa na wspólnocie mieszkaniowej, ale z orzecznictwa sądów można
+wywnioskować, że sądy bardzo powściągliwie podchodzą do sprawy i uważają tą procedurę za ostateczność.
 
-Ponadto, zgodnie z art. 27 ust. 5 ustawy o spółdzielniach
-mieszkaniowych, z żądaniem, o którym mowa w art. 16 ust. 1 u.w.l., występuje
-zarząd spółdzielni **na wniosek większości właścicieli lokali** w budynku
-lub budynkach położonych w obrębie danej nieruchomości.
+Ponadto, zgodnie z art. 27 ust. 5 ustawy o spółdzielniach mieszkaniowych, z żądaniem, o którym mowa \
+w art. 16 ust. 1 u.w.l., występuje zarząd spółdzielni **na wniosek większości właścicieli lokali** w budynku lub budynkach położonych w obrębie danej nieruchomości.
 
-Nie będzie rażącym i uporczywym naruszaniem porządku
-domowego:
+Nie będzie rażącym i uporczywym naruszaniem porządku domowego:
 
 * Remont (Wyrok SA w Warszawie - I Wydział Cywilny z dnia 8 listopada 2018 r., I ACa 849/17),
 * Funkcjonowanie baru z kebabem o ile właściciel dba o porządkowanie chodnika przy budynku, zainstaluje odpowiedni system wentylacji (Wyrok Sądu Apelacyjnego w Warszawie - I Wydział Cywilny z dnia 12 grudnia 2014 r. I ACa 877/14),
 
-Będzie przykładem rażącego i uporczywego naruszania porządku
-domowego:
+Będzie przykładem rażącego i uporczywego naruszania porządku domowego:
 
 * Długotrwałe zaległości w opłatach (Wyrok Trybunału Konstytucyjnego z dnia 8 października 2015 r. SK 11/13),
 * Gromadzenie śmieci i makulatury w mieszkaniu i innych przedmiotów co stwarza zagrożenie dla konstrukcji budynku (Wyrok Sądu Apelacyjnego w Krakowie - I Wydział Cywilny z dnia 14 czerwca 2022 r. I ACa 76/21),
