@@ -35,8 +35,8 @@ a rady gminy nie mogą wprowadzić takiego zakazu, to **jeśli dokarmianie powod
 ### Regulaminy porządku domowego
 
 Teren spółdzielni mieszkaniowej natomiast jest **terenem prywatnym**. \
-Zasady zachowania osób członkowskich na terenie spółdzielni mieszkaniowej regulują wewnętrzne **regulaminy porządku domowego** uchwalane
-przez spółdzielnie na podstawie statutu spółdzielni, zgodnie z [art. 13 ustawy o własności lokali](#_Art._13_[Utrzymanie).
+Zasady zachowania osób członkowskich na terenie spółdzielni mieszkaniowej regulują wewnętrzne **regulaminy porządku domowego** uchwalane przez spółdzielnie na podstawie statutu spółdzielni, zgodnie z [art. 13 ustawy \
+o własności lokali](#_Art._13_[Utrzymanie). \
 Spółdzielcze regulaminy porządkowe określają m.in. godziny ciszy nocnej, godziny, w których mogą być prowadzone głośne prace remontowe i konserwacyjne ale też zasady korzystania z części zaliczanych do nieruchomości wspólnej tj. piwnice, pralnie, suszarnie a także tereny zielone. 
 
 ### Zakaz dokarmiania w regulaminach porządku domowego
