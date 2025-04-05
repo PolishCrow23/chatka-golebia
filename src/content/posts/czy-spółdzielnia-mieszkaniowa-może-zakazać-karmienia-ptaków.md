@@ -85,8 +85,4 @@ Będzie przykładem rażącego i uporczywego naruszania porządku domowego:
   - I Wydział Cywilny z dnia 14 czerwca 2022 r. I ACa 76/21),
 * Długotrwałe i regularne zaśmiecanie klatki schodowej, dewastacja klatki schodowej, uderzanie w kaloryfery, zakłócanie spokoju nocnego, grożenie sąsiadom, wyzwiska, wulgaryzm, powodowanie zagrożenia pożarem, regularne interwencji policji (Wyrok Sądu Apelacyjnego w Katowicach - I Wydział Cywilny z dnia 30 marca 2017 r. I ACa 1031/16),
 
-Jeśli wspólnota uzna, że doszło do szkody (np. trwałe
-zabrudzenie chodnika, zniszczenie trawnika) - może swoje roszczenia o
-naprawienie szkody **dochodzić na drodze sądowej** od sprawcy szkody na
-podstawie art. [415 k.c](#_Art._415_[Odpowiedzialność). Przy czym osobą odpowiedzialną za szkodę nie może być uznana osoba, która z jakichkolwiek powodów znajduje się w stanie wyłączającym świadome albo swobodne powzięcie
-decyzji i wyrażenie woli ([art. 425 k.c.](#_Art._425_[Niepoczytalność])).
+Jeśli wspólnota uzna, że doszło do szkody (np. trwałe zabrudzenie chodnika, zniszczenie trawnika) - może swoje roszczenia o naprawienie szkody **dochodzić na drodze sądowej** od sprawcy szkody na podstawie art. [415 k.c](#_Art._415_[Odpowiedzialność). Przy czym osobą odpowiedzialną za szkodę nie może być uznana osoba, która z jakichkolwiek powodów znajduje się w stanie wyłączającym świadome albo swobodne powzięcie decyzji i wyrażenie woli ([art. 425 k.c.](#_Art._425_[Niepoczytalność])).
