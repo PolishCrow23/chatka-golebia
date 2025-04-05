@@ -61,7 +61,7 @@ Ze wstępnej analizy regulaminów wynika, że spółdzielnie (wspólnoty) prezen
 
 W tym ostatnim przypadku, szansę na ewentualne skuteczne wzruszenie legalności takiej uchwały są tym większe im większy obszar obejmuje spółdzielnia i wchodzące w jej skład tereny zielone a tym samym możliwe ograniczenie uciążliwości dla innych mieszkańców wynikających z dokarmiania ptaków.  
 
-**Czy spółdzielnia może wymierzać sankcje za nieprzestrzeganie zakazu dokarmiania ptaków?** 
+### **Czy spółdzielnia może wymierzać sankcje za nieprzestrzeganie zakazu dokarmiania ptaków?** 
 
 Zasady regulaminów porządku domowego nie stanowią obowiązujących norm prawnych. Nie można wprowadzać więc za nieprzestrzeganie regulaminu kar porządkowych lub pieniężnych.
 
@@ -69,7 +69,7 @@ Zasady regulaminów porządku domowego nie stanowią obowiązujących norm prawn
 
 Podobnie w wyroku SA w Warszawie z dnia 27.05.2009 roku sygn. akt VI ACa 1124/08, sąd stwierdził, że wspólnota nie może też stosować żadnych sankcji. Wyrok, który zapadł na tle chaosu parkingowego panującego we wspólnocie mieszkaniowej, w celu jego opanowania wspólnota mieszkaniowa podjęła uchwałę ustalającą regulamin parkowania pojazdów. W uchwale tej w celu zdyscyplinowania mieszkańców wspólnota ustaliła opłatę karną oraz w celu jej wyegzekwowania upoważniła zarząd do zakładania blokad na koła. Jednak sąd uznał, że wspólnota nie ma prawa stosować sankcji. Według sądu nie znajduje to poparcia ani w ustawie o własności lokali, ani w innych przepisach.
 
-**Jak spółdzielnie mogą egzekwować zakazy dokarmiania ptaków określone w regulaminach porządku domowego?**
+### **Jak spółdzielnie mogą egzekwować zakazy dokarmiania ptaków określone w regulaminach porządku domowego?**
 
 Jeżeli dana osoba jest właścicielem lokalu zgodnie z art. 16 ustawy o własności lokali, jeżeli właściciel lokalu wykracza w sposób rażący lub uporczywy przeciwko obowiązującemu porządkowi domowemu albo przez swoje niewłaściwe zachowanie czyni korzystanie z innych lokali lub nieruchomości wspólnej uciążliwym, wspólnota mieszkaniowa może w trybie procesu żądać sprzedaży lokalu w drodze licytacji na podstawie przepisów kodeksu postępowania cywilnego o egzekucji z nieruchomości. Aby wspólnota mogła zlicytować lokal to uchybienia właściciela lokalu muszą mieć duży ciężar gatunkowy. Wykazanie spełnienia przesłanek spoczywa na wspólnocie mieszkaniowej, ale z orzecznictwa sądów można
 wywnioskować, że sądy bardzo powściągliwie podchodzą do sprawy i uważają tą
