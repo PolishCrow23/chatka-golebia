@@ -134,32 +134,18 @@ r. I ACa 877/14)
 Będzie przykładem rażącego i uporczywego naruszania porządku
 domowego:
 
-·        
-długotrwałe zaległości w opłatach  (Wyrok Trybunału Konstytucyjnego z dnia 8
-października 2015 r. SK 11/13)
+·        długotrwałe zaległości w opłatach  (Wyrok Trybunału Konstytucyjnego z dnia 8 października 2015 r. SK 11/13)
 
-·        
-gromadzenie śmieci i makulatury w mieszkaniu i
-innych przedmiotów co stwarza zagrożenie dla konstrukcji budynku (Wyrok Sądu
-Apelacyjnego w Krakowie - I Wydział Cywilny z dnia 14 czerwca 2022 r. I ACa
-76/21)
+·        gromadzenie śmieci i makulatury w mieszkaniu i innych przedmiotów co stwarza zagrożenie dla konstrukcji budynku (Wyrok Sądu Apelacyjnego w Krakowie - I Wydział Cywilny z dnia 14 czerwca 2022 r. I ACa 76/21)
 
-·        
-nieudostępnianie lokalu mieszkalnego służbom
-technicznym (Wyrok Sądu Apelacyjnego w Krakowie - I Wydział Cywilny z dnia 14
-czerwca 2022 r. I ACa 76/21)
+·        nieudostępnianie lokalu mieszkalnego służbom technicznym (Wyrok Sądu Apelacyjnego w Krakowie - I Wydział Cywilny z dnia 14 czerwca 2022 r. I ACa 76/21)
 
-·        
-długotrwałe i regularne zaśmiecanie klatki
-schodowej, dewastacja klatki schodowej, uderzanie w kaloryfery, zakłócanie
-spokoju nocnego, grożenie sąsiadom, wyzwiska, wulgaryzm, powodowanie zagrożenia
-pożarem, regularne interwencji policji (Wyrok Sądu Apelacyjnego w Katowicach -
-I Wydział Cywilny z dnia 30 marca 2017 r. I ACa 1031/16)
+·        długotrwałe i regularne zaśmiecanie klatki schodowej, dewastacja klatki schodowej, uderzanie w kaloryfery, zakłócanie spokoju nocnego, grożenie sąsiadom, wyzwiska, wulgaryzm, powodowanie zagrożenia pożarem, regularne interwencji policji (Wyrok Sądu Apelacyjnego w Katowicach - I Wydział Cywilny z dnia 30 marca 2017 r. I ACa 1031/16)
 
 Jeśli wspólnota uzna, że doszło do szkody (np. trwałe
 zabrudzenie chodnika/zniszczenie trawnika) - może swoje roszczenia o
 naprawienie szkody dochodzić na drodze sądowej od sprawcy szkody na
-podstawie art. [415 k.c](#_Art._415_[Odpowiedzialność). przy czym
+podstawie art. [415 k.c](#_Art._415_[Odpowiedzialność)., przy czym
 osobą odpowiedzialną za szkodę nie może być uznana osoba, która z jakichkolwiek
 powodów znajduje się w stanie wyłączającym świadome albo swobodne powzięcie
 decyzji i wyrażenie woli ([art. 425 k.c.](#_Art._425_[Niepoczytalność]))
