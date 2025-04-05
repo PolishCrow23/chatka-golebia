@@ -122,7 +122,7 @@ domowego:
 Będzie przykładem rażącego i uporczywego naruszania porządku
 domowego:
 
-* Długotrwałe zaległości w opłatach  (Wyrok Trybunału Konstytucyjnego z dnia 8 października 2015 r. SK 11/13),
+* Długotrwałe zaległości w opłatach (Wyrok Trybunału Konstytucyjnego z dnia 8 października 2015 r. SK 11/13),
 
 
 * Gromadzenie śmieci i makulatury w mieszkaniu i innych przedmiotów co stwarza zagrożenie dla konstrukcji budynku (Wyrok Sądu Apelacyjnego w Krakowie - I Wydział Cywilny z dnia 14 czerwca 2022 r. I ACa 76/21),
