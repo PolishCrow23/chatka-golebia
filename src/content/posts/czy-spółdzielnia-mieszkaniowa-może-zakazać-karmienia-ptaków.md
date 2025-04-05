@@ -45,7 +45,7 @@ Spółdzielcze regulaminy porządkowe określają m.in. godziny ciszy nocnej, go
 
 ### Zakaz dokarmiania w regulaminach porządku domowego
 
-Zgodnie z wyrokiem SA w Krakowie z 2 grudnia 2016 r. ACa 1023/16 „Decyzja o niedokarmianiu wolno żyjącego ptactwa, na terenie nieruchomości będącej własnością pozwanej Spółdzielni nie jest sprzeczna z obowiązującymi przepisami prawa.” \
+Zgodnie z wyrokiem SA w Krakowie z 2 grudnia 2016 r. ACa 1023/16 **„Decyzja o niedokarmianiu wolno żyjącego ptactwa, na terenie nieruchomości będącej własnością pozwanej Spółdzielni nie jest sprzeczna z obowiązującymi przepisami prawa.”** \
 \
 Rozstrzygnięcia w tej kwestii domagała się członkini spółdzielni, która zaskarżyła postanowienie regulaminu, który zakazywał dokarmiania ptaków (między innymi) na chodnikach i terenach zielonych przynależnych do budynków". Powódka twierdziła, że zakaz narusza m.in. art. 21 UOZ, zgodnie z którym „zwierzęta wolno żyjące stanowią dobro
 ogólnonarodowe i powinny mieć zapewnione warunki rozwoju i swobodnego bytu” a
