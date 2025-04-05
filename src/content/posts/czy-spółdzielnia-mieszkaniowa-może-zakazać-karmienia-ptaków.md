@@ -52,12 +52,11 @@ Decydujące znacznie miało tutaj też zdanie znaczącej większości członków
 
 Ze wstępnej analizy regulaminów wynika, że spółdzielnie (wspólnoty) prezentują różne podejście do tej kwestii: 
 
-1. w ogóle nie regulują tej kwestii, co oznacza możliwość dokarmiania ptaków na terenie całej spółdzielni,
-2. ograniczają zakaz dokarmiania ptaków do:
+1. W ogóle nie regulują tej kwestii, co oznacza możliwość dokarmiania ptaków na terenie całej spółdzielni,
+2. Ograniczają zakaz dokarmiania ptaków do:
 
-\- balkonów, loggii, parapetów, daszków i otoczenia budynków, 
-
-\- okien i balonów,	
+   * Balkonów, loggii, parapetów, daszków i otoczenia budynków, 
+   * Okien i balonów,	
 
 tym samym dopuszczają możliwość dokarmiania ptaków na np. chodnikach i terenach zielonych,
 
