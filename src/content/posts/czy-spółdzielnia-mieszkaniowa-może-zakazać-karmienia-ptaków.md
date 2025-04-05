@@ -24,35 +24,21 @@ droga, ulica, plac, ogród, trawnik, zieleniec ([art. 145 k.w](#_Art._145_[Zanie
 Zgodnie z [art. 4 u.c.p.g.](#_Art.__4) rady gminy mają obowiązek uchwalenia regulaminu utrzymania czystości i porządku
 na terenie gminy, który jest aktem prawa miejscowego, w którym uregulowane są zasady zbierania i odbierania odpadów oraz utrzymania w odpowiednim stanie sanitarnym i porządkowym miejsc gromadzenia odpadów. 
 
-„Rady gminy nie mogą w Regulaminie czystości i utrzymania porządku na terenie gminy uchwalanym na podstawie ustawy o utrzymaniu czystości i porządku w gminach zakazać dokarmiania ptaków gdyż wykraczałyby w ten sposób poza delegację ustawową zawartą w [art. 4 ust. 2 u.c.p.g.](#_Art.__4)
-a uchwała wprowadzająca taki regulamin zostałyby uznana w tej części za
-nieważną jako wydana z naruszeniem prawa” - tak orzekł sąd w wyroku
-Wojewódzkiego Sądu Administracyjnego w Łodzi z dnia 12 maja 2016 r., sygn. akt
-II SA/Łd 240/16). Art. 4 ust. 2 nie upoważnia bowiem do formułowania w regulaminie
-określonych zakazów, a jedynie do określenia wymagań w zakresie
-utrzymania czystości i porządku na terenie nieruchomości. Co prawda art. 4  ust. 2 pkt. 6 wprowadza obowiązek  dla „osób
-utrzymujących zwierzęta domowe” do ochrony przed zagrożeniem lub uciążliwością
-dla ludzi oraz przed zanieczyszczeniem terenów przeznaczonych do wspólnego
-użytku, jednak przepis ten dotyczy tylko zwierząt domowych a nie dzikich. 
+„Rady gminy nie mogą w Regulaminie czystości i utrzymania porządku na terenie gminy uchwalanym na podstawie ustawy o utrzymaniu czystości i porządku w gminach zakazać dokarmiania ptaków gdyż wykraczałyby w ten sposób poza delegację ustawową zawartą w [art. 4 ust. 2 u.c.p.g. ](#_Art.__4)a uchwała wprowadzająca taki regulamin zostałyby uznana w tej części za nieważną jako wydana z naruszeniem prawa” - tak orzekł sąd w wyroku
+Wojewódzkiego Sądu Administracyjnego w Łodzi z dnia 12 maja 2016 r., sygn. akt II SA/Łd 240/16. Art. 4 ust. 2 nie upoważnia bowiem do formułowania w regulaminie określonych zakazów, a jedynie do określenia wymagań w zakresie utrzymania czystości i porządku na terenie nieruchomości. 
 
-Podsumowując, jakkolwiek dokarmianie ptaków na terenie
-„dostępnym dla publiczności” nie jest zabronione a rady gminy nie mogą
-wprowadzić takiego zakazu, to jeśli dokarmianie powoduje zanieczyszczenie/zaśmiecenie
-przestrzeni publicznej karmą czy resztkami jedzenia, będzie uznane za
-wykroczenie, za które można otrzymać mandat w minimalnej wysokości 500 zł. ([art. 145 k.w.)](#_Art._145_[Zanieczyszczanie)[](#_Art._145_[Zanieczyszczanie)[](#_Art._145_[Zanieczyszczanie)[](#_Art._145_[Zanieczyszczanie)
+Co prawda art. 4  ust. 2 pkt. 6 wprowadza obowiązek  dla „osób utrzymujących zwierzęta domowe” do ochrony przed zagrożeniem lub uciążliwością dla ludzi oraz przed zanieczyszczeniem terenów przeznaczonych do wspólnego użytku, jednak przepis ten dotyczy tylko zwierząt domowych a nie dzikich. 
+
+Podsumowując, jakkolwiek dokarmianie ptaków na terenie „dostępnym dla publiczności” nie jest zabronione a rady gminy nie mogą wprowadzić takiego zakazu, to jeśli dokarmianie powoduje zanieczyszczenie, zaśmiecenie
+przestrzeni publicznej karmą czy resztkami jedzenia, będzie uznane za wykroczenie, za które można otrzymać mandat w minimalnej wysokości 500 zł. ([art. 145 k.w.)](#_Art._145_[Zanieczyszczanie)[](#_Art._145_[Zanieczyszczanie)[](#_Art._145_[Zanieczyszczanie)[](#_Art._145_[Zanieczyszczanie)
 
 #### MIEJSCA PRYWATNE
 
 ##### Regulaminy porządku domowego
 
-Teren spółdzielni mieszkaniowej natomiast jest terenem
-prywatnym. Zasady zachowania osób członkowskich na terenie spółdzielni
-mieszkaniowej regulują wewnętrzne regulaminy porządku domowego uchwalane
+Teren spółdzielni mieszkaniowej natomiast jest terenem prywatnym. Zasady zachowania osób członkowskich na terenie spółdzielni mieszkaniowej regulują wewnętrzne regulaminy porządku domowego uchwalane
 przez spółdzielnie na podstawie statutu spółdzielni, zgodnie z [art. 13 ustawy o własności lokali](#_Art._13_[Utrzymanie).
-Spółdzielcze regulaminy porządkowe określają m.in. godziny ciszy nocnej, godziny,
-w których mogą być prowadzone głośne prace remontowe i konserwacyjne
-ale też zasady korzystania z części zaliczanych do nieruchomości
-wspólnej tj. piwnice, pralnie, suszarnie a także tereny zielone. 
+Spółdzielcze regulaminy porządkowe określają m.in. godziny ciszy nocnej, godziny, w których mogą być prowadzone głośne prace remontowe i konserwacyjne ale też zasady korzystania z części zaliczanych do nieruchomości wspólnej tj. piwnice, pralnie, suszarnie a także tereny zielone. 
 
 ##### Zakaz dokarmiania w regulaminach porządku domowego
 
