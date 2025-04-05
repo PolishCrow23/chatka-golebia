@@ -39,10 +39,10 @@ nieważną jako wydana z naruszeniem prawa” - tak orzekł sąd w wyroku
 Wojewódzkiego Sądu Administracyjnego w Łodzi z dnia 12 maja 2016 r., sygn. akt
 II SA/Łd 240/16). Art. 4 ust. 2 nie upoważnia bowiem do formułowania w regulaminie
 określonych zakazów, a jedynie do określenia wymagań w zakresie
-utrzymania czystości i porządku na terenie nieruchomości. Co prawda art. 4  ust. 2 pkt 6 wprowadza obowiązek  dla „osób
+utrzymania czystości i porządku na terenie nieruchomości. Co prawda art. 4  ust. 2 pkt. 6 wprowadza obowiązek  dla „osób
 utrzymujących zwierzęta domowe” do ochrony przed zagrożeniem lub uciążliwością
 dla ludzi oraz przed zanieczyszczeniem terenów przeznaczonych do wspólnego
-użytku jednak przepis ten dotyczy tylko zwierząt domowych a nie dzikich. 
+użytku, jednak przepis ten dotyczy tylko zwierząt domowych a nie dzikich. 
 
 Podsumowując, jakkolwiek dokarmianie ptaków na terenie
 „dostępnym dla publiczności” nie jest zabronione, a rady gminy nie mogą
