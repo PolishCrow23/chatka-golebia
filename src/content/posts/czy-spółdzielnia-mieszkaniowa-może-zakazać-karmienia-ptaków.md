@@ -40,24 +40,24 @@ Spółdzielcze regulaminy porządkowe określają m.in. godziny ciszy nocnej, go
 
 ### Zakaz dokarmiania w regulaminach porządku domowego
 
-Zgodnie z wyrokiem SA w Krakowie z 2 grudnia 2016 r. ACa 1023/16 „Decyzja o niedokarmianiu wolno żyjącego ptactwa, na terenie nieruchomości będącej własnością pozwanej Spółdzielni nie jest sprzeczna z obowiązującymi przepisami prawa.” \
+Zgodnie z wyrokiem SA w Krakowie z 2 grudnia 2016 r. ACa 1023/16 „Decyzja o niedokarmianiu wolno żyjącego ptactwa, na terenie nieruchomości będącej własnością pozwanej Spółdzielni nie jest sprzecznaz obowiązującymi przepisami prawa.” \
 \
 Rozstrzygnięcia w tej kwestii domagała się członkini spółdzielni, która zaskarżyła postanowienie regulaminu, który zakazywał dokarmiania ptaków (między innymi) na chodnikach i terenach zielonych przynależnych do budynków. Powódka twierdziła, że zakaz narusza m.in. art. 21 UOZ, zgodnie z którym „zwierzęta wolno żyjące stanowią dobro
 ogólnonarodowe i powinny mieć zapewnione warunki rozwoju i swobodnego bytu” a zakaz dokarmiania gołębi zagraża ich populacji. Powódka twierdziła, że spółdzielnia w ramach swych kompetencji winna ograniczać miejsce, w którym zwierzęta mogą być dokarmiane, do wyznaczonych i nie może zakazywać dokarmiania ptaków na terenie całej spółdzielni. \
 Wyrok ten dotyczył jednak małej spółdzielni i sąd wskazał na **duże prawdopodobieństwo uciążliwości** dla innych mieszkańców spowodowanym dokarmianiem ptaków w tych miejscach. \
 Decydujące znacznie miało tutaj też **zdanie znaczącej większości** członków pozwanej spółdzielni, która opowiedziała się za niedokarmianiem ptaków na chodnikach i trawnikach przy budynku Spółdzielni, oraz brak wykazania w pozwie, aby decyzja o zakazie zagrażała populacji gołębi i innych ptaków wolno żyjących na terenie K., czy też choćby na obszarze dzielnicy K. - jeśli chodzi o ich byt i rozwój. \
-Sąd zostawił jednak możliwość rozważania, a więc i podważenia legalności takiego zakazu w przypadku istnienia na terenie spółdzielni „dużych terenów zielonych, właściwego środowiska ptaków wolno żyjących a jednocześnie miejsca, gdzie współegzystencja ptactwa i ludzi nie jest uciążliwa dla nikogo.” 
+Sąd zostawił jednak możliwość rozważania, a więc i podważenia legalności takiego zakazu w przypadku istnienia na terenie spółdzielni „dużych terenów zielonych, właściwego środowiska ptaków wolno żyjących a jednocześnie miejsca, gdzie współegzystencja ptactwa i ludzi **nie jest uciążliwa** dla nikogo.” 
 
 Ze wstępnej analizy regulaminów wynika, że spółdzielnie (wspólnoty) prezentują różne podejście do tej kwestii: 
 
-1. W ogóle nie regulują tej kwestii, co oznacza możliwość dokarmiania ptaków na terenie całej spółdzielni,
-2. Ograniczają zakaz dokarmiania ptaków do:
+1. W ogóle **nie regulują** tej kwestii, co oznacza możliwość dokarmiania ptaków na terenie całej spółdzielni,
+2. **Ograniczają** zakaz dokarmiania ptaków do:
 
    * Balkonów, loggii, parapetów, daszków i otoczenia budynków, 
    * Okien i balonów, tym samym dopuszczają możliwość dokarmiania ptaków na np. chodnikach i terenach zielonych,
-3. Zakazują dokarmiania ptaków na terenie całej spółdzielni.
+3. **Zakazują** dokarmiania ptaków na terenie całej spółdzielni.
 
-W tym ostatnim przypadku, szansę na ewentualne skuteczne wzruszenie legalności takiej uchwały są tym większe im większy obszar obejmuje spółdzielnia i wchodzące w jej skład tereny zielone a tym samym możliwe ograniczenie uciążliwości dla innych mieszkańców wynikających z dokarmiania ptaków.  
+W tym ostatnim przypadku, szansę na ewentualne skuteczne wzruszenie legalności takiej uchwały są tym większe im większy obszar obejmuje spółdzielnia i wchodzące w jej skład tereny zielone a tym samym możliwe ograniczenie uciążliwościdla innych mieszkańców wynikających z dokarmiania ptaków.  
 
 ### **Czy spółdzielnia może wymierzać sankcje za nieprzestrzeganie zakazu dokarmiania ptaków?**
 
