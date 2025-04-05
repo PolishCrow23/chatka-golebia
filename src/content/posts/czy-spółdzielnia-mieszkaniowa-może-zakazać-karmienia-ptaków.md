@@ -104,7 +104,7 @@ Podobnie w wyroku SA w Warszawie z dnia 27.05.2009 roku sygn. akt VI ACa 1124/08
 
 **Jak spółdzielnie mogą egzekwować zakazy dokarmiania ptaków określone w regulaminach porządku domowego?**
 
-Jeżeli dana osoba jest właścicielem lokalu zgodnie zart. 16 ustawy o własności lokali, jeżeli właściciel lokalu wykracza w sposób rażący lub uporczywy przeciwko obowiązującemu porządkowi domowemu albo przez swoje niewłaściwe zachowanie czyni korzystanie z innych lokali lub nieruchomości wspólnej uciążliwym, wspólnota mieszkaniowa może w trybie procesu żądać sprzedaży lokalu w drodze licytacji na podstawie przepisów kodeksu postępowania cywilnego o egzekucji z nieruchomości. Aby wspólnota mogła zlicytować lokal to uchybienia właściciela lokalu muszą mieć duży ciężar gatunkowy. Wykazanie spełnienia przesłanek spoczywa na wspólnocie mieszkaniowej, a z orzecznictwa sądów można
+Jeżeli dana osoba jest właścicielem lozgodnie z art. 16 ustawy o własności lokali, jeżeli właściciel lokalu wykracza w sposób rażący lub uporczywy przeciwko obowiązującemu porządkowi domowemu albo przez swoje niewłaściwe zachowanie czyni korzystanie z innych lokali lub nieruchomości wspólnej uciążliwym, wspólnota mieszkaniowa może w trybie procesu żądać sprzedaży lokalu w drodze licytacji na podstawie przepisów kodeksu postępowania cywilnego o egzekucji z nieruchomości. Aby wspólnota mogła zlicytować lokal to uchybienia właściciela lokalu muszą mieć duży ciężar gatunkowy. Wykazanie spełnienia przesłanek spoczywa na wspólnocie mieszkaniowej, ale z orzecznictwa sądów można
 wywnioskować, że sądy bardzo powściągliwie podchodzą do sprawy i uważają tą
 procedurę za ostateczność.
 
