@@ -10,14 +10,12 @@ description: W tym poradniku odpowiadamy na pytanie - Czy spółdzielnia
 
 ### Brak generalnego zakazu dokarmiania ptaków
 
-Na wstępie zaznaczyć należy, że nie ma w polskim prawie przepisów, które by
-wprost zabraniały dokarmiania ptaków (ale także tzw. „wolno-żyjących” lub „wolno-bytujących bezdomnych” kotów) **w miejscach publicznych**.
+Na wstępie zaznaczyć należy, że nie ma w polskim prawie przepisów, które by wprost zabraniały dokarmiania ptaków (ale także tzw. „wolno-żyjących” lub „wolno-bytujących bezdomnych” kotów) **w miejscach publicznych**.
 
 ### Zakaz śmiecenia i zanieczyszczania miejsc publicznych – art. 145 kodeksu wykroczeń
 
-Niemniej, jeśli dokarmiając powodujemy zanieczyszczenie lub
-zaśmiecenie np. karmą (resztkami jedzenia) miejsc publicznych takich jak
-droga, ulica, plac, ogród, trawnik, zieleniec ([art. 145 k.w](#_Art._145_[Zanieczyszczanie)), chodnik, ścieżka rowerowa, plac zabaw, plac do ćwiczeń, skwer, park to możemy popełnić w ten sposób znamiona czynu zabronionego na gruncie kodeksu wykroczeń oraz otrzymać mandat w wysokości min. 500 zł.
+Niemniej, jeśli dokarmiając powodujemy zanieczyszczenie lub zaśmiecenie np. karmą (resztkami jedzenia) miejsc publicznych takich jak droga, ulica, plac, ogród, trawnik, zieleniec ([art. 145 k.w](#_Art._145_[Zanieczyszczanie)), chodnik, ścieżka rowerowa, \
+plac zabaw, plac do ćwiczeń, skwer, park to możemy popełnić w ten sposób znamiona czynu zabronionego na gruncie kodeksu wykroczeń oraz otrzymać mandat w wysokości min. 500 zł.
 
 ### Regulamin czystości i utrzymania porządku na terenie gminy – art. 4 u.c.p.g
 
@@ -25,12 +23,12 @@ Zgodnie z [art. 4 u.c.p.g.](#_Art.__4) rady gminy mają obowiązek uchwalenia **
 **na terenie gminy,** który jest aktem prawa miejscowego, w którym uregulowane są zasady zbierania i odbierania odpadów oraz utrzymania w odpowiednim stanie sanitarnym i porządkowym miejsc gromadzenia odpadów. \
 \
 „Rady gminy nie mogą w Regulaminie czystości i utrzymania porządku na terenie gminy uchwalanym na podstawie ustawy o utrzymaniu czystości i porządku w gminach zakazać dokarmiania ptaków gdyż wykraczałyby w ten sposób poza delegację ustawową zawartą w [art. 4 ust. 2 u.c.p.g. ](#_Art.__4)a uchwała wprowadzająca taki regulamin zostałyby uznana w tej części za nieważną jako wydana z naruszeniem prawa” - tak orzekł sąd w wyroku
-Wojewódzkiego Sądu Administracyjnego w Łodzi z dnia 12 maja 2016 r., sygn. akt II SA/Łd 240/16. art. 4 ust. 2 nie upoważnia bowiem do formułowania w regulaminie określonych *zakazów*, a jedynie do określenia *wymagań* w zakresie utrzymania czystości\
- i porządku na terenie nieruchomości. \
+Wojewódzkiego Sądu Administracyjnego w Łodzi z dnia 12 maja 2016 r., sygn. akt II SA/Łd 240/16. art. 4 ust. 2 nie upoważnia bowiem do formułowania w regulaminie określonych *zakazów*, a jedynie do określenia *wymagań* \
+w zakresie utrzymania czystości i porządku na terenie nieruchomości. \
 Co prawda **art. 4  ust. 2 pkt. 6** wprowadza obowiązek  dla „osób utrzymujących zwierzęta domowe” do ochrony przed zagrożeniem lub uciążliwością dla ludzi oraz przed zanieczyszczeniem terenów przeznaczonych do wspólnego użytku, **jednak przepis ten dotyczy tylko zwierząt domowych a nie dzikich.** 
 
-Podsumowując, jakkolwiek dokarmianie ptaków na terenie „dostępnym dla publiczności” nie jest zabronione a rady gminy nie mogą wprowadzić takiego zakazu, to **jeśli dokarmianie powoduje zanieczyszczenie, zaśmiecenie**
-przestrzeni publicznej karmą czy resztkami jedzenia, będzie uznane za wykroczenie, za które można otrzymać mandat w minimalnej wysokości **500 zł**. ([art. 145 k.w.)](#_Art._145_[Zanieczyszczanie)[](#_Art._145_[Zanieczyszczanie)[](#_Art._145_[Zanieczyszczanie)[](#_Art._145_[Zanieczyszczanie)
+Podsumowując, jakkolwiek dokarmianie ptaków na terenie „dostępnym dla publiczności” nie jest zabronione \
+a rady gminy nie mogą wprowadzić takiego zakazu, to **jeśli dokarmianie powoduje zanieczyszczenie, zaśmiecenie** przestrzeni publicznej karmą czy resztkami jedzenia, będzie uznane za wykroczenie, za które można otrzymać mandat w minimalnej wysokości **500 zł**. ([art. 145 k.w.)](#_Art._145_[Zanieczyszczanie)[](#_Art._145_[Zanieczyszczanie)[](#_Art._145_[Zanieczyszczanie)[](#_Art._145_[Zanieczyszczanie)
 
 ## MIEJSCA PRYWATNE
 
@@ -61,7 +59,7 @@ Ze wstępnej analizy regulaminów wynika, że spółdzielnie (wspólnoty) prezen
 
 W tym ostatnim przypadku, szansę na ewentualne skuteczne wzruszenie legalności takiej uchwały są tym większe im większy obszar obejmuje spółdzielnia i wchodzące w jej skład tereny zielone a tym samym możliwe ograniczenie uciążliwości dla innych mieszkańców wynikających z dokarmiania ptaków.  
 
-### **Czy spółdzielnia może wymierzać sankcje za nieprzestrzeganie zakazu dokarmiania ptaków?** 
+### **Czy spółdzielnia może wymierzać sankcje za nieprzestrzeganie zakazu dokarmiania ptaków?**
 
 Zasady regulaminów porządku domowego nie stanowią obowiązujących norm prawnych. Nie można wprowadzać więc za nieprzestrzeganie regulaminu kar porządkowych lub pieniężnych.
 
@@ -77,7 +75,7 @@ procedurę za ostateczność.
 
 Ponadto, zgodnie z art. 27 ust. 5 ustawy o spółdzielniach
 mieszkaniowych, z żądaniem, o którym mowa w art. 16 ust. 1 u.w.l., występuje
-zarząd spółdzielni na wniosek większości właścicieli lokali w budynku
+zarząd spółdzielni **na wniosek większości właścicieli lokali** w budynku
 lub budynkach położonych w obrębie danej nieruchomości.
 
 Nie będzie rażącym i uporczywym naruszaniem porządku
