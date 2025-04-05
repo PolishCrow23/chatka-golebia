@@ -13,7 +13,7 @@ MIEJSCA PUBLICZNE
 Na wstępie zaznaczyć należy, że nie ma w polskim prawie przepisów, które by
 wprost zabraniały dokarmiania ptaków (ale także tzw. „wolno-żyjących” lub „wolno-bytujących bezdomnych” kotów) w miejscach publicznych.
 
-##### Zakaz śmiecenia i zanieczyszczania miejsc publicznych – art. 145 kodeksu wykroczeń.
+##### Zakaz śmiecenia i zanieczyszczania miejsc publicznych – art. 145 kodeksu wykroczeń
 
 Niemniej, jeśli dokarmiając powodujemy zanieczyszczenie lub
 zaśmiecenie np. karmą (resztkami jedzenia) miejsc publicznych takich jak
