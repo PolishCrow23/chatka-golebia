@@ -45,7 +45,7 @@ dla ludzi oraz przed zanieczyszczeniem terenów przeznaczonych do wspólnego
 użytku, jednak przepis ten dotyczy tylko zwierząt domowych a nie dzikich. 
 
 Podsumowując, jakkolwiek dokarmianie ptaków na terenie
-„dostępnym dla publiczności” nie jest zabronione, a rady gminy nie mogą
+„dostępnym dla publiczności” nie jest zabronione a rady gminy nie mogą
 wprowadzić takiego zakazu, to jeśli dokarmianie powoduje zanieczyszczenie/zaśmiecenie
 przestrzeni publicznej karmą czy resztkami jedzenia, będzie uznane za
 wykroczenie, za które można otrzymać mandat w minimalnej wysokości 500 zł. ([art. 145 k.w.)](#_Art._145_[Zanieczyszczanie)[](#_Art._145_[Zanieczyszczanie)[](#_Art._145_[Zanieczyszczanie)[](#_Art._145_[Zanieczyszczanie)
