@@ -132,5 +132,5 @@ domowego:
 Jeśli wspólnota uzna, że doszło do szkody (np. trwałe
 zabrudzenie chodnika, zniszczenie trawnika) - może swoje roszczenia o
 naprawienie szkody dochodzić na drodze sądowej od sprawcy szkody na
-podstawie art. [415 k.c](#_Art._415_[Odpowiedzialność)., przy czym osobą odpowiedzialną za szkodę nie może być uznana osoba, która z jakichkolwiek powodów znajduje się w stanie wyłączającym świadome albo swobodne powzięcie
+podstawie art. [415 k.c](#_Art._415_[Odpowiedzialność). Przy czym osobą odpowiedzialną za szkodę nie może być uznana osoba, która z jakichkolwiek powodów znajduje się w stanie wyłączającym świadome albo swobodne powzięcie
 decyzji i wyrażenie woli ([art. 425 k.c.](#_Art._425_[Niepoczytalność])).
