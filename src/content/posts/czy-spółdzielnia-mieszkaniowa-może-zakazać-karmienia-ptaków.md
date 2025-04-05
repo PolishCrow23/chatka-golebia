@@ -123,8 +123,6 @@ Będzie przykładem rażącego i uporczywego naruszania porządku
 domowego:
 
 * Długotrwałe zaległości w opłatach (Wyrok Trybunału Konstytucyjnego z dnia 8 października 2015 r. SK 11/13),
-
-
 * Gromadzenie śmieci i makulatury w mieszkaniu i innych przedmiotów co stwarza zagrożenie dla konstrukcji budynku (Wyrok Sądu Apelacyjnego w Krakowie - I Wydział Cywilny z dnia 14 czerwca 2022 r. I ACa 76/21),
 * Nieudostępnianie lokalu mieszkalnego służbom technicznym (Wyrok Sądu Apelacyjnego w Krakowie - I Wydział Cywilny z dnia 14 czerwca 2022 r. I ACa 76/21),
 * Długotrwałe i regularne zaśmiecanie klatki schodowej, dewastacja klatki schodowej, uderzanie w kaloryfery, zakłócanie spokoju nocnego, grożenie sąsiadom, wyzwiska, wulgaryzm, powodowanie zagrożenia pożarem, regularne interwencji policji (Wyrok Sądu Apelacyjnego w Katowicach - I Wydział Cywilny z dnia 30 marca 2017 r. I ACa 1031/16),
