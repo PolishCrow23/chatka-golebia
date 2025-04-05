@@ -8,18 +8,18 @@ description: W tym poradniku odpowiadamy na pytanie - Czy spółdzielnia
 ---
 ## MIEJSCA PUBLICZNE
 
-#### Brak generalnego zakazu dokarmiania ptaków
+### Brak generalnego zakazu dokarmiania ptaków
 
 Na wstępie zaznaczyć należy, że nie ma w polskim prawie przepisów, które by
 wprost zabraniały dokarmiania ptaków (ale także tzw. „wolno-żyjących” lub „wolno-bytujących bezdomnych” kotów) w miejscach publicznych.
 
-#### Zakaz śmiecenia i zanieczyszczania miejsc publicznych – art. 145 kodeksu wykroczeń
+### Zakaz śmiecenia i zanieczyszczania miejsc publicznych – art. 145 kodeksu wykroczeń
 
 Niemniej, jeśli dokarmiając powodujemy zanieczyszczenie lub
 zaśmiecenie np. karmą (resztkami jedzenia) miejsc publicznych takich jak
 droga, ulica, plac, ogród, trawnik, zieleniec ([art. 145 k.w](#_Art._145_[Zanieczyszczanie)), chodnik, ścieżka rowerowa, plac zabaw, plac do ćwiczeń, skwer, park to możemy popełnić w ten sposób znamiona czynu zabronionego na gruncie kodeksu wykroczeń oraz otrzymać mandat w wysokości min. 500 zł.
 
-#### Regulamin czystości i utrzymania porządku na terenie gminy – art. 4 u.c.p.g
+### Regulamin czystości i utrzymania porządku na terenie gminy – art. 4 u.c.p.g
 
 Zgodnie z [art. 4 u.c.p.g.](#_Art.__4) rady gminy mają obowiązek uchwalenia regulaminu utrzymania czystości i porządku
 na terenie gminy, który jest aktem prawa miejscowego, w którym uregulowane są zasady zbierania i odbierania odpadów oraz utrzymania w odpowiednim stanie sanitarnym \
