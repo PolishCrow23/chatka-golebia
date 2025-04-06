@@ -7,14 +7,9 @@ description: Jaką „sprawą sądową” może straszyć sąsiad? W tym artykul
   przedstawiamy przykładowe sytuacje i możliwe działania w zakresie Polskiego
   prawa.
 ---
-##### Sytuacja
+Jeżeli osoba karmiąca ptaki jest właścicielem lokalu mieszkalnego a sąsiad jest właścicielem drugiego lokalu mieszkalnego w tym samym budynku i w wyniku dokarmiania dochodzi np. do zanieczyszczenia balkonu, parapetu lub okna sąsiada.
 
-Jeżeli osoba karmiąca ptaki jest właścicielem lokalu mieszkalnego a sąsiad jest właścicielem drugiego lokalu
-mieszkalnego w tym samym budynku i w wyniku dokarmiania dochodzi np. do zanieczyszczenia balkonu, parapetu lub okna sąsiada.
-
-##### →  możliwe
-
-działania sąsiada: POWÓDZTWO O PRZYWRÓCENIE STANU ZGODNEGO Z PRAWEM I
+##### →  możliwe działania sąsiada: POWÓDZTWO O PRZYWRÓCENIE STANU ZGODNEGO Z PRAWEM I
 ZANIECHANIE NARUSZEŃ (IMMISJI) (SPRAWA CYWILNA).
 
 Zgodnie
