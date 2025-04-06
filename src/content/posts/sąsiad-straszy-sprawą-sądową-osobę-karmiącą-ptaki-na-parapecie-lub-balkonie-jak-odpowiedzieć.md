@@ -7,28 +7,18 @@ tag: Prawo
 image: /images/bird-eating-food-from-human-hand.jpg
 description: "Jaką „sprawą sądową” może straszyć sąsiad? "
 ---
-Zanieczyszczenie lokalu sąsiada\
+## Zanieczyszczenie lokalu sąsiada
+
+\
 Jeżeli osoba karmiąca ptaki jest właścicielem lokalu mieszkalnego a sąsiad jest właścicielem drugiego lokalu mieszkalnego w tym samym budynku i w wyniku dokarmiania dochodzi np. do zanieczyszczenia balkonu, parapetu lub okna sąsiada.
 
-##### →  możliwe działania sąsiada: POWÓDZTWO O PRZYWRÓCENIE STANU ZGODNEGO Z PRAWEM I
+### →  Możliwe działanie sąsiada: POWÓDZTWO O PRZYWRÓCENIE STANU ZGODNEGO Z PRAWEM IZANIECHANIE NARUSZEŃ (IMMISJI) (SPRAWA CYWILNA).
 
-ZANIECHANIE NARUSZEŃ (IMMISJI) (SPRAWA CYWILNA).
+Zgodnie z art. [140 k.c. ](#_Art._140_[Uprawnienia)właściciel może korzystać z rzeczy zgodnie ze społeczno-gospodarczym przeznaczeniem swego prawa w granicach określonych przez ustawy i zasady współżycia społecznego.
+Zgodnie z art. [144 k.c.](#_Art._144_[Immisje]) właściciel nieruchomości powinien przy wykonywaniu swego prawa powstrzymywać się od
+działań, które by zakłócały korzystanie z nieruchomości sąsiednich ponad przeciętną miarę, wynikającą ze społeczno-gospodarczego przeznaczenia nieruchomości i stosunków miejscowych. Jeżeli właściciel narusza ten obowiązek, to, zgodnie z art. [222 § 2 k.c.](#_Art._222_) właścicielowi – sąsiadowi przysługuje roszczenie o przywrócenie stanu zgodnego z prawem i o zaniechanie naruszeń.
 
-Zgodnie
-z art. [140 k.c.](#_Art._140_[Uprawnienia)właściciel może korzystać
-z rzeczy zgodnie ze społeczno-gospodarczym przeznaczeniem swego
-prawa w granicach określonych przez ustawy i zasady współżycia społecznego.
-Zgodnie z art. [144 k.c.](#_Art._144_[Immisje]) właściciel
-nieruchomości powinien przy wykonywaniu swego prawa powstrzymywać się od
-działań, które by zakłócały korzystanie z nieruchomości sąsiednich ponad przeciętną
-miarę, wynikającą ze społeczno-gospodarczego przeznaczenia nieruchomości i
-stosunków miejscowych. Jeżeli właściciel narusza ten obowiązek, to, zgodnie z
-art. [222 § 2 k.c.](#_Art._222_) właścicielowi – sąsiadowi
-przysługuje roszczenie o przywrócenie stanu zgodnego z prawem i o
-zaniechanie naruszeń.
-
-„przeciętna
-miara, ustalana przy pomocy dwóch kryteriów: 
+„przeciętna miara, ustalana przy pomocy dwóch kryteriów: 
 
 1)   społeczno-gospodarczego
 przeznaczenia nieruchomości oraz 
