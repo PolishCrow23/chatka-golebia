@@ -1,5 +1,6 @@
 ---
 title: Czy spółdzielnia mieszkaniowa może zakazać karmienia ptaków?
+author: Hanna Cichocka
 pubDate: 04.05.2025
 image: /images/gołąbdsc_0015.jpg
 description: W tym poradniku odpowiadamy na pytanie - Czy spółdzielnia
