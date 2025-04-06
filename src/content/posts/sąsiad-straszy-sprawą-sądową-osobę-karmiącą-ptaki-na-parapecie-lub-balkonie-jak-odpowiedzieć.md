@@ -18,13 +18,12 @@ Zgodnie z art. [140 k.c. ](#_Art._140_[Uprawnienia)właściciel może korzystać
 Zgodnie z art. [144 k.c.](#_Art._144_[Immisje]) właściciel nieruchomości powinien przy wykonywaniu swego prawa powstrzymywać się od
 działań, które by zakłócały korzystanie z nieruchomości sąsiednich ponad przeciętną miarę, wynikającą ze społeczno-gospodarczego przeznaczenia nieruchomości i stosunków miejscowych. Jeżeli właściciel narusza ten obowiązek, to, zgodnie z art. [222 § 2 k.c.](#_Art._222_) właścicielowi – sąsiadowi przysługuje roszczenie o przywrócenie stanu zgodnego z prawem i o zaniechanie naruszeń.
 
-„przeciętna miara, ustalana przy pomocy dwóch kryteriów: 
+Przeciętna miara jest ustalana przy pomocy dwóch kryteriów: 
 
-1. Społeczno-gospodarczego
-   przeznaczenia nieruchomości oraz 
-2. Stosunków miejscowych. 
+1. Społeczno-gospodarczego przeznaczenia nieruchomości,
+2. Stosunków miejscowych,
 
-Immisje, które tej miary nie przekraczają, są dopuszczalne, jako że nie byłoby możliwe korzystanie z nieruchomości w sposób niedostrzegalny i nieodczuwalny na nieruchomościach sąsiednich. Przeciętny charakter miary wskazuje, że punktem odniesienia powinny być odczucia przeciętnego człowieka, a osobista wrażliwość konkretnej osoby nie ma znaczenia, bez względu na to, co jest przyczyną tej wrażliwości. Oceniając przeciętną miarę immisji, należy
+Immisje, które tej miary nie przekraczają, są dopuszczalne jako że nie byłoby możliwe korzystanie z nieruchomości w sposób niedostrzegalny i nieodczuwalny na nieruchomościach sąsiednich. Przeciętny charakter miary wskazuje, że punktem odniesienia powinny być odczucia przeciętnego człowieka, a osobista wrażliwość konkretnej osoby nie ma znaczenia, bez względu na to, co jest przyczyną tej wrażliwości. Oceniając przeciętną miarę immisji, należy
 uwzględnić zwłaszcza: 
 
 * Częstotliwość trwania zakłóceń, 
