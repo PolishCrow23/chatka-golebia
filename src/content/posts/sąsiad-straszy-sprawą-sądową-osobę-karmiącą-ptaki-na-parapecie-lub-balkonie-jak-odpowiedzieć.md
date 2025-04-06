@@ -12,7 +12,7 @@ description: Jaką „sprawą sądową” może straszyć sąsiad? Odpowiedź po
 \
 Jeżeli osoba karmiąca ptaki jest właścicielem lokalu mieszkalnego, a sąsiad jest właścicielem drugiego lokalu mieszkalnego w tym samym budynku i w wyniku dokarmiania dochodzi np. do zanieczyszczenia balkonu, parapetu lub okna sąsiada.
 
-**Możliwe działanie sąsiada: Powództwo o przywrócenie stanu zgodnego z prawem i zaniechanie naruszeń (Immisji) - Sprawa cywilna.**
+### **Możliwe działanie sąsiada: Powództwo o przywrócenie stanu zgodnego z prawem i zaniechanie naruszeń (Immisji) - Sprawa cywilna.**
 
 Zgodnie z art. [140 k.c. ](#_Art._140_[Uprawnienia)właściciel może korzystać z rzeczy zgodnie ze społeczno-gospodarczym przeznaczeniem swego prawa w granicach określonych przez ustawy i zasady współżycia społecznego.
 Zgodnie z art. [144 k.c.](#_Art._144_[Immisje]) właściciel nieruchomości powinien przy wykonywaniu swego prawa powstrzymywać się od
@@ -40,8 +40,7 @@ Sąsiad może dochodzić ochrony przed immisjami tego typu w trybie [art. 23](#_
 
 Zanim jednak sąsiad wystąpi na drogę sądową, powinien wcześniej na piśmie zażądać podjęcia określonych czynności przez właściciela nieruchomości, które są źródłem immisji. Dopiero po bezskutecznym upływie terminu można skierować sprawę do sądu.
 
-W przypadku wytoczenia powództwa przez sąsiada skutecznym
-argumentem przeciwnym byłoby wykazanie, że:
+W przypadku wytoczenia powództwa przez sąsiada skutecznym argumentem przeciwnym byłoby wykazanie, że:
 
 * działania pozwanego sąsiada, będącego właścicielem
   nieruchomości sąsiedniej nie zakłócają korzystania z nieruchomości powoda, bądź
@@ -63,7 +62,7 @@ To na  powodzie zawsze ciąży obowiązek wykazania, że naruszenie własności
 Jeżeli osoba karmiąca ptaki jest najemcą lokalu a sąsiad jest lokatorem innego lokalu albo właścicielem innego lokalu w tym samym budynku i w wyniku dokarmiania dochodzi  do zanieczyszczenia balkonu/parapetu/okna
 sąsiada
 
-##### è  Możliwe działania sąsiada: POWÓDZTWO O ROZWIĄZANIE STOSUNKU PRAWNEGO UPRAWNIAJĄCEGO DO
+##### Możliwe działania sąsiada: POWÓDZTWO O ROZWIĄZANIE STOSUNKU PRAWNEGO UPRAWNIAJĄCEGO DO
 
 UŻYWANIA LOKALU I NAKAZANIE JEGO OPRÓŻNIENIA Z POWODU RAŻĄCEGO I UPORCZYWEGO
 NARUSZENIA PORZĄDKU DOMOWEGO, CZYNIĄCEGO KORZYSTANIE Z INNYCH LOKALI W BUDYNKU
@@ -98,14 +97,13 @@ sprawcy, jego warunki osobiste i rodzinne, stosunki majątkowe i możliwości za
 
 Wymierzając karę za zaśmiecanie/zanieczyszczanie miejsca publicznego, sąd może orzec obowiązek przywrócenia zanieczyszczonego/zaśmieconego miejsca do stanu poprzedniego. 
 
-### Jak odpowiedzieć sąsiadowi?
+## Jak odpowiedzieć sąsiadowi?
 
-Żeby odpowiedzieć jednoznacznie na to pytanie, należałoby ustalić, jakimi dokładnie
-działaniami sądowymi grozi sąsiad.  
+Żeby odpowiedzieć jednoznacznie na to pytanie, należałoby ustalić, jakimi dokładnie działaniami sądowymi grozi sąsiad.  
 
-Grożenie innej osobie spowodowania postępowania karnego postępowania lub postępowania, w którym może zostać nałożona administracyjna kara pieniężna jest, zgodnie z k.k., tzw. groźbą bezprawną ([art. 115 § 12 k.k.](#_Art._115_[Groźba)). Jest to z reguły jedno ze znamion, których zaistnienie jest konieczne do uznania, że doszło do innego czynu zabronionego. 
+Grożenie innej osobie **spowodowania postępowania karnego** lub postępowania, w którym **może zostać nałożona administracyjna** **kara pieniężna** jest, zgodnie z k.k., tzw. **groźbą bezprawną** ([art. 115 § 12 k.k.](#_Art._115_[Groźba)). Jest to z reguły jedno ze znamion, których zaistnienie jest konieczne do uznania, że doszło do innego czynu zabronionego. 
 
-Grożenie innej osobie spowodowania postępowania cywilnego lub postępowania w sprawie o wykroczenie nie jest groźbą bezprawną. O groźbie bezprawnej mówimy tylko wtedy, gdy używająca jej osoba grozi spowodowaniem postępowania karnego lub postępowania, w którym może być nałożona kara administracyjna. 
+Grożenie innej osobie **spowodowania postępowania cywilnego** lub postępowania **w sprawie o wykroczenie nie jest groźbą bezprawną.** O groźbie bezprawnej mówimy tylko wtedy, gdy używająca jej osoba grozi spowodowaniem postępowania karnego lub postępowania, w którym może być nałożona kara administracyjna. 
 
 Sama groźba bezprawna może być uznana za czyn zabroniony tylko wówczas, gdy zaistniał skutek w postaci podjęcia przez inną osobę określonego działania, zaniechania lub znoszenia ([art. 191 § 1 k.k.](#_Art._191_[Zmuszenie]) Wówczas mamy do czynienia z przestępstwem „zmuszenia”, które jest zagrożone karą pozbawienia wolności do lat 3. Ściganie przestępstwa następuje na wniosek pokrzywdzonego.  
 
