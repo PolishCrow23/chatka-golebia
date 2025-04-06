@@ -12,7 +12,7 @@ description: "Jaką „sprawą sądową” może straszyć sąsiad? "
 \
 Jeżeli osoba karmiąca ptaki jest właścicielem lokalu mieszkalnego a sąsiad jest właścicielem drugiego lokalu mieszkalnego w tym samym budynku i w wyniku dokarmiania dochodzi np. do zanieczyszczenia balkonu, parapetu lub okna sąsiada.
 
-→  Możliwe działanie sąsiada: POWÓDZTWO O PRZYWRÓCENIE STANU ZGODNEGO Z PRAWEM IZANIECHANIE NARUSZEŃ (IMMISJI) (SPRAWA CYWILNA).
+**Możliwe działanie sąsiada: Powództwo o przywrócenie stanu zgodnego z prawem i zaniechanie naruszeń (Immisji) - Sprawa cywilna.**
 
 Zgodnie z art. [140 k.c. ](#_Art._140_[Uprawnienia)właściciel może korzystać z rzeczy zgodnie ze społeczno-gospodarczym przeznaczeniem swego prawa w granicach określonych przez ustawy i zasady współżycia społecznego.
 Zgodnie z art. [144 k.c.](#_Art._144_[Immisje]) właściciel nieruchomości powinien przy wykonywaniu swego prawa powstrzymywać się od
