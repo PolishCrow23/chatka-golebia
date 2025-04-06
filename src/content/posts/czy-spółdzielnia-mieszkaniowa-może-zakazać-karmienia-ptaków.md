@@ -2,12 +2,13 @@
 title: Czy spółdzielnia mieszkaniowa może zakazać karmienia ptaków?
 author: Hanna Cichocka
 pubDate: 04.05.2025
+tag: Prawo
 image: /images/gołąbdsc_0015.jpg
 description: W tym poradniku odpowiadamy na pytanie - Czy spółdzielnia
   mieszkaniowa może zakazać karmienia ptaków? Omówimy w nim kwestie miejsc
-  publicznych, prywatnych oraz pokażemy co mówi na ten temat Polskie prawo.
+  publicznych, prywatnych oraz pokażemy co mówi na ten temat polskie prawo.
 ---
-## MIEJSCA PUBLICZNE
+## Miejsca publiczne
 
 ### Brak generalnego zakazu dokarmiania ptaków
 
@@ -30,7 +31,7 @@ Co prawda **art. 4  ust. 2 pkt. 6** wprowadza obowiązek  dla „osób utrzymuj
 Podsumowując, jakkolwiek dokarmianie ptaków na terenie „dostępnym dla publiczności” nie jest zabronione \
 a rady gminy nie mogą wprowadzić takiego zakazu, to **jeśli dokarmianie powoduje zanieczyszczenie, zaśmiecenie** przestrzeni publicznej karmą czy resztkami jedzenia, będzie uznane za wykroczenie, za które można otrzymać mandat w minimalnej wysokości **500 zł**. ([art. 145 k.w.)](#_Art._145_[Zanieczyszczanie)[](#_Art._145_[Zanieczyszczanie)[](#_Art._145_[Zanieczyszczanie)[](#_Art._145_[Zanieczyszczanie)
 
-## MIEJSCA PRYWATNE
+## Miejsca prywatne
 
 ### Regulaminy porządku domowego
 
