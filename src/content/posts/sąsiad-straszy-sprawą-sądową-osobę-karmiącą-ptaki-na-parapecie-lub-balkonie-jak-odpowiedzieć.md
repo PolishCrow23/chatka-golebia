@@ -27,15 +27,10 @@ działań, które by zakłócały korzystanie z nieruchomości sąsiednich ponad
 Immisje, które tej miary nie przekraczają, są dopuszczalne, jako że nie byłoby możliwe korzystanie z nieruchomości w sposób niedostrzegalny i nieodczuwalny na nieruchomościach sąsiednich. Przeciętny charakter miary wskazuje, że punktem odniesienia powinny być odczucia przeciętnego człowieka, a osobista wrażliwość konkretnej osoby nie ma znaczenia, bez względu na to, co jest przyczyną tej wrażliwości. Oceniając przeciętną miarę immisji, należy
 uwzględnić zwłaszcza: 
 
-\- częstotliwość
-trwania zakłóceń, 
-
-\- ich intensywność,
-
-\- skutki oraz 
-
-\- pozytywną społeczną
-wartość działalności wytwarzającej immisje (np. pszczelarstwo). 
+* Częstotliwość trwania zakłóceń, 
+* Intensywność ich trwania,
+* Skutki, 
+* Pozytywną społeczną wartość działalności wytwarzającej immisje (np. pszczelarstwo). 
 
 Społeczno-gospodarcze przeznaczenie nieruchomości jako miernik przeciętnej miary zakłóceń należy ustalać, oceniając charakter zarówno nieruchomości wyjściowej, jak i nieruchomości objętych immisjami. Granice immisji może bowiem wyznaczać cel, któremu dane nieruchomości służą, np. działalność rolnicza, przemysłowa, charakter mieszkalny, religijny itp. Stosowany miernik ma charakter obiektywny, dlatego indywidualny sposób zagospodarowania nieruchomości nie ma doniosłości prawnej, jeżeli jest niezgodny z obiektywną oceną jej przeznaczenia (np. zabudowanie nieruchomości rolnej bez wcześniejszej zmiany jej klasyfikacji). Z kolei "stosunki
 miejscowe" oznaczają utrwalony sposób użytkowania nieruchomości w danej okolicy.
