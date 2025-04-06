@@ -3,7 +3,9 @@ title: Sąsiad straszy sprawą sądową osobę karmiącą ptaki na parapecie lub
   balkonie. Jak odpowiedzieć?
 pubDate: 04.06.2025
 image: /images/bird-eating-food-from-human-hand.jpg
-description: Jaką „sprawą sądową” może straszyć sąsiad? Jak nią odpowiedzieć?
+description: Jaką „sprawą sądową” może straszyć sąsiad? Jak nią odpowiedzieć? W
+  tym artykule przedstawiamy przykładowe sytuacje i możliwe działania w zakresie
+  Polskiego prawa.
 ---
 ##### a)   
 
@@ -12,7 +14,7 @@ właścicielem lokalu mieszkalnego a sąsiad jest właścicielem drugiego lokalu
 mieszkalnego w tym samym budynku i w wyniku dokarmiania dochodzi np. do
 zanieczyszczenia balkonu/parapetu/okna sąsiada
 
-##### è  możliwe
+##### →  możliwe
 
 działania sąsiada: POWÓDZTWO O PRZYWRÓCENIE STANU ZGODNEGO Z PRAWEM I
 ZANIECHANIE NARUSZEŃ (IMMISJI) (SPRAWA CYWILNA).
@@ -94,7 +96,7 @@ uciążliwości mają miejsce.
 
 Sąsiad może dochodzić ochrony przed immisjami tego typu w
 trybie [art. 23](#_Art._23_[Ochrona) i [24
-k.c.](#_Art._24_[Środki)czyli w trybie ochrony dóbr osobistych w zw. z [art.
+k.c. ](#_Art._24_[Środki)czyli w trybie ochrony dóbr osobistych w zw. z [art.
 222 k.c.](#_Art._222_) i  [art. 144 k.c.](#_Art._144_[Immisje]) Jeśli zaś
 immisja doprowadza do szkody, podstaw do jej naprawienia poszukiwać należy w [art. 415 k.c.](#_Art._415_[Odpowiedzialność)i nast., przy czym osobą
 odpowiedzialną za szkodę nie może być uznana osoba, która z jakichkolwiek
@@ -105,7 +107,7 @@ osobami fizycznymi) może być stosownie do okoliczności ograniczony, jeżeli z
 względu na stan majątkowy poszkodowanego lub osoby odpowiedzialnej za szkodę
 wymagają takiego ograniczenia zasady współżycia społecznego ([art. 440 k.c.)](#_Art._440_[Miarkowanie)
 
-Zanim jednak sąsiad wystąpi na drogę sądową, powinienwcześniej
+Zanim jednak sąsiad wystąpi na drogę sądową, powinien wcześniej
 na piśmie zażądać podjęcia określonych czynności przez właściciela
 nieruchomości, które są źródłem immisji. Dopiero po bezskutecznym upływie
 terminu można skierować sprawę do sądu.
@@ -135,7 +137,7 @@ za tym idzie nie ma legitymacji do tego, żeby być w sprawie powodem.
 To na  powodzie zawsze ciąży obowiązek wykazania, że
 naruszenie własności przez sąsiada (właściciela nieruchomości sąsiedniej) miało
 charakter trwały oraz istnieje prawdopodobieństwo powtarzania się go w
-przyszłości.Dlatego, zanim sąsiad wystąpi się na drogę sądową, powinien
+przyszłości. Dlatego, zanim sąsiad wystąpi się na drogę sądową, powinien
 zawsze wcześniej na piśmie zażądać podjęcia określonych czynności przez
 właściciela nieruchomości, która jest źródłem immisji. Dopiero po
 bezskutecznym upływie terminu można skierować sprawę do sądu i tym samym
@@ -156,10 +158,10 @@ UCIĄŻLIWYM (SPRAWA CYWILNA)
  
 
 Zgodnie
-z [art.13 ustawy o ochronie praw lokatorów](#_Art._13_[Rozwiązanie)sąsiad
+z [art.13 ustawy o ochronie praw lokatorów ](#_Art._13_[Rozwiązanie)sąsiad
 może wytoczyć powództwo o rozwiązanie przez sąd umowy najmu i nakazanie
 opróżnienia lokalu, jeżeli dana osoba wykracza w sposób rażący lub
-uporczywyprzeciwko porządkowi domowemu, czyniąc uciążliwym
+uporczywy przeciwko porządkowi domowemu, czyniąc uciążliwym
 korzystanie z innych lokali w budynku.
 
 Zasady
@@ -177,7 +179,7 @@ uporczywe może być uznane zachowanie częste, wielokrotne, powtarzające
 się.
 
 W
-obu przypadkach ustawodawca wymaga, by naganne zachowanie lokatora czyniło uciążliwymkorzystanie
+obu przypadkach ustawodawca wymaga, by naganne zachowanie lokatora czyniło uciążliwym korzystanie
 z innych lokali w budynku.
 
 W
