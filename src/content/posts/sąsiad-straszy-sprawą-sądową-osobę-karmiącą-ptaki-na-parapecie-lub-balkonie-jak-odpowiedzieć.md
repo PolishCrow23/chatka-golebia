@@ -12,7 +12,7 @@ description: "Jaką „sprawą sądową” może straszyć sąsiad? "
 \
 Jeżeli osoba karmiąca ptaki jest właścicielem lokalu mieszkalnego a sąsiad jest właścicielem drugiego lokalu mieszkalnego w tym samym budynku i w wyniku dokarmiania dochodzi np. do zanieczyszczenia balkonu, parapetu lub okna sąsiada.
 
-### →  Możliwe działanie sąsiada: POWÓDZTWO O PRZYWRÓCENIE STANU ZGODNEGO Z PRAWEM IZANIECHANIE NARUSZEŃ (IMMISJI) (SPRAWA CYWILNA).
+→  Możliwe działanie sąsiada: POWÓDZTWO O PRZYWRÓCENIE STANU ZGODNEGO Z PRAWEM IZANIECHANIE NARUSZEŃ (IMMISJI) (SPRAWA CYWILNA).
 
 Zgodnie z art. [140 k.c. ](#_Art._140_[Uprawnienia)właściciel może korzystać z rzeczy zgodnie ze społeczno-gospodarczym przeznaczeniem swego prawa w granicach określonych przez ustawy i zasady współżycia społecznego.
 Zgodnie z art. [144 k.c.](#_Art._144_[Immisje]) właściciel nieruchomości powinien przy wykonywaniu swego prawa powstrzymywać się od
@@ -20,10 +20,9 @@ działań, które by zakłócały korzystanie z nieruchomości sąsiednich ponad
 
 „przeciętna miara, ustalana przy pomocy dwóch kryteriów: 
 
-1)   społeczno-gospodarczego
-przeznaczenia nieruchomości oraz 
-
-2)   stosunków miejscowych. 
+1. Społeczno-gospodarczego
+   przeznaczenia nieruchomości oraz 
+2. Stosunków miejscowych. 
 
 Immisje, które tej miary nie przekraczają, są dopuszczalne, jako że nie byłoby możliwe korzystanie z nieruchomości w sposób niedostrzegalny i nieodczuwalny na nieruchomościach sąsiednich. Przeciętny charakter miary wskazuje, że punktem odniesienia powinny być odczucia przeciętnego człowieka, a osobista wrażliwość konkretnej osoby nie ma znaczenia, bez względu na to, co jest przyczyną tej wrażliwości. Oceniając przeciętną miarę immisji, należy
 uwzględnić zwłaszcza: 
@@ -75,22 +74,10 @@ UŻYWANIA LOKALU I NAKAZANIE JEGO OPRÓŻNIENIA Z POWODU RAŻĄCEGO I UPORCZYWEG
 NARUSZENIA PORZĄDKU DOMOWEGO, CZYNIĄCEGO KORZYSTANIE Z INNYCH LOKALI W BUDYNKU
 UCIĄŻLIWYM (SPRAWA CYWILNA)
 
-Zgodnie
-z [art.13 ustawy o ochronie praw lokatorów ](#_Art._13_[Rozwiązanie)sąsiad
-może wytoczyć powództwo o rozwiązanie przez sąd umowy najmu i nakazanie
-opróżnienia lokalu, jeżeli dana osoba wykracza w sposób rażący lub
-uporczywy przeciwko porządkowi domowemu, czyniąc uciążliwym
-korzystanie z innych lokali w budynku.
+Zgodnie z [art.13 ustawy o ochronie praw lokatorów ](#_Art._13_[Rozwiązanie)sąsiad może wytoczyć powództwo o rozwiązanie przez sąd umowy najmu i nakazanie opróżnienia lokalu, jeżeli dana osoba wykracza w sposób rażący lub uporczywy przeciwko porządkowi domowemu, czyniąc uciążliwym korzystanie z innych lokali w budynku.
 
-Zasady
-porządku domowego mogą być określone w regulaminie uchwalonym przez wspólnoty
-mieszkaniowe, spółdzielnie mieszkaniowe oraz współwłaścicieli budynku.
-Niezależnie jednak od powyższego wynikają one z ustalonych zwyczajów, a zatem
-nie muszą być nigdzie spisane. Za rażące wykroczenie przeciwko porządkowi
-domowemu można uznać zachowanie, które cechuje duże nasilenie złej woli i
-szczególna szkodliwość ze względu na charakter naruszonych norm. Za rażące
-wykroczenie przeciwko porządkowi domowemu może być uznane nawet jednorazowe
-zachowanie.
+Zasady porządku domowego mogą być określone w regulaminie uchwalonym przez wspólnoty mieszkaniowe, spółdzielnie mieszkaniowe oraz współwłaścicieli budynku. Niezależnie jednak od powyższego wynikają one z ustalonych zwyczajów, a zatem nie muszą być nigdzie spisane. Za rażące wykroczenie przeciwko porządkowi
+domowemu można uznać zachowanie, które cechuje duże nasilenie złej woli i szczególna szkodliwość ze względu na charakter naruszonych norm. Za rażące wykroczenie przeciwko porządkowi domowemu może być uznane nawet jednorazowe zachowanie.
 
 Za uporczywe może być uznane zachowanie częste, wielokrotne, powtarzające się. W obu przypadkach ustawodawca wymaga, by naganne zachowanie lokatora czyniło uciążliwym korzystanie z innych lokali w budynku.
 
@@ -102,29 +89,17 @@ Zgodnie z wyrokiem Europejskiego Trybunału Praw Człowieka z dnia 28 kwietnia 2
 
 ##### *b)*   
 
-Jeżeli dokarmianie ptaków powoduje
-zanieczyszczenie położonego pod oknami przy budynku skweru/trawnika/drogi/
-chodnika/ placu zabaw/ innego miejsca publicznego:
+Jeżeli dokarmianie ptaków powoduje zanieczyszczenie położonego pod oknami przy budynku skweru/trawnika/drogi/chodnika/ placu zabaw/ innego miejsca publicznego:
 
 è  *możliwe działania sąsiada: ZŁOŻENIE ZAWIADOMIENIA O PODEJRZENIU
 POPEŁNIENIA WYKROCZENIA ZANIECZYSZCZENIA/ZAŚMIECENIA MIEJSCA PUBLICZNEGO
 (SPRAWA O WYKROCZENIE)*
 
-Samo
-dokarmianie ptaków (ale też wolno-bytujących kotów, które są zwierzętami
-towarzyszącymi) nie jest wykroczeniem, ale zanieczyszczenie lub zaśmiecanie przestrzeni
-publicznej karmą czy resztkami jedzenia już takim wykroczeniem jest.
+Samo dokarmianie ptaków (ale też wolno-bytujących kotów, które są zwierzętami towarzyszącymi) nie jest wykroczeniem, ale zanieczyszczenie lub zaśmiecanie przestrzeni publicznej karmą czy resztkami jedzenia już takim wykroczeniem jest.
 
-Jeżeli
-więc dokarmianie ptaków powoduje zanieczyszczenie/zaśmiecenie położonego pod
-oknami /balkonem skweru/trawnika/drogi/chodnika/placu zabaw lub innego miejsca
-publicznego sąsiad może złożyć na policji zawiadomienie o podejrzeniu
-popełnienia wykroczenia stypizowanego w [art. 145 k.w](#_Art._145_[Zanieczyszczanie)., który przewiduje za to
-wykroczenie karę grzywny min. 500 zł. Maksymalna wysokość grzywny, zgodnie z
-ogólna regulacją wyrażoną w [art. 24 § 1 k.w.](#_Art._24_[Grzywna])
-wynosi 5000 zł, przy czym określając ostateczną wysokość, sąd weźmie pod uwagę dochody
-sprawcy, jego warunki osobiste i rodzinne, stosunki majątkowe i możliwości
-zarobkowe.
+Jeżeli więc dokarmianie ptaków powoduje zanieczyszczenie/zaśmiecenie położonego pod oknami /balkonem skweru/trawnika/drogi/chodnika/placu zabaw lub innego miejsca publicznego sąsiad może złożyć na policji zawiadomienie o podejrzeniu popełnienia wykroczenia stypizowanego w [art. 145 k.w](#_Art._145_[Zanieczyszczanie)., który przewiduje za to
+wykroczenie karę grzywny min. 500 zł. Maksymalna wysokość grzywny, zgodnie z ogólna regulacją wyrażoną w [art. 24 § 1 k.w. ](#_Art._24_[Grzywna])wynosi 5000 zł, przy czym określając ostateczną wysokość, sąd weźmie pod uwagę dochody
+sprawcy, jego warunki osobiste i rodzinne, stosunki majątkowe i możliwości zarobkowe.
 
 Wymierzając karę za zaśmiecanie/zanieczyszczanie miejsca publicznego, sąd może orzec obowiązek przywrócenia zanieczyszczonego/zaśmieconego miejsca do stanu poprzedniego. 
 
