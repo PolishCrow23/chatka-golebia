@@ -77,10 +77,10 @@ collections:
       - {label: "tytuł", name: "title", widget: "string"}
       - {label: "autor", name: "author", widget: "string"}
       - {label: "data publikacji", name: "pubDate", widget: "datetime", date_format: "MM.DD.YYYY", picker_utc: false}
+      - {label: "tag", name: "tag", widget: "string"}
       - {label: "zdjęcie główne", name: "image", widget: "image"}
       - {label: "opis", name: "description", widget: "string"}
       - {label: "tekst", name: "body", widget: "markdown"}
-      - {label: "tag", name: "tag", widget: "string"}
 
   - name: "pages" # Used in routes, e.g., /admin/collections/blog
     label: "Podstrony" # Used in the UI
