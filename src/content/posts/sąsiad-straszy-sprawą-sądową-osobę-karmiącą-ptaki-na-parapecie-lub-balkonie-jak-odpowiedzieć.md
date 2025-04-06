@@ -14,9 +14,10 @@ Jeżeli osoba karmiąca ptaki jest właścicielem lokalu mieszkalnego, a sąsiad
 
 ### **Możliwe działanie sąsiada: Powództwo o przywrócenie stanu zgodnego z prawem i zaniechanie naruszeń (Immisji) - Sprawa cywilna.**
 
-Zgodnie z art. [140 k.c. ](#_Art._140_[Uprawnienia)właściciel może korzystać z rzeczy zgodnie ze społeczno-gospodarczym przeznaczeniem swego prawa w granicach określonych przez ustawy i zasady współżycia społecznego.
-Zgodnie z art. [144 k.c.](#_Art._144_[Immisje]) właściciel nieruchomości powinien przy wykonywaniu swego prawa powstrzymywać się od
-działań, które by zakłócały korzystanie z nieruchomości sąsiednich ponad przeciętną miarę, wynikającą ze społeczno-gospodarczego przeznaczenia nieruchomości i stosunków miejscowych. Jeżeli właściciel narusza ten obowiązek, to, zgodnie z art. [222 § 2 k.c.](#_Art._222_) właścicielowi – sąsiadowi przysługuje roszczenie o przywrócenie stanu zgodnego z prawem i o zaniechanie naruszeń.
+Zgodnie z art. [140 k.c. ](#_Art._140_[Uprawnienia)właściciel może korzystać z rzeczy zgodnie ze społeczno-gospodarczym przeznaczeniem swego prawa **w granicach określonych przez ustawy i zasady współżycia społecznego**.
+Zgodnie z art. [144 k.c.](#_Art._144_[Immisje]) właściciel nieruchomości powinien przy wykonywaniu swego prawa **powstrzymywać się** od działań, które by **zakłócały korzystanie z nieruchomości sąsiednich ponad przeciętną miarę,** wynikającą ze społeczno-gospodarczego przeznaczenia nieruchomości i stosunków miejscowych. \
+\
+Jeżeli właściciel narusza ten obowiązek, to, zgodnie z art. [222 § 2 k.c.](#_Art._222_) właścicielowi – sąsiadowi **przysługuje** roszczenie o **przywrócenie stanu zgodnego z prawem** i o zaniechanie naruszeń.
 
 Przeciętna miara jest ustalana przy pomocy dwóch kryteriów: 
 
