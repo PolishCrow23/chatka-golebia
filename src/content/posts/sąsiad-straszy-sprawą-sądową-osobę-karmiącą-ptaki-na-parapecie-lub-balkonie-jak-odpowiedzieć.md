@@ -126,57 +126,21 @@ wynosi 5000 zł, przy czym określając ostateczną wysokość, sąd weźmie pod
 sprawcy, jego warunki osobiste i rodzinne, stosunki majątkowe i możliwości
 zarobkowe.
 
-Wymierzając
-karę za zaśmiecanie/zanieczyszczanie miejsca publicznego, sąd może orzec
-obowiązek przywrócenia zanieczyszczonego/zaśmieconego miejsca do stanu
-poprzedniego. 
+Wymierzając karę za zaśmiecanie/zanieczyszczanie miejsca publicznego, sąd może orzec obowiązek przywrócenia zanieczyszczonego/zaśmieconego miejsca do stanu poprzedniego. 
 
-#### Jak odpowiedzieć sąsiadowi?
+### Jak odpowiedzieć sąsiadowi?
 
-Żeby
-odpowiedzieć jednoznacznie na to pytanie, należałoby ustalić, jakimi dokładnie
+Żeby odpowiedzieć jednoznacznie na to pytanie, należałoby ustalić, jakimi dokładnie
 działaniami sądowymi grozi sąsiad.  
 
-Grożenie innej
-osobie spowodowania postępowania karnego postępowania lub postępowania, w
-którym może zostać nałożona administracyjna kara pieniężna jest, zgodnie z
-k.k., tzw. groźbą bezprawną ([art. 115 § 12 k.k.](#_Art._115_[Groźba)).
-Jest to z reguły jedno ze znamion, których zaistnienie jest konieczne do
-uznania, że doszło do innego czynu zabronionego. 
+Grożenie innej osobie spowodowania postępowania karnego postępowania lub postępowania, w którym może zostać nałożona administracyjna kara pieniężna jest, zgodnie z k.k., tzw. groźbą bezprawną ([art. 115 § 12 k.k.](#_Art._115_[Groźba)). Jest to z reguły jedno ze znamion, których zaistnienie jest konieczne do uznania, że doszło do innego czynu zabronionego. 
 
-Grożenie innej
-osobie spowodowania postępowania cywilnego lub postępowania w sprawie o
-wykroczenie nie jest groźbą bezprawną. O groźbie bezprawnej mówimy tylko
-wtedy, gdy używająca jej osoba grozi spowodowaniem postępowania karnego lub
-postępowania, w którym może być nałożona kara administracyjna. 
+Grożenie innej osobie spowodowania postępowania cywilnego lub postępowania w sprawie o wykroczenie nie jest groźbą bezprawną. O groźbie bezprawnej mówimy tylko wtedy, gdy używająca jej osoba grozi spowodowaniem postępowania karnego lub postępowania, w którym może być nałożona kara administracyjna. 
 
-Sama groźba
-bezprawna może być uznana za czyn zabroniony tylko wówczas, gdy zaistniał
-skutek w postaci podjęcia przez inną osobę określonego działania, zaniechania
-lub znoszenia ([art. 191 § 1 k.k.](#_Art._191_[Zmuszenie]) Wówczas
-mamy do czynienia z przestępstwem „zmuszenia”, które jest zagrożone karą
-pozbawienia wolności do lat 3. Ściganie przestępstwa następuje na wniosek
-pokrzywdzonego.  
+Sama groźba bezprawna może być uznana za czyn zabroniony tylko wówczas, gdy zaistniał skutek w postaci podjęcia przez inną osobę określonego działania, zaniechania lub znoszenia ([art. 191 § 1 k.k.](#_Art._191_[Zmuszenie]) Wówczas mamy do czynienia z przestępstwem „zmuszenia”, które jest zagrożone karą pozbawienia wolności do lat 3. Ściganie przestępstwa następuje na wniosek pokrzywdzonego.  
 
-Jeżeli groźby
-czy zapowiedzi ze strony sąsiada podjęcia działań przeciwko osobie
-dokarmiającej gołębie są uporczywe, tj. powtarzają się, i wywołują w osobie
-dokarmiającej gołębie uzasadnione okolicznościami poczucie zagrożenia, poniżenia
-lub udręczenia lub istotnie naruszają jej prywatność, wówczas takie działanie
-może być uznane jako wypełniające znamiona przestępstwa nękania
-podlegającego karze pozbawienia wolności od 6 miesięcy do lat 8 ([art. 190a § 1 k.k.](#_Art._190a_[Uporczywe)). Ściganie przestępstwa
-następuje na wniosek pokrzywdzonego.  
+Jeżeli groźby czy zapowiedzi ze strony sąsiada podjęcia działań przeciwko osobie dokarmiającej gołębie są uporczywe, tj. powtarzają się, i wywołują w osobie dokarmiającej gołębie uzasadnione okolicznościami poczucie zagrożenia, poniżenia lub udręczenia lub istotnie naruszają jej prywatność, wówczas takie działanie może być uznane jako wypełniające znamiona przestępstwa nękania podlegającego karze pozbawienia wolności od 6 miesięcy do lat 8 ([art. 190a § 1 k.k.](#_Art._190a_[Uporczywe)). Ściganie przestępstwa następuje na wniosek pokrzywdzonego.  
 
-Ażeby ocenić
-właściwie ryzyko dla osoby dokarmiającej ewentualnymi działaniami prawnymi,
-należałoby także ustalić, na jakim terenie odbywa się dokarmianie
-(prywatny/publiczny), czy dochodzi do zanieczyszczenia/zaśmiecania? Czy
-zanieczyszczana jest nieruchomość prywatna/miejsce publiczne? Czy sąsiad
-skierował pismo – wezwanie do osoby dokarmiającej ptaki? Czy osobą dokarmiającą
-jest właściciel nieruchomości czy najemca? Czy sąsiad jest właścicielem
-nieruchomości czy najemcą?
+Ażeby ocenić właściwie ryzyko dla osoby dokarmiającej ewentualnymi działaniami prawnymi, należałoby także ustalić, na jakim terenie odbywa się dokarmianie (prywatny/publiczny), czy dochodzi do zanieczyszczenia/zaśmiecania? Czy zanieczyszczana jest nieruchomość prywatna/miejsce publiczne? Czy sąsiad  skierował pismo – wezwanie do osoby dokarmiającej ptaki? Czy osobą dokarmiającą jest właściciel nieruchomości czy najemca? Czy sąsiad jest właścicielem nieruchomości czy najemcą?
 
-Jeśli jest to
-teren prywatny (wspólnoty/spółdzielni) – to należałoby ustalić, czy w
-regulaminie porządku domowego wpisany jest zakaz dokarmiania ptaków – jeżeli
-tak, to jakich miejsc zakaz dotyczy.
+Jeśli jest to teren prywatny (wspólnoty/spółdzielni) – to należałoby ustalić, czy w regulaminie porządku domowego wpisany jest zakaz dokarmiania ptaków – jeżeli tak, to jakich miejsc zakaz dotyczy.
