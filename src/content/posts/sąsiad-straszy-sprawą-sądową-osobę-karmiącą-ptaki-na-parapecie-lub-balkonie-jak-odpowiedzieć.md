@@ -1,16 +1,16 @@
 ---
-title: Sąsiad straszy sprawą sądową osobę karmiącą ptaki na parapecie lub
-  balkonie. Jak odpowiedzieć?
+title: "Sąsiad straszy sprawą sądową osobę karmiącą ptaki na parapecie lub
+  balkonie. Jak odpowiedzieć? "
 author: Karolina Mikołajczyk
 pubDate: 04.06.2025
 tag: Prawo
 image: /images/bird-eating-food-from-human-hand.jpg
-description: "Jaką „sprawą sądową” może straszyć sąsiad? "
+description: Jaką „sprawą sądową” może straszyć sąsiad? Odpowiedź poznacie w tym artykule.
 ---
 ## Zanieczyszczenie lokalu sąsiada
 
 \
-Jeżeli osoba karmiąca ptaki jest właścicielem lokalu mieszkalnego a sąsiad jest właścicielem drugiego lokalu mieszkalnego w tym samym budynku i w wyniku dokarmiania dochodzi np. do zanieczyszczenia balkonu, parapetu lub okna sąsiada.
+Jeżeli osoba karmiąca ptaki jest właścicielem lokalu mieszkalnego, a sąsiad jest właścicielem drugiego lokalu mieszkalnego w tym samym budynku i w wyniku dokarmiania dochodzi np. do zanieczyszczenia balkonu, parapetu lub okna sąsiada.
 
 **Możliwe działanie sąsiada: Powództwo o przywrócenie stanu zgodnego z prawem i zaniechanie naruszeń (Immisji) - Sprawa cywilna.**
 
@@ -65,6 +65,7 @@ Jeżeli osoba karmiąca ptaki jest najemcą lokalu a sąsiad jest lokatorem inne
 sąsiada
 
 ##### è  Możliwe działania sąsiada: POWÓDZTWO O ROZWIĄZANIE STOSUNKU PRAWNEGO UPRAWNIAJĄCEGO DO
+
 UŻYWANIA LOKALU I NAKAZANIE JEGO OPRÓŻNIENIA Z POWODU RAŻĄCEGO I UPORCZYWEGO
 NARUSZENIA PORZĄDKU DOMOWEGO, CZYNIĄCEGO KORZYSTANIE Z INNYCH LOKALI W BUDYNKU
 UCIĄŻLIWYM (SPRAWA CYWILNA)
