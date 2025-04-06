@@ -3,26 +3,19 @@ title: Sąsiad straszy sprawą sądową osobę karmiącą ptaki na parapecie lub
   balkonie. Jak odpowiedzieć?
 pubDate: 04.06.2025
 image: /images/bird-eating-food-from-human-hand.jpg
-description: Jaką „sprawą sądową” może straszyć sąsiad? Jak nią odpowiedzieć? W
-  tym artykule przedstawiamy przykładowe sytuacje i możliwe działania w zakresie
-  Polskiego prawa.
+description: Jaką „sprawą sądową” może straszyć sąsiad? W tym artykule
+  przedstawiamy przykładowe sytuacje i możliwe działania w zakresie Polskiego
+  prawa.
 ---
-##### a)   
+##### Sytuacja
 
-Jeżeli osoba karmiąca ptaki jest
-właścicielem lokalu mieszkalnego a sąsiad jest właścicielem drugiego lokalu
-mieszkalnego w tym samym budynku i w wyniku dokarmiania dochodzi np. do
-zanieczyszczenia balkonu/parapetu/okna sąsiada
+Jeżeli osoba karmiąca ptaki jest właścicielem lokalu mieszkalnego a sąsiad jest właścicielem drugiego lokalu
+mieszkalnego w tym samym budynku i w wyniku dokarmiania dochodzi np. do zanieczyszczenia balkonu, parapetu lub okna sąsiada.
 
 ##### →  możliwe
 
 działania sąsiada: POWÓDZTWO O PRZYWRÓCENIE STANU ZGODNEGO Z PRAWEM I
 ZANIECHANIE NARUSZEŃ (IMMISJI) (SPRAWA CYWILNA).
-
-
-
-
-
 
 Zgodnie
 z art. [140 k.c.](#_Art._140_[Uprawnienia)właściciel może korzystać
@@ -36,8 +29,6 @@ stosunków miejscowych. Jeżeli właściciel narusza ten obowiązek, to, zgodnie
 art. [222 § 2 k.c.](#_Art._222_) właścicielowi – sąsiadowi
 przysługuje roszczenie o przywrócenie stanu zgodnego z prawem i o
 zaniechanie naruszeń.
-
-                                         
 
 „przeciętna
 miara, ustalana przy pomocy dwóch kryteriów: 
@@ -118,7 +109,6 @@ argumentem przeciwnym byłoby wykazanie, że:
 \- działania pozwanego sąsiada, będącego właścicielem
 nieruchomości sąsiedniej nie zakłócają korzystania z nieruchomości powoda, bądź
 
-
 \- stopień zakłóceń nie przekracza przeciętnej miary
 wynikającej ze społeczno–gospodarczego przeznaczenia nieruchomości i stosunków
 miejscowych, a także wtedy gdy 
@@ -129,7 +119,6 @@ także wówczas, gdy
 
 \- pozwany nie jest właścicielem nieruchomości, z której
 korzystanie zostało zakłócone, np. jest jedynie najemcą lub, gdy okaże się, że
- 
 
 \- sąsiad nie jest właścicielem nieruchomości sąsiedniej, co
 za tym idzie nie ma legitymacji do tego, żeby być w sprawie powodem. 
@@ -144,18 +133,18 @@ bezskutecznym upływie terminu można skierować sprawę do sądu i tym samym
 uprawdopodobni, że immisje będą się powtarzać w przyszłości.  
 
 ##### *a)*   
+
 Jeżeli osoba karmiąca ptaki jest najemcą
 lokalu a sąsiad jest lokatorem innego lokalu albo właścicielem innego lokalu w
 tym samym budynku i w wyniku dokarmiania dochodzi  do zanieczyszczenia balkonu/parapetu/okna
 sąsiada
 
 ##### è  Możliwe
+
 działania sąsiada: POWÓDZTWO O ROZWIĄZANIE STOSUNKU PRAWNEGO UPRAWNIAJĄCEGO DO
 UŻYWANIA LOKALU I NAKAZANIE JEGO OPRÓŻNIENIA Z POWODU RAŻĄCEGO I UPORCZYWEGO
 NARUSZENIA PORZĄDKU DOMOWEGO, CZYNIĄCEGO KORZYSTANIE Z INNYCH LOKALI W BUDYNKU
 UCIĄŻLIWYM (SPRAWA CYWILNA)
-
- 
 
 Zgodnie
 z [art.13 ustawy o ochronie praw lokatorów ](#_Art._13_[Rozwiązanie)sąsiad
@@ -206,6 +195,7 @@ dotyczące proporcjonalności ingerencji, sądy krajowe powinny zbadać je w spo
 szczegółowy i dokonać stosownego uzasadnienia.”
 
 ##### *b)*   
+
 Jeżeli dokarmianie ptaków powoduje
 zanieczyszczenie położonego pod oknami przy budynku skweru/trawnika/drogi/
 chodnika/ placu zabaw/ innego miejsca publicznego:
@@ -213,8 +203,6 @@ chodnika/ placu zabaw/ innego miejsca publicznego:
 è  *możliwe działania sąsiada: ZŁOŻENIE ZAWIADOMIENIA O PODEJRZENIU
 POPEŁNIENIA WYKROCZENIA ZANIECZYSZCZENIA/ZAŚMIECENIA MIEJSCA PUBLICZNEGO
 (SPRAWA O WYKROCZENIE)*
-
-
 
 Samo
 dokarmianie ptaków (ale też wolno-bytujących kotów, które są zwierzętami
@@ -236,8 +224,6 @@ Wymierzając
 karę za zaśmiecanie/zanieczyszczanie miejsca publicznego, sąd może orzec
 obowiązek przywrócenia zanieczyszczonego/zaśmieconego miejsca do stanu
 poprzedniego. 
-
- 
 
 #### Jak odpowiedzieć sąsiadowi?
 
