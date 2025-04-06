@@ -80,7 +80,6 @@ collections:
       - {label: "zdjęcie główne", name: "image", widget: "image"}
       - {label: "opis", name: "description", widget: "string"}
       - {label: "tekst", name: "body", widget: "markdown"}
-      - {label: "tag", name: "tag", widget: "string"}
 
   - name: "pages" # Used in routes, e.g., /admin/collections/blog
     label: "Podstrony" # Used in the UI
