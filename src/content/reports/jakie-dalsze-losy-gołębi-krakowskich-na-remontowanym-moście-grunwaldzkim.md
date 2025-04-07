@@ -27,12 +27,12 @@ Docelowo planuje się jego rozbiórkę i budowę nowej przeprawy, która połąc
 
 Zarząd Dróg Miasta Krakowa przewiduje, że remont wymusi czasowe wyłączenie mostu z ruchu samochodowego na co najmniej osiem miesięcy. Ponadto, przez około sześć miesięcy będzie wstrzymany również ruch tramwajowy. W tym czasie zostanie wprowadzona tymczasowa organizacja ruchu, której szczegóły są obecnie ustalane.
 
-![Kolce na obecnym moście](/images/received_1379935516757466-1-.jpeg "Kolce na obecnym moście")
+![Liczne kolce na obecnym moście](/images/received_1379935516757466-1-.jpeg "Liczne kolce na obecnym moście")
 
-![](/images/received_582530261472009.jpeg "Dziurawe siatki")
+![Dziurawe siatki zabezpieczające na obecnym moście](/images/received_582530261472009.jpeg "Dziurawe siatki zabazpieczające na obecnym moście")
 
-![](/images/received_703684922096299.jpeg "Dziurawe siatki")
+![](/images/received_703684922096299.jpeg "Dziurawe siatki zabazpieczające na obecnym moście")
 
-![](/images/received_1214132817044372.jpeg "Źle zabezpieczona infrastruktura mostu")
+![Źle zabezpieczona infrastruktura most przed ptakami](/images/received_1214132817044372.jpeg "Źle zabezpieczona infrastruktura mostu przed ptakami")
 
-![](/images/received_1349569972950469.jpeg "Kolce")
+![Liczne kolce na obecnym moście](/images/received_1349569972950469.jpeg "Liczne kolce na obecnym moście")
