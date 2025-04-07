@@ -7,16 +7,16 @@ tag: Prawo
 image: /images/bird-eating-food-from-human-hand.jpg
 description: Jaką „sprawą sądową” może straszyć sąsiad? Odpowiedź poznacie w tym artykule.
 ---
-## Zanieczyszczenie lokalu sąsiada
+## Sąsiad właścicielem lokalu w tym samym budynku
 
 \
-Jeżeli osoba karmiąca ptaki jest właścicielem lokalu mieszkalnego, a sąsiad jest właścicielem drugiego lokalu mieszkalnego w tym samym budynku i w wyniku dokarmiania dochodzi np. do zanieczyszczenia balkonu, parapetu lub okna sąsiada.
+Jeżeli osoba karmiąca ptaki jest właścicielem lokalu mieszkalnego, a sąsiad jest właścicielem drugiego lokalu mieszkalnego w tym samym budynku i w wyniku dokarmiania dochodzi np. do **zanieczyszczenia** balkonu, parapetu lub okna sąsiada.
 
-### **Możliwe działanie sąsiada: Powództwo o przywrócenie stanu zgodnego z prawem i zaniechanie naruszeń (Immisji) - Sprawa cywilna.**
+### **Możliwe działanie sąsiada: Powództwo o przywrócenie stanu zgodnego** \
+**z prawem i zaniechanie naruszeń (Immisji) - Sprawa cywilna.**
 
 Zgodnie z art. [140 k.c. ](#_Art._140_[Uprawnienia)właściciel może korzystać z rzeczy zgodnie ze społeczno-gospodarczym przeznaczeniem swego prawa w granicach określonych przez ustawy i zasady współżycia społecznego.
-Zgodnie z art. [144 k.c.](#_Art._144_[Immisje]) właściciel nieruchomości powinien przy wykonywaniu swego prawapowstrzymywać się od działań, które by **zakłócały** korzystanie z nieruchomości sąsiednich **ponad przeciętną miarę,** wynikającą ze społeczno-gospodarczego przeznaczenia nieruchomości i stosunków miejscowych. \
-Jeżeli właściciel narusza ten obowiązek, to, zgodnie z art. [222 § 2 k.c.](#_Art._222_) właścicielowi – sąsiadowi przysługuje roszczenie o **przywrócenie stanu zgodnego z prawem** i zaniechanie naruszeń.
+Zgodnie z art. [144 k.c.](#_Art._144_[Immisje]) właściciel nieruchomości powinien przy wykonywaniu swego prawapowstrzymywać się od działań, które by **zakłócały** korzystanie z nieruchomości sąsiednich **ponad przeciętną miarę,** wynikającą ze społeczno-gospodarczego przeznaczenia nieruchomości i stosunków miejscowych. Jeżeli właściciel narusza ten obowiązek, to, zgodnie z art. [222 § 2 k.c.](#_Art._222_) właścicielowi – sąsiadowi przysługuje roszczenie o **przywrócenie stanu zgodnego z prawem** i zaniechanie naruszeń.
 
 Przeciętna miara jest ustalana przy pomocy dwóch kryteriów: 
 
@@ -33,11 +33,13 @@ Oceniając przeciętną miarę immisji, należy uwzględnić zwłaszcza:
 * Częstotliwość trwania zakłóceń, 
 * Intensywność ich trwania,
 * Skutki, 
-* Pozytywną społeczną wartość działalności wytwarzającej immisje (np. pszczelarstwo). 
+* Pozytywną społeczną wartość działalności wytwarzającej immisje (np. pszczelarstwo), 
 
-Społeczno-gospodarcze przeznaczenie nieruchomości jako miernik przeciętnej miary zakłóceń należy ustalać, oceniając charakter zarówno nieruchomości wyjściowej, jak i nieruchomości objętych immisjami. **Granice immisji** może bowiem wyznaczać **cel, któremu dane nieruchomości służą**, np. działalność rolnicza, przemysłowa, charakter mieszkalny, religijny itp. **Stosowany miernik ma charakter obiektywny**, dlatego indywidualny sposób zagospodarowania nieruchomości **nie ma doniosłości prawnej, jeżeli jest niezgodny** **z obiektywną oceną jej przeznaczenia** (np. zabudowanie nieruchomości rolnej bez wcześniejszej zmiany jej klasyfikacji). Z kolei "stosunki miejscowe" oznaczają utrwalony sposób użytkowania nieruchomości w danej okolicy.
+Społeczno-gospodarcze przeznaczenie nieruchomości jako miernik przeciętnej miary zakłóceń należy ustalać, oceniając charakter zarówno nieruchomości wyjściowej, jak i nieruchomości objętych immisjami. Granice immisji może bowiem wyznaczać cel, któremu dane nieruchomości służą, np. działalność rolnicza, przemysłowa, charakter mieszkalny, religijny itp. Stosowany miernik ma charakter obiektywny, dlatego **indywidualny sposób zagospodarowania nieruchomości nie ma doniosłości prawnej, jeżeli jest niezgodny z obiektywną oceną jej przeznaczenia** (np. zabudowanie nieruchomości rolnej bez wcześniejszej zmiany jej klasyfikacji). Z kolei "stosunki miejscowe" oznaczają utrwalony sposób użytkowania nieruchomości w danej okolicy.
 
-Sąsiad może w pozwie twierdzić, że jakkolwiek Konstytucja RP zapewnia ochronę własności, prawo to nie jest absolutne a **korzystanie z tej własności** powinno być zgodne z jej społeczno-gospodarczym przeznaczeniem ([art. 140 k.c.](#_Art._140_[Uprawnienia)) i **nie może to powodować uciążliwości dla sąsiednich nieruchomości**. Bycie właścicielem nieruchomości nie upoważnia do korzystania ze swojej własności w sposób całkowicie dowolny i nieograniczony. Wolność korzystania z własności napotyka na pewne ograniczenia w miejscu, gdzie zaczyna się wolność i własność drugiej osoby. Do takich ograniczeń należą zasady współżycia społecznego oraz tzw. przeciętna miara o której mowa w art. [144 k.c](#_Art._144_[Immisje]). Sąsiad może twierdzić, że dokarmianie ptaków na balkonie/z parapetu sąsiadującego mieszkania przekracza taką przeciętną miarę poprzez oddziaływanie niekorzystne/zakłócające spokojne korzystanie z jego nieruchomości i powoduje tzw. **immisje** polegające na uciążliwych zapachach, zanieczyszczeniu okien, parapetu, balkonu należącego do jego nieruchomości – o ile takie uciążliwości mają miejsce. 
+Sąsiad może w pozwie twierdzić, że jakkolwiek Konstytucja RP zapewnia ochronę własności, prawo to nie jest absolutne a **korzystanie z tej własności** powinno być zgodne z jej społeczno-gospodarczym przeznaczeniem \
+([art. 140 k.c.](#_Art._140_[Uprawnienia)) i **nie może to powodować uciążliwości** dla sąsiednich nieruchomości. Bycie właścicielem nieruchomości nie upoważnia do korzystania ze swojej własności w sposób całkowicie dowolny \
+i nieograniczony. Wolność korzystania z własności napotyka na pewne ograniczenia w miejscu, gdzie zaczyna się wolność i własność drugiej osoby. Do takich ograniczeń należą zasady współżycia społecznego oraz tzw. przeciętna miara o której mowa w art. [144 k.c](#_Art._144_[Immisje]). Sąsiad może twierdzić, że dokarmianie ptaków na balkonie/z parapetu sąsiadującego mieszkania przekracza taką przeciętną miarę poprzez oddziaływanie niekorzystne/zakłócające spokojne korzystanie z jego nieruchomości i powoduje tzw. **immisje** polegające na uciążliwych zapachach, zanieczyszczeniu okien, parapetu, balkonu należącego do jego nieruchomości – o ile takie uciążliwości mają miejsce. 
 
 Sąsiad może dochodzić ochrony przed immisjami tego typu w trybie [art. 23](#_Art._23_[Ochrona) i [24k.c. ](#_Art._24_[Środki)czyli w trybie ochrony dóbr osobistych w zw. z [art.222 k.c.](#_Art._222_) i  [art. 144 k.c.](#_Art._144_[Immisje]) Jeśli zaś immisja doprowadza do szkody, podstaw do jej naprawienia poszukiwać należy w [art. 415 k.c.](#_Art._415_[Odpowiedzialność)i nast., przy czym osobą odpowiedzialną za szkodę nie może być uznana osoba, która z jakichkolwiek powodów znajduje się w stanie wyłączającym świadome albo swobodne powzięcie decyzji \
 i wyrażenie woli ([art. 425 k.c.](#_Art._425_[Niepoczytalność])). Zakres obowiązku naprawienia szkody w takiej sytuacji (w stosunkach między osobami fizycznymi) może być stosownie do okoliczności ograniczony, jeżeli ze względu na stan majątkowy poszkodowanego lub osoby odpowiedzialnej za szkodę wymagają takiego ograniczenia zasady współżycia społecznego ([art. 440 k.c.)](#_Art._440_[Miarkowanie)
@@ -61,7 +63,7 @@ W przypadku wytoczenia powództwa przez sąsiada skutecznym argumentem przeciwny
 
 To na  powodzie zawsze ciąży obowiązek wykazania, że naruszenie własności przez sąsiada (właściciela nieruchomości sąsiedniej) miało charakter trwały oraz istnieje prawdopodobieństwo powtarzania się go w przyszłości. Dlatego, zanim sąsiad wystąpi się na drogę sądową, powinien zawsze wcześniej na piśmie zażądać podjęcia określonych czynności przez właściciela nieruchomości, która jest źródłem immisji. Dopiero po bezskutecznym upływie terminu można skierować sprawę do sądu i tym samym uprawdopodobni, że immisje będą się powtarzać w przyszłości.  
 
-##### *a)*   
+##### *Sąsiad lokatorem lub właścicielem innego lokalu*
 
 Jeżeli osoba karmiąca ptaki jest najemcą lokalu a sąsiad jest lokatorem innego lokalu albo właścicielem innego lokalu w tym samym budynku i w wyniku dokarmiania dochodzi  do zanieczyszczenia balkonu/parapetu/okna
 sąsiada
