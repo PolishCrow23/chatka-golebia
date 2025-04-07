@@ -1,5 +1,5 @@
 ---
-title: Jakie dalsze losy gołębi krakowskich na remontowanym moście Grunwaldzkim
+title: Jakie dalsze losy krakowskich gołębi na remontowanym moście Grunwaldzkim
 pubDate: 04.07.2025
 author: Anna Spodzieja
 image: /images/received_1690782001544646.jpeg
@@ -21,20 +21,21 @@ ptaków. 
 
 Czekając na odpowiedź Prezydenta Miasta Krakowa już proponujemy możliwość zrobienia po remoncie chociażby półek spoczynkowych dla gołębi. Z pewnością racjonalnych pomysłów pojawi się więcej.
 
-![](/images/received_1349569972950469-1-.jpeg)
 
-![](/images/received_1379935516757466-1-.jpeg "Żle zabezpieczona aktualna infrastruktura mostu")
 
-![](/images/received_582530261472009.jpeg "Dziurawe siatki na obecnym moście")
-
-![](/images/received_703684922096299.jpeg)
-
-![](/images/received_1214132817044372.jpeg)
-
-![](/images/received_1349569972950469.jpeg)
 
 Tymczasem gruntowny remont mostu ma się rozpocząć planowo 10 maja i będzie jedną z większych inwestycji drogowych w tym roku. Ekspertyza Politechniki Krakowskiej wskazuje, że aby zapewnić jego bezpieczne użytkowanie przynajmniej do roku 2038, niezbędne jest przeprowadzenie generalnych prac modernizacyjnych, nie później niż do sierpnia przyszłego roku.
 
 Docelowo planuje się jego rozbiórkę i budowę nowej przeprawy, która połączy Stare Miasto i Dębniki. Aby jednak obecna konstrukcja mogła posłużyć mieszkańcom jeszcze przez kilkanaście lat, konieczne jest przeprowadzenie pilnych prac remontowych.
 
 Zarząd Dróg Miasta Krakowa przewiduje, że remont wymusi czasowe wyłączenie mostu z ruchu samochodowego na co najmniej osiem miesięcy. Ponadto, przez około sześć miesięcy będzie wstrzymany również ruch tramwajowy. W tym czasie zostanie wprowadzona tymczasowa organizacja ruchu, której szczegóły są obecnie ustalane.
+
+![](/images/received_1379935516757466-1-.jpeg "Kolce na obecnym moście")
+
+![](/images/received_582530261472009.jpeg "Dziurawe siatki")
+
+![](/images/received_703684922096299.jpeg "Dziurawe siatki")
+
+![](/images/received_1214132817044372.jpeg "Źle zabezpieczona infrastruktura mostu")
+
+![](/images/received_1349569972950469.jpeg "Kolce")
