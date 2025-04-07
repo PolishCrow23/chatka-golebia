@@ -21,16 +21,13 @@ ptaków. 
 
 Czekając na odpowiedź Prezydenta Miasta Krakowa już proponujemy możliwość zrobienia po remoncie chociażby półek spoczynkowych dla gołębi. Z pewnością racjonalnych pomysłów pojawi się więcej.
 
-
-
-
 Tymczasem gruntowny remont mostu ma się rozpocząć planowo 10 maja i będzie jedną z większych inwestycji drogowych w tym roku. Ekspertyza Politechniki Krakowskiej wskazuje, że aby zapewnić jego bezpieczne użytkowanie przynajmniej do roku 2038, niezbędne jest przeprowadzenie generalnych prac modernizacyjnych, nie później niż do sierpnia przyszłego roku.
 
 Docelowo planuje się jego rozbiórkę i budowę nowej przeprawy, która połączy Stare Miasto i Dębniki. Aby jednak obecna konstrukcja mogła posłużyć mieszkańcom jeszcze przez kilkanaście lat, konieczne jest przeprowadzenie pilnych prac remontowych.
 
 Zarząd Dróg Miasta Krakowa przewiduje, że remont wymusi czasowe wyłączenie mostu z ruchu samochodowego na co najmniej osiem miesięcy. Ponadto, przez około sześć miesięcy będzie wstrzymany również ruch tramwajowy. W tym czasie zostanie wprowadzona tymczasowa organizacja ruchu, której szczegóły są obecnie ustalane.
 
-![](/images/received_1379935516757466-1-.jpeg "Kolce na obecnym moście")
+![Kolce na obecnym moście](/images/received_1379935516757466-1-.jpeg "Kolce na obecnym moście")
 
 ![](/images/received_582530261472009.jpeg "Dziurawe siatki")
 
