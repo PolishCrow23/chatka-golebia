@@ -2,7 +2,7 @@
 title: "Sąsiad straszy sprawą sądową osobę karmiącą ptaki na parapecie lub
   balkonie. Jak odpowiedzieć? "
 author: Karolina Mikołajczyk
-pubDate: 04.07.2025
+pubDate: 04.09.2025
 tag: Prawo
 image: /images/bird-eating-food-from-human-hand.jpg
 description: Jaką „sprawą sądową” może straszyć sąsiad? Odpowiedź poznacie w tym artykule.
