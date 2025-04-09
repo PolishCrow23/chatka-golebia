@@ -13,11 +13,10 @@ description: Jaką „sprawą sądową” może straszyć sąsiad? Odpowiedź po
 Jeżeli osoba karmiąca ptaki jest właścicielem lokalu mieszkalnego, a sąsiad jest właścicielem drugiego lokalu mieszkalnego w tym samym budynku i w wyniku dokarmiania dochodzi np. do **zanieczyszczenia** balkonu, parapetu lub okna sąsiada.
 
 ### **Możliwe działanie sąsiada: Powództwo o przywrócenie stanu zgodnego** \
-
 **z prawem i zaniechanie naruszeń (Immisji) - Sprawa cywilna.**
 
 Zgodnie z art. [140 k.c. ](#_Art._140_[Uprawnienia)właściciel może korzystać z rzeczy zgodnie ze społeczno-gospodarczym przeznaczeniem swego prawa w granicach określonych przez ustawy i zasady współżycia społecznego.
-Zgodnie z art. [144 k.c.](#_Art._144_[Immisje]) właściciel nieruchomości powinien przy wykonywaniu swego prawapowstrzymywać się od działań, które by **zakłócały** korzystanie z nieruchomości sąsiednich **ponad przeciętną miarę,** wynikającą ze społeczno-gospodarczego przeznaczenia nieruchomości i stosunków miejscowych. Jeżeli właściciel narusza ten obowiązek, to, zgodnie z art. [222 § 2 k.c.](#_Art._222_) właścicielowi – sąsiadowi przysługuje roszczenie o **przywrócenie stanu zgodnego z prawem** i zaniechanie naruszeń.
+Zgodnie z art. [144 k.c.](#_Art._144_[Immisje]) właściciel nieruchomości powinien przy wykonywaniu swego prawa powstrzymywać się od działań, które by **zakłócały** korzystanie z nieruchomości sąsiednich **ponad przeciętną miarę,** wynikającą ze społeczno-gospodarczego przeznaczenia nieruchomości i stosunków miejscowych. Jeżeli właściciel narusza ten obowiązek, to, zgodnie z art. [222 § 2 k.c.](#_Art._222_) właścicielowi – sąsiadowi przysługuje roszczenie o **przywrócenie stanu zgodnego z prawem** i zaniechanie naruszeń.
 
 Przeciętna miara jest ustalana przy pomocy dwóch kryteriów: 
 
@@ -41,13 +40,11 @@ Społeczno-gospodarcze przeznaczenie nieruchomości jako miernik przeciętnej mi
 Sąsiad może w pozwie twierdzić, że jakkolwiek Konstytucja RP zapewnia ochronę własności, prawo to nie jest absolutne a korzystanie z tej własności powinno być zgodne z jej społeczno-gospodarczym przeznaczeniem \
 ([art. 140 k.c.](#_Art._140_[Uprawnienia)) i nie może powodować uciążliwości dla sąsiednich nieruchomości. Bycie właścicielem nieruchomości nie upoważnia do korzystania ze swojej własności w sposób całkowicie dowolny i nieograniczony. 
 
-Wolność korzystania z własności napotyka na pewne **ograniczenia** w miejscu, gdzie zaczyna się wolność \
+Wolność korzystania z własności napotyka na pewne ograniczenia w miejscu, gdzie zaczyna się wolność \
 i własność drugiej osoby. Do takich ograniczeń należą **zasady współżycia społecznego** oraz tzw. **przeciętna miara** o której mowa w art. [144 k.c](#_Art._144_[Immisje]).  Sąsiad może twierdzić, że dokarmianie ptaków na balkonie lub z parapetu sąsiadującego mieszkania przekracza taką przeciętną miarę poprzez **oddziaływanie niekorzystne** lub zakłócające spokojne korzystanie z jego nieruchomości. Powoduje to tzw. **immisje** polegające na uciążliwych zapachach, zanieczyszczeniu okien, parapetu, balkonu należącego do jego nieruchomości – o ile takie uciążliwości mają miejsce. Sąsiad może dochodzić ochrony przed immisjami tego typu w trybie [art. 23 k.c](#_Art._23_[Ochrona) i [24 k.c., ](#_Art._24_[Środki)czyli w trybie ochrony dóbr osobistych w związku z [art.222 k.c.](#_Art._222_) i [art. 144 k.c.](#_Art._144_[Immisje]) 
 
 Jeśli zaś immisja doprowadza do szkody, podstaw do jej naprawienia poszukiwać należy w [art. 415 k.c. ](#_Art._415_[Odpowiedzialność)i nast., przy czym osobą odpowiedzialną za szkodę nie może być uznana osoba, która z jakichkolwiek powodów znajduje się \
 w stanie wyłączającym świadome albo swobodne powzięcie decyzji i wyrażenie woli ([art. 425 k.c.](#_Art._425_[Niepoczytalność])). Zakres obowiązku naprawienia szkody w takiej sytuacji (w stosunkach między osobami fizycznymi) może być stosownie do okoliczności ograniczony, jeżeli ze względu na stan majątkowy poszkodowanego lub osoby odpowiedzialnej za szkodę wymagają takiego ograniczenia zasady współżycia społecznego ([art. 440 k.c.)](#_Art._440_[Miarkowanie)
-
-Zanim jednak sąsiad wystąpi na drogę sądową, powinien wcześniej na piśmie zażądać podjęcia określonych czynności przez właściciela nieruchomości, które są źródłem immisji. Dopiero po bezskutecznym upływie terminu można skierować sprawę do sądu.
 
 W przypadku wytoczenia powództwa przez sąsiada skutecznym argumentem przeciwnym byłoby wykazanie, że:
 
@@ -55,23 +52,20 @@ W przypadku wytoczenia powództwa przez sąsiada skutecznym argumentem przeciwny
   z nieruchomości powoda,
 * Stopień zakłóceń nie przekracza przeciętnej miary wynikającej ze społeczno–gospodarczego przeznaczenia nieruchomości i stosunków miejscowych, 
 * Powód wyraził zgodę na występujące zakłócenia w korzystaniu z nieruchomości, wobec czego istniejący stan jest zgodny z prawem,
-* Pozwany nie jest właścicielem nieruchomości, z której
-  korzystanie zostało zakłócone, np. jest jedynie najemcą lub, gdy okaże się, że
+* Pozwany nie jest właścicielem nieruchomości, z której korzystanie zostało zakłócone, np. jest jedynie najemcą,
 * Sąsiad nie jest właścicielem nieruchomości sąsiedniej, co za tym idzie nie ma legitymacji do tego, żeby być \
   w sprawie powodem. 
 
-To na  powodzie zawsze ciąży obowiązek wykazania, że naruszenie własności przez sąsiada (właściciela nieruchomości sąsiedniej) miało charakter trwały oraz istnieje prawdopodobieństwo powtarzania się go w przyszłości. Dlatego, zanim sąsiad wystąpi się na drogę sądową, powinien zawsze wcześniej na piśmie zażądać podjęcia określonych czynności przez właściciela nieruchomości, która jest źródłem immisji. Dopiero po bezskutecznym upływie terminu można skierować sprawę do sądu i tym samym uprawdopodobni, że immisje będą się powtarzać w przyszłości.  
+To **na powodzie** zawsze ciąży obowiązek wykazania, że naruszenie własności przez sąsiada (właściciela nieruchomości sąsiedniej) miało charakter trwały oraz istnieje prawdopodobieństwo powtarzania się go \
+w przyszłości. Dlatego, zanim sąsiad wystąpi się na drogę sądową, powinien zawsze wcześniej **na piśmie** zażądać podjęcia określonych czynności przez właściciela nieruchomości, która jest źródłem immisji. Dopiero po **bezskutecznym** **upływie terminu** można skierować sprawę do sądu i tym samym uprawdopodobni, że immisje będą się powtarzać w przyszłości.  
 
-##### *Sąsiad lokatorem lub właścicielem innego lokalu*
+## Sąsiad lokatorem lub właścicielem innego lokalu
 
-Jeżeli osoba karmiąca ptaki jest najemcą lokalu a sąsiad jest lokatorem innego lokalu albo właścicielem innego lokalu w tym samym budynku i w wyniku dokarmiania dochodzi  do zanieczyszczenia balkonu/parapetu/okna
-sąsiada
+Jeżeli osoba karmiąca ptaki jest najemcą lokalu a sąsiad jest lokatorem innego lokalu albo właścicielem innego lokalu w tym samym budynku i w wyniku dokarmiania dochodzi do zanieczyszczenia balkonu, parapetu lub okna
+sąsiada.
 
-##### Możliwe działania sąsiada: POWÓDZTWO O ROZWIĄZANIE STOSUNKU PRAWNEGO UPRAWNIAJĄCEGO DO
-
-UŻYWANIA LOKALU I NAKAZANIE JEGO OPRÓŻNIENIA Z POWODU RAŻĄCEGO I UPORCZYWEGO
-NARUSZENIA PORZĄDKU DOMOWEGO, CZYNIĄCEGO KORZYSTANIE Z INNYCH LOKALI W BUDYNKU
-UCIĄŻLIWYM (SPRAWA CYWILNA)
+### Możliwe działania sąsiada: POWÓDZTWO O ROZWIĄZANIE STOSUNKU PRAWNEGO UPRAWNIAJĄCEGO DO UŻYWANIA LOKALU I NAKAZANIE JEGO OPRÓŻNIENIA Z POWODU RAŻĄCEGO I UPORCZYWEGO
+NARUSZENIA PORZĄDKU DOMOWEGO, CZYNIĄCEGO KORZYSTANIE Z INNYCH LOKALI W BUDYNKU UCIĄŻLIWYM (SPRAWA CYWILNA)
 
 Zgodnie z [art.13 ustawy o ochronie praw lokatorów ](#_Art._13_[Rozwiązanie)sąsiad może wytoczyć powództwo o rozwiązanie przez sąd umowy najmu i nakazanie opróżnienia lokalu, jeżeli dana osoba wykracza w sposób rażący lub uporczywy przeciwko porządkowi domowemu, czyniąc uciążliwym korzystanie z innych lokali w budynku.
 
