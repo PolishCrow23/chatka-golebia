@@ -42,21 +42,17 @@ Sąsiad może w pozwie twierdzić, że jakkolwiek Konstytucja RP zapewnia ochron
 ([art. 140 k.c.](#_Art._140_[Uprawnienia)) i nie może powodować uciążliwości dla sąsiednich nieruchomości. Bycie właścicielem nieruchomości nie upoważnia do korzystania ze swojej własności w sposób całkowicie dowolny i nieograniczony. 
 
 Wolność korzystania z własności napotyka na pewne **ograniczenia** w miejscu, gdzie zaczyna się wolność \
-i własność drugiej osoby. Do takich ograniczeń należą **zasady współżycia społecznego** oraz tzw. **przeciętna miara** o której mowa w art. [144 k.c](#_Art._144_[Immisje]).  \
-Sąsiad może twierdzić, że dokarmianie ptaków na balkonie lub z parapetu sąsiadującego mieszkania przekracza taką przeciętną miarę poprzez **oddziaływanie niekorzystne** lub zakłócające spokojne korzystanie z jego nieruchomości. Powoduje to tzw. **immisje** polegające na uciążliwych zapachach, zanieczyszczeniu okien, parapetu, balkonu należącego do jego nieruchomości – o ile takie uciążliwości mają miejsce. Sąsiad może dochodzić ochrony przed immisjami tego typu w trybie [art. 23 k.c](#_Art._23_[Ochrona) i [24 k.c., ](#_Art._24_[Środki)czyli w trybie ochrony dóbr osobistych w związku \
-z [art.222 k.c.](#_Art._222_) i [art. 144 k.c.](#_Art._144_[Immisje]) 
+i własność drugiej osoby. Do takich ograniczeń należą **zasady współżycia społecznego** oraz tzw. **przeciętna miara** o której mowa w art. [144 k.c](#_Art._144_[Immisje]).  Sąsiad może twierdzić, że dokarmianie ptaków na balkonie lub z parapetu sąsiadującego mieszkania przekracza taką przeciętną miarę poprzez **oddziaływanie niekorzystne** lub zakłócające spokojne korzystanie z jego nieruchomości. Powoduje to tzw. **immisje** polegające na uciążliwych zapachach, zanieczyszczeniu okien, parapetu, balkonu należącego do jego nieruchomości – o ile takie uciążliwości mają miejsce. Sąsiad może dochodzić ochrony przed immisjami tego typu w trybie [art. 23 k.c](#_Art._23_[Ochrona) i [24 k.c., ](#_Art._24_[Środki)czyli w trybie ochrony dóbr osobistych w związku z [art.222 k.c.](#_Art._222_) i [art. 144 k.c.](#_Art._144_[Immisje]) 
 
-Jeśli zaś immisja doprowadza do szkody, podstaw do jej naprawienia poszukiwać należy w [art. 415 k.c. ](#_Art._415_[Odpowiedzialność)i nast., przy czym osobą odpowiedzialną za szkodę nie może być uznana osoba, która z jakichkolwiek powodów znajduje się w stanie wyłączającym świadome albo swobodne powzięcie decyzji i wyrażenie woli ([art. 425 k.c.](#_Art._425_[Niepoczytalność])). Zakres obowiązku naprawienia szkody w takiej sytuacji (w stosunkach między osobami fizycznymi) może być stosownie do okoliczności **ograniczony**, jeżeli ze względu na stan majątkowy poszkodowanego lub osoby odpowiedzialnej za szkodę wymagają takiego ograniczenia zasady współżycia społecznego ([art. 440 k.c.)](#_Art._440_[Miarkowanie)
+Jeśli zaś immisja doprowadza do szkody, podstaw do jej naprawienia poszukiwać należy w [art. 415 k.c. ](#_Art._415_[Odpowiedzialność)i nast., przy czym osobą odpowiedzialną za szkodę nie może być uznana osoba, która z jakichkolwiek powodów znajduje się w stanie wyłączającym świadome albo swobodne powzięcie decyzji i wyrażenie woli ([art. 425 k.c.](#_Art._425_[Niepoczytalność])). Zakres obowiązku naprawienia szkody w takiej sytuacji (w stosunkach między osobami fizycznymi) może być stosownie do okoliczności ograniczony, jeżeli ze względu na stan majątkowy poszkodowanego lub osoby odpowiedzialnej za szkodę wymagają takiego ograniczenia zasady współżycia społecznego ([art. 440 k.c.)](#_Art._440_[Miarkowanie)
 
 Zanim jednak sąsiad wystąpi na drogę sądową, powinien wcześniej na piśmie zażądać podjęcia określonych czynności przez właściciela nieruchomości, które są źródłem immisji. Dopiero po bezskutecznym upływie terminu można skierować sprawę do sądu.
 
 W przypadku wytoczenia powództwa przez sąsiada skutecznym argumentem przeciwnym byłoby wykazanie, że:
 
-* Działania pozwanego sąsiada, będącego właścicielem
-  nieruchomości sąsiedniej nie zakłócają korzystania z nieruchomości powoda, bądź
-* Stopień zakłóceń nie przekracza przeciętnej miary
-  wynikającej ze społeczno–gospodarczego przeznaczenia nieruchomości i stosunków
-  miejscowych, a także wtedy gdy 
+* Działania pozwanego sąsiada, będącego właścicielem nieruchomości sąsiedniej nie zakłócają korzystania \
+  z nieruchomości powoda,
+* Stopień zakłóceń nie przekracza przeciętnej miary wynikającej ze społeczno–gospodarczego przeznaczenia nieruchomości i stosunków miejscowych, 
 * Powód wyraził zgodę na występujące zakłócenia w
   korzystaniu z nieruchomości, wobec czego istniejący stan jest zgodny z prawem a
   także wówczas, gdy 
@@ -111,11 +107,9 @@ Wymierzając karę za zaśmiecanie/zanieczyszczanie miejsca publicznego, sąd mo
 
 Żeby odpowiedzieć jednoznacznie na to pytanie, należałoby ustalić, jakimi dokładnie działaniami sądowymi grozi sąsiad.  
 
-Grożenie innej osobie **spowodowania postępowania karnego** lub postępowania, w którym **może zostać nałożona administracyjna** **kara pieniężna** jest, zgodnie z k.k., tzw. **groźbą bezprawną** ([art. 115 § 12 k.k.](#_Art._115_[Groźba)). Jest to z reguły jedno ze znamion, których zaistnienie jest konieczne do uznania, że doszło do innego czynu zabronionego. 
+Grożenie innej osobie spowodowania **postępowania karnego** lub postępowania, w którymmoże zostać nałożona administracyjna **kara pieniężna** jest, zgodnie z k.k., tzw. **groźbą bezprawną** ([art. 115 § 12 k.k.](#_Art._115_[Groźba)). Jest to z reguły jedno ze znamion, których zaistnienie jest konieczne do uznania, że doszło do innego czynu zabronionego. 
 
-Grożenie innej osobie **spowodowania postępowania cywilnego** lub postępowania **w sprawie o wykroczenie nie jest groźbą bezprawną.** O groźbie bezprawnej mówimy tylko wtedy, gdy używająca jej osoba grozi spowodowaniem postępowania karnego lub postępowania, w którym może być nałożona kara administracyjna. 
-
-Sama groźba bezprawna może być uznana za czyn zabroniony tylko wówczas, gdy zaistniał skutek w postaci podjęcia przez inną osobę określonego działania, zaniechania lub znoszenia ([art. 191 § 1 k.k.](#_Art._191_[Zmuszenie]) Wówczas mamy do czynienia z przestępstwem „zmuszenia”, które jest zagrożone karą pozbawienia wolności do lat 3. Ściganie przestępstwa następuje na wniosek pokrzywdzonego.  
+Grożenie innej osobie spowodowania **postępowania cywilnego** lub postępowania w sprawie owykroczenie **nie jest groźbą bezprawną.** O groźbie bezprawnej mówimy tylko wtedy, gdy używająca jej osoba grozi spowodowaniem postępowania karnego lub postępowania, w którym może być nałożona kara administracyjna. Sama groźba bezprawna może być uznana za czyn zabroniony tylko wówczas, gdy zaistniał skutek w postaci podjęcia przez inną osobę określonego działania, zaniechania lub znoszenia ([art. 191 § 1 k.k.](#_Art._191_[Zmuszenie]) Wówczas mamy do czynienia z przestępstwem „zmuszenia”, które jest zagrożone karą pozbawienia wolności do lat 3. Ściganie przestępstwa następuje na wniosek pokrzywdzonego.  
 
 Jeżeli groźby czy zapowiedzi ze strony sąsiada podjęcia działań przeciwko osobie dokarmiającej gołębie są uporczywe, tj. powtarzają się, i wywołują w osobie dokarmiającej gołębie uzasadnione okolicznościami poczucie zagrożenia, poniżenia lub udręczenia lub istotnie naruszają jej prywatność, wówczas takie działanie może być uznane jako wypełniające znamiona przestępstwa nękania podlegającego karze pozbawienia wolności od 6 miesięcy do lat 8 ([art. 190a § 1 k.k.](#_Art._190a_[Uporczywe)). Ściganie przestępstwa następuje na wniosek pokrzywdzonego.  
 
