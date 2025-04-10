@@ -61,7 +61,7 @@ w przyszłości. Dlatego, zanim sąsiad wystąpi się na drogę sądową, powini
 Jeżeli osoba karmiąca ptaki jest najemcą lokalu a sąsiad jest lokatorem innego lokalu albo właścicielem innego lokalu w tym samym budynku i w wyniku dokarmiania dochodzi do zanieczyszczenia balkonu, parapetu lub okna
 sąsiada.
 
-### Możliwe działania sąsiada: Powództwo o rozwiązanie stosunku prawnego uprawniającego do używania lokalu i nakazanie jego opróżnienia z powodu rażącego i uporczywego STOSUNKU PRAWNEGO UPRAWNIAJĄCEGO DO UŻYWANIA LOKALU I NAKAZANIE JEGO OPRÓŻNIENIA Z POWODU RAŻĄCEGO I UPORCZYWEGONARUSZENIA PORZĄDKU DOMOWEGO, CZYNIĄCEGO KORZYSTANIE Z INNYCH LOKALI W BUDYNKU UCIĄŻLIWYM (SPRAWA CYWILNA)
+### Możliwe działania sąsiada: Powództwo o rozwiązanie stosunku prawnego uprawniającego do używania lokalu i nakazanie jego opróżnienia z powodu rażącego i uporczywego naruszenia porządku domowego, czyniącego korzystanie z innych lokali w budynku uciążliwym - Sprawa cywilna.
 
 Zgodnie z [art.13 ustawy o ochronie praw lokatorów ](#_Art._13_[Rozwiązanie)sąsiad może wytoczyć powództwo o rozwiązanie przez sąd umowy najmu i nakazanie opróżnienia lokalu, jeżeli dana osoba wykracza w sposób rażący lub uporczywy przeciwko porządkowi domowemu, czyniąc uciążliwym korzystanie z innych lokali w budynku.
 
