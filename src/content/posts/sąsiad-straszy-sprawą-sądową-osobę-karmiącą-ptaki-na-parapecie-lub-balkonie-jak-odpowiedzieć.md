@@ -61,7 +61,7 @@ w przyszłości. Dlatego, zanim sąsiad wystąpi się na drogę sądową, powini
 Jeżeli osoba karmiąca ptaki jest najemcą lokalu a sąsiad jest lokatorem innego lokalu albo właścicielem innego lokalu w tym samym budynku i w wyniku dokarmiania dochodzi do zanieczyszczenia balkonu, parapetu lub okna
 sąsiada.
 
-### Możliwe działania sąsiada: Powództwo o rozwiązanie stosunku prawnego uprawniającego do używania lokalu i nakazanie jego opróżnienia z powodu rażącego i uporczywego naruszenia porządku domowego, czyniącego korzystanie z innych lokali w budynku uciążliwym - Sprawa cywilna.
+### Możliwe działania sąsiada: Powództwo o rozwiązanie stosunku prawnego uprawniającego do używania lokalu i nakazanie jego opróżnienia z powodu rażącego i uporczywego naruszenia porządku domowego, czyniącego korzystanie z innych lokali w budynku uciążliwym - Sprawa cywilna. ###
 
 Zgodnie z [art.13 ustawy o ochronie praw lokatorów ](#_Art._13_[Rozwiązanie)sąsiad może wytoczyć powództwo o rozwiązanie przez sąd umowy najmu i nakazanie opróżnienia lokalu, jeżeli dana osoba wykracza w sposób rażący lub uporczywy przeciwko porządkowi domowemu, czyniąc uciążliwym korzystanie z innych lokali w budynku.
 
@@ -83,8 +83,7 @@ Zgodnie z wyrokiem Europejskiego Trybunału Praw Człowieka z dnia 28 kwietnia 2
 
 Samo **dokarmianie** ptaków (ale też wolno-bytujących kotów, które są zwierzętami towarzyszącymi) **nie jest** wykroczeniem, ale **zanieczyszczenie** lub **zaśmiecanie** przestrzeni publicznej karmą czy resztkami jedzenia już takim **wykroczeniem jest**.
 
-### Możliwe działania sąsiada: Złożenie zawiadomienia o podejrzeniu popełnienia wykroczenia zanieczyszczenia, zaśmiecenia miejsca publicznego - Sprawa \
-o wykroczenie.
+### Możliwe działania sąsiada: Złożenie zawiadomienia o podejrzeniu popełnienia wykroczenia zanieczyszczenia, zaśmiecenia miejsca publicznego - Sprawa o wykroczenie. ###
 
 Jeżeli więc dokarmianie ptaków powoduje zanieczyszczenie, zaśmiecenie położonego pod oknami lub balkonem skweru, trawnika, drogi, chodnika, placu zabaw lub innego miejsca publicznego sąsiad może złożyć na policji zawiadomienie o podejrzeniu popełnienia wykroczenia stypizowanego w [art. 145 k.w](#_Art._145_[Zanieczyszczanie)., który przewiduje za to
 wykroczenie karę grzywny **min. 500 zł**. Maksymalna wysokość grzywny, zgodnie z ogólna regulacją wyrażoną \
