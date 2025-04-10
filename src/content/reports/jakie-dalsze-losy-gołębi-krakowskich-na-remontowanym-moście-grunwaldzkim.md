@@ -23,7 +23,7 @@ W sprawę ochrony gołębi oraz innych zwierząt od lat zasiedlających i gniazd
 
 > 13 marca br. Małopolskie Towarzystwo Ornitologiczne (MTO) zwróciło się pisemnie do Zarządu Dróg Miasta Krakowa z prośbą o podjęcie działań przewidzianych prawem, tj. wykonanie ekspertyzy ornitologiczno-chiropterologicznej, uwzględniającej zasiedlenie budowli przez jaskółki, nietoperze i gołębie oraz przeprowadzenie remontu w zgodzie z przepisami ustawy *o ochronie przyrody* i ustawy *o ochronie zwierząt* – pismo w załączeniu do pytań do interpelacji. Pismo otrzymała również Regionalna Dyrekcja Ochrony Środowiska oraz Wydział Środowiska, Klimatu i Powietrza Urzędu Miasta Krakowa. 
 
-Czekając na odpowiedź Prezydenta Miasta Krakowa już proponujemy możliwość zrobienia po remoncie chociażby półek spoczynkowych dla gołębi. Z pewnością racjonalnych pomysłów pojawi się więcej.
+Czekając na odpowiedzi Prezydenta Miasta Krakowa już proponujemy możliwość zrobienia po remoncie chociażby półek spoczynkowych dla gołębi. Z pewnością racjonalnych pomysłów pojawi się więcej.
 
 Nasza Fundacja zwróciła się do Zarządu Dróg Miasta Krakowa z pytaniami w powyższej sprawie. W odpowiedzi czytamy:
 
