@@ -1,6 +1,6 @@
 ---
 title: Jakie dalsze losy krakowskich gołębi na remontowanym moście Grunwaldzkim
-pubDate: 04.07.2025
+pubDate: 04.10.2025
 author: Anna Spodzieja
 image: /images/received_1690782001544646.jpeg
 description: Czy w związku z planowanym remontem mostu Grunwaldzkiego
@@ -16,10 +16,21 @@ Grzegorz Garboliński, radny Lewicy mówi:
 
 > „Gołąb podlega ochronie prawnej i jest ważnym elementem Krakowa. Gołębie to ptaki, których często nie dostrzegamy, przechodzimy obok nich obojętnie. One nam w Krakowie towarzyszą jednak bardzo licznie każdego dnia. To jeden z symboli naszego miasta”. 
 
-Jak informuje Radio Kraków sprawa dotyczy nie tylko gołębi, pod mostem mogą się znajdować także siedliska nietoperzy oraz jaskółki oknówki. Dodatkowo, gdy będą prowadzone prace na moście, będzie trwał okres lęgowy
-ptaków. 
+Jak informuje Radio Kraków sprawa dotyczy nie tylko gołębi, pod mostem mogą się znajdować także siedliska nietoperzy oraz jaskółki oknówki. Dodatkowo, gdy będą prowadzone prace na moście, będzie trwał okres lęgowy ptaków. 
 
-Czekając na odpowiedź Prezydenta Miasta Krakowa już proponujemy możliwość zrobienia po remoncie chociażby półek spoczynkowych dla gołębi. Z pewnością racjonalnych pomysłów pojawi się więcej.
+W sprawę ochrony gołębi oraz innych zwierząt od lat zasiedlających i gniazdujących w obrębie mostu zaangażowała się również kolejna radna Krakowa, Renata Piętka, która w imieniu mieszkańców oraz Małopolskiego Towarzystwa Ornitologicznego również zwróciła się z [pytaniami](file:///C:/Users/User/Downloads/Tresc_mi%C4%99dzysesyjna-II_Renata-Pi%C4%99tka-_2025-03-31_1.pdf) do Prezydenta Miasta Krakowa. Poprosiła o weryfikację działań Zarządu Dróg Miasta Krakowa oraz stosownych jednostek względem gatunków chronionych, zamieszkujących obiekt. W uzasadnieniu swoich pytań radna wskazała, że
+
+> 13 marca br. Małopolskie Towarzystwo Ornitologiczne (MTO) zwróciło się pisemnie do Zarządu Dróg Miasta Krakowa z prośbą o podjęcie działań przewidzianych prawem tj. wykonanie ekspertyzy ornitologiczno-chiropterologicznej, uwzględniającej zasiedlenie budowli przez jaskółki, nietoperze i gołębie oraz przeprowadzenie remontu w zgodzie z przepisami ustawy *o ochronie przyrody* i ustawy *o ochronie zwierząt* – pismo w załączeniu do pytań do interpelacji. Pismo otrzymała również Regionalna Dyrekcja Ochrony Środowiska oraz Wydział Środowiska, Klimatu i Powietrza Urzędu Miasta Krakowa. 
+>
+> Czekając na odpowiedź Prezydenta Miasta Krakowa już proponujemy możliwość zrobienia po remoncie chociażby półek spoczynkowych dla gołębi. Z pewnością racjonalnych pomysłów pojawi się więcej.
+
+Nasza Fundacja Chatka Gołębia zwróciła się do Zarządu Dróg Miasta Krakowa z pytaniami w powyższej sprawie. W odpowiedzi czytamy:
+
+![](/images/received_1187035259597009.png)
+
+![](/images/received_1196024052113570.png)
+
+Prezentujemy również [ekspertyzę](file:///C:/Users/User/Downloads/Ekspertyza-MostGrunwaldzkiv2-podpis-Za%C5%82%C4%85cznik-RPW_6112_2025-1.pdf) wykonaną na zlecenie Zarządu Dróg Miasta Krakowa, na którą powołuje się w swoim piśmie zarząd. Została ona wykonana przez firmę z Nowego Sącza Eco-Consult jako "Opinia przyrodnicza w zakresie występowania gatunków objętych ochroną prawną, cennych bądź rzadkich na terenie mostu Grunwaldzkiego w Krakowie oraz w jego otoczeniu w związku z planowaną realizacją zadania pn. „Projekt remontu mostu przez rzekę Wisłę w ciągu ul. Dietla (Most Grunwaldzki) w Krakowie”.
 
 Tymczasem gruntowny remont mostu ma się rozpocząć planowo 10 maja i będzie jedną z większych inwestycji drogowych w tym roku. Ekspertyza Politechniki Krakowskiej wskazuje, że aby zapewnić jego bezpieczne użytkowanie przynajmniej do roku 2038, niezbędne jest przeprowadzenie generalnych prac modernizacyjnych, nie później niż do sierpnia przyszłego roku.
 
