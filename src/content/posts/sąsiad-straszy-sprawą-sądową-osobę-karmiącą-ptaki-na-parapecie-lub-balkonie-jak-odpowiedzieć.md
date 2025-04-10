@@ -79,14 +79,16 @@ Zgodnie z wyrokiem Europejskiego Trybunału Praw Człowieka z dnia 28 kwietnia 2
 > „Utrata mieszkania jest najbardziej skrajną formą ingerencji w prawo do poszanowania czyjegoś domu, a każda osoba znajdująca się w sytuacji takiego zagrożenia powinna mieć możliwość ustalenia proporcjonalności środka przez sąd. W szczególności w przypadkach, w których zostały podniesione argumenty dotyczące\
 > proporcjonalności ingerencji, sądy krajowe powinny zbadać je w sposób szczegółowy i dokonać stosownego uzasadnienia.”
 
-## Dokarmianie ptaków powoduje zanieczyszczenie położonego pod oknami przy budynku skweru, trawnika, drogi, chodnika, placu zabaw lub innego miejsca publicznego:
+## Dokarmianie ptaków powoduje zanieczyszczenie położonego pod oknami przy budynku skweru, trawnika, drogi, chodnika, placu zabaw lub innego miejsca publicznego
 
-### Możliwe działania sąsiada: Złożenie zawiadomienia o podejrzeniu popełnienia wykroczenia zanieczyszczenia, zaśmiecenia miejsca publicznego - Sprawa o wykroczenie.
+Samo **dokarmianie** ptaków (ale też wolno-bytujących kotów, które są zwierzętami towarzyszącymi) **nie jest** wykroczeniem, ale **zanieczyszczenie** lub **zaśmiecanie** przestrzeni publicznej karmą czy resztkami jedzenia już takim wykroczeniem jest.
 
-Samo dokarmianie ptaków (ale też wolno-bytujących kotów, które są zwierzętami towarzyszącymi) nie jest wykroczeniem, ale zanieczyszczenie lub zaśmiecanie przestrzeni publicznej karmą czy resztkami jedzenia już takim wykroczeniem jest.
+### Możliwe działania sąsiada: Złożenie zawiadomienia o podejrzeniu popełnienia wykroczenia zanieczyszczenia, zaśmiecenia miejsca publicznego - Sprawa \
+o wykroczenie.
 
-Jeżeli więc dokarmianie ptaków powoduje zanieczyszczenie/zaśmiecenie położonego pod oknami /balkonem skweru/trawnika/drogi/chodnika/placu zabaw lub innego miejsca publicznego sąsiad może złożyć na policji zawiadomienie o podejrzeniu popełnienia wykroczenia stypizowanego w [art. 145 k.w](#_Art._145_[Zanieczyszczanie)., który przewiduje za to
-wykroczenie karę grzywny min. 500 zł. Maksymalna wysokość grzywny, zgodnie z ogólna regulacją wyrażoną w [art. 24 § 1 k.w. ](#_Art._24_[Grzywna])wynosi 5000 zł, przy czym określając ostateczną wysokość, sąd weźmie pod uwagę dochody
+Jeżeli więc dokarmianie ptaków powoduje zanieczyszczenie, zaśmiecenie położonego pod oknami lub balkonem skweru, trawnika, drogi, chodnika, placu zabaw lub innego miejsca publicznego sąsiad może złożyć na policji zawiadomienie o podejrzeniu popełnienia wykroczenia stypizowanego w [art. 145 k.w](#_Art._145_[Zanieczyszczanie)., który przewiduje za to
+wykroczenie karę grzywny min. **500 zł**. Maksymalna wysokość grzywny, zgodnie z ogólna regulacją wyrażoną \
+w [art. 24 § 1 k.w. ](#_Art._24_[Grzywna])wynosi 5000 zł, przy czym określając ostateczną wysokość, sąd weźmie pod uwagę dochody
 sprawcy, jego warunki osobiste i rodzinne, stosunki majątkowe i możliwości zarobkowe.
 
 Wymierzając karę za zaśmiecanie/zanieczyszczanie miejsca publicznego, sąd może orzec obowiązek przywrócenia zanieczyszczonego/zaśmieconego miejsca do stanu poprzedniego. 
