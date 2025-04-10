@@ -1,7 +1,7 @@
 ---
 title: "Sąsiad straszy sprawą sądową osobę karmiącą ptaki na parapecie lub
   balkonie. Jak odpowiedzieć? "
-author: Karolina Mikołajczyk
+author: Hanna Cichocka
 pubDate: 04.10.2025
 tag: Prawo
 image: /images/bird-eating-food-from-human-hand.jpg
@@ -74,11 +74,12 @@ W doktrynie słusznie podnosi się, że należy per analogiam stosować [art. 11
 
 Jeśli w toku procesu dojdzie do **zmiany zachowania** lokatora lub jego domowników, polegającej na zaprzestaniu naruszeń zasad porządku domowego i przestrzeganiu zasad współżycia mieszkańców przez okres uzasadniający przekonanie o **trwałym charakterze** tej zmiany, może dojść do oddalenia powództwa jako **bezzasadnego**.
 
-Zgodnie z wyrokiem Europejskiego Trybunału Praw Człowieka z dnia 28 kwietnia 2016 r. 27013/07 „Utrata mieszkania jest najbardziej skrajną formą ingerencji w prawo do poszanowania czyjegoś domu, a każda osoba znajdująca się w sytuacji takiego zagrożenia powinna mieć możliwość ustalenia proporcjonalności środka przez sąd. W szczególności w przypadkach, w których zostały podniesione argumenty dotyczące proporcjonalności ingerencji, sądy krajowe powinny zbadać je w sposób szczegółowy i dokonać stosownego uzasadnienia.”
+Zgodnie z wyrokiem Europejskiego Trybunału Praw Człowieka z dnia 28 kwietnia 2016 r. 27013/07:
 
-##### *b)*   
+> „Utrata mieszkania jest najbardziej skrajną formą ingerencji w prawo do poszanowania czyjegoś domu, a każda osoba znajdująca się w sytuacji takiego zagrożenia powinna mieć możliwość ustalenia proporcjonalności środka przez sąd. W szczególności w przypadkach, w których zostały podniesione argumenty dotyczące\
+> proporcjonalności ingerencji, sądy krajowe powinny zbadać je w sposób szczegółowy i dokonać stosownego uzasadnienia.”
 
-Jeżeli dokarmianie ptaków powoduje zanieczyszczenie położonego pod oknami przy budynku skweru/trawnika/drogi/chodnika/ placu zabaw/ innego miejsca publicznego:
+## Jeżeli dokarmianie ptaków powoduje zanieczyszczenie położonego pod oknami przy budynku skweru/trawnika/drogi/chodnika/ placu zabaw/ innego miejsca publicznego:
 
 è  *możliwe działania sąsiada: ZŁOŻENIE ZAWIADOMIENIA O PODEJRZENIU
 POPEŁNIENIA WYKROCZENIA ZANIECZYSZCZENIA/ZAŚMIECENIA MIEJSCA PUBLICZNEGO
