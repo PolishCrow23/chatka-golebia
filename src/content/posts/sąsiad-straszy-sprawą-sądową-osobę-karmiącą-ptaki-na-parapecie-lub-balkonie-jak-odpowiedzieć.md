@@ -2,7 +2,7 @@
 title: "Sąsiad straszy sprawą sądową osobę karmiącą ptaki na parapecie lub
   balkonie. Jak odpowiedzieć? "
 author: Karolina Mikołajczyk
-pubDate: 04.09.2025
+pubDate: 04.10.2025
 tag: Prawo
 image: /images/bird-eating-food-from-human-hand.jpg
 description: Jaką „sprawą sądową” może straszyć sąsiad? Odpowiedź poznacie w tym artykule.
@@ -65,6 +65,7 @@ Jeżeli osoba karmiąca ptaki jest najemcą lokalu a sąsiad jest lokatorem inne
 sąsiada.
 
 ### Możliwe działania sąsiada: POWÓDZTWO O ROZWIĄZANIE STOSUNKU PRAWNEGO UPRAWNIAJĄCEGO DO UŻYWANIA LOKALU I NAKAZANIE JEGO OPRÓŻNIENIA Z POWODU RAŻĄCEGO I UPORCZYWEGO
+
 NARUSZENIA PORZĄDKU DOMOWEGO, CZYNIĄCEGO KORZYSTANIE Z INNYCH LOKALI W BUDYNKU UCIĄŻLIWYM (SPRAWA CYWILNA)
 
 Zgodnie z [art.13 ustawy o ochronie praw lokatorów ](#_Art._13_[Rozwiązanie)sąsiad może wytoczyć powództwo o rozwiązanie przez sąd umowy najmu i nakazanie opróżnienia lokalu, jeżeli dana osoba wykracza w sposób rażący lub uporczywy przeciwko porządkowi domowemu, czyniąc uciążliwym korzystanie z innych lokali w budynku.
