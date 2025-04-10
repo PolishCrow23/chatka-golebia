@@ -79,11 +79,9 @@ Zgodnie z wyrokiem Europejskiego Trybunału Praw Człowieka z dnia 28 kwietnia 2
 > „Utrata mieszkania jest najbardziej skrajną formą ingerencji w prawo do poszanowania czyjegoś domu, a każda osoba znajdująca się w sytuacji takiego zagrożenia powinna mieć możliwość ustalenia proporcjonalności środka przez sąd. W szczególności w przypadkach, w których zostały podniesione argumenty dotyczące\
 > proporcjonalności ingerencji, sądy krajowe powinny zbadać je w sposób szczegółowy i dokonać stosownego uzasadnienia.”
 
-## Jeżeli dokarmianie ptaków powoduje zanieczyszczenie położonego pod oknami przy budynku skweru/trawnika/drogi/chodnika/ placu zabaw/ innego miejsca publicznego:
+## Dokarmianie ptaków powoduje zanieczyszczenie położonego pod oknami przy budynku skweru, trawnika, drogi, chodnika, placu zabaw lub innego miejsca publicznego:
 
-è  *możliwe działania sąsiada: ZŁOŻENIE ZAWIADOMIENIA O PODEJRZENIU
-POPEŁNIENIA WYKROCZENIA ZANIECZYSZCZENIA/ZAŚMIECENIA MIEJSCA PUBLICZNEGO
-(SPRAWA O WYKROCZENIE)*
+### Możliwe działania sąsiada: Złożenie zawiadomienia o podejrzeniu popełnienia wykroczenia zanieczyszczenia, zaśmiecenia miejsca publicznego - Sprawa o wykroczenie.
 
 Samo dokarmianie ptaków (ale też wolno-bytujących kotów, które są zwierzętami towarzyszącymi) nie jest wykroczeniem, ale zanieczyszczenie lub zaśmiecanie przestrzeni publicznej karmą czy resztkami jedzenia już takim wykroczeniem jest.
 
