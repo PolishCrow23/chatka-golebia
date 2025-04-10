@@ -21,12 +21,11 @@ Jak informuje Radio Kraków sprawa dotyczy nie tylko gołębi, pod mostem mogą 
 
 W sprawę ochrony gołębi oraz innych zwierząt od lat zasiedlających i gniazdujących w obrębie mostu zaangażowała się również kolejna radna Krakowa, Renata Piętka, która w imieniu mieszkańców oraz Małopolskiego Towarzystwa Ornitologicznego również zwróciła się z [pytaniami](file:///C:/Users/User/Downloads/Tresc_mi%C4%99dzysesyjna-II_Renata-Pi%C4%99tka-_2025-03-31_1.pdf) do Prezydenta Miasta Krakowa. Poprosiła o weryfikację działań Zarządu Dróg Miasta Krakowa oraz stosownych jednostek względem gatunków chronionych, zamieszkujących obiekt. W uzasadnieniu swoich pytań radna wskazała, że
 
-> 13 marca br. Małopolskie Towarzystwo Ornitologiczne (MTO) zwróciło się pisemnie do Zarządu Dróg Miasta Krakowa z prośbą o podjęcie działań przewidzianych prawem tj. wykonanie ekspertyzy ornitologiczno-chiropterologicznej, uwzględniającej zasiedlenie budowli przez jaskółki, nietoperze i gołębie oraz przeprowadzenie remontu w zgodzie z przepisami ustawy *o ochronie przyrody* i ustawy *o ochronie zwierząt* – pismo w załączeniu do pytań do interpelacji. Pismo otrzymała również Regionalna Dyrekcja Ochrony Środowiska oraz Wydział Środowiska, Klimatu i Powietrza Urzędu Miasta Krakowa. 
-
+> 13 marca br. Małopolskie Towarzystwo Ornitologiczne (MTO) zwróciło się pisemnie do Zarządu Dróg Miasta Krakowa z prośbą o podjęcie działań przewidzianych prawem, tj. wykonanie ekspertyzy ornitologiczno-chiropterologicznej, uwzględniającej zasiedlenie budowli przez jaskółki, nietoperze i gołębie oraz przeprowadzenie remontu w zgodzie z przepisami ustawy *o ochronie przyrody* i ustawy *o ochronie zwierząt* – pismo w załączeniu do pytań do interpelacji. Pismo otrzymała również Regionalna Dyrekcja Ochrony Środowiska oraz Wydział Środowiska, Klimatu i Powietrza Urzędu Miasta Krakowa. 
 
 Czekając na odpowiedź Prezydenta Miasta Krakowa już proponujemy możliwość zrobienia po remoncie chociażby półek spoczynkowych dla gołębi. Z pewnością racjonalnych pomysłów pojawi się więcej.
 
-Nasza Fundacja Chatka Gołębia zwróciła się do Zarządu Dróg Miasta Krakowa z pytaniami w powyższej sprawie. W odpowiedzi czytamy:
+Nasza Fundacja zwróciła się do Zarządu Dróg Miasta Krakowa z pytaniami w powyższej sprawie. W odpowiedzi czytamy:
 
 ![](/images/received_1187035259597009.png)
 
