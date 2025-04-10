@@ -72,7 +72,7 @@ z innych lokali w budynku.
 
 W doktrynie słusznie podnosi się, że należy per analogiam stosować [art. 11 ust. 2 pkt 1 u.o.p.l.](#_Art._11_[Wypowiedzenie]) w zakresie, w jakim wymagane jest pisemne upomnienie lokatora. Argumentuje się, że skoro taki wymóg przewidziany został dla właściciela, z którym wiąże lokatora stosunek prawny, to tym bardziej powinien on dotyczyć osoby, z którą nie wiąże lokatora żaden stosunek prawny.
 
-Jeśli w toku procesu dojdzie do zmiany zachowania lokatora lub jego domowników, polegającej na zaprzestaniu naruszeń zasad porządku domowego i przestrzeganiu zasad współżycia mieszkańców przez okres uzasadniający przekonanie o trwałym charakterze tej zmiany, może dojść do oddalenia powództwa jako bezzasadnego.
+Jeśli w toku procesu dojdzie do **zmiany zachowania** lokatora lub jego domowników, polegającej na zaprzestaniu naruszeń zasad porządku domowego i przestrzeganiu zasad współżycia mieszkańców przez okres uzasadniający przekonanie o **trwałym charakterze** tej zmiany, może dojść do oddalenia powództwa jako **bezzasadnego**.
 
 Zgodnie z wyrokiem Europejskiego Trybunału Praw Człowieka z dnia 28 kwietnia 2016 r. 27013/07 „Utrata mieszkania jest najbardziej skrajną formą ingerencji w prawo do poszanowania czyjegoś domu, a każda osoba znajdująca się w sytuacji takiego zagrożenia powinna mieć możliwość ustalenia proporcjonalności środka przez sąd. W szczególności w przypadkach, w których zostały podniesione argumenty dotyczące proporcjonalności ingerencji, sądy krajowe powinny zbadać je w sposób szczegółowy i dokonać stosownego uzasadnienia.”
 
