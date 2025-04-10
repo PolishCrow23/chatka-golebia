@@ -51,22 +51,22 @@ W przypadku wytoczenia powództwa przez sąsiada skutecznym argumentem przeciwny
 * Powód wyraził zgodę na występujące zakłócenia w korzystaniu z nieruchomości, wobec czego istniejący stan jest zgodny z prawem,
 * Pozwany nie jest właścicielem nieruchomości, z której korzystanie zostało zakłócone, np. jest jedynie najemcą,
 * Sąsiad nie jest właścicielem nieruchomości sąsiedniej, co za tym idzie nie ma legitymacji do tego, żeby być \
-  w sprawie powodem. 
+  w sprawie powodem, 
 
-To **na powodzie** zawsze ciąży obowiązek wykazania, że naruszenie własności przez sąsiada (właściciela nieruchomości sąsiedniej) miało charakter trwały oraz istnieje prawdopodobieństwo powtarzania się go w przyszłości. Dlatego, zanim sąsiad wystąpi się na drogę sądową, powinien zawsze wcześniej **na piśmie** zażądać podjęcia określonych czynności przez właściciela nieruchomości, która jest źródłem immisji. Dopiero po **bezskutecznym** **upływie terminu** można skierować sprawę do sądu i tym samym uprawdopodobni, że immisje będą się powtarzać w przyszłości.  
+To **na powodzie** zawsze ciąży obowiązek wykazania, że naruszenie własności przez sąsiada (właściciela nieruchomości sąsiedniej) miało charakter trwały oraz istnieje prawdopodobieństwo powtarzania się go \
+w przyszłości. Dlatego, zanim sąsiad wystąpi się na drogę sądową, powinien zawsze wcześniej **na piśmie** zażądać podjęcia określonych czynności przez właściciela nieruchomości, która jest źródłem immisji. Dopiero po **bezskutecznym** **upływie terminu** można skierować sprawę do sądu i tym samym uprawdopodobni, że immisje będą się powtarzać w przyszłości.  
 
 ## Sąsiad lokatorem lub właścicielem innego lokalu
 
 Jeżeli osoba karmiąca ptaki jest najemcą lokalu a sąsiad jest lokatorem innego lokalu albo właścicielem innego lokalu w tym samym budynku i w wyniku dokarmiania dochodzi do zanieczyszczenia balkonu, parapetu lub okna
 sąsiada.
 
-### Możliwe działania sąsiada: POWÓDZTWO O ROZWIĄZANIE STOSUNKU PRAWNEGO UPRAWNIAJĄCEGO DO UŻYWANIA LOKALU I NAKAZANIE JEGO OPRÓŻNIENIA Z POWODU RAŻĄCEGO I UPORCZYWEGO
-
-NARUSZENIA PORZĄDKU DOMOWEGO, CZYNIĄCEGO KORZYSTANIE Z INNYCH LOKALI W BUDYNKU UCIĄŻLIWYM (SPRAWA CYWILNA)
+### Możliwe działania sąsiada: Powództwo o rozwiązanie stosunku prawnego uprawniającego do używania lokalu i nakazanie jego opróżnienia z powodu rażącego i uporczywego STOSUNKU PRAWNEGO UPRAWNIAJĄCEGO DO UŻYWANIA LOKALU I NAKAZANIE JEGO OPRÓŻNIENIA Z POWODU RAŻĄCEGO I UPORCZYWEGONARUSZENIA PORZĄDKU DOMOWEGO, CZYNIĄCEGO KORZYSTANIE Z INNYCH LOKALI W BUDYNKU UCIĄŻLIWYM (SPRAWA CYWILNA)
 
 Zgodnie z [art.13 ustawy o ochronie praw lokatorów ](#_Art._13_[Rozwiązanie)sąsiad może wytoczyć powództwo o rozwiązanie przez sąd umowy najmu i nakazanie opróżnienia lokalu, jeżeli dana osoba wykracza w sposób rażący lub uporczywy przeciwko porządkowi domowemu, czyniąc uciążliwym korzystanie z innych lokali w budynku.
 
-Zasady porządku domowego mogą być określone w regulaminie uchwalonym przez wspólnoty mieszkaniowe, spółdzielnie mieszkaniowe oraz współwłaścicieli budynku. Niezależnie jednak od powyższego wynikają one z ustalonych zwyczajów, a zatem nie muszą być nigdzie spisane. Za rażące wykroczenie przeciwko porządkowi
+Zasady porządku domowego mogą być określone w regulaminie uchwalonym przez wspólnoty mieszkaniowe, spółdzielnie mieszkaniowe oraz współwłaścicieli budynku. Niezależnie jednak od powyższego wynikają one \
+z ustalonych zwyczajów, a zatem nie muszą być nigdzie spisane. Za rażące wykroczenie przeciwko porządkowi
 domowemu można uznać zachowanie, które cechuje duże nasilenie złej woli i szczególna szkodliwość ze względu na charakter naruszonych norm. Za rażące wykroczenie przeciwko porządkowi domowemu może być uznane nawet jednorazowe zachowanie.
 
 Za uporczywe może być uznane zachowanie częste, wielokrotne, powtarzające się. W obu przypadkach ustawodawca wymaga, by naganne zachowanie lokatora czyniło uciążliwym korzystanie z innych lokali w budynku.
