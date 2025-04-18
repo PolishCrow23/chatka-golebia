@@ -17,7 +17,7 @@ Biorąc pod uwagę, że mówimy o kilkudziesięciu, a może i stu gołębiach, m
 
 ![Strażacy na wysięgniku sięgającym dachu 4-piętrowego bloku](/images/received_1832233607575962.jpeg "Strażacy na wysięgniku sięgającym dachu 4-piętrowego bloku")
 
-Sprawy na pewno nie odpuścimy. Nie pozwolimy, aby takie działania ze strony zarządcy budynków były bezkarne! Nie pozwolimy na to, aby Policja i Prokuratura lekceważyła temat, bo przecież to tylko gołębie, a w sumie to udało się je uratować… Udało się, dzięki postawie pani Marii. Pani Maria zrobiła to co powinien każdy człowiek mający empatię do zwierząt. Skoro Straż
+Sprawy na pewno nie odpuścimy. Nie pozwolimy, aby takie działania ze strony zarządcy budynków były bezkarne! Nie pozwolimy na to, aby Policja i Prokuratura lekceważyła temat, bo przecież to tylko gołębie, a w sumie to udało się je uratować… Udało się, dzięki postawie pani Marii. Pani Maria zrobiła to, co powinien każdy człowiek mający empatię do zwierząt. Skoro Straż
 Pożarna potrafi wykonywać rzetelnie swoje obowiązki, przyjąć zgłoszenie, wysłać zespół i uratować ptaki to teraz czas na prokuraturę!
 
 P.S. Analizujemy obecnie materiały otrzymane od pani Marii i pisma, jakie panie Maria otrzymała od prokuratury. Zaraz po świętach złożymy odpowiednie zawiadomienie. Zwracam się z prośbą do czytelników, jeżeli znacie Państwo prawnika, który gotowy jest zająć się poprowadzeniem tej sprawy, prosimy o kontakt.
