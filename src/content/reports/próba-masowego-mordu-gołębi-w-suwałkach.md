@@ -6,6 +6,8 @@ image: /images/received_1832233607575962.jpeg
 description: "Próba masowego mordu gołębi w Suwałkach – służby nie widzą problemu "
 photos: "Wideo: Maria Kierejsza"
 ---
+## Próba masowego mordu gołębi w Suwałkach – służby nie widzą problemu
+
 Nasza Fundacja otrzymała informację o uwięzieniu gołębi w szybie wentylacyjnym. Do informacji załączone zostało [nagranie wideo](https://drive.google.com/file/d/1NVw34mX1ApjEZJf82diAAuFHMQ7anfhA/view?usp=drive_link). Obraz, jaki zobaczyliśmy bardziej przypominał horror niż nagranie z interwencji Straży Pożarnej. Strażacy ponoć próbowali doliczyć się wylatujących gołębi. Po tym, jak zdjęli zamontowaną przez spółdzielnię kratkę, liczyli, liczyli, liczyli… doliczyli się sześćdziesięciu (sic!) gołębi i przestali liczyć. 
 
 Pani Maria, która zauważyła uwięzione gołębie, i dzięki niej ptaki udało się uratować, dziś bezradnie rozkłada ręce. Cóż z tego, że zgłosiła sprawę na Policję, cóż z tego, że Prokuratura ma wiedzę o popełnieniu przestępstwa. Prokuratura uznała, że: pani Maria nie jest stroną w sprawie!
