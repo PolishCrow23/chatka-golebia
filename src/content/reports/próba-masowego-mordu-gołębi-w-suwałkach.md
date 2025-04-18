@@ -15,8 +15,6 @@ Uwierzycie! Przestępstwo ścigane z urzędu, a prokurator chce, aby osoba, któ
 
 Biorąc pod uwagę, że mówimy o kilkudziesięciu, a może i stu gołębiach, mogą to być zarzuty o znęcanie się ze szczególnym okrucieństwem. Tu nikt nie powie, bo nikt o zdrowych zmysłach nie uwierzy w tłumaczenie, że nie zauważył ptaka. Można nie zauważyć jednego, dwóch, ale nie stu! To musiało zostać zrobione z premedytacją i trudno uwierzyć, że dorośli ludzie nie mają świadomości i zamknięte gołębie umrą z głodu w wielogodzinnych męczarniach. 
 
-![Strażacy na wysięgniku sięgającym dachu 4-piętrowego bloku](/images/received_1832233607575962.jpeg "Strażacy na wysięgniku sięgającym dachu 4-piętrowego bloku")
-
 Sprawy na pewno nie odpuścimy. Nie pozwolimy, aby takie działania ze strony zarządcy budynków były bezkarne! Nie pozwolimy na to, aby Policja i Prokuratura lekceważyła temat, bo przecież to tylko gołębie, a w sumie to udało się je uratować… Udało się, dzięki postawie pani Marii. Pani Maria zrobiła to, co powinien każdy człowiek mający empatię do zwierząt. Skoro Straż
 Pożarna potrafi wykonywać rzetelnie swoje obowiązki, przyjąć zgłoszenie, wysłać zespół i uratować ptaki to teraz czas na prokuraturę!
 
