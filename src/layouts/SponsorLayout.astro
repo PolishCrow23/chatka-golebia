@@ -1,0 +1,96 @@
+---
+import BaseHead from "../components/essentials/BaseHead.astro";
+import Header from "../components/essentials/Header.astro";
+import Footer from "../components/essentials/Footer.astro";
+import PiwikPro from "../components/essentials/PiwikPro.astro";
+import SponsorCard from "../components/SponsorCard.astro";
+import "../styles/slotwrapper.css";
+
+const { frontmatter = {}, title, description, date, image, maxWidth = '720px'} = Astro.props ;
+---
+
+<html lang="en">
+    <head>
+        <BaseHead title={frontmatter.title || title} description={frontmatter.description || description} date={frontmatter.date || date} />
+    </head>
+    <body>
+        <PiwikPro />
+        <Header />
+        <main>
+            <div class="title">
+                <h1>Partnerzy</h1>
+            </div>
+            
+            <div class="post" style={`max-width: ${maxWidth};`}>
+             <h2>Partnerzy</h2>
+                <div class="grid-container">
+                    <SponsorCard href="https://www.facebook.com/przychodniasalamandrakrakow" src="/images/pages/sponsorzy/Salamandra.png" alt="Logo Przychodni Weterynaryjnej Salamandra"/>
+                    <SponsorCard href="https://www.kontna.pl/" src="/images/pages/sponsorzy/Lucyna-Kontna.png" alt="Logo biura rachunkowego Lucyna Kontna"/>
+                </div>
+                <h2>Patroni</h2>
+                <p>Twoje wsparcie jest dla nas nieocenione! Dzięki Twojemu patronatowi możemy kontynuować naszą misję ochrony gołębi i innych ptaków.</p>
+                    <div class="btn-container">
+                        <a class="button button-peach" href='https://patronite.pl/Chatka_Golebia'>ZOSTAŃ NASZYM PATRONEM</a>
+                    </div>
+                <div class="sponsor-slot-wrapper">
+                    <slot />
+                </div>
+            </div>
+        </main>
+        <Footer />
+    </body>
+</html>
+
+<style>
+    .post {
+    max-width: 720px;
+    margin: 0 auto;
+}
+
+    h2 {
+        font-size: 3rem;
+        margin-block: 1.2em 1.2em;
+        padding-left: 10px;
+        border-left: solid 4px var(--peach);
+    }
+
+    .title {
+        margin: 0.6em 0.5em 5em;
+    }
+    body {
+        background-color: var(--cream);
+    }
+    h1 {
+        text-align: center;
+        font-size: 4.1rem;
+        color: var(--dark-plum);
+        margin-bottom: 4rem;
+    }
+
+    img {
+        display: block;
+        margin-inline: auto;
+        max-width: 1200px;
+
+    }
+
+    main {
+        margin-inline: auto;
+    }
+
+    .btn-container {
+    text-align: center;
+    margin-block: 4rem;
+}
+
+.grid-container {
+    display: grid;
+    align-items: center;
+    justify-items: center;
+    gap: 1rem;
+    grid-template-columns: 
+        repeat(auto-fit,
+            minmax(min(24rem, 100%), 1fr));
+    padding-block: 2em;
+}
+</style>
