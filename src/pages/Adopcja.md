@@ -1,7 +1,7 @@
 ---
+title: Adopcja
 layout: ../layouts/PageLayout.astro
-title: Adoptuj gołębia pod swoje skrzydła
-image: "/images/pages/adopcja/adopcja.jpg"
+image: "/images/pages/adopcja/baner-adopcja.png"
 ---
 Gołębie potrafią świetnie przystosować się do nowych warunków. Potrzebują po prostu trochę czasu, cierpliwości i miłości. Są niezwykle towarzyskie i nawet gdy nie mają kontaktu z drugim przedstawicielem swojego gatunku, czują się szczęśliwe i zaspokojone jeśli mogą spędzić czas z człowiekiem, którego w którymś momencie zaczynają traktować jako członka swojego stada lub nawet partnera. 
 
