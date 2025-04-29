@@ -9,7 +9,6 @@ import PiwikPro from "../components/essentials/PiwikPro.astro";
 import News from "../components/News.astro";
 import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
 import { getCollection } from "astro:content";
-import OurStories from "../components/index/OurStories.astro";
 
 const { title, description, date, pubDate } = Astro.props;
 
@@ -42,7 +41,6 @@ import "swiper/css/navigation";
 		<News reports={reports} meetups={meetups} interventions={interventions} />
 		<Accordion />
 		<BlogHighlight posts={posts} />
-		<OurStories stories={stories}/>
 		<Footer />
 		<script is:inline data-astro-rerun>
 			import "/src/lib/slider-simple.js";
