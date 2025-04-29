@@ -8,19 +8,27 @@ import Accordion from "../components/index/Accordion.astro";
 import PiwikPro from "../components/essentials/PiwikPro.astro";
 import News from "../components/News.astro";
 import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
+import { getCollection } from "astro:content";
+import OurStories from "../components/index/OurStories.astro";
+
 const { title, description, date, pubDate } = Astro.props;
 
-import { getCollection } from "astro:content";
 const posts = await getCollection("posts");
 
-const meetups = (await getCollection('meetups'))
+const meetups = (await getCollection("meetups"))
   .sort((a, b) => a.data.pubDate.valueOf() - b.data.pubDate.valueOf());
 
-const reports = (await getCollection('reports'))
+const reports = (await getCollection("reports"))
   .sort((a, b) => a.data.pubDate.valueOf() - b.data.pubDate.valueOf());
   
-const interventions = (await getCollection('interventions'))
+const interventions = (await getCollection("interventions"))
   .sort((a, b) => a.data.pubDate.valueOf() - b.data.pubDate.valueOf());
+
+  const stories = (await getCollection("stories"))
+  .sort((a, b) => a.data.pubDate.valueOf() - b.data.pubDate.valueOf());
+
+import "swiper/css";
+import "swiper/css/navigation";
 ---
 
 <html lang="en">
@@ -28,13 +36,16 @@ const interventions = (await getCollection('interventions'))
 		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} title={title} description={description} date={date}/>
 	</head>
 	<body>
-	<PiwikPro />
+		<PiwikPro />
 		<Header />
 		<Hero />
-		<News reports={reports} meetups={meetups} interventions={interventions}/>
+		<News reports={reports} meetups={meetups} interventions={interventions} />
 		<Accordion />
 		<BlogHighlight posts={posts} />
+		<OurStories stories={stories}/>
 		<Footer />
+		<script is:inline data-astro-rerun>
+			import "/src/lib/slider-simple.js";
+		</script>
 	</body>
 </html>
-

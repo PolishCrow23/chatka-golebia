@@ -13,33 +13,26 @@ const sortedPosts = [...reports, ...meetups, ...interventions].sort((a, b) =>
   new Date(b.data.pubDate).valueOf() - new Date(a.data.pubDate).valueOf()
 );
 
-// Import Swiper
-import Swiper from "swiper";
-    
-    // Import Swiper modules
-    import { Navigation, FreeMode, Thumbs, Mousewheel, Autoplay } from "swiper/modules";
-    
-    // Import Swiper styles
-    import "swiper/css";
-    import "swiper/css/navigation";
-    import "swiper/css/free-mode";
-    import "swiper/css/thumbs";
+import "swiper/css";
+import "swiper/css/navigation";
+import "../styles/swiper.scss"
 ---
 
 <section>
     <div class="wrapper">
         <div class="flex-container">
-            <a href="/meetups"><h2>Aktualności</h2></a>
+            <h2>Aktualności</h2>
         </div>
 
         <div class="swiper">
             <!-- Additional required wrapper -->
             <div class="swiper-wrapper">
             <!-- Slides -->
-            <div class="swiper">
+            <div class="swiper news-swiper">
                 <div class="swiper-wrapper">
                 <div class="swiper-slide">{sortedPosts.slice(0, 3).map((post) => <Post item={post} />)}</div>
                 <div class="swiper-slide">{sortedPosts.slice(3, 6).map((post) => <Post item={post} />)}</div>
+                <div class="swiper-slide">{sortedPosts.slice(6, 9).map((post) => <Post item={post} />)}</div>
                 </div>
             </div>
 
@@ -48,8 +41,8 @@ import Swiper from "swiper";
             <div class="swiper-pagination"></div>
         
             <!-- If we need navigation buttons -->
-            <div class="swiper-button-prev"></div>
-            <div class="swiper-button-next"></div>
+            <div class="swiper-button-prev news-swiper-button-prev swiper-box-shadow"></div>
+            <div class="swiper-button-next news-swiper-button-next swiper-box-shadow"></div>
         
             <!-- If we need scrollbar -->
 
@@ -63,36 +56,17 @@ import Swiper from "swiper";
 
 
 <style>
-
     .show-more {
         font-family: 'Ubuntu Condensed';
         font-size: 2rem;
         font-weight: 600;
         color: var(--plum);
-        margin-block: 2em 3em;
+        margin-block: ;
         display: flex;
         justify-content: flex-end;
         align-items: center;
-        gap: 0.1em;
-        padding-right: 5.5em;
-    }
-
-    .swiper-button-next, .swiper-button-prev {
-        color: var(--plum);
-        background: white;
-        width: 50px;
-        height: 50px;
-        border-radius: 16px;
-        box-shadow: 0 0 4px rgba(0, 0, 0, 0.2);
-        positon: absolute;
-    }
-
-    .swiper-button-prev {
-        left: 4px;
-    }
-
-    .swiper-button-next {
-        right: 4px;
+        gap: var(--spacing-xxs);
+        padding-right: var(--spacing-xl);
     }
 
     .wrapper {
@@ -103,7 +77,7 @@ import Swiper from "swiper";
     section { 
         padding-inline: 2%;
         background-color: var(--cream);
-        padding-block: 2em 5em;
+        padding-block: var(--spacing-xl) var(--spacing-4xl);
         background-repeat: no-repeat;
     }
 
@@ -115,7 +89,6 @@ import Swiper from "swiper";
     }
 
     .bk {
-
         background-image: url('/images/index/blog-highlight.svg');
         background-size: stretch;
         background-size: 1800px;
@@ -184,7 +157,6 @@ import Swiper from "swiper";
     }
 
 </style>
-
-<script src="/src/lib/slider-simple.js"></script>
-
-
+<script>
+    import "/src/lib/slider-simple.js";
+</script>

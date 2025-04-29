@@ -50,9 +50,9 @@ Oczywiście nie, gołąb powinien mieć możliwość codziennego spędzenia czas
 
 Więcej czasu zajmuje opieka nad jednym gołębiem niż nad parą. Gołąb jest bardzo towarzyskim zwierzęciem - [opiekun powinien poświęcić mu odpowiednio więcej czasu i uwagi](Jak zaprzyjaźnić się z gołębiem), gdy ptak nie ma możliwości przebywania w towarzystwie drugiego gołębia (czyli najlepiej jeśli właściciel większość dnia przebywał w domu, np. praca zdalna). Z czasem, gdy gołąb przyzwyczai się do opiekuna i innych domowników, będzie traktować ich jako członków swojego stada. Jeśli więzi pomiędzy ptakiem a jego opiekunem będą zażyłe, gołąb może zacząć traktować człowieka jako swojego partnera (samiczki zaczną wtedy składać jajka).
 
- 9. **Jak określić płeć gołębia?**
+9.  **Jak określić płeć gołębia?**
 
-Stuprocentową pewność daje tylko [**test DNA**](Badanie DNA płci gołębia) lub **złożenie przez gołębia jajek**. Gdy gołąb osiągnie dojrzałość w wieku 5-6 miesięcy, można jedynie podejrzewać jego płeć na podstawie wyglądu i zachowania. Samce często gruchają i tańczą, wykazują większą agresję w stosunku do innych ptaków, są bardziej masywne, mają okazałą woskówkę, mają szeroki i krótki dziób. Samiczki również wydają odgłosy, ale zwykle rzadziej, mają łagodniejsze usposobienie, nie wykazują agresji w stosunku do innych ptaków w takim samym stopniu jak samce, są mniej masywne, mają mało okazałą woskówkę, ich dzioby są długie i cienkie. Oczywiście często te cechy się nie zgadzają, dlatego bardzo łatwo można pomylić się w swojej ocenie płci ptaka. 
+Stuprocentową pewność daje tylko [**test DNA**](Badanie DNA płci gołębia) lub **złożenie przez gołębia jajek**. Gdy gołąb osiągnie dojrzałość w wieku 5-6 miesięcy, można jedynie podejrzewać jego płeć na podstawie wyglądu i zachowania. Samce często gruchają i tańczą, wykazują większą agresję w stosunku do innych ptaków, są bardziej masywne, mają okazałą woskówkę, mają szeroki i krótki dziób. Samiczki również wydają odgłosy, ale zwykle rzadziej, mają łagodniejsze usposobienie, nie wykazują agresji w stosunku do innych ptaków w takim samym stopniu jak samce, są mniej masywne, mają mało okazałą woskówkę, ich dzioby są długie i cienkie. Oczywiście często te cechy się nie zgadzają, dlatego bardzo łatwo można pomylić się w swojej ocenie płci ptaka.
 
 10. **Jak zapobiegać wykluwaniu się piskląt w przypadku posiadania samicy i samca?**
 
@@ -64,7 +64,7 @@ Można zaopatrzyć się w [majtki dla gołębi](Majtki dla gołębi). W Polsce d
 
 12. **Jak w bezpieczny sposób zabierać ptaka na spacery?**
 
-Gołąb powinien mieć założone majtki dla gołębi lub szelki, do których przypięta jest smycz. Nigdy nie powinno wychodzić się na zewnątrz z niezabezpieczonym ptakiem - nawet gdy jest z nami oswojony, może wystraszyć się czegoś i odlecieć. 
+Gołąb powinien mieć założone majtki dla gołębi lub szelki, do których przypięta jest smycz. Nigdy nie powinno wychodzić się na zewnątrz z niezabezpieczonym ptakiem - nawet gdy jest z nami oswojony, może wystraszyć się czegoś i odlecieć.
 
 13. **Czy gołąb (miejski, ozdobny, pocztowy grzywacz) może mieszkać w jednej klatce/wolierze z sierpówką/cukrówką?**
 
@@ -72,12 +72,12 @@ Gołębie są większe i silniejsze od cukrówek/sierpówek, mają mocniejsze dz
 
 14. **Jakie gatunki gołębi występują w Polsce?**
 
-Gołąb miejski *(Columba Livia)*, sierpówka *(Streptopelia decaocto)*, grzywacz *(Columba palumbus)*, turkawka *(Streptopelia turtur)*, turkawka wschodnia *(Streptopelia orientalis)*, siniak *(Columba oenas)*.
+Gołąb miejski _(Columba Livia)_, sierpówka _(Streptopelia decaocto)_, grzywacz _(Columba palumbus)_, turkawka _(Streptopelia turtur)_, turkawka wschodnia _(Streptopelia orientalis)_, siniak _(Columba oenas)_.
 
 15. **Na co uważać podczas wizyty u weterynarza?**
 
 Warto uważać na leki przeciwpasożytnicze stosowane w leczeniu inwazji nicieni, które może chcieć przepisać nam weterynarz. Niektórzy weterynarze, nawet ptasi, nie wiedzą, że istnieją badania wskazujące na toksyczność fenbendazolu (oraz innych pochodnych benzimidazolu: albendazol, oxibendazol, mebendazol) u gołębi. U gołębi, którym podano fenbendazol/albendazol stwierdzono m.in. utratę masy ciała, krwotoczne zapalenie jelit, niewydolność szpiku kostnego, uszkodzenie wątroby i nerek. Gdy okazuje się, że nasz gołąb ma nicienie (np. lekarz zrobił badanie kału pod mikroskopem i zauważył jaja nicienia), zawsze lepiej zapytać lekarza jaką substancję czynną ma lek, który nam przepisuje. Jeśli weterynarz nie jest świadomy toksyczności fenbendazolu u gołębi, warto podesłać mu badania (linki na dole) i poprosić o alterynatywny, bezpieczniejszy lek (iwermektyna, pyrantel, lewamizol).
 
 [Mortality Associated with Fenbendazole
-Administration in Pigeons (*Columba livia*)](https://drive.google.com/file/d/1_zRy2U6xrAs5ababzvALuwe6noATsvGa/view?usp=sharing)
+Administration in Pigeons (_Columba livia_)](https://drive.google.com/file/d/1_zRy2U6xrAs5ababzvALuwe6noATsvGa/view?usp=sharing)
 [Fenbendazole and Albendazole Toxicity in Pigeons and Doves](https://drive.google.com/file/d/1EPSCQ2xX9qbPH4elWfUDcwa9xRYtlRy0/view?usp=sharing)

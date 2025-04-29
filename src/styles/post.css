@@ -1,99 +1,99 @@
 .post-card {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    align-items: center;
-    max-width: 381px;
-    width: 100%;
-    height: 461px;
-    border-radius: 16px;
-    padding: 16px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 381px;
+  width: 100%;
+  height: 461px;
+  border-radius: 16px;
+  padding: 16px;
 
-    background-color: #f9e9e2;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  background-color: #f9e9e2;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 
-    transition-duration: 0.5s;
+  transition-duration: 0.5s;
 }
 .post-card .date {
-    color: var(--gray);
-    font-size: 1.4rem;
-    font-weight: 400;
+  color: var(--gray);
+  font-size: 1.4rem;
+  font-weight: 400;
 }
 .post-card .title {
-    color: var(--black);
-    font-size: 2.2rem;
-    font-weight: 500;
-}  
+  color: var(--black);
+  font-size: 2.2rem;
+  font-weight: 500;
+}
 
 .post-card .post-card:hover {
-    transform-origin: top;
-    transition-duration: 0.5s;
-    box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
+  transform-origin: top;
+  transition-duration: 0.5s;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
 }
 
 .post-card .title-post {
-    display: flex;
-    gap: 2em;
-    align-items: center;
+  display: flex;
+  gap: 2em;
+  align-items: center;
 }
 
 .post-card h2 {
-    font-size: 2rem;
+  font-size: 2rem;
 }
 
 .post-card h3 {
-    font-size: 2rem;
+  font-size: 2rem;
 }
 .post-card .description {
-    font-size: 1.4rem;
-    fill: var(--gray);
+  font-size: 1.4rem;
+  fill: var(--gray);
 }
 
 .post-card .title h2 {
-    font-size: 2.2rem;
+  font-size: 2.2rem;
 }
 
 .post-card .title {
-    color: var(--plum);
-    font-family: "Ubuntu Condensed";
-    font-weight: 700;
-    font-size: 2.6rem;
+  color: var(--plum);
+  font-family: "Ubuntu Condensed";
+  font-weight: 700;
+  font-size: 2.6rem;
 }
 
 .post-card .title-date {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    gap: 1em;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1em;
 }
 
 .post-card .show-more {
-    margin-left: auto;
-    font-weight: 700;
-    font-size: 1.8rem;
-    color: var(--plum);
-    font-family: "Ubuntu Condensed";
+  margin-left: auto;
+  font-weight: 700;
+  font-size: 1.8rem;
+  color: var(--plum);
+  font-family: "Ubuntu Condensed";
 }
 
 .post-card p {
-    font-size: 1.6rem;
-    font-weight: 400;
-    color: var(--gray);
-    line-height: 22px;
+  font-size: 1.6rem;
+  font-weight: 400;
+  color: var(--gray);
+  line-height: 22px;
 }
 
 .post-card img {
-    border-radius: 8px;
-    object-fit: cover;
-    width: 351px;
-    width: 100%;
+  border-radius: 8px;
+  object-fit: cover;
+  width: 351px;
+  width: 100%;
 }
 
 .post-card .post-card:hover {
-    transform-origin: top;
-    transition-duration: 0.5s;
-    box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
+  transform-origin: top;
+  transition-duration: 0.5s;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
 }
 .post-card .post-card {
-    transition-duration: 0.5s;
+  transition-duration: 0.5s;
 }

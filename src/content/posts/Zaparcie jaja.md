@@ -7,11 +7,11 @@ description: Niestety, nawet jeśli zapewnimy gołąbce świetne warunki życia 
 tag: Zdrowie
 ---
 
-Niestety, nawet jeśli zapewnimy gołąbce świetne warunki życia i odpowiednią dietę, zawsze musimy być przygotowani na zaparcie jaja. O zaparciu jaja mówimy wtedy, gdy samiczka nie jest w stanie znieść jaja. 
+Niestety, nawet jeśli zapewnimy gołąbce świetne warunki życia i odpowiednią dietę, zawsze musimy być przygotowani na zaparcie jaja. O zaparciu jaja mówimy wtedy, gdy samiczka nie jest w stanie znieść jaja.
 
 **Jakie są przyczyny zaparcia jaja?**
 
-Często przyczyną zaparcia jaja jest niedobór wapnia (patrz na [podpunkt składanie jajek a wapń](post/Gołębi pupil a jajka - antykoncepcja u gołębi)). Zaparcie jaja może pojawić się u samic, które po raz pierwszy składają jajo, w szczególności u tych, które są są na niedopowiedniej diecie. Innymi przyczynami zaparcia jaja są: niedożywienie, otyłość, zbyt mało aktywności fizycznej (osłabione mięśnie), stres, zdeformowane jajo (np. zbyt miękkie przez niedobór wapnia), niedobór witaminy E i selenu. Do poważniejszych przyczyn zaparcia jaja należą: zbyt częste składanie jaj (zaburzenie pracy mięśni jajowodu), uszkodzenie jajowodu, infekcje jajowodu, predyspozycje genetyczne, choroby ogólnoustrojowe. 
+Często przyczyną zaparcia jaja jest niedobór wapnia (patrz na [podpunkt składanie jajek a wapń](post/Gołębi pupil a jajka - antykoncepcja u gołębi)). Zaparcie jaja może pojawić się u samic, które po raz pierwszy składają jajo, w szczególności u tych, które są są na niedopowiedniej diecie. Innymi przyczynami zaparcia jaja są: niedożywienie, otyłość, zbyt mało aktywności fizycznej (osłabione mięśnie), stres, zdeformowane jajo (np. zbyt miękkie przez niedobór wapnia), niedobór witaminy E i selenu. Do poważniejszych przyczyn zaparcia jaja należą: zbyt częste składanie jaj (zaburzenie pracy mięśni jajowodu), uszkodzenie jajowodu, infekcje jajowodu, predyspozycje genetyczne, choroby ogólnoustrojowe.
 
 **Jak wygląda zaparcie jaja?**
 
@@ -20,6 +20,7 @@ Samiczka wygląda na osłabioną i apatyczną, jest zgarbiona i napuszona. Stoi 
 **Jak pomóc samiczce z zaparciem jaja?**
 
 Musimy szybko reagować, ponieważ zaparcie jaja jest stanem zagrażającym życiu!
+
 <div class='note'>
   <ol>
     <li>Podajemy samiczce wapń w syropie. Dawka wapnia dla samiczki z zaparciem jaja to 100 mg/1 kg masy ciała. Wiem, że są różne sposoby liczenia dawki wapnia. Ja stosuję zalecenia z krakowskiej przychodni weterynaryjnej Vetika (z tego co mi zostało przekazane tak samo wapń jest liczony we wrocławskiej przychodni Zwierzyniec), czyli obliczam dawkę na podstawie jonów wapnia. Np. przy wapnie Hasco Allergy, który ma 115,6 jonów wapnia w 5 ml, na 100 gram masy ciała gołąbki należy podać w zaokrągleniu 0,4 ml wapnia. </li>
@@ -29,7 +30,7 @@ Musimy szybko reagować, ponieważ zaparcie jaja jest stanem zagrażającym życ
 </div>
 
 ![](/images/posts/Zaparcie%20jaja/Pudełko.jpg)
-*Dokusia miała trudności ze złożeniem jajka. Po około 30 minutach w „saunie" złożyła jajko.*
+_Dokusia miała trudności ze złożeniem jajka. Po około 30 minutach w „saunie" złożyła jajko._
 
 Weterynarz oceni stan gołębia, stan jego narządów rozrodczych i pozycję jaja (możliwe, że będzie potrzebne zdjęcie rentgenowskie). Lekarz może zdecydować się na podanie wapnia, kroplówki, hormonów, leków przeciwbólowych czy antybiotyków; zwiększenie temperatury otoczenia i sondowanie pokarmu jeśli gołąbka nie je. Jeśli leczenie nie przyniesie oczekiwanych rezultatów, lekarz może próbować usunąć jajo manualnie – znieczulić ogólnie ptaka i odpowiednio masować jego podbrzusze i kloakę (często po wprowadzeniu do kloaki lubrykantu). Innym sposobem jest zassanie zawartości jaja za pomocą igły i zniszczenie skorupki jaja, którego fragmenty zostają wydalone przez ptaka lub manualnie usunięte przez lekarza. W niektórych przypadkach konieczne jest chirurgiczne usunięcie jaja.
 
@@ -38,5 +39,6 @@ Warto porozmawiać z weterynarzem na temat zapobiegania zaparciu jaja w przyszł
 **Źródła**
 <span style="font-size: 80%">
 Sposób na pomoc samiczce z zaparciem jaja z użyciem pudełka, mokrego ręcznika i poduszki elektrycznej został przedstawiony w grupie Palomacy przez moderatora Cynthię Large.
+
   <li>Sakas P. <i>Essentials of Avian Medicine a Guide for Practitioners</i>, wyd. 2. Amer Animal Hospital Assn, 2002.</li>
   </span>

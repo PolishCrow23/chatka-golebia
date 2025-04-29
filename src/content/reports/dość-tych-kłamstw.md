@@ -8,6 +8,7 @@ description: "Najpopularniejszym „argumentem” przeciwników gołębi miejski
 sources: BI.OI.0134.107.2024.
 photos: "Dariusz Grochal "
 ---
+
 Sprawdziliśmy, jaka jest prawda na temat chorób przenoszonych przez gołębie i jaka jest realna skala zagrożenia dla ludzi.
 
 Długo zastanawiałem się jak napisać ten artykuł, aby było on zrozumiały dla każdego odbiorcy. Zwłaszcza dla tych, którzy bezmyślnie kopiują znalezione w Internecie spisy chorób. Jest to powszechna praktyka wśród Spółdzielni Mieszkaniowych, przeciwników gołębi i o zgrozo także „dziennikarzy”, którzy powinni zwracać szczególną uwagę na to, co publikują, skąd pochodzą dane informacje, czy źródło jest wiarygodne.
@@ -28,31 +29,31 @@ Postanowiliśmy jako Fundacja zapytać Główny Inspektorat Sanitarny o to, ile 
 
 GIS zgodnie z ustawą o zapobieganiu oraz zwalczaniu zakażań i chorób zakaźnych od ludzi prowadzi na bieżąco nadzór nad zoonozami (chorobami odzwierzęcymi) takimi jak:
 
-* bąblowica i wągrzyca
-* borelioza z Lyme
-* bruceloza
-* chikungunya
-* encefalopatie gąbczaste
-* niektóre wirusowe gorączki krwotoczne
-* dżuma
-* giardioza
-* gorączka Q
-* mykobakteriozy
-* jersinioza
-* kampylobakteriioza
-* leptospiroza
-* grypa ptaków
-* listerioza
-* nosacizna
-* ornitozy
-* pryszczyca
-* salmonellozy
-* tularemia
-* wąglik
-* włośnica
-* wścieklizna
-* zakażenia wirusem Zachodniego Nilu
-* zakażenia E.coli.
+- bąblowica i wągrzyca
+- borelioza z Lyme
+- bruceloza
+- chikungunya
+- encefalopatie gąbczaste
+- niektóre wirusowe gorączki krwotoczne
+- dżuma
+- giardioza
+- gorączka Q
+- mykobakteriozy
+- jersinioza
+- kampylobakteriioza
+- leptospiroza
+- grypa ptaków
+- listerioza
+- nosacizna
+- ornitozy
+- pryszczyca
+- salmonellozy
+- tularemia
+- wąglik
+- włośnica
+- wścieklizna
+- zakażenia wirusem Zachodniego Nilu
+- zakażenia E.coli.
 
 Spośród wymienionych chorób, gołębie mogą ulec zakażeniu **Chlamydią psittaci (ornitozy)** oraz **bakteriami z rodzaju Salmonella**.
 
@@ -78,11 +79,11 @@ Od 2014 roku ornitoza była notowana w latach:
 
 Skończmy wreszcie z tymi kłamstwami. Nie straszmy ludzi, nie szczujmy na gołębie!
 
-Gorąco prosimy o to, aby powyższy tekst udostępniać każdemu, kto powiela mity na temat chorób przenoszonych przez gołębie. 
+Gorąco prosimy o to, aby powyższy tekst udostępniać każdemu, kto powiela mity na temat chorób przenoszonych przez gołębie.
 
 </br>
 
-Artykuł napisany na podstawie odpowiedzi o dostęp do informacji publicznej z dnia 29.07.2024. 
+Artykuł napisany na podstawie odpowiedzi o dostęp do informacji publicznej z dnia 29.07.2024.
 
 Sygnatura pisma BI.OI.0134.107.2024.
 

@@ -7,7 +7,7 @@ image: /images/posts/pisklęta/pisklęta-małe.jpg
 tag: Opieka
 ---
 
-Na wstępie chciałabym poruszyć kilka ważnych spraw. Poradnik nie jest przeznaczony dla osób rozmnażających gołębi, tylko dla osób ratujące gołębie. Po drugie, poradnik nie zastąpi pomocy weterynarza specjalizującego się w leczeniu ptaków (od razu podkreślam, że psio-koci weterynarz, który nie ma wiedzy na temat leczenia ptaków to nie jest dobry wybór jeśli ptak nie wymaga pilnej pomocy) albo pracowników przyjaznego dla gołębi ośrodka rehabilitacji zwierząt lub fundacji. Nawet jeśli gołąb wygląda dobrze, to trzeba wcześniej lub później (oczywiście lepiej zrobić to wcześniej) skontaktować się z lekarzem. Po trzecie, jeśli masz link do tego poradnika, to mam nadzieję, że otrzymałeś go od naszej strony i w razie problemów jesteś z nami w kontakcie. W innym przypadku nie mogę zagwarantować, że podane tutaj porady będą odpowiednie dla Twojego przypadku, np. pisklęcia z ranami lub urazem głowy. I ostatnia kwestia – o ile istnieje wiele szczegółowych badań dotyczących lęgów *Columby livii* (gołąb miejski, domowy, skalny), to w przypadku pozostałych gołębi dostępnych badań jest zdecydowanie mniej (i są mniej szczegółowe). Dlatego jeśli chodzi o źródła ornitologiczne, to poradnik jest w dużej mierze oparty na źródłach dotyczących właśnie *Columby livii*, co nie zmienia faktu, że podane tutaj wskazówki sprawdzają się dobrze w przypadku podanych poniżej gatunków. 
+Na wstępie chciałabym poruszyć kilka ważnych spraw. Poradnik nie jest przeznaczony dla osób rozmnażających gołębi, tylko dla osób ratujące gołębie. Po drugie, poradnik nie zastąpi pomocy weterynarza specjalizującego się w leczeniu ptaków (od razu podkreślam, że psio-koci weterynarz, który nie ma wiedzy na temat leczenia ptaków to nie jest dobry wybór jeśli ptak nie wymaga pilnej pomocy) albo pracowników przyjaznego dla gołębi ośrodka rehabilitacji zwierząt lub fundacji. Nawet jeśli gołąb wygląda dobrze, to trzeba wcześniej lub później (oczywiście lepiej zrobić to wcześniej) skontaktować się z lekarzem. Po trzecie, jeśli masz link do tego poradnika, to mam nadzieję, że otrzymałeś go od naszej strony i w razie problemów jesteś z nami w kontakcie. W innym przypadku nie mogę zagwarantować, że podane tutaj porady będą odpowiednie dla Twojego przypadku, np. pisklęcia z ranami lub urazem głowy. I ostatnia kwestia – o ile istnieje wiele szczegółowych badań dotyczących lęgów _Columby livii_ (gołąb miejski, domowy, skalny), to w przypadku pozostałych gołębi dostępnych badań jest zdecydowanie mniej (i są mniej szczegółowe). Dlatego jeśli chodzi o źródła ornitologiczne, to poradnik jest w dużej mierze oparty na źródłach dotyczących właśnie _Columby livii_, co nie zmienia faktu, że podane tutaj wskazówki sprawdzają się dobrze w przypadku podanych poniżej gatunków.
 
 **Dziko występujące gołębie w Polsce:** gołąb miejski, grzywacz, sierpówka, siniak, turkawka, turkawka wschodnia.
 
@@ -20,6 +20,7 @@ Gołębie są gniazdownikami. Pisklęta po wykluciu mają zamknięte oczy, nie m
 ![](/images/posts/pisklęta/Pisklaki%20ściąga.jpg)
 
 ## Określenie wieku
+
 - [Galeria zdjęć przedstawiająca pierwsze 32 dni życia gołębia hodowlanego (można wzorować się tym również w przypadku gołębi miejskich)](https://www.mumtazticloft.com/BabyPigeons.asp). Gołębie miejskie/domowe otwierają oczy ok. 4–5 dnia życia.
 - [Filmik przedstawiający pierwsze 20 dni życia cukrówki (można wzorować się tym również w przypadku sierpówek)](https://youtu.be/MPhwQK5WKqY?t=58)
 - [Filmik przedstawiający pierwsze 5 tygodni życia grzywacza](https://youtu.be/bddqnnyD6c0?t=33)
@@ -29,11 +30,12 @@ Gołębie są gniazdownikami. Pisklęta po wykluciu mają zamknięte oczy, nie m
 
 **1. Ogrzewanie**
 
-Pisklęta gołębia miejskiego są zwykle wysiadywane przez rodziców nieustannie dopóki nie nabędą stałocieplności między 6 a 10 dniem życia. Pary mogą wysiadywać pisklęta (chociaż już nie bez przerwy) do 13 dnia życia, a część rodziców kontynuuje wysiadywanie nocą do 18 dnia życia. Temperatura ciała piskląt w dniu wyklucia wynosi średnio 32,2°C, natomiast 17 lub 18 dnia życia pisklęta osiągają temperaturę ciała dorosłego gołębia, tj. 41,4°C (T. Hetmański; R. Johnston, M. Janiga). 
+Pisklęta gołębia miejskiego są zwykle wysiadywane przez rodziców nieustannie dopóki nie nabędą stałocieplności między 6 a 10 dniem życia. Pary mogą wysiadywać pisklęta (chociaż już nie bez przerwy) do 13 dnia życia, a część rodziców kontynuuje wysiadywanie nocą do 18 dnia życia. Temperatura ciała piskląt w dniu wyklucia wynosi średnio 32,2°C, natomiast 17 lub 18 dnia życia pisklęta osiągają temperaturę ciała dorosłego gołębia, tj. 41,4°C (T. Hetmański; R. Johnston, M. Janiga).
 
 Temperatura w miejscu, gdzie znajdują się pisklęta powinna wynosić między 32 a 37°C. Dopiero co wyklute pisklęta potrzebują wyższej temperatury, tj. 37°C, następnie temperaturę trzeba stopniowo obniżać (C. Walker).
 
 Źródła ciepła:
+
 - **Butelka z ciepłą wodą.** Robimy prowizoryczny termofor z butelki plastikowej owiniętej w ręcznik. Woda nie może być wrząca. Trzeba pamiętać o częstej wymianie wody na ciepłą. Myślę, że na dłuższą metę ten sposób jest zbyt problematyczny.
 - **Termofor.** W przypadku termofora gumowego woda nie może być wrząca. Trzeba pamiętać o częstej wymianie wody na ciepłą. W przypadku innych rodzajów termoforów (żelowy, elektryczny) również należy upewnić się, że nie poparzą pisklęcia. Termofor powinien być owinięty pokrowcem.
 - **Żarówka.** Używamy lampki biurkowej z żarówką żarową w kształcie gruszki o mocy 40 watt. W międzyczasie powinniśmy zaopatrzyć się w specjalną żarówkę wytwarzającą promieniowanie podczerwone, by nie zaburzyć rytmu dobowego ptaka (J. Chitty, D. Monks; R. Black).
@@ -41,19 +43,19 @@ Temperatura w miejscu, gdzie znajdują się pisklęta powinna wynosić między 3
 
 Nieważne jakiego źródła ciepła używamy, zawsze trzeba upewnić się, że nie jest zbyt gorące i nie parzy piskląt. Pisklęta, którym jest **zbyt ciepło** są gorące w dotyku, mało responsywne i mogą oddychać przez otwarty dziób. Z kolei pisklęta, którym jest **zbyt chłodno** są zimne w dotyku i również mało responsywne. W obu przypadkach należy zmodyfikować sposób ich ogrzewania, np. położyć dodatkową warstwę materiału na poduszkę elektryczną jeśli jest im zbyt ciepło lub przybliżyć do nich lampkę jeśli jest im zbyt zimno (R. Duerr, L. Gage).
 
-W drugim tygodniu życia, kiedy pisklęta zaczynają bez problemu przemieszczać się (i uzyskują zdolność do termoregulacji) można dać im możliwość wyboru czy chcą się ogrzać, czy ochłodzić. W tym celu należy umieścić źródło ciepła tylko na połowie pojemnika. 
+W drugim tygodniu życia, kiedy pisklęta zaczynają bez problemu przemieszczać się (i uzyskują zdolność do termoregulacji) można dać im możliwość wyboru czy chcą się ogrzać, czy ochłodzić. W tym celu należy umieścić źródło ciepła tylko na połowie pojemnika.
 
 **Uwaga!** Jeśli dopiero co przynieśliśmy pisklęta z zewnątrz i czujemy, że jest wychłodzone, to należy zwiększać temperaturę do temperatury pożądanej stopniowo oraz trzymać je w cichym i ciemnym miejscu (zasada 3xC: cicho, ciemno, ciepło) przez przynajmniej 15–20 minut. Jeśli ptak doznał urazu głowy należy należy skontaktować się z weterynarzem (wysokie temperatury mogą nasilić obrzęk mózgu). Nie podajemy pokarmu wychłodzonemu pisklęciu! (R. Duerr, L. Gage).
 
 ![](/images/posts/pisklęta/grzywacze.jpg)
-*Pisklęta grzywacza niewymagające ogrzewania.*
+_Pisklęta grzywacza niewymagające ogrzewania._
 
 **2. Wilgotność powietrza**
 
 Aby pisklęta nie odwoniły się w suchym, gorącym otoczeniu należy zapewnić im również odpowiednią wilgotność powietrza (ponad 50%). W tym celu można wstawić do pojemnika, w którym znajduje się pisklę miseczkę z namoczonymi wodą ręcznikami papierowymi (A. Gallagher).
 
 ![](/images/posts/pisklęta/pisklaki%20małe.jpg)
-*Niedawno wyklute pisklęta gołębia domowego wymagające ogrzewania.*
+_Niedawno wyklute pisklęta gołębia domowego wymagające ogrzewania._
 
 ## Karmienie
 
@@ -74,6 +76,7 @@ Do 7 dnia życia pisklęta gołębi są głównie karmione przez rodziców ptasi
 Jeśli pisklę ma ponad 2 tygodnie, to można spróbować nalać mu wody do miski i nasypać ziarna. Jeśli samodzielnie pije i je, ziarno nie wypada mu z dzioba i wole jest napełnione ziarnem (zdjęcie napełnionego wola znajduje się poniżej, w dotyku takie wole przypomina zabawki wypełnione groszkiem), to można przejść do punktu "Przejście z mieszanki na ziarno". Jeśli nie je samodzielnie, to należy podstępować według instrukcji poniżej.
 
 Pokarm, którego używamy do momentu kupienia specjalnej mieszanki do karmienia piskląt:
+
 - kleik ryżowy/kukurydziany dla dzieci bez dodatku mleka lub Sinlac lub ziarna (patrz poniżej) zmielone w młynku do kawy, zalane wrzącą wodą;
 - szczypta probiotyku (może być dla niemowląt z apteki);
 - szczypta enzymów trawiennych (może być dla niemowląt z apteki);
@@ -82,18 +85,19 @@ Pokarm, którego używamy do momentu kupienia specjalnej mieszanki do karmienia 
 
 Ziarna, które można użyć do przygotowania mieszanki zastępczej: kukurydza popcorn, pszenica na kutię, ryż biały, groszek połówki, łuskany słonecznik, siemię lniane, soczewica, płatki owsiane, kasza jaglana, kasza gryczana niepalona, kasza wiejska, kasza perłowa, kasza pęczak, kasza jaglana, kuskus, sezam, pszenica, proso, krokosz barwierski, rzepak, konopie siewne, wyka, sorgo, łuskany jęczmień, owies bezłuskowy, kanar, peluszka. Z ziarnem jest więcej zabawy niż z kleikiem. Trzeba zmielić je w młynku do kawy na "mąkę".
 
-Przy sporządzeniu papki z powyższych składników kierujemy się informacjami z rozdziału poniżej "Jak przygotować mieszankę?" z tą różnicą, że dobieramy proporcje wody oraz kleiku/zmielonego ziarna na oko – przy kilkudniowych pisklętach papka powinna mieć wodnistą konsystencję (odtłuszczonego mleka). 
+Przy sporządzeniu papki z powyższych składników kierujemy się informacjami z rozdziału poniżej "Jak przygotować mieszankę?" z tą różnicą, że dobieramy proporcje wody oraz kleiku/zmielonego ziarna na oko – przy kilkudniowych pisklętach papka powinna mieć wodnistą konsystencję (odtłuszczonego mleka).
 
-Powyższy pokarm nie nadaje się do długotrwałego karmienia piskląt. Jak najszybciej zamawiamy specjalną mieszankę do karmienia piskląt **NutriBird A21***.
+Powyższy pokarm nie nadaje się do długotrwałego karmienia piskląt. Jak najszybciej zamawiamy specjalną mieszankę do karmienia piskląt **NutriBird A21\***.
 
 // Podstawy rehabilitacji dzikich zwierząt, s. 141
 
 ![](/images/posts/pisklęta/NutriBird.jpg)
-*Trzykilogramowe opakowanie NutriBird A21 (dostępne również w wersji 800 g i 250 g) i rozrobiony z wodą proszek w filiżance.*
+_Trzykilogramowe opakowanie NutriBird A21 (dostępne również w wersji 800 g i 250 g) i rozrobiony z wodą proszek w filiżance._
 
 ## Jak przygotować mieszankę?
 
 **Ważne informacje:**
+
 - Pokarm powinien być ciepły (producent NutriBird zaleca karmienie mieszanką o temperaturze 39 stopni Celsjusza).
 - **Nie podgrzewamy mieszanki w mikrofalówce!** Mikrofalówka podgrzewa płyn nierównomiernie. Część mieszanki będzie chłodna, a część wrząca, co może doprowadzić do poważnych poparzeń pisklęcia!
 - Przygotowujemy pokarm według proporcji zamieszczonych na opakowaniu. Za gęsty pokarm u zbyt młodego pisklęcia może stanąć w wolu.
@@ -106,28 +110,28 @@ Powyższy pokarm nie nadaje się do długotrwałego karmienia piskląt. Jak najs
 4. Dokładnie mieszamy wodę z proszkiem i odstawiamy na na minutę. Po minucie sprawdzamy czy konsystencja mieszanki jest odpowiednia (np. nie zrobiła się zbyt gęsta). Czekamy aż mieszanka ochłodzi się do 39°C. Jeszcze raz mieszamy pokarm (mógł się rozwarstwić). Karmimy pisklę.
 
 ![](/images/posts/pisklęta/waga.jpg)
-*Ok. 2-tygodniowe niewymagające ogrzewania pisklę sierpówki ważące 81 gram.*
+_Ok. 2-tygodniowe niewymagające ogrzewania pisklę sierpówki ważące 81 gram._
 
 ![](/images/posts/pisklęta/Proporcje.jpg)
-*Proporcje NutriBirda i wody.*
+_Proporcje NutriBirda i wody._
 
 ## Jak karmić pisklę? Metoda strzykawka i balon
 
 **Uwaga!** Nie karmimy ptaków, które są nieprzytomne, mają drgawki lub wymiotują. W takim przypadku należy niezwłocznie skontaktować się z weterynarzem.
 
-Najbezpieczniejszym sposobem karmienia pisklęcia jest sposób imitujący [karmienie go przez rodziców](https://www.youtube.com/watch?v=-EKUz84zH7U). Pisklę samo pobiera pokarm, wkładając dziób do otworu w strzykawce/butelce. Praktycznie nie ma możliwości, że karmiąc tą techniką, zrobimy mu krzywdę (w przeciwieństwie do innych sposobów, np. sondowania – karmienia za pomocą rurki, wkładanej do wola – podczas którego można przypadkowo wlać papkę do krtani i doprowadzić do zachłyśnięcia malucha). 
+Najbezpieczniejszym sposobem karmienia pisklęcia jest sposób imitujący [karmienie go przez rodziców](https://www.youtube.com/watch?v=-EKUz84zH7U). Pisklę samo pobiera pokarm, wkładając dziób do otworu w strzykawce/butelce. Praktycznie nie ma możliwości, że karmiąc tą techniką, zrobimy mu krzywdę (w przeciwieństwie do innych sposobów, np. sondowania – karmienia za pomocą rurki, wkładanej do wola – podczas którego można przypadkowo wlać papkę do krtani i doprowadzić do zachłyśnięcia malucha).
 
 Ptak, który jest wycieńczony i długo nie jadł, może mieć problemy ze strawieniem zbyt dużej porcji zbyt gęstego pokarmu. Dlatego najlepiej **podczas pierwszego karmienia podać bardziej rozrzedzoną papkę i w mniejszej ilości**. Jeśli po pierwszym karmieniu wole opróżnia się i ptak robi kupy, można zwiększyć ilość i gęstość pokarmu. **Jeśli ptak ma już pokarm w wolu (patrz na zdjęcia poniżej), to czekamy aż wole opróżni się i ptak zrobi kupę.** Jeśli po 6 godzinach pokarm dalej stoi w wolu należy skontaktować się z weterynarzem.
 
 ![](/images/posts/pisklęta/pełnewole.jpg)
-*Pisklę gołębia miejskiego z pełnym wolem.*
+_Pisklę gołębia miejskiego z pełnym wolem._
 
 ![](/images/posts/pisklęta/pustewole.jpg)
-*Pisklę gołębia miejskiego z pustym wolem. Gotowe do karmienia.*
+_Pisklę gołębia miejskiego z pustym wolem. Gotowe do karmienia._
 
 1. Bierzemy strzykawkę 20 lub 10 ml/małą butelkę szklaną/małą butelkę plastikową dla niemowląt. W przypadku strzykawki odcinamy odcinamy górną część, w przypadku butelki dla niemowląt ucinamy w połowie smoczek.
 2. Bierzemy balon, bandaż elastyczny czy cokolwiek elastycznego. W przypadku butelki dla niemowląt można użyć odciętego palca od rękawiczki gumowej.
-3. Robimy w balonie/bandażu/palcu rękawiczki dziurkę w kształcie “X”. 
+3. Robimy w balonie/bandażu/palcu rękawiczki dziurkę w kształcie “X”.
 4. Owijamy strzykawkę/butelkę materiałem elastycznym i przywiązujemy gumką lub nawijamy na butelkę dla niemowląt palec do rękawiczki.
 
 Do tak przygotowanego sprzętu wlewamy mieszankę i karmimy pisklę. Trzymamy butelkę/strzykawkę poziomo lub pod kątem, nie pionowo i pozwalamy pisklęciu na wyjęcie dzioba, gdy chce złapać oddech. Po karmieniu wycieramy dziób (i inne miejsce gdzie polała się papka) szmatką. Dokładnie myjemy nasz sprzęt wodą z mydłem i zostawiamy do wysuszenia.
@@ -143,7 +147,9 @@ Jeśli pisklę ma już kilka tygodni, całkiem możliwe, że nie będzie już ch
 ![](/images/posts/pisklęta/Strzykawka.jpg)
 
 ## Jak często karmić pisklę?
+
 **Częstotliwość karmienia w zależności od tygodnia życia pisklęcia (A. Maj):**
+
 - I tydzień życia 5–6x dziennie;
 - II tydzień życia 4–5x dziennie;
 - III tydzień życia 3x dziennie.
@@ -175,28 +181,30 @@ Gdy gołąb ma ok. 2–3 tygodnie, warto zacząć oswajać go z ziarnem. Możliw
 Sierpówki, cukrówki, turkawki i gołąbki diamentowe powinny dostawać drobniejsze ziarno. Więcej o żywieniu gołębi [tutaj](/Czym%20karmić%20gołębia).
 
 ![](/images/posts/pisklęta/samje.jpg)
-*Ok. 2-tygodniowe niewymagające ogrzewania pisklę gołębia miejskiego samodzielnie jedzące ziarno.*
+_Ok. 2-tygodniowe niewymagające ogrzewania pisklę gołębia miejskiego samodzielnie jedzące ziarno._
 
 ## Lokum
+
 Pisklę może znajdować się w transporterze, pudełku plastikowym, akwarium.
 Pisklęta, które jeszcze nie stoją powinny być umieszczone **w gnieździe odpowiednim do ich wielkości ciała (w którym głowa jest delikatnie uniesiona)**. Wystarczy przygotować koszyczek, miskę dla psa lub jakikolwiek inny nadający się pojemnik, a następnie wyściełać go ręcznikami papierowymi, ręcznikiem lub innymi materiałami zapewniającymi pisklętom przyczepność. Alternatywnie można zrolować materiał, np. ręcznik, w kształt donuta i wsadzić do środka pisklę. Starsze pisklęta, która już same chodzą również lubią siedzieć w gnieździe. Siniak, który gniazduje m.in. w dziuplach może być bardziej "zadowolony" jeśli będzie znajdować się w słabym oświetleniu (R. Duerr, L. Gage).
 
-**Uwaga!** Pisklę nie może być umieszczone na śliskiej powierzchni (np. plastikowej, metalowej). Jeśli nogi pisklęcia będą się rozjeżdżać, może dojść do ich deformacji (*splay legs*) (B. Doneley).
+**Uwaga!** Pisklę nie może być umieszczone na śliskiej powierzchni (np. plastikowej, metalowej). Jeśli nogi pisklęcia będą się rozjeżdżać, może dojść do ich deformacji (_splay legs_) (B. Doneley).
 
 ![](/images/posts/pisklęta/gniazdo.jpg)
-*Ok. 3-tygodniowe niejedzące samodzielnie ziarna pisklę gołębia miejskiego w zrobionym przez opiekuna gnieździe.*
+_Ok. 3-tygodniowe niejedzące samodzielnie ziarna pisklę gołębia miejskiego w zrobionym przez opiekuna gnieździe._
 
 ![](/images/posts/pisklęta/sierptrans.jpg)
-*Pisklę sierpówki w transporterze.*
+_Pisklę sierpówki w transporterze._
 
 ![](/images/posts/pisklęta/sierptrans2.jpg)
-*Pisklę sierpówki w transporterze.*
+_Pisklę sierpówki w transporterze._
 
 ![](/images/posts/pisklęta/pisklaki%20gniazdo.jpg)
-*Pisklęta grzywacza niewymagające ogrzewania w gnieździe zrobionym z miski dla psa wyłożonej ręcznikami papierowymi.*
+_Pisklęta grzywacza niewymagające ogrzewania w gnieździe zrobionym z miski dla psa wyłożonej ręcznikami papierowymi._
 
 ## Wizyta u ptasiego weterynarza
- Nawet jeśli pisklę wygląda na zdrowe, powinniśmy zabrać je na wizytę u weterynarza specjalizującego się w leczeniu ptaków. Podczas wizyty musimy poprosić o zrobieniu wymazu z wola oraz badania kału (weterynarz ogląda oba preparaty pod mikroskopem). Nawet jeśli pisklę wygląda na zdrowe, to badanie może wykazać obecność rzęsistków, kokcydiów, nicieni, drożdży lub innych rzadziej występujących pasożytów, które stanowią dla malucha poważne zagrożenie. 
+
+Nawet jeśli pisklę wygląda na zdrowe, powinniśmy zabrać je na wizytę u weterynarza specjalizującego się w leczeniu ptaków. Podczas wizyty musimy poprosić o zrobieniu wymazu z wola oraz badania kału (weterynarz ogląda oba preparaty pod mikroskopem). Nawet jeśli pisklę wygląda na zdrowe, to badanie może wykazać obecność rzęsistków, kokcydiów, nicieni, drożdży lub innych rzadziej występujących pasożytów, które stanowią dla malucha poważne zagrożenie.
 
 **Uwaga!** W przypadku wykrycia przez weterynarza nicieni, nie można zgadzać się na podanie gołębiowi fenbendazolu, albendazolu (sprzedawany jako Panacur) i innych pochodnych benzimidazolu. Badania pokazują, że fenbendazol i albendazolu niebezpieczny dla gołębi, a nawet niewielkie ich przedawkowanie może mieć poważne konsekwencje zdrowotne (Lauren L. et al.).
 
@@ -232,19 +240,19 @@ Jeśli nie będziemy ostrożni, oswoimy ptaka i przegapimy odpowiedni moment na 
 
 Na koniec chciałabym zamieścić tutaj przestrogę. Jeśli nie macie ochoty i cierpliwości, by zdobyć odpowiednią wiedzę na temat prawidłowego zajmowania się pisklętami gołębia (i jakimikolwiek innymi zwierzętami), nie macie pieniędzy, by kupić zwierzęciu odpowiednią karmę i opłacić wizytę u weterynarza, nie macie czasu, by zająć się pisklęciem, nie podejmujcie się opieki, bo doprowadzicie do ogromnego cierpienia zwierzęcia. Przekażcie zwierzę w miejsce, gdzie będzie mieć zapewnioną odpowiednią opiekę. By znaleźć ptakowi miejsce, gdzie otrzyma odpowiednią opiekę, najlepiej zapytać o to na naszej [Facebookowej grupie Gołębie – pomoc, opieka, adopcja – grupa Chatki Gołębia](https://www.facebook.com/groups/783765922151332/).
 
-Poniżej gołąb miejski zabrany przez osobę prywatną do domu gdy był jeszcze pisklęciem. W okolicy było mnóstwo miejsc, które mogłyby wytłumaczyć jak odpowiednio się nim opiekować, a nawet przejąć go i zapewnić opiekę na wysokim poziomie. W najważniejszym okresie życie, gdy rósł, intensywnie rozwijał się, był karmiony mącznikami. Gdy kobieta zauważyła, że nie ptak staje na nogi, w końcu przyniosła go do ośrodka rehabilitacji zwierząt Akcja Dla Dzikich Zwierząt przy klinice Vetika. Było dla niego za późno. Kości rozwinęły się nieprawidłowo, nogi były wykrzywione nie w tę stronę co trzeba, pióra były poniszczone i matowe. Gołąb miał okropne niedobory w organizmie. Był w stanie jedynie czołgać się. Intensywna i długotrwała suplementacja w formie zastrzyków nie pomogła. Gołąb został poddany eutanazji. 
+Poniżej gołąb miejski zabrany przez osobę prywatną do domu gdy był jeszcze pisklęciem. W okolicy było mnóstwo miejsc, które mogłyby wytłumaczyć jak odpowiednio się nim opiekować, a nawet przejąć go i zapewnić opiekę na wysokim poziomie. W najważniejszym okresie życie, gdy rósł, intensywnie rozwijał się, był karmiony mącznikami. Gdy kobieta zauważyła, że nie ptak staje na nogi, w końcu przyniosła go do ośrodka rehabilitacji zwierząt Akcja Dla Dzikich Zwierząt przy klinice Vetika. Było dla niego za późno. Kości rozwinęły się nieprawidłowo, nogi były wykrzywione nie w tę stronę co trzeba, pióra były poniszczone i matowe. Gołąb miał okropne niedobory w organizmie. Był w stanie jedynie czołgać się. Intensywna i długotrwała suplementacja w formie zastrzyków nie pomogła. Gołąb został poddany eutanazji.
 
 ![](/images/posts/pisklęta/Niedobory.jpg)
-*Gołąb miejski, który jako pisklę był na niewłaściwej diecie. Po nieskutecznym leczeniu został poddany eutanazji.*
+_Gołąb miejski, który jako pisklę był na niewłaściwej diecie. Po nieskutecznym leczeniu został poddany eutanazji._
 
 **Uwagi końcowe**
 
-Do karmienia kilkudniowych piskląt *Columby livii* lepsza byłaby mieszanka zawierająca większą ilość białka i tłuszczu niż popularny w Polsce NutriBird lub popularny w USA Kaytee Exact. Świetnie wygląda [Pigeon Crop Milk](https://www.psittacus.com/en/products/pigeon-crop-milk) z firmy Columbae (45% białka i 42% tłuszczu). Niestety mieszanka jest droga, a na dodatek Columbae nie ma oddziału w Polsce, natomiast ich produkty są dostępne np. [w sklepie w Czechach](https://www.janoschbf.com/pl/produkt/wildiets-replacer-crop-milk-500-g/). Kolejna mieszanka, która wygląda dobrze, ale również jest droga to [Harrison's Recovery Formula](https://www.hbf-uk.co.uk/products/recovery-formula) (35% białka i 19% tłuszczu). Nie będę się rozpisywać na jej temat, bo [instrukcja](https://www.hbf-uk.co.uk/education/hand-rearing-doves-pigeons) karmienia nią znajduje się już na stronie producenta. Natomiast jaka mieszanka byłaby najlepsza dla innych gołębi niż *Columba livia* w pierwszych dniach ich życia? Tak jak pisałam we wstępie, brakuje szczegółowych badań na temat ptasiego mleczka u innych gatunków gołębi. Np. [to badanie](https://nagonline.net/wp-content/uploads/2014/04/24_Maslankacropmilk.pdf) wskazuje na mniejszy procent tłuszczu (18,8%) w ptasim mleczku sierpówek. Z kolei Johnston i Janiga piszą, że ptasie mleczko wcale bardzo nie różni się między poszczególnymi gatunkami gołębi i jeden gatunek gołębia jest w stanie bez problemu odchować drugi gatunek gołębia.
+Do karmienia kilkudniowych piskląt _Columby livii_ lepsza byłaby mieszanka zawierająca większą ilość białka i tłuszczu niż popularny w Polsce NutriBird lub popularny w USA Kaytee Exact. Świetnie wygląda [Pigeon Crop Milk](https://www.psittacus.com/en/products/pigeon-crop-milk) z firmy Columbae (45% białka i 42% tłuszczu). Niestety mieszanka jest droga, a na dodatek Columbae nie ma oddziału w Polsce, natomiast ich produkty są dostępne np. [w sklepie w Czechach](https://www.janoschbf.com/pl/produkt/wildiets-replacer-crop-milk-500-g/). Kolejna mieszanka, która wygląda dobrze, ale również jest droga to [Harrison's Recovery Formula](https://www.hbf-uk.co.uk/products/recovery-formula) (35% białka i 19% tłuszczu). Nie będę się rozpisywać na jej temat, bo [instrukcja](https://www.hbf-uk.co.uk/education/hand-rearing-doves-pigeons) karmienia nią znajduje się już na stronie producenta. Natomiast jaka mieszanka byłaby najlepsza dla innych gołębi niż _Columba livia_ w pierwszych dniach ich życia? Tak jak pisałam we wstępie, brakuje szczegółowych badań na temat ptasiego mleczka u innych gatunków gołębi. Np. [to badanie](https://nagonline.net/wp-content/uploads/2014/04/24_Maslankacropmilk.pdf) wskazuje na mniejszy procent tłuszczu (18,8%) w ptasim mleczku sierpówek. Z kolei Johnston i Janiga piszą, że ptasie mleczko wcale bardzo nie różni się między poszczególnymi gatunkami gołębi i jeden gatunek gołębia jest w stanie bez problemu odchować drugi gatunek gołębia.
 
-Co do temperatury, którą powinny mieć zapewnione pisklęta – informacje różnią się w zależności od źródła, np. BSAVA podaje temperaturę 33–34 dla dopiero co wyklutych piskląt różnych gatunków ptaków, z kolei źródła, które dotyczą stricte gołębi, np. *Pink Pigeon Hand-rearing Protocol 2nd Edition*, zalecają wyższe temperatury.
+Co do temperatury, którą powinny mieć zapewnione pisklęta – informacje różnią się w zależności od źródła, np. BSAVA podaje temperaturę 33–34 dla dopiero co wyklutych piskląt różnych gatunków ptaków, z kolei źródła, które dotyczą stricte gołębi, np. _Pink Pigeon Hand-rearing Protocol 2nd Edition_, zalecają wyższe temperatury.
 
 Nie zdecydowałam się na podanie informacji, żeby po zabraniu z zewnątrz podać wodę przed karmieniem NutriBirdem, bo obawiam się, że ktoś może zrobić pisklęciu krzywdę, używając do pojenia strzykawki lub pipety, szczególnie przy bardzo małych pisklętach.
 
-**Źródła** 
+**Źródła**
 
-B. Doneley, *Avian Medicine and Surgery in Practice: Companion and Aviary Birds 2nd Edition*, s. 208, 231–232, 363; A. Czujkowska, *Podstawy rehabilitacji dzikich zwierząt*, s. 141, 161; J. Chitty, D. Monks, *BSAVA Manual of Avian Practice: A Foundation Manual (BSAVA British Small Animal Veterinary Association) 1st Edition*, s. 163; Johnston, R., M. Janiga, "Incubation, hatching, and cropmlik", "Development: nestling" w *Feral Pigeons*; T. Hetmański, *The effect of environmental factors and nesting conditions on clutch overlap in the Feral Pigeon Columba livia f. urbana (Gm.)*; A. Maj, *Pierwsza pomoc dla ptaków – szkolenie dla opiekunów*; J. Chitty, M. Lierz, *BSAVA Manual of Raptors, Pigeons and Passerine Birds*; Lauren L. et al. *Fenbendazole and Albendazole Toxicity in Pigeons and Doves*; J. Sales, J. Janssens, *Nutrition of the domestic pigeon (Columba livia domestica)*; "Caring For A Baby Pigeon" w Pigeon And Dove Rescue UK; "How & When to Feed a Pigeon (or Dove) Who Isn’t Eating" w Palomacy; R. Black, *Parrot Nutrition*, s. 56, 202–203; R. Duerr, L. Gage,*Hand-Rearing Birds 2nd Edition*, s. 6–9, 437–456; C. Walker, "Articial incubation and hand-raising" w Melbourne Bird Veterinary Clinic; D. Harrold et al., *Pink Pigeon Hand-rearing Protocol 2nd Edition*; A. Galán et al., *Woodpigeon Columba palumbus Diet Composition in Mediterranean Southern Spain*; E. Miller, *Minimum Standards For Wildlife Rehabilitation 4th Edition*; M. Maslanka et al., *Comparative crop milk composition in grantivorous and frugivorous Columbidae*; J. Ding et al., *The Composition and Function of Pigeon Milk Microbiota Transmitted From Parent Pigeons to Squabs*; H. White, "Raising Diamond Doves" w Diamond Dove; A. Gallagher, *Hand Rearing Birds*.
+B. Doneley, _Avian Medicine and Surgery in Practice: Companion and Aviary Birds 2nd Edition_, s. 208, 231–232, 363; A. Czujkowska, _Podstawy rehabilitacji dzikich zwierząt_, s. 141, 161; J. Chitty, D. Monks, _BSAVA Manual of Avian Practice: A Foundation Manual (BSAVA British Small Animal Veterinary Association) 1st Edition_, s. 163; Johnston, R., M. Janiga, "Incubation, hatching, and cropmlik", "Development: nestling" w _Feral Pigeons_; T. Hetmański, _The effect of environmental factors and nesting conditions on clutch overlap in the Feral Pigeon Columba livia f. urbana (Gm.)_; A. Maj, _Pierwsza pomoc dla ptaków – szkolenie dla opiekunów_; J. Chitty, M. Lierz, _BSAVA Manual of Raptors, Pigeons and Passerine Birds_; Lauren L. et al. _Fenbendazole and Albendazole Toxicity in Pigeons and Doves_; J. Sales, J. Janssens, _Nutrition of the domestic pigeon (Columba livia domestica)_; "Caring For A Baby Pigeon" w Pigeon And Dove Rescue UK; "How & When to Feed a Pigeon (or Dove) Who Isn’t Eating" w Palomacy; R. Black, _Parrot Nutrition_, s. 56, 202–203; R. Duerr, L. Gage,_Hand-Rearing Birds 2nd Edition_, s. 6–9, 437–456; C. Walker, "Articial incubation and hand-raising" w Melbourne Bird Veterinary Clinic; D. Harrold et al., _Pink Pigeon Hand-rearing Protocol 2nd Edition_; A. Galán et al., _Woodpigeon Columba palumbus Diet Composition in Mediterranean Southern Spain_; E. Miller, _Minimum Standards For Wildlife Rehabilitation 4th Edition_; M. Maslanka et al., _Comparative crop milk composition in grantivorous and frugivorous Columbidae_; J. Ding et al., _The Composition and Function of Pigeon Milk Microbiota Transmitted From Parent Pigeons to Squabs_; H. White, "Raising Diamond Doves" w Diamond Dove; A. Gallagher, _Hand Rearing Birds_.

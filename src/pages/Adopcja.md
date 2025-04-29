@@ -3,15 +3,17 @@ title: Adopcja
 layout: ../layouts/PageLayout.astro
 image: "/images/pages/adopcja/baner-adopcja.png"
 ---
-Gołębie potrafią świetnie przystosować się do nowych warunków. Potrzebują po prostu trochę czasu, cierpliwości i miłości. Są niezwykle towarzyskie i nawet gdy nie mają kontaktu z drugim przedstawicielem swojego gatunku, czują się szczęśliwe i zaspokojone jeśli mogą spędzić czas z człowiekiem, którego w którymś momencie zaczynają traktować jako członka swojego stada lub nawet partnera. 
 
-Klatka kojarzy nam się z cierpieniem i niewolą, jednak gołębie uwielbiają swoje klatki! Traktują je jako swoją prywatną przestrzeń, w której jedzą, śpią, bawią się czy dzielą się miłością ze swoim ludzkim lub gołębim partnerem. 
+Gołębie potrafią świetnie przystosować się do nowych warunków. Potrzebują po prostu trochę czasu, cierpliwości i miłości. Są niezwykle towarzyskie i nawet gdy nie mają kontaktu z drugim przedstawicielem swojego gatunku, czują się szczęśliwe i zaspokojone jeśli mogą spędzić czas z człowiekiem, którego w którymś momencie zaczynają traktować jako członka swojego stada lub nawet partnera.
+
+Klatka kojarzy nam się z cierpieniem i niewolą, jednak gołębie uwielbiają swoje klatki! Traktują je jako swoją prywatną przestrzeń, w której jedzą, śpią, bawią się czy dzielą się miłością ze swoim ludzkim lub gołębim partnerem.
 
 Gołębie są też niezwykle ciekawskie i będą szczęśliwe, przechadzając się po naszym domu, przyglądając się zachowaniu reszty domowników, patrząc przez okno, czy śpiąc na sofie lub regale.
 
 ![](/images/pages/adopcja/infografika-adopcja.jpg)
 
 ## Warunki adopcji gołębia
+
 1. Codzienna wymiana wody i jedzenia.
 2. Regularne sprzątanie klatki.
 3. Klatka o minimalnych wymiarach 107cm długości x 70cm szerokości x 75cm wysokości dla pary gołębi lub 91cm długości x 60cm szerokości x 66cm wysokości dla jednego gołębia. Odpowiednie wyposażenie klatki (półki, gniazdo, zabawki, lusterko, miska do kąpieli).

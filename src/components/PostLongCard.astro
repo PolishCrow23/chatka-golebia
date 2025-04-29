@@ -3,14 +3,22 @@ import { type CollectionEntry } from "astro:content";
 import FormattedDate from "./essentials/FormattedDate.astro";
 
 type Props = {
-    item: CollectionEntry<"posts">
+    item: CollectionEntry<"stories">
 }
 
 const { item } = Astro.props;
 
-const baseSlug = item.collection === 'posts' 
-    ? 'blog' 
-    : '';  
+const baseSlug = item.collection === 'stories' 
+    ? 'skrzydlate-historie' 
+    : '';
+
+function extractFirst120Words(body: string) {
+    const plainText = body.replace(/[*_`~#>/\[\]\(\)!]/g, ' ');
+    const words = plainText.split(/\s+/);
+    return words.slice(0, 100).join(' ') + '...';
+}
+
+const description = extractFirst120Words(item.body);
 ---
 
 <div class="post-card">
@@ -19,8 +27,7 @@ const baseSlug = item.collection === 'posts'
         <h2 class="title">{item.data.title}</h2>
     </a>
     <span class="date">{item.data.pubDate && <FormattedDate date={item.data.pubDate} />}</span>
-    <p class="description">{item.data.longDescription}</p>
- 
+    <p>{description}</p>
     <a class="show-more" href={`/${baseSlug}/${item.slug}`}>
         czytaj więcej...
     </a>
@@ -39,12 +46,12 @@ const baseSlug = item.collection === 'posts'
         display: flex;
         flex-direction: column;
         justify-content: space-around;
-        justify-items: center;
+        align-items: center;
         
         gap: 10px;
         
         width: 100%;
-        max-width: 780px;
+        max-width: 1320px;
         min-height: 300px;
         padding: 16px;
 
@@ -67,10 +74,6 @@ const baseSlug = item.collection === 'posts'
         margin-bottom: 0.2em;
     } 
 
-    .species {
-        font-style: italic;
-    }
-
     .pigeon-info {
         font-size: 1.6rem;
         margin-bottom: 0.2em;
@@ -85,8 +88,8 @@ const baseSlug = item.collection === 'posts'
         
     }
 
-    flex2 {
-        width: 351px;
+    .flex2 {
+        max-width: 350px;
     }
 
     h2 {
@@ -112,20 +115,18 @@ const baseSlug = item.collection === 'posts'
         margin-block: 10px 2px;
     }
     
+
     img {
-        max-width: 420px;
+        display: none;
+        width: 100%;
+        width: 350px;
+        height: 350px;
         object-fit: cover;
-        display: block;
-        margin-inline: auto;
-        
     }
 
-    @media (min-width: 400px) {
-        img{ 
-        height: 351px;
-
-        }
-
+    @media (min-width: 960px) {
+        img {
+            display: block;
     }
 
     @media (min-width: 760px) {
@@ -138,22 +139,9 @@ const baseSlug = item.collection === 'posts'
         .flex1 {
             gap: 20px;
         }
-        img {
-            width: 350px;
-            height: 350px;
-             /* Full width of the container */
-            vertical-align: center;
-        }
 
         h2 {
             font-size: 2.6rem;
         }
     }
-
-    @media (min-width: 700px) {
-    }
-
-    
-
-
 </style>

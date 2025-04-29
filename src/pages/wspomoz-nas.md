@@ -2,7 +2,9 @@
 title: Wspomóż nas
 layout: ../layouts/PageLayout.astro
 ---
+
 ## Przekaż 1,5% na Fundację Chatka Gołębia
+
 **KRS:** 0000507234
 
 **Cel:** 103842

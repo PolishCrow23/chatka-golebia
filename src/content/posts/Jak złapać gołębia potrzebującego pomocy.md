@@ -13,7 +13,7 @@ Poniżej znajduje się kilka metod łapania gołębi potrzebujących naszej pomo
 Im bardziej dziki, mniej oswojony z człowiek, zdrowszy i sprawniejszy jest gołąb, tym trudniej będzie nam go złapać. Pamiętajmy o tym, że im dłużej próbujemy łapać gołębia, tym bardziej nieufny w stosunku do nas się staje. Jednak nie poddawajmy się. Sposobów na złapanie potrzebującego naszej pomocy gołębia jest wiele, jeśli jeden okazał się nieskuteczny, przejdźmy do kolejnego, kombinujmy, łączmy ze sobą różne metody. Od tego zależy dobro zwierzęcia.
 
 ![](/images/posts/Jak%20złapać%20gołębia/Dokusia%20złapana.jpg)
-*Wycieńczony i zaatakowany przez drapieżnika gołąb ozdobny został złapany i przeniesiony w bezpieczne miejsce (wewnątrz budynku).*
+_Wycieńczony i zaatakowany przez drapieżnika gołąb ozdobny został złapany i przeniesiony w bezpieczne miejsce (wewnątrz budynku)._
 
 - **Łapanie w ręce.** Gdy gołąb jest bardzo osłabiony/chory, jest przyzwyczajony do obecności człowieka do tego stopnia, że nie ucieka od niego (jest gołębiem ozdobnym, pocztowym lub dzikim gołębiem wychowanym przez człowieka i wypuszczonym na wolność bez odpowiedniego przygotowania) albo jest pisklęciem, wystarczy powoli zbliżyć się do niego i wziąć go w ręce. Gołębie hodowlane nie potrafią przetrwać na wolności i często przylatują na nasze parapety, balkony lub dniami przesiadują w naszych ogrodach. Te ptaki wręcz proszą, żeby ktoś zaopiekował się nimi, zapewnił pożywienie, wodę, schronienie i bezpieczeństwo.
 
@@ -35,9 +35,10 @@ Im bardziej dziki, mniej oswojony z człowiek, zdrowszy i sprawniejszy jest goł
 
 - **Łapanie za pomocą siatki**, np. [takiej](https://allegro.pl/oferta/siatka-samochodowa-na-przyczepe-200x300cm-8956720323). Za pomocą siatki jesteśmy w stanie złapać kilka gołębi na raz. Możemy rozsypać jedzenie na ziemię, poczekać aż gołębie się zbliżą i szybkim ruchem zarzucić na nie siatkę.
 
-- **Łapanie za pomocą żywołapki z drzwiczkami otwierającymi się w jedną stronę.** Do takiej klatki gołąb może bez problemu wejść, jednak nie może z niej wyjść. Tworzymy z ziarna ścieżkę prowadzącą do środka klatki. Często sprawdzamy, czy do pułapki złapały się ptaki i nie zostawiamy pułpaki bez nadzoru na noc, gdyż ptaki uwięzione w środku klatki mogą stać się ofiarami drapieżnika. 
+- **Łapanie za pomocą żywołapki z drzwiczkami otwierającymi się w jedną stronę.** Do takiej klatki gołąb może bez problemu wejść, jednak nie może z niej wyjść. Tworzymy z ziarna ścieżkę prowadzącą do środka klatki. Często sprawdzamy, czy do pułapki złapały się ptaki i nie zostawiamy pułpaki bez nadzoru na noc, gdyż ptaki uwięzione w środku klatki mogą stać się ofiarami drapieżnika.
 
 - **Dokarmianie w tym samym miejscu o tej samej porze.** Nawet jeśli nie udaje nam się złapać gołębia, postarajmy się przyzwyczaić go do przylatywania w to samo miejsce o tej samej porze. Gołębie doskonale rozpoznają ludzkie twarze, mają niezwykłe wyczucie czasu i potrafią bezbłędnie trafić w miejsce, w którym były dokarmiane. Dzięki wprowadzeniu rutyny karmienia będziemy mieć pewność, że gołąb jest najedzony, będziemy w stanie skontrolować jego stan zdrowia, a co najważniejsze, będziemy mogli codziennie próbować złapać go.
 
 # Jak trzymać gołębia?
+
 Ważne, aby trzymać gołębia tak, by obejmować swoimi dłońmi oba skrzydła gołębia. W ten sposób ptak nie ma możliwości trzepotania nimi.

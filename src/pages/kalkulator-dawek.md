@@ -98,7 +98,6 @@ connect_input_listener("tablet_concentration");
 
 </script>
 
-
 <style>
     .container {
         padding-block: 2em 5em;

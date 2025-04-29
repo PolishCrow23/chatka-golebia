@@ -7,6 +7,7 @@ diet: "owocożerna"
 image: /images/atlas/garlica-maoryska/garlica-maoryska.png
 description: "Garlica maoryska to gatunek gołębia z Nowej Zelandii, o dużych rozmiarach, ciemnym upierzeniu i charakterystycznym białym pasku."
 ---
+
 Alternatywne nazwy: kereru, kukupa.
 
 Garlica maoryska to duży, silnie zbudowany gołąb o relatywnie długim ogonie.

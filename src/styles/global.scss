@@ -1,0 +1,242 @@
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu+Condensed&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Special+Elite");
+@import url("https://fonts.googleapis.com/css2?family=McLaren&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Galindo&family=McLaren&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+@font-face {
+  font-family: "Urbanist";
+  src: url("/fonts/Urbanist/Urbanist-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Urbanist";
+  src: url("/fonts/Urbanist/Urbanist-Black.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Urbanist";
+  src: url("/fonts/Urbanist/Urbanist-Regular.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Fraunces";
+  src: url("/fonts/Fraunces/Fraunces_72pt-Black.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+:root {
+  /* Colors */
+  --black: #000000;
+  --dark-plum: #320e3b;
+  --plum: #49354e;
+  --greyed-out-plum: #7d7182;
+  --very-dark-lavender: #634f90;
+  --dark-lavender: #9076c7;
+  --lavender: #a48cd5;
+  --light-lavender: #d0c0f3;
+  --lilac: #e5dcf9;
+  --peach: #ffb380;
+  --light-peach: #f6c49f;
+  --grass: #bbdb9b;
+  --cream: #fff3ea;
+  --white: #ffffff;
+
+  /* Paddings and margins */
+  --spacing-xxs: 0.2rem; /* 2px */
+  --spacing-xs: 0.4rem; /* 4px */
+  --spacing-sm: 0.6rem; /* 6px */
+  --spacing-md: 0.8rem; /* 8px */
+  --spacing-md2: 1.2rem; /* 12px */
+  --spacing-lg: 1.6rem; /* 16px */
+  --spacing-xl: 2.4rem; /* 24px */
+  --spacing-2xl: 3.2rem; /* 32px */
+  --spacing-3xl: 4.8rem; /* 48px */
+  --spacing-4xl: 6rem; /* 60px */
+  --spacing-5xl: 7.2rem; /* 72px */
+
+  --font-xs: 0.75rem; /* 12px */
+  --font-sm: 0.875rem; /* 14px */
+  --font-md: 1rem; /* 16px */
+  --font-lg: 1.125rem; /* 18px */
+  --font-xl: 1.25rem; /* 20px */
+  --font-2xl: 1.5rem; /* 24px */
+  --font-3xl: 1.875rem; /* 30px */
+  --font-4xl: 2.25rem; /* 36px */
+  --font-5xl: 3rem; /* 48px */
+  --font-6xl: 3.75rem; /* 60px */
+}
+
+html {
+  font-size: 62.5%;
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Verdana";
+  font-weight: 300;
+}
+
+*::selection {
+  background-color: var(--light-lavender);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Ubuntu Condensed";
+}
+
+h2 {
+  font-family: "Ubuntu Condensed";
+}
+
+h2 {
+  font-size: 2.4rem;
+}
+
+h3 {
+  font-size: 2.2rem;
+}
+
+h4 {
+  font-size: 2rem;
+  margin-block: 1rem;
+}
+
+h5 {
+  font-size: 1.8rem;
+  margin-block: 0.8rem;
+}
+
+ul {
+  list-style: none;
+}
+
+p,
+span,
+li {
+  font-family: "Poppins";
+}
+
+p {
+  font-weight: 300;
+  font-size: 1.8rem;
+  color: rgb(11, 8, 5);
+  line-height: 1.8;
+  margin-bottom: 1em;
+  text-align: justify;
+}
+
+img {
+  width: 100%;
+  border-radius: 35px;
+}
+
+strong {
+  font-weight: 500;
+}
+
+.box-shadow {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+a,
+a:visited {
+  color: var(--dark-lavender);
+  text-decoration: none;
+  transition-duration: 0.3s;
+  font-weight: 700;
+}
+
+a:hover {
+  color: var(--peach);
+  transition-duration: 0.2s;
+}
+
+.button {
+  display: inline-block;
+  padding: var(--spacing-xl);
+
+  border-radius: 60px;
+
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 900;
+  font-family: "Ubuntu Condensed";
+  color: black;
+  border: none;
+}
+
+.button-peach {
+  border: 1.5px solid var(--peach);
+  background-color: var(--peach);
+  color: var(--dark-plum) !important;
+  border: none;
+  transition-duration: 0.3s;
+}
+
+.button-peach:hover {
+  background-color: var(--lavender);
+  border: 1.5px solid var(--lavender);
+  border: none;
+  transition-duration: 0.3s;
+}
+
+.button-grass {
+  border: 1.5px solid var(--lavender);
+  background-color: var(--lavender);
+  color: var(--dark-plum) !important;
+  transition-duration: 0.3s;
+}
+
+.button-grass:hover {
+  background-color: var(--peach);
+  border: 1.5px solid var(--peach);
+  transition-duration: 0.3s;
+}
+
+iframe {
+  transform: scale(0.77);
+  transform-origin: 0 0;
+}
+
+.bold {
+  font-weight: 500;
+}
+
+@media (max-width: 468px) {
+  .button {
+    gap: 10px;
+  }
+
+  main {
+    padding-inline: 2%;
+  }
+}

@@ -1,132 +1,128 @@
 .slot-wrapper a {
-    color: var(--lavender);
+  color: var(--lavender);
 }
 
 .slot-wrapper a:hover {
-    color: var(--light-lavender);
+  color: var(--light-lavender);
 }
 
 .slot-wrapper ul {
-    list-style: disc;
+  list-style: disc;
 }
 
-.slot-wrapper ol, .slot-wrapper ul {
-    margin-inline: 2rem;
-    margin-block: 4rem;
+.slot-wrapper ol,
+.slot-wrapper ul {
+  margin-inline: 2rem;
+  margin-block: 4rem;
 }
 
 .slot-wrapper li {
-    font-family: 'Poppins';
-    line-height: 1.6;
-    font-size: 1.8rem;
-    margin-block: 0.4em;
+  font-family: "Poppins";
+  line-height: 1.6;
+  font-size: 1.8rem;
+  margin-block: 0.4em;
 }
 
 .slot-wrapper h2 {
-    font-size: 3rem;
-    margin-block: 1.2em 1.2em;
-    padding-left: 10px;
-    border-left: solid 4px var(--peach);
+  font-size: 3rem;
+  margin-block: var(--spacing-3xl);
+  padding-left: var(--spacing-md);
+  border-left: solid 4px var(--peach);
 }
 
 .slot-wrapper h3 {
-    font-size: 2.2rem;
-    margin-block: 1.2em 1.2em;
+  font-size: 2.2rem;
+  margin-block: var(--spacing-2xl);
 }
 
 .slot-wrapper p {
-    text-align: left;
-    line-height: 1.8;
-    margin-bottom: 2.8rem;
-}
-
-main {
-    padding-block: 4em 6em;
-    padding-inline: 3%;
+  text-align: left;
+  line-height: 1.8;
+  margin-bottom: var(--spacing-lg);
 }
 
 .post h1 {
-    text-align: center;
-    font-size: 3.6rem;
+  text-align: center;
+  font-size: 3.6rem;
 }
 .post hr {
-    width: 100%;
-    margin: 0.5em auto 6em;
+  width: 100%;
+  margin: 0.5em auto 6em;
 }
 
 .post img {
-    border-radius: 35px;
-    margin-block: 10px;
+  border-radius: 35px;
+  margin-block: 10px;
 }
 
 blockquote {
-    display:block;
-    border-radius: 36px;
-    background:white;
-    padding: 15px 20px 15px 45px;
-    margin: 20px 0 30px;
-    position: relative;
-    
-    /*Font*/
-    font-family: "Poppins";
-    font-size: 1.8rem;
-    line-height: 1.8;
-    text-align: justify;
-    color: var(--black);
-    
-    /*Borders - (Optional)*/
-    border-left: 12px solid var(--peach);
-    /* border-right: 5px solid #c76c0c; */
-    
-    /*Box Shadow - (Optional)*/
-    -moz-box-shadow: 2px 2px 15px #ccc;
-    -webkit-box-shadow: 2px 2px 15px #ccc;
-    box-shadow: 2px 2px 15px #ccc;
-  }
-  
-  blockquote::before{
-    content: "\201C"; /*Unicode for Left Double Quote*/
-    
-    /*Font*/
-    font-family: Georgia, serif;
-    font-size: 60px;
-    font-weight: bold;
-    color: #20150c;
-    
-    /*Positioning*/
-    position: absolute;
-    left: 10px;
-    top:5px;
-  }
-  
-  blockquote::after{
-    /*Reset to make sure*/
-    content: "";
-  }
-  
-  blockquote a{
-    text-decoration: none;
-    background: #eee;
-    cursor: pointer;
-    padding: 0 3px;
-    color: #c76c0c;
-  }
-  
-  blockquote a:hover{
-   color: #666;
-  }
-  
-  blockquote em{
-    font-style: italic;
+  display: block;
+  border-radius: 36px;
+  background: white;
+  padding: var(--spacing-lg) var(--spacing-xl) var(--spacing-lg)
+    var(--spacing-3xl);
+  margin-block: var(--spacing-xl);
+  position: relative;
+
+  /*Font*/
+  font-family: "Poppins";
+  font-size: 1.8rem;
+  line-height: 1.8;
+  text-align: justify;
+  color: var(--black);
+
+  /*Borders - (Optional)*/
+  border-left: 12px solid var(--peach);
+  /* border-right: 5px solid #c76c0c; */
+
+  /*Box Shadow - (Optional)*/
+  -moz-box-shadow: 2px 2px 15px #ccc;
+  -webkit-box-shadow: 2px 2px 15px #ccc;
+  box-shadow: 2px 2px 15px #ccc;
+}
+
+blockquote::before {
+  content: "\201C"; /*Unicode for Left Double Quote*/
+
+  /*Font*/
+  font-family: Georgia, serif;
+  font-size: 60px;
+  font-weight: bold;
+  color: #20150c;
+
+  /*Positioning*/
+  position: absolute;
+  left: 10px;
+  top: 5px;
+}
+
+blockquote::after {
+  /*Reset to make sure*/
+  content: "";
+}
+
+blockquote a {
+  text-decoration: none;
+  background: #eee;
+  cursor: pointer;
+  padding: 0 3px;
+  color: #c76c0c;
+}
+
+blockquote a:hover {
+  color: #666;
+}
+
+blockquote em {
+  font-style: italic;
+}
+
+@media (min-width: 760px) {
+  .slot-wrapper h2 {
+    font-size: 3.4rem;
   }
 
-
-@media  (min-width: 760px) {
-    .slot-wrapper h2 {
-        font-size: 3.4rem;
-    }
-    
-    .slot-wrapper h3 {
-        font-size: 2.8rem;
-    }
+  .slot-wrapper h3 {
+    font-size: 2.8rem;
+  }
 }

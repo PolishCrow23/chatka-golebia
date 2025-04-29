@@ -6,6 +6,7 @@ image: /images/choroby-gołębi.png
 description: Zwięzłe zaprezentowanie wyników aktualnych badań naukowych nt. zagrożeń zdrowotnych płynących od gołębi.
 tag: Zdrowie
 ---
+
 **„Wśród ludności często panuje nierealny strach przed przenoszeniem chorób przez gołębie, który jest dodatkowo podsycany przez niektóre grupy interesów”** – pisze prof. Daniel Haag-Wackernagel z Uniwersytetu w Bazylei, w artykule „Gesundheitsgefährdungen durch die Straßentaube”.
 
 ## Geneza i cel publikacji
@@ -18,7 +19,7 @@ Natomiast media, szukają „taniej” sensacji, która przyciągnie uwagę czyt
 
 **Celem niniejszej publikacji jest zwięzłe zaprezentowanie wyników aktualnych badań naukowych nt. zagrożeń zdrowotnych płynących od gołębi, a tym samym przedstawienie obiektywnych, w miarę możliwości zobrazowanych ilościowo, faktów odnośnie tych zagrożeń.** Na końcu niniejszego opracowania znajdują się źródła, na których opiera się niniejszy tekst, wraz z datami ich publikacji. Głównymi źródłami są artykuły i opracowania profesora D. Haag-Wackernagel’a z lat 2004-12 oraz nowszy artykuł dwojga niemieckich autorów - lekarz weterynarii - dr M. Kneidl-Fenske - oraz Pełnomocnika ds. Ochrony Zwierząt - M. Dämmrich - z roku 2017 \[13]. Artykuły tych autorów mają tę zaletę, że oprócz definiowania patogenów (wirusów, bakterii, grzybów, roztoczy, itp.) występujących na gołębiach, podają statystyki rzeczywistych zachorowań ludzi w wyniku kontaktu z tymi patogenami, opisują sytuacje, w jakich te zachorowania wystąpiły, oraz określają w wielu przypadkach możliwe środki zaradcze.
 
-Zagrożenia zdrowotne płynące od gołębi miejskich można podzielić na dwie części: zagrożenia chorobami i  zagrożenia pasożytami. W dalszej części tekstu znajdują się rozdziały dotyczące tych dwóch rodzajów zagrożeń.
+Zagrożenia zdrowotne płynące od gołębi miejskich można podzielić na dwie części: zagrożenia chorobami i zagrożenia pasożytami. W dalszej części tekstu znajdują się rozdziały dotyczące tych dwóch rodzajów zagrożeń.
 
 ## Zagrożenia chorobami od gołębi miejskich
 

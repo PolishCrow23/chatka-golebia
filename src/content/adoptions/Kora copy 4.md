@@ -6,4 +6,5 @@
 "age": 5
 "pubImage": "/images/birds/Gris1.jpg"
 ---
+
 Kora to piękny gołąb do adopcji.

@@ -10,17 +10,18 @@ tag: Opieka
 
 ## Kiedy określenie płci gołębia jest ważne?
 
-Jeśli mamy jednego gołębia i nie planujemy adopcji drugiego, możemy zrobić mu test płci DNA, żeby zaspokoić swoją ciekawość, ale oczywiście nie jest to konieczne. Natomiast jeśli chcemy adoptować drugiego gołębia i mieć pewność, że gołębie nie zrobią sobie krzywdy, wtedy ważne jest poznanie ich płci. 
+Jeśli mamy jednego gołębia i nie planujemy adopcji drugiego, możemy zrobić mu test płci DNA, żeby zaspokoić swoją ciekawość, ale oczywiście nie jest to konieczne. Natomiast jeśli chcemy adoptować drugiego gołębia i mieć pewność, że gołębie nie zrobią sobie krzywdy, wtedy ważne jest poznanie ich płci.
 
 U gołębi samiec z samcem rzadko tworzą szczęśliwą parę. Jeśli umieścimy dwóch samców w jednej klatce, najczęściej będą ze sobą walczyć, co może w końcu skończyć się tragedią. Dlatego jeśli chcemy, aby nasze gołębie żyły **w jednej klatce w zgodzie**, powinniśmy odpowiednio dopasować je pod względem płci. Samiec z samiczką stworzą szczęśliwą parę. Samiczka z samiczką najczęściej również stworzą szczęśliwą parę. W pierwszym przypadku musimy pamiętać o podmienianiu prawdziwych jajek na podkładowe, by nie wykluły się z nich pisklęta, natomiast w drugim przypadku nie musimy podmieniać prawdziwych jajek na sztuczne, bo nie są one zapłodnione. Więcej o jajkach i antykoncepcji [w osobnym poście](Gołębi pupil a jajka - antykoncepcja u gołębi).
 
-Jeśli po zrobieniu testu płci DNA okaże się, że nasz gołąb jest samiczką, wtedy nie ma znaczenia, czy adoptujemy samicę czy samca. Natomiast jeśli nasz gołąb okaże się samcem, wtedy ważna jest adopcja samicy. 
+Jeśli po zrobieniu testu płci DNA okaże się, że nasz gołąb jest samiczką, wtedy nie ma znaczenia, czy adoptujemy samicę czy samca. Natomiast jeśli nasz gołąb okaże się samcem, wtedy ważna jest adopcja samicy.
 
 <center><p><span style="color:pink;font-size: 150%">♀</span> ＋ <span style="color:lightblue;font-size: 150%">♂</span> ✓ podmiana prawdziwych jaj na podkładowe</p></center> 
 <center><p><span style="color:pink;font-size: 150%">♀</span> ＋ <span style="color:pink;font-size: 150%">♀</span> ✓ brak konieczności podmiany prawdziwych jaj na podkładowe</p></center>
 <center><p><span style="color:lightblue;font-size: 150%">♂</span> ＋ <span style="color:lightblue;font-size: 150%">♂</span> ✗ agresja, walka</p></center>
 
 ## Jak z prawie stuprocentową dokładnością określić płeć gołębia?
+
 - **Robiąc mu badanie DNA płci.**
 - **Czekając aż złoży jajko.** Samica składa jajka tylko wtedy, gdy czuje, że ma partnera (partnerem może być człowiek lub drugi gołąb). Brak jajka nie oznacza, że gołąb jest samcem.
 
@@ -32,17 +33,17 @@ Drugą opcją jest **samodzielne pobranie próbki** i wysłanie jej do laborator
 
 ## Przykład z życia – badanie DNA płci Zeldy
 
-*Zdecydowałam się na zrobienie Zeldzie badania płci w laboratorium [CIGEN – Genetyka Ptaków](http://www.genetykaptakow.pl/). Koszt badania to 55 zł za jednego gołębia. Czas realizacji to 10-12 dni roboczych. Do badania koniecznych jest 3-5 świeżo wyrwanych piór (lepiej wyrwać trochę więcej), najlepsze są nowowyrastające pióra, ale nie są one konieczne do badania. Jeśli nie chce się otrzymać certyfikatu płci gołębia, to w podpunkcie „deklarowany sposób otrzymania wyników badań" trzeba napisać z boku „otrzymanie wyników smsem".*
+_Zdecydowałam się na zrobienie Zeldzie badania płci w laboratorium [CIGEN – Genetyka Ptaków](http://www.genetykaptakow.pl/). Koszt badania to 55 zł za jednego gołębia. Czas realizacji to 10-12 dni roboczych. Do badania koniecznych jest 3-5 świeżo wyrwanych piór (lepiej wyrwać trochę więcej), najlepsze są nowowyrastające pióra, ale nie są one konieczne do badania. Jeśli nie chce się otrzymać certyfikatu płci gołębia, to w podpunkcie „deklarowany sposób otrzymania wyników badań" trzeba napisać z boku „otrzymanie wyników smsem"._
 
-*Do pobierania piór przygotowałam: umytą pęsetę (można też wyrywać pióra rękami), jednorazowe rękawiczki (można wyrywać pióra umytymi rękami bez rękawiczek), woreczek strunowy i kopertę do wysłania piór do laboratorium. Poprosiłam drugą osobę, żeby przytrzymała mi Zeldę. Szukałam na jego klatce piersiowej i szyi nowowyrastających piór. Następnie chwytałam je pęsetą (trzymając za końcówkę pióra, nie nasadę), gwałtownym ruchem wyrywałam je i wsadzałam do woreczka strunowego. Łącznie wyrwałam 10 piór.*
+_Do pobierania piór przygotowałam: umytą pęsetę (można też wyrywać pióra rękami), jednorazowe rękawiczki (można wyrywać pióra umytymi rękami bez rękawiczek), woreczek strunowy i kopertę do wysłania piór do laboratorium. Poprosiłam drugą osobę, żeby przytrzymała mi Zeldę. Szukałam na jego klatce piersiowej i szyi nowowyrastających piór. Następnie chwytałam je pęsetą (trzymając za końcówkę pióra, nie nasadę), gwałtownym ruchem wyrywałam je i wsadzałam do woreczka strunowego. Łącznie wyrwałam 10 piór._
 
-*Wypełniłam formularz zgłoszeniowy. Wsadziłam formularz do koperty wraz z piórami w woreczku. Wysłałam kopertę pocztą, a następnie zrobiłam przelew na konto laboratorium. Na wyniki badań czekałam dosyć długo, około 3 tygodnie. Gdy robiłam badanie DNA płci kolejnego gołębia, Myszki, otrzymałam wyniki po 2 tygodniach.*
+_Wypełniłam formularz zgłoszeniowy. Wsadziłam formularz do koperty wraz z piórami w woreczku. Wysłałam kopertę pocztą, a następnie zrobiłam przelew na konto laboratorium. Na wyniki badań czekałam dosyć długo, około 3 tygodnie. Gdy robiłam badanie DNA płci kolejnego gołębia, Myszki, otrzymałam wyniki po 2 tygodniach._
 
 ![](/images/posts/badanie-dna-płci/pióra.jpg)
-*Rozwinięte wyrwane pióro i nowowyrastające wyrwane pióro.*
+_Rozwinięte wyrwane pióro i nowowyrastające wyrwane pióro._
 
 ![](/images/posts/badanie-dna-płci/nowe-pióra.jpg)
-*Nowowyrastające pióra na szyi Malinki.*
+_Nowowyrastające pióra na szyi Malinki._
 
 ![](/images/posts/badanie-dna-płci/certyfikat.jpg)
-*Certyfikat płci Zeldy.*
+_Certyfikat płci Zeldy._

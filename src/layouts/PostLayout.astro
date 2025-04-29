@@ -6,7 +6,9 @@ import Footer from "../components/essentials/Footer.astro";
 import PiwikPro from "../components/essentials/PiwikPro.astro";
 import FormattedDate from "../components/essentials/FormattedDate.astro";
 import "../styles/slotwrapper.css"
-import TableOfContents from '../components/TableOfContents.astro';
+import TableOfContents from '../components/essentials/TableOfContents.astro';
+
+const { image, title, author, description, pubDate, photos, tag, headings } = Astro.props;
 
 interface PostFrontmatter {
   title: string;
@@ -19,9 +21,6 @@ interface PostFrontmatter {
 }
 
 type Props = PostFrontmatter & { headings: MarkdownHeading[] };
-
-const { image, title, author, description, pubDate, photos, tag, headings } = Astro.props;
-
 ---
 
 <html lang="en">
