@@ -1,0 +1,74 @@
+<button class="backToTopBtn"></button>
+
+<style>
+.backToTopBtn {
+    position: fixed;
+    bottom: 50px;
+    right: 60px;
+    z-index: 1;
+    width: 54px;
+    height: 54px;
+    border: none;
+    background-image: url(/images/meta/arrows/arrow-up.svg) !important;
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+    color: var(--dark-lavender);
+    border-radius: 100%;
+    transition: 0.5s;
+    cursor: pointer;
+}
+.backToTopBtn:not(:hover) {
+  background: var(--dark-lavender);
+}
+.backToTopBtn:hover {
+  background: var(--lavender);
+}
+.backToTopBtn.active {
+  visibility: visible;
+  opacity: 1;
+  pointer-events: auto;
+}
+.backToTopBtn:not(.active) {
+  visibility: hidden;
+  opacity: 0;
+  pointer-events: none;
+}
+
+@media  (max-width: 480px) {
+    .backToTopBtn {
+        right: 10px;
+        bottom: 10px;
+        width: 36px;
+        height: 36px;
+        background-size: 60% !important;
+    }
+}
+
+</style>
+
+<script>
+function scrollTopHandler() {
+  // 500 -> This is the value in px of the distance to be scrolled for the 'scroll-to-top' button to show up
+  const backToTopBtn = document.querySelector(".backToTopBtn");
+  if (window.scrollY > 1000) {
+    backToTopBtn.classList.add("active");
+  } else {
+    backToTopBtn.classList.remove("active");
+  }
+}
+
+document.addEventListener("DOMContentLoaded", function () {
+  const backToTopBtn = document.querySelector(".backToTopBtn");
+
+  // Show and hide button on scroll
+  scrollTopHandler();
+  window.addEventListener("scroll", scrollTopHandler);
+
+  // Scroll to top on button click
+  backToTopBtn.addEventListener("click", function (e) {
+    e.preventDefault();
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  });
+});
+
+</script>

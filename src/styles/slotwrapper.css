@@ -1,9 +1,17 @@
 .slot-wrapper a {
-  color: var(--lavender);
+  color: var(--very-dark-lavender);
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  font-weight: 500;
 }
 
 .slot-wrapper a:hover {
-  color: var(--light-lavender);
+  text-decoration-thickness: 3px;
+}
+
+.slot-wrapper .button {
+  text-decoration: none;
+  font-weight: 600;
 }
 
 .slot-wrapper ul {
@@ -27,7 +35,7 @@
   font-size: 3rem;
   margin-block: var(--spacing-3xl);
   padding-left: var(--spacing-md);
-  border-left: solid 4px var(--peach);
+  border-left: solid 5px var(--peach);
 }
 
 .slot-wrapper h3 {

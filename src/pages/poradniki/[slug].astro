@@ -28,6 +28,6 @@ const { post, headings } = Astro.props;
 const { Content } = await post.render();
 ---
 
-<PostLayout {...post.data} headings={headings}>
+<PostLayout {...post.data} headings={headings} slug={post.slug}>
   <Content />
 </PostLayout>

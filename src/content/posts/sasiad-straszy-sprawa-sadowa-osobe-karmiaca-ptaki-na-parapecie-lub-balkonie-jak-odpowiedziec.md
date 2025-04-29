@@ -2,6 +2,7 @@
 title: "Sąsiad straszy sprawą sądową osobę karmiącą ptaki na parapecie lub
   balkonie. Jak odpowiedzieć? "
 author: Hanna Cichocka
+summary: Artykuł dotyczy sytuacji prawnej osoby dokarmiającej ptaki na parapecie lub balkonie oraz możliwych konsekwencji takich działań, w tym roszczeń sąsiadów w postępowaniach cywilnych, wykroczeniowych lub administracyjnych. Omawia również granice praw własności, pojęcie immisji, porządek domowy i zasady współżycia społecznego, a także to, kiedy działania sąsiada mogą stanowić nękanie lub groźbę bezprawną.
 pubDate: 04.10.2025
 tag: Prawo
 image: /images/bird-eating-food-from-human-hand.jpg
