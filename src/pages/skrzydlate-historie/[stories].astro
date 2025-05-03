@@ -1,0 +1,35 @@
+---
+import { getCollection, type CollectionEntry, render } from "astro:content"
+import PostLayout from "../../layouts/PostLayout.astro"
+import type { MarkdownHeading } from 'astro';
+
+export const getStaticPaths = async () => {
+  const stories = await getCollection("stories");
+
+  const headings = await Promise.all(
+    stories.map(async (story) => {
+      const data = await render(story);
+      return data.headings;
+    })
+  );
+
+  return stories.map((story, index) => ({
+    params: { stories: story.slug },
+    props: { story, headings: headings[index] },
+  }));
+};
+
+type Props = {
+  story: CollectionEntry<"stories">;
+  headings: MarkdownHeading[];
+}
+
+const { story, headings } = Astro.props;
+const { Content } = await story.render();
+
+console.log("stories");
+---
+
+<PostLayout {...story.data} headings={headings}>
+  <Content />
+</PostLayout>

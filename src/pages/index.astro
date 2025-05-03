@@ -12,7 +12,8 @@ import { getCollection } from "astro:content";
 
 const { title, description, date, pubDate } = Astro.props;
 
-const posts = await getCollection("posts");
+const posts = (await getCollection("posts"))
+.sort((b, a) => a.data.pubDate.valueOf() - b.data.pubDate.valueOf());
 
 const meetups = (await getCollection("meetups"))
   .sort((a, b) => a.data.pubDate.valueOf() - b.data.pubDate.valueOf());

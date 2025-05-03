@@ -1,0 +1,146 @@
+---
+import { getCollection } from "astro:content"
+import PostLongCard from "../PostLongCard.astro";
+
+const stories = (await getCollection("stories")).sort(
+	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+);
+
+import "swiper/css";
+import "swiper/css/navigation";
+---
+<section>
+    <div class="bk">
+        <a href="/blog"><h2>Poradniki</h2></a>
+    </div>
+
+    <div class="our-stories-container"> 
+        <div class="swiper our-stories-swiper">
+            <div class="swiper-wrapper">
+                    <div class="swiper-slide">{stories.slice(0, 3).map((story) => <PostLongCard item={story} />)}</div>
+            </div>
+
+            <div class="swiper-button-next our-stories-swiper-button-next"></div>
+            <div class="swiper-button-prev our-stories-swiper-button-prev"></div>
+        </div>
+        
+        <a href="/poradniki" class="show-more">Pokaż wszystkie poradniki
+            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24"><g fill="none"><path d="M24 0v24H0V0zM12.593 23.258l-.011.002l-.071.035l-.02.004l-.014-.004l-.071-.035q-.016-.005-.024.005l-.004.01l-.017.428l.005.02l.01.013l.104.074l.015.004l.012-.004l.104-.074l.012-.016l.004-.017l-.017-.427q-.004-.016-.017-.018m.265-.113l-.013.002l-.185.093l-.01.01l-.003.011l.018.43l.005.012l.008.007l.201.093q.019.005.029-.008l.004-.014l-.034-.614q-.005-.019-.02-.022m-.715.002a.02.02 0 0 0-.027.006l-.006.014l-.034.614q.001.018.017.024l.015-.002l.201-.093l.01-.008l.004-.011l.017-.43l-.003-.012l-.01-.01z"/><path fill="currentColor" d="m15.06 5.283l5.657 5.657a1.5 1.5 0 0 1 0 2.12l-5.656 5.658a1.5 1.5 0 0 1-2.122-2.122l3.096-3.096H4.5a1.5 1.5 0 0 1 0-3h11.535L12.94 7.404a1.5 1.5 0 0 1 2.122-2.121Z"/></g></svg>
+    </div>
+    
+</section>
+
+<style>
+
+    section {   
+        
+        background-color: #ffcfac;
+        
+        background-repeat: no-repeat;
+        
+    }
+
+    .swiper {
+        max-width: 1600px;
+        margin-inline: auto;
+    }
+
+    .swiper-wrapper {
+        margin-inline: auto;
+        max-width: 1500px;
+    }
+
+    .swiper-slide {
+        display: flex;
+        justify-content: space-around;
+        flex-wrap: wrap;
+        gap: 5em;
+    }
+
+    .bk {
+        background-color: #ffcfac;
+        padding-bottom: 2rem;
+        position: relative;
+    }
+
+    .our-stories-container {
+        max-width: 1980px;
+        margin-inline: auto;
+        padding-block: 2rem;
+        background-color: #ffcfac;
+        padding-bottom: 10em;
+    }
+
+    .cards-container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        gap: 3em;
+        margin-bottom: 3em;
+    }
+
+    .swiper-button-next, .swiper-button-prev {
+        color: var(--plum);
+        background: var(--cream);
+        width: 50px;
+        height: 50px;
+        border-radius: 16px;
+        box-shadow: 0 0 4px rgba(0, 0, 0, 0.2);
+        positon: absolute;
+    }
+
+    .swiper-button-prev {
+        left: 4px;
+    }
+
+    .swiper-button-next {
+        right: 4px;
+    }
+
+    h2 {
+        font-family: "Ubuntu Condensed";
+        font-size: 5rem;
+        color: var(--plum);
+        display: block;
+        position: absolute;
+        left: 230px;
+        bottom: 80px;
+    }
+
+    h3 {
+        font-size: 2rem;
+    }
+
+    .show-more {
+        font-family: 'Ubuntu Condensed';
+        font-size: 2rem;
+        font-weight: 600;
+        color: var(--plum);
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+        gap: 0.1em;
+        padding-right: 5.5em;
+    }
+
+      
+    @media  (max-width: 758px) { 
+        .cards-container {
+            justify-content: center;
+        }
+    }
+
+    @media  (max-width: 900px) {
+        .container {
+            padding-inline: 2%;
+        }
+        h2 {
+            left: 20px;
+            
+        }
+    }
+
+</style>
+<script>
+    import "/src/lib/slider-simple.js";
+</script>

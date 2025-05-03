@@ -35,40 +35,43 @@
 }
 
 @media  (max-width: 480px) {
-    .backToTopBtn {
-        right: 10px;
-        bottom: 10px;
-        width: 36px;
-        height: 36px;
-        background-size: 60% !important;
-    }
+  .backToTopBtn {
+      right: 10px;
+      bottom: 10px;
+      width: 36px;
+      height: 36px;
+      background-size: 60% !important;
+  }
 }
 
 </style>
 
 <script>
-function scrollTopHandler() {
-  // 500 -> This is the value in px of the distance to be scrolled for the 'scroll-to-top' button to show up
-  const backToTopBtn = document.querySelector(".backToTopBtn");
-  if (window.scrollY > 1000) {
-    backToTopBtn.classList.add("active");
-  } else {
-    backToTopBtn.classList.remove("active");
+  function scrollTopHandler() {
+    // 500 -> This is the value in px of the distance to be scrolled for the 'scroll-to-top' button to show up
+    const backToTopBtn = document.querySelector(".backToTopBtn");
+    if (backToTopBtn) {
+      if (window.scrollY > 1000) {
+        backToTopBtn.classList.add("active");
+      } else {
+        backToTopBtn.classList.remove("active");
+      }
+    }
   }
-}
 
-document.addEventListener("DOMContentLoaded", function () {
-  const backToTopBtn = document.querySelector(".backToTopBtn");
+  document.addEventListener("DOMContentLoaded", function () {
+    const backToTopBtn = document.querySelector(".backToTopBtn");
 
-  // Show and hide button on scroll
-  scrollTopHandler();
-  window.addEventListener("scroll", scrollTopHandler);
+    // Show and hide button on scroll
+    scrollTopHandler();
+    window.addEventListener("scroll", scrollTopHandler);
 
-  // Scroll to top on button click
-  backToTopBtn.addEventListener("click", function (e) {
-    e.preventDefault();
-    window.scrollTo({ top: 0, behavior: "smooth" });
+    // Scroll to top on button click
+    if (backToTopBtn) {
+      backToTopBtn.addEventListener("click", function (e) {
+        e.preventDefault();
+        window.scrollTo({ top: 0, behavior: "smooth" });
+      });
+    }
   });
-});
-
 </script>
