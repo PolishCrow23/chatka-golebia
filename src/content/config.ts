@@ -7,7 +7,7 @@ const postsCollection = defineCollection({
     pubDate: z.coerce.date(),
     image: z.string().optional(),
     description: z.string(),
-    longDescription: z.string().optional(),
+    summary: z.string().optional(),
     tag: z.string().optional()
   }),
 });
@@ -77,8 +77,8 @@ const storiesCollection = defineCollection({
     pubDate: z.coerce.date(),
     image: z.string().optional(),
     description: z.string(),
-    longDescription: z.string().optional(),
-    tag: z.string().optional()
+    tag: z.string().optional(),
+    imagesAuthor: z.string().optional()
   }),
 });
 

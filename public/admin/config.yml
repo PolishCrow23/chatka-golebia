@@ -95,7 +95,7 @@ collections:
 
   - name: "our-stories" # Used in routes, e.g., /admin/collections/blog
     label: "Skrzydlate historie" # Used in the UI
-    folder: "src/our-stories" # The path to the folder where the documents are stored
+    folder: "src/content/our-stories" # The path to the folder where the documents are stored
     create: false # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter

@@ -8,9 +8,8 @@ import FormattedDate from "../components/essentials/FormattedDate.astro";
 import "../styles/slotwrapper.css";
 import TableOfContents from '../components/essentials/TableOfContents.astro';
 import ScrollUpButton from '../components/essentials/ScrollUpButton.astro';
-import SocialMediaShare from '../components/SocialMediaShare.astro';
 
-const { image, title, author, description, summary, pubDate, photos, tag, headings, slug } = Astro.props;
+const { image, title, author, description, summary, pubDate, photos, tag, headings, imagesAuthor } = Astro.props;
 
 interface PostFrontmatter {
   title: string;
@@ -21,6 +20,7 @@ interface PostFrontmatter {
   image?: string;
   tag?: string;
   photos?: string[];
+  imagesAuthor?: string[];
 }
 
 type Props = PostFrontmatter & { headings: MarkdownHeading[]; slug: string };
@@ -57,7 +57,7 @@ type Props = PostFrontmatter & { headings: MarkdownHeading[]; slug: string };
             </div>
 
             <div class="post">
-                <TableOfContents headings={headings}/>
+                {headings && headings.length > 0 && <TableOfContents headings={headings} />}
                 <div class="summary-wrapper">
                     <h4 class="summary-title">Streszczenie:</h4> <p class="summary">{description}<p/>
                 </div>
@@ -68,6 +68,11 @@ type Props = PostFrontmatter & { headings: MarkdownHeading[]; slug: string };
                 {photos && (
                     <span class="photos">
                         <span class="accent">Fot.</span> {photos}
+                    </span>
+                )}
+                {imagesAuthor && (
+                    <span class="photos">
+                        <span class="accent">Autor obrazów:</span> {imagesAuthor}
                     </span>
                 )}
             </div>
