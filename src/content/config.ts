@@ -77,8 +77,7 @@ const storiesCollection = defineCollection({
     pubDate: z.coerce.date(),
     image: z.string().optional(),
     description: z.string(),
-    tag: z.string().optional(),
-    imagesAuthor: z.string().optional()
+    tag: z.string().optional()
   }),
 });
 
