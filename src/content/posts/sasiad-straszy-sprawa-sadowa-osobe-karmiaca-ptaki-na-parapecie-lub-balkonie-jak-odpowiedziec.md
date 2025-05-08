@@ -27,10 +27,8 @@ Przeciętna miara jest ustalana przy pomocy dwóch kryteriów:
 1. Społeczno-gospodarczego przeznaczenia nieruchomości,
 2. Stosunków miejscowych,
 
-**Immisje, które tej miary nie przekraczają, są dopuszczalne** jako że nie byłoby możliwe korzystanie \
-z nieruchomości w sposób niedostrzegalny i nieodczuwalny na nieruchomościach sąsiednich. \
-Przeciętny charakter miary wskazuje, że punktem odniesienia powinny być odczucia przeciętnego człowieka, \
-a osobista wrażliwość konkretnej osoby nie ma znaczenia, bez względu na to, co jest przyczyną tej wrażliwości.\
+**Immisje, które tej miary nie przekraczają, są dopuszczalne** jako że nie byłoby możliwe korzystanie z nieruchomości w sposób niedostrzegalny i nieodczuwalny na nieruchomościach sąsiednich. \
+Przeciętny charakter miary wskazuje, że punktem odniesienia powinny być odczucia przeciętnego człowieka, a osobista wrażliwość konkretnej osoby nie ma znaczenia, bez względu na to, co jest przyczyną tej wrażliwości.\
 \
 Oceniając przeciętną miarę immisji, należy uwzględnić zwłaszcza:
 
@@ -59,8 +57,8 @@ W przypadku wytoczenia powództwa przez sąsiada skutecznym argumentem przeciwny
 * Sąsiad nie jest właścicielem nieruchomości sąsiedniej, co za tym idzie nie ma legitymacji do tego, żeby być \
   w sprawie powodem,
 
-To **na powodzie** zawsze ciąży obowiązek wykazania, że naruszenie własności przez sąsiada (właściciela nieruchomości sąsiedniej) miało charakter trwały oraz istnieje prawdopodobieństwo powtarzania się go \
-w przyszłości. Dlatego, zanim sąsiad wystąpi się na drogę sądową, powinien zawsze wcześniej **na piśmie** zażądać podjęcia określonych czynności przez właściciela nieruchomości, która jest źródłem immisji. Dopiero po **bezskutecznym** **upływie terminu** można skierować sprawę do sądu i tym samym uprawdopodobni, że immisje będą się powtarzać w przyszłości. 
+To **na powodzie** zawsze ciąży obowiązek wykazania, że naruszenie własności przez sąsiada (właściciela nieruchomości sąsiedniej) miało charakter trwały oraz istnieje prawdopodobieństwo powtarzania się go w przyszłości. \
+Dlatego, zanim sąsiad wystąpi się na drogę sądową, powinien zawsze wcześniej **na piśmie** zażądać podjęcia określonych czynności przez właściciela nieruchomości, która jest źródłem immisji. Dopiero po **bezskutecznym** **upływie terminu** można skierować sprawę do sądu i tym samym uprawdopodobni, że immisje będą się powtarzać w przyszłości. 
 
 ## Sąsiad lokatorem lub właścicielem innego lokalu
 
@@ -73,8 +71,9 @@ Zgodnie z *art.13 ustawy o ochronie praw lokatorów* sąsiad może wytoczyć pow
 
 Zasady **porządku domowego** mogą być określone w regulaminie uchwalonym przez wspólnoty mieszkaniowe, spółdzielnie mieszkaniowe oraz współwłaścicieli budynku. Niezależnie jednak od powyższego wynikają one \
 z ustalonych zwyczajów, a zatem **nie muszą** być nigdzie spisane. Za rażące wykroczenie przeciwko porządkowi
-domowemu można uznać zachowanie, które cechuje duże nasilenie złej woli i szczególna szkodliwość ze względu na charakter naruszonych norm. Za **rażące wykroczenie** przeciwko porządkowi domowemu może być uznane nawet **jednorazowe** zachowanie. Za uporczywe może być uznane zachowanie częste, wielokrotne, powtarzające się. W obu przypadkach ustawodawca wymaga, by naganne zachowanie lokatora czyniło uciążliwym korzystanie \
-z innych lokali w budynku.
+domowemu można uznać zachowanie, które cechuje duże nasilenie złej woli i szczególna szkodliwość ze względu na charakter naruszonych norm. 
+
+Za **rażące wykroczenie** przeciwko porządkowi domowemu może być uznane nawet **jednorazowe** zachowanie. Za uporczywe może być uznane zachowanie częste, wielokrotne, powtarzające się. W obu przypadkach ustawodawca wymaga, by naganne zachowanie lokatora czyniło uciążliwym korzystanie z innych lokali w budynku.
 
 W doktrynie słusznie podnosi się, że należy per analogiam stosować *art. 11 ust. 2 pkt 1 u.o.p.l.* w zakresie, w jakim wymagane jest pisemne upomnienie lokatora. Argumentuje się, że skoro taki wymóg przewidziany został dla właściciela, z którym wiąże lokatora stosunek prawny, to tym bardziej powinien on dotyczyć osoby, z którą nie wiąże lokatora żaden stosunek prawny.
 
