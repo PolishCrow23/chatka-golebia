@@ -93,7 +93,7 @@ collections:
       - {label: "zdjęcie główne", name: "image", widget: "image"}
       - {label: "tekst", name: "body", widget: "markdown"}
 
-    - name: "our-stories" # Used in routes, e.g., /admin/collections/blog
+  - name: "our-stories" # Used in routes, e.g., /admin/collections/blog
     label: "Skrzydlate historie" # Used in the UI
     folder: "src/our-stories" # The path to the folder where the documents are stored
     create: false # Allow users to create new documents in this collection
