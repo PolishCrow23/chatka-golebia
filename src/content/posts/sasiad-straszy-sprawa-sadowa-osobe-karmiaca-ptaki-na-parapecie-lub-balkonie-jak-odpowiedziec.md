@@ -27,10 +27,8 @@ Przeciętna miara jest ustalana przy pomocy dwóch kryteriów:
 1. Społeczno-gospodarczego przeznaczenia nieruchomości,
 2. Stosunków miejscowych,
 
-**Immisje, które tej miary nie przekraczają, są dopuszczalne** jako że nie byłoby możliwe korzystanie \
-z nieruchomości w sposób niedostrzegalny i nieodczuwalny na nieruchomościach sąsiednich. \
-Przeciętny charakter miary wskazuje, że punktem odniesienia powinny być odczucia przeciętnego człowieka, \
-a osobista wrażliwość konkretnej osoby nie ma znaczenia, bez względu na to, co jest przyczyną tej wrażliwości.\
+**Immisje, które tej miary nie przekraczają, są dopuszczalne** jako że nie byłoby możliwe korzystanie z nieruchomości w sposób niedostrzegalny i nieodczuwalny na nieruchomościach sąsiednich. \
+Przeciętny charakter miary wskazuje, że punktem odniesienia powinny być odczucia przeciętnego człowieka, a osobista wrażliwość konkretnej osoby nie ma znaczenia, bez względu na to, co jest przyczyną tej wrażliwości.\
 \
 Oceniając przeciętną miarę immisji, należy uwzględnić zwłaszcza:
 
