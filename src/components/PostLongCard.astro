@@ -1,6 +1,6 @@
 ---
 import { type CollectionEntry } from "astro:content";
-import FormattedDate from "./essentials/FormattedDate.astro";
+import FormattedDateShort from "./essentials/FormattedDateShort.astro";
 
 type Props = {
     item: CollectionEntry<"stories">
@@ -15,7 +15,7 @@ const baseSlug = item.collection === 'stories'
 function extractFirst120Words(body: string) {
     const plainText = body.replace(/[*_`~#>/\[\]\(\)!]/g, ' ');
     const words = plainText.split(/\s+/);
-    return words.slice(0, 100).join(' ') + '...';
+    return words.slice(0, 90).join(' ') + '...';
 }
 
 const description = extractFirst120Words(item.body);
@@ -23,10 +23,12 @@ const description = extractFirst120Words(item.body);
 
 <div class="post-card">
     <div class="flex1">
-    <a class="grid-title" href={`/${baseSlug}/${item.slug}`}>
-        <h2 class="title">{item.data.title}</h2>
-    </a>
-    <span class="date">{item.data.pubDate && <FormattedDate date={item.data.pubDate} />}</span>
+    <div class="grid-title">
+        <a href={`/${baseSlug}/${item.slug}`}>
+            <h2 class="title">{item.data.title}</h2>
+        </a>
+        <span class="date"><FormattedDateShort date={item.data.pubDate} /></span>
+    </div>
     <p>{description}</p>
     <a class="show-more" href={`/${baseSlug}/${item.slug}`}>
         czytaj więcej...
@@ -53,10 +55,11 @@ const description = extractFirst120Words(item.body);
         width: 100%;
         max-width: 1320px;
         min-height: 300px;
+        max-height: 400px;
         padding: 16px;
 
         border-radius: 16px;
-        background-color: #f9e9e2;
+        background-color: var(--cream);
         box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 
         transition-duration: 0.5s;
@@ -68,11 +71,27 @@ const description = extractFirst120Words(item.body);
         box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
     }
 
+    .grid-title {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        gap: var(--spacing-lg)
+    }
+
     .title {
         color: var(--plum);
+        font-family: "Ubuntu Condensed";
         font-weight: 700;
-        margin-bottom: 0.2em;
-    } 
+        font-size: 2rem;
+        text-align: left;
+    }
+
+    .date {
+        font-family: "Montserrat";
+        font-size: 1.4rem;
+        color: var(--greyed-out-plum);
+        font-weight: 500;
+    }
 
     .pigeon-info {
         font-size: 1.6rem;
@@ -89,7 +108,7 @@ const description = extractFirst120Words(item.body);
     }
 
     .flex2 {
-        max-width: 350px;
+        max-width: 330px;
     }
 
     h2 {
@@ -114,26 +133,22 @@ const description = extractFirst120Words(item.body);
         line-height: 24px;
         margin-block: 10px 2px;
     }
-    
 
     img {
-        display: none;
-        width: 100%;
-        width: 350px;
-        height: 350px;
+        aspect-ratio: 3/2;
         object-fit: cover;
+        width: 100%;
+        height: 100%;
     }
 
     @media (min-width: 960px) {
         img {
-            display: block;
-    }
+            aspect-ratio: 1/1;
+        }
 
-    @media (min-width: 760px) {
         .post-card {
             flex-direction: row;
             gap: 20px;
-
         }
 
         .flex1 {
@@ -141,6 +156,16 @@ const description = extractFirst120Words(item.body);
         }
 
         h2 {
+            font-size: 2.6rem;
+        }
+    }
+
+    @media (min-width: 760px) {
+
+    }
+
+    @media  (min-width: 458px) { 
+        .title {
             font-size: 2.6rem;
         }
     }

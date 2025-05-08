@@ -29,6 +29,7 @@ const interventions = (await getCollection("interventions"))
 
 import "swiper/css";
 import "swiper/css/navigation";
+import OurStories from "../components/index/OurStories.astro";
 ---
 
 <html lang="en">
@@ -42,6 +43,7 @@ import "swiper/css/navigation";
 		<News reports={reports} meetups={meetups} interventions={interventions} />
 		<Accordion />
 		<BlogHighlight posts={posts} />
+		<OurStories stories={stories} />
 		<Footer />
 		<script is:inline data-astro-rerun>
 			import "/src/lib/slider-simple.js";
