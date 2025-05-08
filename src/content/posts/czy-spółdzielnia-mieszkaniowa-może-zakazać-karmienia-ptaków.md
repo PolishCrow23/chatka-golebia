@@ -16,29 +16,29 @@ Na wstępie zaznaczyć należy, że nie ma w polskim prawie przepisów, które b
 
 ### Zakaz śmiecenia i zanieczyszczania miejsc publicznych – art. 145 kodeksu wykroczeń
 
-Niemniej, jeśli dokarmiając powodujemy zanieczyszczenie lub zaśmiecenie np. karmą (resztkami jedzenia) miejsc publicznych takich jak droga, ulica, plac, ogród, trawnik, zieleniec ([art. 145 k.w](#_Art._145_[Zanieczyszczanie)), chodnik, ścieżka rowerowa, \
+Niemniej, jeśli dokarmiając powodujemy zanieczyszczenie lub zaśmiecenie np. karmą (resztkami jedzenia) miejsc publicznych takich jak droga, ulica, plac, ogród, trawnik, zieleniec (*art. 145 k.w*), chodnik, ścieżka rowerowa, \
 plac zabaw, plac do ćwiczeń, skwer, park to możemy popełnić w ten sposób znamiona czynu zabronionego \
 na gruncie kodeksu wykroczeń oraz otrzymać mandat w wysokości min. 500 zł.
 
 ### Regulamin czystości i utrzymania porządku na terenie gminy – art. 4 u.c.p.g
 
-Zgodnie z [art. 4 u.c.p.g.](#_Art.__4) rady gminy mają obowiązek uchwalenia regulaminu utrzymania czystości i porządku
+Zgodnie z *art. 4 u.c.p.g.* rady gminy mają obowiązek uchwalenia regulaminu utrzymania czystości i porządku
 na terenie gminy, który jest aktem prawa miejscowego, w którym uregulowane są zasady zbierania i odbierania odpadów oraz utrzymania w odpowiednim stanie sanitarnym i porządkowym miejsc gromadzenia odpadów. \
 \
 „Rady gminy **nie mogą** w Regulaminie czystości i utrzymania porządku na terenie gminy uchwalanym \
-na podstawie ustawy o utrzymaniu czystości i porządku w gminach **zakazać dokarmiania ptaków** gdyż wykraczałyby w ten sposób poza delegację ustawową zawartą w [art. 4 ust. 2 u.c.p.g. ](#_Art.__4)a uchwała wprowadzająca taki regulamin zostałyby uznana w tej części za nieważną jako wydana z naruszeniem prawa” - tak orzekł sąd\
+na podstawie ustawy o utrzymaniu czystości i porządku w gminach **zakazać dokarmiania ptaków** gdyż wykraczałyby w ten sposób poza delegację ustawową zawartą w *art. 4 ust. 2 u.c.p.g.* a uchwała wprowadzająca taki regulamin zostałyby uznana w tej części za nieważną jako wydana z naruszeniem prawa” - tak orzekł sąd\
  w wyroku Wojewódzkiego Sądu Administracyjnego w Łodzi z dnia 12 maja 2016 r., sygn. akt II SA/Łd 240/16. art. 4 ust. 2 nie upoważnia bowiem do formułowania w regulaminie określonych *zakazów*, a jedynie do określenia *wymagań* w zakresie utrzymania czystości i porządku na terenie nieruchomości. \
 Co prawda **art. 4  ust. 2 pkt. 6** wprowadza obowiązek dla „osób utrzymujących zwierzęta domowe” do ochrony przed zagrożeniem lub uciążliwością dla ludzi oraz przed zanieczyszczeniem terenów przeznaczonych do wspólnego użytku, **jednak przepis ten dotyczy tylko zwierząt domowych a nie dzikich.**
 
-Podsumowując, jakkolwiek dokarmianie ptaków na terenie „dostępnym dla publiczności” nie jest zabronione, a rady gminy nie mogą wprowadzić takiego zakazu, to **jeśli dokarmianie powoduje zanieczyszczenie, zaśmiecenie** przestrzeni publicznej karmą czy resztkami jedzenia, będzie uznane za wykroczenie, za które można otrzymać mandat w minimalnej wysokości **500 zł**. ([art. 145 k.w.)](#_Art._145_[Zanieczyszczanie)[](#_Art._145_[Zanieczyszczanie)[](#_Art._145_[Zanieczyszczanie)[](#_Art._145_[Zanieczyszczanie)
+Podsumowując, jakkolwiek dokarmianie ptaków na terenie „dostępnym dla publiczności” nie jest zabronione, a rady gminy nie mogą wprowadzić takiego zakazu, to **jeśli dokarmianie powoduje zanieczyszczenie, zaśmiecenie** przestrzeni publicznej karmą czy resztkami jedzenia, będzie uznane za wykroczenie, za które można otrzymać mandat w minimalnej wysokości **500 zł**. (*art. 145 k.w.*)[](#_Art._145_[Zanieczyszczanie)[](#_Art._145_[Zanieczyszczanie)[](#_Art._145_[Zanieczyszczanie)
 
 ## Miejsca prywatne
 
 ### Regulaminy porządku domowego
 
 Teren spółdzielni mieszkaniowej natomiast jest terenem prywatnym. \
-Zasady zachowania osób członkowskich na terenie spółdzielni mieszkaniowej regulują wewnętrzne regulaminy porządku domowego uchwalane przez spółdzielnie na podstawie statutu spółdzielni, zgodnie z [art. 13 ustawy \
-o własności lokali](#_Art._13_[Utrzymanie). \
+Zasady zachowania osób członkowskich na terenie spółdzielni mieszkaniowej regulują wewnętrzne regulaminy porządku domowego uchwalane przez spółdzielnie na podstawie statutu spółdzielni, zgodnie z *art. 13 ustawy* \
+*o własności lokali*. \
 Spółdzielcze regulaminy porządkowe określają m.in. **godziny ciszy nocnej**, godziny, w których mogą być prowadzone głośne prace remontowe i konserwacyjne ale też zasady **korzystania z części** zaliczanych do **nieruchomości wspólnej** tj. piwnice, pralnie, suszarnie a także **tereny zielone**.
 
 ### Zakaz dokarmiania w regulaminach porządku domowego
@@ -94,4 +94,4 @@ Będzie przykładem rażącego i uporczywego naruszania porządku domowego:
 * Nieudostępnianie lokalu mieszkalnego służbom technicznym (Wyrok Sądu Apelacyjnego w Krakowie - I Wydział Cywilny z dnia 14 czerwca 2022 r. I ACa 76/21),
 * Długotrwałe i regularne zaśmiecanie klatki schodowej, dewastacja klatki schodowej, uderzanie w kaloryfery, zakłócanie spokoju nocnego, grożenie sąsiadom, wyzwiska, wulgaryzm, powodowanie zagrożenia pożarem, regularne interwencji policji (Wyrok Sądu Apelacyjnego w Katowicach - I Wydział Cywilny z dnia 30 marca 2017 r. I ACa 1031/16),
 
-Jeśli wspólnota uzna, że doszło do szkody (np. trwałe zabrudzenie chodnika, zniszczenie trawnika) - może swoje roszczenia o naprawienie szkody **dochodzić na drodze sądowej** od sprawcy szkody na podstawie art. [415 k.c](#_Art._415_[Odpowiedzialność). Przy czym osobą odpowiedzialną za szkodę nie może być uznana osoba, która z jakichkolwiek powodów znajduje się w stanie wyłączającym świadome albo swobodne powzięcie decyzji i wyrażenie woli ([art. 425 k.c.](#_Art._425_[Niepoczytalność])).
+Jeśli wspólnota uzna, że doszło do szkody (np. trwałe zabrudzenie chodnika, zniszczenie trawnika) - może swoje roszczenia o naprawienie szkody **dochodzić na drodze sądowej** od sprawcy szkody na podstawie *art. 415 k.c.* Przy czym osobą odpowiedzialną za szkodę nie może być uznana osoba, która z jakichkolwiek powodów znajduje się w stanie wyłączającym świadome albo swobodne powzięcie decyzji i wyrażenie woli (*art. 425 k.c.*).
