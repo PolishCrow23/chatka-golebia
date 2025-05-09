@@ -3,7 +3,7 @@ title: Akcja Sznurek 8. Edycja
 pubDate: 05.09.2025
 image: /images/akcja-sznurek-8-edycja.jpg
 description: Akcja ,,Sznurek" polega na udzielaniu pomocy gołębiom miejskim, oto
-  jej podsumowanie.
+  jej opis i podsumowanie.
 ---
 # Czas na podsumowanie akcji „Sznurek”!
 
