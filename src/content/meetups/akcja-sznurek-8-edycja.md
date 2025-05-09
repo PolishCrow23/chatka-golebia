@@ -7,7 +7,7 @@ description: Akcja ,,Sznurek" polega na udzielaniu pomocy gołębiom miejskim, o
 ---
 # Czas na podsumowanie akcji „Sznurek”!
 
-Jak zawsze spotkaliśmy się na krakowskim rynku obok fontanny, w trakcie akcji wspólnie odławiamy gołębie, które mają na nogach zaplątane sznurki oraz takie, które wykazują objawy chorobowe do specjalnych transporterów. Rozsypujemy też ziarno, rozdajemy ulotki oraz edukujemy osoby zainteresowane gołębiami, chętni mogą również przekazać darowiznę, fundacja ma zarejestrowaną zbiórkę publiczną (2024/3769/OR )
+Jak zawsze spotkaliśmy się na krakowskim rynku obok fontanny w sobotę o godzinie 12:00, w trakcie akcji wspólnie odławiamy gołębie, które mają na nogach zaplątane sznurki oraz takie, które wykazują objawy chorobowe do specjalnych transporterów. Rozsypujemy też ziarno, rozdajemy ulotki oraz edukujemy osoby zainteresowane gołębiami, chętni mogą również przekazać darowiznę, fundacja ma zarejestrowaną zbiórkę publiczną (2024/3769/OR )
 Pora zobaczyć wyniki naszej pracy.
 
 ## Przyjrzyjmy się im bliżej
