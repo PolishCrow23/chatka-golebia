@@ -20,6 +20,6 @@ Rozplątując szkodliwe sznurki **uwolniliśmy 16 gołębi**, z czego **10 kolej
 
 Rozsypaliśmy też łącznie **23 kilogramy ziarna** dla ptaków.
 
-Dziękujemy wszystkim dzielnym wolontariuszom za poświęcony czas i energię. W tym pomagającej nam w każdej edycji niezawodnej klinice weterynaryjnej „Salamandra”, do której bezpośrednio po akcji trafiają wszystkie gołębie, które potrzebują pomocy. 
+Dziękujemy wszystkim wolontariuszom za poświęcony czas i energię. W tym pomagającej nam w każdej edycji niezawodnej klinice weterynaryjnej „Salamandra”, do której bezpośrednio po akcji trafiają wszystkie gołębie, które potrzebują pomocy. 
 
 Dzięki naszej wspólnej pracy krakowskie gołębie (i inni ptasi przyjaciele, chociaż w tej edycji nie było żadnych niespodzianek) mają się coraz lepiej. Dziękujemy za Wasze wsparcie oraz zachęcamy do wzięcia udziału w kolejnych edycjach naszej akcji.
