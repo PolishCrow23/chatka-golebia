@@ -65,6 +65,8 @@ Gołąb dostał na imię Dzióbek.
 Wyglądał dość mizernie, piórka zmierzwione, szare, matowe. Wygłodzony bidulek, wychudzony, pewnie też obolały. Myślałam wtedy, że jest poczciwym staruszkiem, który nie wiadomo jak długo pożyje.
 Na początek dostał ode mnie wodę, ziarno oraz kulę tłuszczową. Dzióbek tak się rzucił na jedzenie, że w kilka godzin zjadł niemal całą kulę tłuszczową! Potem, pod wpływem codziennych „rarytasów” – nigdy więcej nie tknął kuli 😊
 
+![](/images/501084025_981943477352558_6072620339818274190_n.jpg)
+
 Każdego dnia przez wiele godzin czytałam o gołębiach, oglądałam filmiki z poradami od hodowców, zamówiłam dobrą karmę, witaminy, minerały. Dowiedziałam się, że na odporność najlepszy jest czosnek wrzucony do picia, a naturalne witaminy pochodzą z tartych surowych warzyw zmieszanych z odrobiną oleju lnianego. Na warzywa Dzióbek zawsze kręcił nosem, ale śladowe ilości czosnku z wodą pił codziennie. 
 
 Przez pierwsze 2-3 dni, kiedy temperatura na dworze była wysoka Dzióbek mieszkał na balkonie w klatce kennelowej. Na noc przykrywałam klatkę śpiworem. Następnie, przygotowałam mu luksusowy apartament w naszym pomieszczeniu gospodarczym, w którym przechowywaliśmy dodatkowe krzesła, stół i komodę. Pomieszczenie (z oknem), choć niewielkie, okazało się bardzo przydatne. Dzióbek miał tam spokój, ciszę, ład, porządek i odpowiednią temperaturę.
@@ -114,6 +116,8 @@ Ale czy na pewno? Ta myśl była nie do zniesienia.
 
 Po miesiącu od wypuszczenia go spacerowałam sobie z psem i jak zwykle rzuciłam ziarno, dokarmiając pobliskie stadko. Nagle wśród gołębi dostrzegłam Dzióbka! Dzióbku, czy to naprawdę ty? Zaczęłam mówić do niego, a on odszedł na chwilę od reszty ziomków, przybliżył się do mnie na około 1m, delikatnie zatańczył i wrócił do reszty. Ja także poszłam w swoją stronę.
 To była chwila absolutnego szczęścia!
+
+
 
 Od tamtej pory regularnie spotykam Dzióbka przynajmniej raz w miesiącu przy miejscu dokarmiania. Ma się dobrze. Skrzydło pięknie wraca na swoje miejsce. Już prawie nie widać, że jest ciutkę opuszczone. Trzeba się mocno przyglądać. Wiadomo, piórka nie są już tak lśniące jak w domu, ale żyje. Nie jest wychudzony. Wprawdzie swojej pary jeszcze nie odnalazł, ale może na wiosnę się uda?
 Całe życie przed nim. Uratowane życie.
