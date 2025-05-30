@@ -23,8 +23,6 @@ Zatem zróbmy tak: zjedzmy na spokojnie obiad, a potem wyjdziemy na dwór i zoba
 W trakcie obiadu już przeglądałam internet w celu znalezienia jakiegoś rozwiązania, placówki, która pomoże. Obmyślałam strategię na wypadek gdybym musiała gołębia zabezpieczyć u siebie na jakiś czas. Klatka kennelowa od psa - jest, balkon - jest, małe pomieszczenie gospodarcze, które wynajmujemy w bloku – jest. Ostatecznie ogórek działkowy – też jest. Damy radę!
 Zabrałam ze sobą koc, rękawiczki jednorazowe, telefon i do dzieła! Idziemy szukać gołębia. Okazało się, że szukać wcale nie trzeba było, chodził sobie biedaczek niedaleko naszej klatki, jakby na nas czekał. Zbliżyłyśmy się z córką do niego – nie odfruwał, ale odchodził od nas. 
 
-![Ranny gołąb o imieniu Dzióbek, znaleziony pod blokiem](/images/500921344_1637256530309011_7584059076629338733_n.jpg)
-
 Zaczęłam zatem wykonywać telefony. 
 Najpierw do weterynarza:
 
@@ -50,7 +48,7 @@ Tak zrobiłam.
 
 
 
-![]()
+![](/images/500921344_1637256530309011_7584059076629338733_n.jpg)
 
 
 Z domu zadzwoniłam kolejny raz do straży miejskiej. Poinformowałam, że gołąb czeka u mnie w domu i poprosiłam, żeby organizacja przyjechała do mnie po niego.
