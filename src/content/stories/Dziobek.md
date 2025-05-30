@@ -24,7 +24,7 @@ Zabrałam ze sobą koc, rękawiczki jednorazowe, telefon i do dzieła! Idziemy s
 Zaczęłam zatem wykonywać telefony. 
 Najpierw do weterynarza:
 
-*  Dzień dobry, czy można przyjechać z rannym gołębiem?\
+* Dzień dobry, czy można przyjechać z rannym gołębiem?\
   Konsternacja i cisza w słuchawce… 
 * Halo, halo… Słyszy mnie pani? 
 * W odpowiedzi takie: yyyyy, eeeee, yyyy… nooo… właściwie tak. 
@@ -33,8 +33,9 @@ Najpierw do weterynarza:
 
 OK, no to dzwonię. W odpowiedzi słyszę: nie, proszę panią, my tylko psy i koty. Ale proszę dzwonić do straży miejskiej – oni mają obowiązek zająć się gołębiem. 
 
-Zatem dzwonię. Pan, niby miły, niby przyjął moje zgłoszenie… ale na pytanie kiedy przyjedziecie po niego? W odpowiedzi usłyszałam: my nie przyjedziemy. Ja to zgłoszenie przekażę organizacji, która zajmuje się dzikimi zwierzętami i to oni kogoś wyślą po niego. 
+Zatem dzwonię. Pan, niby miły, niby przyjął moje zgłoszenie… ale na pytanie kiedy przyjedziecie po niego? W odpowiedzi usłyszałam: 
 
+* My nie przyjedziemy. Ja to zgłoszenie przekażę organizacji, która zajmuje się dzikimi zwierzętami i to oni kogoś wyślą po niego. 
 * A kiedy? Bo wie pan, ten gołąb cały czas spaceruje, w tej chwili już powoli zbliżamy się do granicy z sąsiednim miastem. 
 * A tego to ja nie wiem. Oni przyjadą, gdy będą mieli czas. Oni obsługują kilka miast.
 
