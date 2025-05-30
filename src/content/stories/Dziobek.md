@@ -22,9 +22,11 @@ Zabrałam ze sobą koc, rękawiczki jednorazowe, telefon i do dzieła! Idziemy s
 ![Ranny gołąb o imieniu Dzióbek, znaleziony pod blokiem](/images/500921344_1637256530309011_7584059076629338733_n.jpg)
 
 Zaczęłam zatem wykonywać telefony. 
-Najpierw do weterynarza: dzień dobry, czy można przyjechać z rannym gołębiem? 
-Konsternacja i cisza w słuchawce… 
+Najpierw do weterynarza:
 
+*  Dzień dobry, czy można przyjechać z rannym gołębiem?\
+   \
+  Konsternacja i cisza w słuchawce… 
 * Halo, halo… Słyszy mnie pani? 
 * W odpowiedzi takie: yyyyy, eeeee, yyyy… nooo… właściwie tak. 
 * Aha. To może podpowie mi pani jak go złapać, żeby bardziej nie uszkodzić, ale też żeby samej się niczym nie zarazić. Rękawiczki wystarczą? 
