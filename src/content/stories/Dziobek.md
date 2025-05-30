@@ -48,7 +48,7 @@ Tak zrobiłam.
 
 
 
-![](/images/500921344_1637256530309011_7584059076629338733_n.jpg)
+![Ranny gołąb o imieniu Dzióbek, znaleziony przez córkę pod blokiem](/images/500921344_1637256530309011_7584059076629338733_n.jpg)
 
 
 Z domu zadzwoniłam kolejny raz do straży miejskiej. Poinformowałam, że gołąb czeka u mnie w domu i poprosiłam, żeby organizacja przyjechała do mnie po niego.
@@ -77,6 +77,8 @@ On tak jakby czytał mi w myślach. Rozumiał sytuacje, wiedział co  w tej chwi
 Nigdy nie łapałam go bezpośrednio w ręce. Gdy musiałam go przenieść – podkładałam mu kartonik lub kawałek gałęzi, a on po prostu wskakiwał i dał się przenosić.
 W ogródku, gdy trzeba było wracać do domu – podkładałam mu kartonik, on bez wahania wchodził do środka i wracaliśmy. Gdy sprzątałam klatkę – zaczynałam od konkretnych czynności, a on przesuwał się i udostępniał mi po kolei dalsze zakamarki. 
 Czasem sama się zastanawiałam, czy to moja wyobraźnia płata mi figle, czy to się dzieje naprawdę? Gołąb rozumie i współpracuje!
+
+![Dzióbek w klatce](/images/494888901_1650244655655184_8515057786966198795_n.jpg)
 
 Codziennie brałam Dzióbka na parę godzin do mieszkania, gdzie uprzednio przygotowywałam dla niego „plac zabaw” z kartonów i gałęzi przyniesionych z dworu. Układałam z nich różne stopnie, tak, by Dzióbek mógł sobie pospacerować i wspiąć się samodzielnie na szafkę, z której patrzył na nas z góry. Codziennie „plac zabaw” miał nieco inny kształt – żeby Dzióbkowi się nie nudziło i żeby mógł trochę pomyśleć przy pokonywaniu różnych przeszkód. Miałam wrażenie, że Dzióbek bawi się wyśmienicie! Oczywiście przynoszony ze swojego apartamentu i odnoszony z powrotem był również na gałęzi, bez konieczności gonienia go i brania w ręce.
 
