@@ -49,6 +49,12 @@ Super!
 Więc podsumujmy: mamy pod nogami gołębia nielota, ciągnącego skrzydło. Gołąb cały czas idzie i prawdopodobnie będzie dalej szedł przed siebie. Pomoc przyjedzie – może za godzinę, może za 5 godzin, może jutro, a może za 2 dni. Zgłosiłam lokalizację gołębia sprzed pół godziny, która już w tej chwili była nieaktualna. Gdy przyjedzie pomoc (o ile przyjedzie) – gołąb będzie już w innym miejscu i nie znajdą go.
 Pozostaje tylko jedno rozwiązanie: zabieramy go do domu i w domu poczekamy na pomoc.
 Tak zrobiłam.
+
+
+
+![]()
+
+
 Z domu zadzwoniłam kolejny raz do straży miejskiej. Poinformowałam, że gołąb czeka u mnie w domu i poprosiłam, żeby organizacja przyjechała do mnie po niego.
 Wykonałam jeszcze jeden telefon – do organizacji – żeby opowiedzieć o tej interwencji i zapytać kto przyjedzie – żeby mieć pewność, że odpowiednim i odpowiedzialnym ludziom przekazuję gołębia i że dostarczą go do ośrodka, a nie wyrzucą jak śmiecia gdzieś po drodze. 
 Okazało się, że organizacja także nie przyjeżdża osobiście, tylko wysyła firmę do przewozu takich zwierząt, z którą współpracuje i mam się nie martwić, bo to są rzetelni i sprawdzeni ludzie. A ja mogę nazajutrz zadzwonić i dowiedzieć się, czy gołąb dotarł do organizacji.
