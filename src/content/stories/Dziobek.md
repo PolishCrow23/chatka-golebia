@@ -25,7 +25,6 @@ Zaczęłam zatem wykonywać telefony.
 Najpierw do weterynarza:
 
 *  Dzień dobry, czy można przyjechać z rannym gołębiem?\
-   \
   Konsternacja i cisza w słuchawce… 
 * Halo, halo… Słyszy mnie pani? 
 * W odpowiedzi takie: yyyyy, eeeee, yyyy… nooo… właściwie tak. 
