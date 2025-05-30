@@ -98,6 +98,8 @@ Wczesną wiosną zasadziłam na balkonie sałatę, szczypiorek i bratki. Dzióbe
 Niby wiedziałam, że Dzióbek może być u nas tylko czasowo, ale miesiące wspólnego życia spowodowały, że uważałam go za członka rodziny. Stało się oczywistym, że nasza rodzina to 4+2 (bo mamy jeszcze pieska).
 Bez Dzióbka ten dom już nigdy nie byłby taki sam. A jednak zrobiłabym wszystko, co należy dla dobra i szczęścia Dzióbka. Czekałam na znak.
 
+![](/images/494888584_1752542669023892_2921552156043223704_n.jpg)
+
 Nadszedł długi weekend majówkowy. Zabrałam się za umycie okien i balkonu. Dzióbek korzystał z otwartego balkonu – jak zawsze. Tym razem jednak był bardzo niespokojny. Fruwał, zamiast siedzieć na bratku, wieszał się na siatkę, był wyraźnie pobudzony. Nawet go zbeształam, żeby się uspokoił, bo jeszcze sobie krzywdę zrobi. 
 Nagle na balkon przyleciał inny gołąb i usiadł na balustradzie na zewnątrz siatki. Dzióbek od razu przyfrunął do niego i usiadł przed nim po wewnętrznej stronie balustrady. Położył się przed nim i całym bokiem wtulił się w tego gołębia. Tamten z kolei przez siatkę zaczął Dzióbka głaskać dziobem po głowie… 
 Ze szmatą w ręku zamarłam. To był widok, który złamał moje serce na milion kawałków. Trwało to może około minuty, po czym obcy gołąb odleciał. Dzióbek z żalem zaczął rozglądać się za nim.
