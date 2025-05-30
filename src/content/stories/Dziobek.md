@@ -2,29 +2,42 @@
 title: Dzióbek
 author: XYZ
 pubDate: 05.03.2025
-description: Ranny gołąb o imieniu Dzióbek, znaleziony przez córkę pod blokiem, trafił pod opiekę rodziny, która pomimo braku wsparcia instytucji, zdecydowała się go uratować i wyleczyć. Z czasem Dzióbek odzyskał siły, nauczył się latać i zaprzyjaźnił się z dzikim gołębiem, z którym ostatecznie odleciał w stronę wolności.
-image: /images/our-stories/Dzióbek/Dzióbek.png
 tag: Historia
+image: /images/our-stories/Dzióbek/Dzióbek.png
+description: Ranny gołąb o imieniu Dzióbek, znaleziony przez córkę pod blokiem,
+  trafił pod opiekę rodziny, która pomimo braku wsparcia instytucji, zdecydowała
+  się go uratować i wyleczyć. Z czasem Dzióbek odzyskał siły, nauczył się latać
+  i zaprzyjaźnił się z dzikim gołębiem, z którym ostatecznie odleciał w stronę
+  wolności.
 ---
-Światowy Dzień Zwierząt dnia 4 października 2023r , bądź też wspomnienie św. Franciszka z Asyżu – co komu jest bliższe sercu – „uczciliśmy” w wyjątkowy sposób, który zmienił nasze życie na zawsze. 
+# Światowy Dzień Zwierząt dnia 4 października 2023r, bądź też wspomnienie św. Franciszka z Asyżu – co komu jest bliższe sercu – „uczciliśmy” w wyjątkowy sposób, który zmienił nasze życie na zawsze.
+
 Moja córka wracając ze szkoły, wpadła do domu jak burza i od progu wołała: mamo, mamo, przed naszą klatką chodzi gołąb ze złamanym skrzydłem i jest taki biedny, to skrzydło mu wisi, ledwo chodzi… no i co teraz, co teraz?
 Mąż tylko pokręcił głową, machnął ręką i odszedł do drugiego pokoju, a jego mina wyrażała więcej niż tysiąc słów, mniej więcej takich: tym babom to się już całkiem w głowach poprzewracało. Ratować gołębia w bloku?!? Któż to widział!
 Co robimy…? Trudne pytanie. Nie wiem. Jedno wiem – zwierzęcia na pewną śmierć nie zostawię, niech się dzieje co chce, ale coś wymyślić trzeba.
 Zatem zróbmy tak: zjedzmy na spokojnie obiad, a potem wyjdziemy na dwór i zobaczymy czy go jeszcze spotkamy. 
 W trakcie obiadu już przeglądałam internet w celu znalezienia jakiegoś rozwiązania, placówki, która pomoże. Obmyślałam strategię na wypadek gdybym musiała gołębia zabezpieczyć u siebie na jakiś czas. Klatka kennelowa od psa - jest, balkon - jest, małe pomieszczenie gospodarcze, które wynajmujemy w bloku – jest. Ostatecznie ogórek działkowy – też jest. Damy radę!
-Zabrałam ze sobą koc, rękawiczki jednorazowe, telefon i do dzieła! Idziemy szukać gołębia. Okazało się, że szukać wcale nie trzeba było, chodził sobie biedaczek niedaleko naszej klatki, jakby na nas czekał. Zbliżyłyśmy się z córką do niego – nie odfruwał, ale odchodził od nas. Zaczęłam zatem wykonywać telefony. 
+Zabrałam ze sobą koc, rękawiczki jednorazowe, telefon i do dzieła! Idziemy szukać gołębia. Okazało się, że szukać wcale nie trzeba było, chodził sobie biedaczek niedaleko naszej klatki, jakby na nas czekał. Zbliżyłyśmy się z córką do niego – nie odfruwał, ale odchodził od nas. 
+
+![](/images/494886532_1388150542389251_6816405897818504858_n.jpg)
+
+
+
+Zaczęłam zatem wykonywać telefony. 
 Najpierw do weterynarza: dzień dobry, czy można przyjechać z rannym gołębiem? 
 Konsternacja i cisza w słuchawce… 
-- Halo, halo… Słyszy mnie pani? 
-- W odpowiedzi takie: yyyyy, eeeee, yyyy… nooo… właściwie tak. 
-- Aha. To może podpowie mi pani jak go złapać, żeby bardziej nie uszkodzić, ale też żeby samej się niczym nie zarazić. Rękawiczki wystarczą? 
-- I na to odpowiedź: właściwie, niech go pani nie bierze, tylko dzwoni do schroniska – oni mają dyżur popołudniowy i to jest ich obowiązek, żeby zwierzęciu pomóc. 
+
+* Halo, halo… Słyszy mnie pani? 
+* W odpowiedzi takie: yyyyy, eeeee, yyyy… nooo… właściwie tak. 
+* Aha. To może podpowie mi pani jak go złapać, żeby bardziej nie uszkodzić, ale też żeby samej się niczym nie zarazić. Rękawiczki wystarczą? 
+* I na to odpowiedź: właściwie, niech go pani nie bierze, tylko dzwoni do schroniska – oni mają dyżur popołudniowy i to jest ich obowiązek, żeby zwierzęciu pomóc. 
 
 OK, no to dzwonię. W odpowiedzi słyszę: nie, proszę panią, my tylko psy i koty. Ale proszę dzwonić do straży miejskiej – oni mają obowiązek zająć się gołębiem. 
 
 Zatem dzwonię. Pan, niby miły, niby przyjął moje zgłoszenie… ale na pytanie kiedy przyjedziecie po niego? W odpowiedzi usłyszałam: my nie przyjedziemy. Ja to zgłoszenie przekażę organizacji, która zajmuje się dzikimi zwierzętami i to oni kogoś wyślą po niego. 
-- A kiedy? Bo wie pan, ten gołąb cały czas spaceruje, w tej chwili już powoli zbliżamy się do granicy z sąsiednim miastem. 
-- A tego to ja nie wiem. Oni przyjadą, gdy będą mieli czas. Oni obsługują kilka miast.
+
+* A kiedy? Bo wie pan, ten gołąb cały czas spaceruje, w tej chwili już powoli zbliżamy się do granicy z sąsiednim miastem. 
+* A tego to ja nie wiem. Oni przyjadą, gdy będą mieli czas. Oni obsługują kilka miast.
 
 Super!
 Więc podsumujmy: mamy pod nogami gołębia nielota, ciągnącego skrzydło. Gołąb cały czas idzie i prawdopodobnie będzie dalej szedł przed siebie. Pomoc przyjedzie – może za godzinę, może za 5 godzin, może jutro, a może za 2 dni. Zgłosiłam lokalizację gołębia sprzed pół godziny, która już w tej chwili była nieaktualna. Gdy przyjedzie pomoc (o ile przyjedzie) – gołąb będzie już w innym miejscu i nie znajdą go.
@@ -47,7 +60,7 @@ Na początek dostał ode mnie wodę, ziarno oraz kulę tłuszczową. Dzióbek ta
 Każdego dnia przez wiele godzin czytałam o gołębiach, oglądałam filmiki z poradami od hodowców, zamówiłam dobrą karmę, witaminy, minerały. Dowiedziałam się, że na odporność najlepszy jest czosnek wrzucony do picia, a naturalne witaminy pochodzą z tartych surowych warzyw zmieszanych z odrobiną oleju lnianego. Na warzywa Dzióbek zawsze kręcił nosem, ale śladowe ilości czosnku z wodą pił codziennie. 
 
 Przez pierwsze 2-3 dni, kiedy temperatura na dworze była wysoka Dzióbek mieszkał na balkonie w klatce kennelowej. Na noc przykrywałam klatkę śpiworem. Następnie, przygotowałam mu luksusowy apartament w naszym pomieszczeniu gospodarczym, w którym przechowywaliśmy dodatkowe krzesła, stół i komodę. Pomieszczenie (z oknem), choć niewielkie, okazało się bardzo przydatne. Dzióbek miał tam spokój, ciszę, ład, porządek i odpowiednią temperaturę.
- 
+
 Dopóki pogoda na to pozwalała – brałam Dzióbka „na spacery” do ogródka działkowego. Dzióbek to uwielbiał! Jaki on tam był szczęśliwy! Ponieważ był wtedy nielotem, to chodził sobie po ogródku jak piesek, a następnie znajdował odpowiednie miejsce, w którym wylegiwał się i delektował świeżym powietrzem. Gdy nie krzątaliśmy się po ogródku i Dzióbek przez dłuższą chwilę nas nie widział – sam przychodził przed altanę i sprawdzał, czy jesteśmy. 
 
 Nigdy Dzióbka nie oswajałam. Jeśli tylko był cień nadziei, że Dzióbek odzyska sprawność i odleci na wolność – nie wolno mi było tego robić. Pewne rzeczy jednak dzieją się samoczynnie. Podczas codziennego sprzątania klatki, karmienia, przebywania – duet ptako-ludzki uczy się siebie nawzajem, przyzwyczaja się, buduje się nić porozumienia…
