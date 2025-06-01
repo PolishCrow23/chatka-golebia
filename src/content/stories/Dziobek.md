@@ -35,6 +35,7 @@ W odpowiedzi takie: yyyyy, eeeee, yyyy… nooo… właściwie tak. \
 — Aha. To może podpowie mi pani jak go złapać, żeby bardziej nie uszkodzić, ale też żeby samej się niczym nie zarazić. Rękawiczki wystarczą? 
 
 I na to odpowiedź: 
+
 — Właściwie, niech go pani nie bierze, tylko dzwoni do schroniska – oni mają dyżur popołudniowy i to jest ich obowiązek, żeby zwierzęciu pomóc. 
 
 OK, no to dzwonię. W odpowiedzi słyszę:
