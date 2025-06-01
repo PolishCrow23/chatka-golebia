@@ -26,7 +26,6 @@ Zabrałam ze sobą koc, rękawiczki jednorazowe, telefon i do dzieła! Idziemy s
 Zaczęłam zatem wykonywać telefony. 
 Najpierw do weterynarza:
 
-
 — Dzień dobry, czy można przyjechać z rannym gołębiem?
 
 Konsternacja i cisza w słuchawce… 
@@ -39,7 +38,8 @@ W odpowiedzi takie: yyyyy, eeeee, yyyy… nooo… właściwie tak.
 I na to odpowiedź: 
 — Właściwie, niech go pani nie bierze, tylko dzwoni do schroniska – oni mają dyżur popołudniowy i to jest ich obowiązek, żeby zwierzęciu pomóc. 
 
-OK, no to dzwonię. W odpowiedzi słyszę: 
+OK, no to dzwonię. W odpowiedzi słyszę:
+
 — Nie, proszę panią, my tylko psy i koty. Ale proszę dzwonić do straży miejskiej – oni mają obowiązek zająć się gołębiem. 
 
 Zatem dzwonię. Pan, niby miły, niby przyjął moje zgłoszenie… ale na pytanie kiedy przyjedziecie po niego? W odpowiedzi usłyszałam: 
