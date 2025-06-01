@@ -21,6 +21,8 @@ Zatem zróbmy tak: zjedzmy na spokojnie obiad, a potem wyjdziemy na dwór i zoba
 W trakcie obiadu już przeglądałam internet w celu znalezienia jakiegoś rozwiązania, placówki, która pomoże. Obmyślałam strategię na wypadek gdybym musiała gołębia zabezpieczyć u siebie na jakiś czas. Klatka kennelowa od psa - jest, balkon - jest, małe pomieszczenie gospodarcze, które wynajmujemy w bloku – jest. Ostatecznie ogórek działkowy – też jest. Damy radę!
 Zabrałam ze sobą koc, rękawiczki jednorazowe, telefon i do dzieła! Idziemy szukać gołębia. Okazało się, że szukać wcale nie trzeba było, chodził sobie biedaczek niedaleko naszej klatki, jakby na nas czekał. Zbliżyłyśmy się z córką do niego – nie odfruwał, ale odchodził od nas. 
 
+![Ranny gołąb o imieniu Dzióbek, znaleziony przez córkę pod blokiem](/images/500921344_1637256530309011_7584059076629338733_n.jpg)
+
 Zaczęłam zatem wykonywać telefony. 
 Najpierw do weterynarza:
 
@@ -48,8 +50,6 @@ Super!
 Więc podsumujmy: mamy pod nogami gołębia nielota, ciągnącego skrzydło. Gołąb cały czas idzie i prawdopodobnie będzie dalej szedł przed siebie. Pomoc przyjedzie – może za godzinę, może za 5 godzin, może jutro, a może za 2 dni. Zgłosiłam lokalizację gołębia sprzed pół godziny, która już w tej chwili była nieaktualna. Gdy przyjedzie pomoc (o ile przyjedzie) – gołąb będzie już w innym miejscu i nie znajdą go.
 Pozostaje tylko jedno rozwiązanie: zabieramy go do domu i w domu poczekamy na pomoc.
 Tak zrobiłam.
-
-![Ranny gołąb o imieniu Dzióbek, znaleziony przez córkę pod blokiem](/images/500921344_1637256530309011_7584059076629338733_n.jpg)
 
 Z domu zadzwoniłam kolejny raz do straży miejskiej. Poinformowałam, że gołąb czeka u mnie w domu i poprosiłam, żeby organizacja przyjechała do mnie po niego.
 Wykonałam jeszcze jeden telefon – do organizacji – żeby opowiedzieć o tej interwencji i zapytać kto przyjedzie – żeby mieć pewność, że odpowiednim i odpowiedzialnym ludziom przekazuję gołębia i że dostarczą go do ośrodka, a nie wyrzucą jak śmiecia gdzieś po drodze. 
@@ -79,8 +79,6 @@ On tak jakby czytał mi w myślach. Rozumiał sytuacje, wiedział co  w tej chwi
 Nigdy nie łapałam go bezpośrednio w ręce. Gdy musiałam go przenieść – podkładałam mu kartonik lub kawałek gałęzi, a on po prostu wskakiwał i dał się przenosić.
 W ogródku, gdy trzeba było wracać do domu – podkładałam mu kartonik, on bez wahania wchodził do środka i wracaliśmy. Gdy sprzątałam klatkę – zaczynałam od konkretnych czynności, a on przesuwał się i udostępniał mi po kolei dalsze zakamarki. 
 Czasem sama się zastanawiałam, czy to moja wyobraźnia płata mi figle, czy to się dzieje naprawdę? Gołąb rozumie i współpracuje!
-
-![Dzióbek w klatce](/images/494888901_1650244655655184_8515057786966198795_n.jpg)
 
 Codziennie brałam Dzióbka na parę godzin do mieszkania, gdzie uprzednio przygotowywałam dla niego „plac zabaw” z kartonów i gałęzi przyniesionych z dworu. Układałam z nich różne stopnie, tak, by Dzióbek mógł sobie pospacerować i wspiąć się samodzielnie na szafkę, z której patrzył na nas z góry. Codziennie „plac zabaw” miał nieco inny kształt – żeby Dzióbkowi się nie nudziło i żeby mógł trochę pomyśleć przy pokonywaniu różnych przeszkód. Miałam wrażenie, że Dzióbek bawi się wyśmienicie! Oczywiście przynoszony ze swojego apartamentu i odnoszony z powrotem był również na gałęzi, bez konieczności gonienia go i brania w ręce.
 
