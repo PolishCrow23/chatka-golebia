@@ -31,8 +31,7 @@ Najpierw do weterynarza:
 Konsternacja i cisza w słuchawce… 
 
 — Halo, halo… Słyszy mnie pani? 
-W odpowiedzi takie: yyyyy, eeeee, yyyy… nooo… właściwie tak. 
-
+W odpowiedzi takie: yyyyy, eeeee, yyyy… nooo… właściwie tak. \
 — Aha. To może podpowie mi pani jak go złapać, żeby bardziej nie uszkodzić, ale też żeby samej się niczym nie zarazić. Rękawiczki wystarczą? 
 
 I na to odpowiedź: 
@@ -53,6 +52,8 @@ Więc podsumujmy: mamy pod nogami gołębia nielota, ciągnącego skrzydło. Go�
 Pozostaje tylko jedno rozwiązanie: zabieramy go do domu i w domu poczekamy na pomoc.
 Tak zrobiłam.
 
+![Dzióbek w domu, gołąbek siedzący w klatce.](/images/501084025_981943477352558_6072620339818274190_n.jpg)
+
 Z domu zadzwoniłam kolejny raz do straży miejskiej. Poinformowałam, że gołąb czeka u mnie w domu i poprosiłam, żeby organizacja przyjechała do mnie po niego.
 Wykonałam jeszcze jeden telefon – do organizacji – żeby opowiedzieć o tej interwencji i zapytać kto przyjedzie – żeby mieć pewność, że odpowiednim i odpowiedzialnym ludziom przekazuję gołębia i że dostarczą go do ośrodka, a nie wyrzucą jak śmiecia gdzieś po drodze. 
 Okazało się, że organizacja także nie przyjeżdża osobiście, tylko wysyła firmę do przewozu takich zwierząt, z którą współpracuje i mam się nie martwić, bo to są rzetelni i sprawdzeni ludzie. A ja mogę nazajutrz zadzwonić i dowiedzieć się, czy gołąb dotarł do organizacji.
@@ -66,8 +67,6 @@ W jednej chwili zostaliśmy całkiem sami z gołębiem, o którym wiedzieliśmy 
 Gołąb dostał na imię Dzióbek. 
 Wyglądał dość mizernie, piórka zmierzwione, szare, matowe. Wygłodzony bidulek, wychudzony, pewnie też obolały. Myślałam wtedy, że jest poczciwym staruszkiem, który nie wiadomo jak długo pożyje.
 Na początek dostał ode mnie wodę, ziarno oraz kulę tłuszczową. Dzióbek tak się rzucił na jedzenie, że w kilka godzin zjadł niemal całą kulę tłuszczową! Potem, pod wpływem codziennych „rarytasów” – nigdy więcej nie tknął kuli 😊
-
-![](/images/501084025_981943477352558_6072620339818274190_n.jpg)
 
 Każdego dnia przez wiele godzin czytałam o gołębiach, oglądałam filmiki z poradami od hodowców, zamówiłam dobrą karmę, witaminy, minerały. Dowiedziałam się, że na odporność najlepszy jest czosnek wrzucony do picia, a naturalne witaminy pochodzą z tartych surowych warzyw zmieszanych z odrobiną oleju lnianego. Na warzywa Dzióbek zawsze kręcił nosem, ale śladowe ilości czosnku z wodą pił codziennie. 
 
