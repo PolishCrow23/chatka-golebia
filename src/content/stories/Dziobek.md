@@ -29,25 +29,18 @@ Najpierw do weterynarza:\
 — Dzień dobry, czy można przyjechać z rannym gołębiem?
 
 Konsternacja i cisza w słuchawce… \
-\
 — Halo, halo… Słyszy mnie pani?\
-\
 W odpowiedzi takie: yyyyy, eeeee, yyyy… nooo… właściwie tak. 
 
 — Aha. To może podpowie mi pani jak go złapać, żeby bardziej nie uszkodzić, ale też żeby samej się niczym nie zarazić. Rękawiczki wystarczą? 
 
 I na to odpowiedź: \
-— Właściwie, niech go pani nie bierze, tylko dzwoni do schroniska – oni mają dyżur popołudniowy i to jest ich obowiązek, żeby zwierzęciu pomóc. 
-
+— Właściwie, niech go pani nie bierze, tylko dzwoni do schroniska – oni mają dyżur popołudniowy i to jest ich obowiązek, żeby zwierzęciu pomóc. \
 OK, no to dzwonię. W odpowiedzi słyszę:\
-— Nie, proszę panią, my tylko psy i koty. Ale proszę dzwonić do straży miejskiej — oni mają obowiązek zająć się gołębiem. 
-
-Zatem dzwonię. Pan, niby miły, niby przyjął moje zgłoszenie… ale na pytanie kiedy przyjedziecie po niego? W odpowiedzi usłyszałam:
-
-— My nie przyjedziemy. Ja to zgłoszenie przekażę organizacji, która zajmuje się dzikimi zwierzętami i to oni kogoś wyślą po niego. 
-
-— A kiedy? Bo wie pan, ten gołąb cały czas spaceruje, w tej chwili już powoli zbliżamy się do granicy z sąsiednim miastem. 
-
+— Nie, proszę panią, my tylko psy i koty. Ale proszę dzwonić do straży miejskiej — oni mają obowiązek zająć się gołębiem. \
+Zatem dzwonię. Pan, niby miły, niby przyjął moje zgłoszenie… ale na pytanie kiedy przyjedziecie po niego? W odpowiedzi usłyszałam:\
+— My nie przyjedziemy. Ja to zgłoszenie przekażę organizacji, która zajmuje się dzikimi zwierzętami i to oni kogoś wyślą po niego. \
+— A kiedy? Bo wie pan, ten gołąb cały czas spaceruje, w tej chwili już powoli zbliżamy się do granicy z sąsiednim miastem. \
 — A tego to ja nie wiem. Oni przyjadą, gdy będą mieli czas. Oni obsługują kilka miast.
 
 Super!
