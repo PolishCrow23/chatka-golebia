@@ -12,7 +12,7 @@ description: Ranny gołąb o imieniu Dzióbek, znaleziony przez córkę pod blok
 ---
 **Światowy Dzień Zwierząt dnia 4 października 2023r, bądź też wspomnienie św. Franciszka z Asyżu — co komu jest bliższe sercu — „uczciliśmy” w wyjątkowy sposób, który zmienił nasze życie na zawsze.**
 
-Moja córka wracając ze szkoły, wpadła do domu jak burza i od progu wołała:\
+Moja córka wracając ze szkoły, wpadła do domu jak burza i od progu wołała:
 
 —  Mamo, mamo, przed naszą klatką chodzi gołąb ze złamanym skrzydłem i jest taki biedny, to skrzydło mu wisi, ledwo chodzi… no i co teraz, co teraz?
 
