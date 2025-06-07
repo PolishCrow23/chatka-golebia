@@ -54,13 +54,13 @@ Wszystkie organizacje z którymi wtedy rozmawiałam nie kiwnęły nawet palcem, 
 
 W jednej chwili zostaliśmy całkiem sami z gołębiem, o którym wiedzieliśmy jedynie tyle, że sam bez pomocy nie przeżyje i w tym właśnie momencie zaczęła się najpiękniejsza przygoda naszego życia!
 
-![](/images/501084025_981943477352558_6072620339818274190_n.jpg)
-
 Gołąb dostał na imię Dzióbek. 
 Wyglądał dość mizernie, piórka zmierzwione, szare, matowe. Wygłodzony bidulek, wychudzony, pewnie też obolały. Myślałam wtedy, że jest poczciwym staruszkiem, który nie wiadomo jak długo pożyje.
 Na początek dostał ode mnie wodę, ziarno oraz kulę tłuszczową. Dzióbek tak się rzucił na jedzenie, że w kilka godzin zjadł niemal całą kulę tłuszczową! Potem, pod wpływem codziennych „rarytasów” —  nigdy więcej nie tknął kuli 😊
 
 Każdego dnia przez wiele godzin czytałam o gołębiach, oglądałam filmiki z poradami od hodowców, zamówiłam dobrą karmę, witaminy, minerały. Dowiedziałam się, że na odporność najlepszy jest czosnek wrzucony do picia, a naturalne witaminy pochodzą z tartych surowych warzyw zmieszanych z odrobiną oleju lnianego. Na warzywa Dzióbek zawsze kręcił nosem, ale śladowe ilości czosnku z wodą pił codziennie. 
+
+![](/images/501084025_981943477352558_6072620339818274190_n.jpg)
 
 Przez pierwsze 2-3 dni, kiedy temperatura na dworze była wysoka Dzióbek mieszkał na balkonie w klatce kennelowej. Na noc przykrywałam klatkę śpiworem. Następnie, przygotowałam mu luksusowy apartament w naszym pomieszczeniu gospodarczym, w którym przechowywaliśmy dodatkowe krzesła, stół i komodę. Pomieszczenie (z oknem), choć niewielkie, okazało się bardzo przydatne. Dzióbek miał tam spokój, ciszę, ład, porządek i odpowiednią temperaturę.
 
