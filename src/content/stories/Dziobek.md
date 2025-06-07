@@ -23,6 +23,8 @@ Zatem zróbmy tak: zjedzmy na spokojnie obiad, a potem wyjdziemy na dwór i zoba
 W trakcie obiadu już przeglądałam internet w celu znalezienia jakiegoś rozwiązania, placówki, która pomoże. Obmyślałam strategię na wypadek gdybym musiała gołębia zabezpieczyć u siebie na jakiś czas. Klatka kennelowa od psa — jest, balkon — jest, małe pomieszczenie gospodarcze, które wynajmujemy w bloku — jest. Ostatecznie ogórek działkowy — też jest. Damy radę!
 Zabrałam ze sobą koc, rękawiczki jednorazowe, telefon i do dzieła! Idziemy szukać gołębia. Okazało się, że szukać wcale nie trzeba było, chodził sobie biedaczek niedaleko naszej klatki, jakby na nas czekał. Zbliżyłyśmy się z córką do niego — nie odfruwał, ale odchodził od nas. 
 
+![](/images/500921344_1637256530309011_7584059076629338733_n.jpg)
+
 Zaczęłam zatem wykonywać telefony. 
 Najpierw do weterynarza: \
 — Dzień dobry, czy można przyjechać z rannym gołębiem?\
@@ -42,8 +44,6 @@ Super!
 Więc podsumujmy: mamy pod nogami gołębia nielota, ciągnącego skrzydło. Gołąb cały czas idzie i prawdopodobnie będzie dalej szedł przed siebie. Pomoc przyjedzie — może za godzinę, może za 5 godzin, może jutro, a może za 2 dni. Zgłosiłam lokalizację gołębia sprzed pół godziny, która już w tej chwili była nieaktualna. Gdy przyjedzie pomoc (o ile przyjedzie) — gołąb będzie już w innym miejscu i nie znajdą go.
 Pozostaje tylko jedno rozwiązanie: zabieramy go do domu i w domu poczekamy na pomoc.
 Tak zrobiłam.
-
-![Ranny czarny gołąb o imieniu Dzióbek, znaleziony przez córkę pod blokiem, siedzący przy drzewie](/images/500921344_1637256530309011_7584059076629338733_n.jpg)
 
 Z domu zadzwoniłam kolejny raz do straży miejskiej. Poinformowałam, że gołąb czeka u mnie w domu i poprosiłam, żeby organizacja przyjechała do mnie po niego. Wykonałam jeszcze jeden telefon  do organizacji — żeby opowiedzieć o tej interwencji i zapytać kto przyjedzie —  żeby mieć pewność, że odpowiednim i odpowiedzialnym ludziom przekazuję gołębia i że dostarczą go do ośrodka, a nie wyrzucą jak śmiecia gdzieś po drodze. 
 Okazało się, że organizacja także nie przyjeżdża osobiście, tylko wysyła firmę do przewozu takich zwierząt, z którą współpracuje i mam się nie martwić, bo to są rzetelni i sprawdzeni ludzie. A ja mogę nazajutrz zadzwonić i dowiedzieć się, czy gołąb dotarł do organizacji.
