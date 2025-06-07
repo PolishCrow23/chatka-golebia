@@ -29,8 +29,7 @@ Najpierw do weterynarza:
 
 — Dzień dobry, czy można przyjechać z rannym gołębiem?
 
-Konsternacja i cisza w słuchawce… 
-
+Konsternacja i cisza w słuchawce… \
 — Halo, halo… Słyszy mnie pani?
 
 
