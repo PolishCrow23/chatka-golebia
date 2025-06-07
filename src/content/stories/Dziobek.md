@@ -29,8 +29,7 @@ Najpierw do weterynarza:\
 — Dzień dobry, czy można przyjechać z rannym gołębiem?
 
 Konsternacja i cisza w słuchawce… \
-— Halo, halo… Słyszy mnie pani?
-
+— Halo, halo… Słyszy mnie pani?\
 W odpowiedzi takie: yyyyy, eeeee, yyyy… nooo… właściwie tak. 
 
 — Aha. To może podpowie mi pani jak go złapać, żeby bardziej nie uszkodzić, ale też żeby samej się niczym nie zarazić. Rękawiczki wystarczą? 
