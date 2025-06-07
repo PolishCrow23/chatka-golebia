@@ -32,8 +32,7 @@ Najpierw do weterynarza:
 
 Konsternacja i cisza w słuchawce… \
 \
-— Halo, halo… Słyszy mnie pani?
-
+— Halo, halo… Słyszy mnie pani?\
 \
 W odpowiedzi takie: yyyyy, eeeee, yyyy… nooo… właściwie tak. 
 
