@@ -10,7 +10,7 @@ description: Ranny gołąb o imieniu Dzióbek, znaleziony przez córkę pod blok
   i zaprzyjaźnił się z dzikim gołębiem, z którym ostatecznie odleciał w stronę
   wolności.
 ---
-**Światowy Dzień Zwierząt dnia 4 października 2023r, bądź też wspomnienie św. Franciszka z Asyżu – co komu jest bliższe sercu — „uczciliśmy” w wyjątkowy sposób, który zmienił nasze życie na zawsze.**
+**Światowy Dzień Zwierząt dnia 4 października 2023r, bądź też wspomnienie św. Franciszka z Asyżu — co komu jest bliższe sercu — „uczciliśmy” w wyjątkowy sposób, który zmienił nasze życie na zawsze.**
 
 Moja córka wracając ze szkoły, wpadła do domu jak burza i od progu wołała:\
 
