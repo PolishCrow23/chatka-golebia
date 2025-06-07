@@ -73,21 +73,21 @@ Okazało się, że organizacja także nie przyjeżdża osobiście, tylko wysyła
 
 OK. Zatem czekamy. Godzinę, dwie, cztery, pięć… O 2:00 w końcu poszłam spać, mąż czuwał do rana.
 Oczywiście nikt nie przyjechał, nikt nie zadzwonił, nie otrzymaliśmy żadnej pomocy. Gruszętnika jeszcze wtedy nie znaliśmy, Chatki gołębia także nie. 
-Wszystkie organizacje z którymi wtedy rozmawiałam nie kiwnęły nawet palcem, żeby pomóc, ale o dziwo – każda z nich  na pamięć umiała wyrecytować zakres obowiązków tej drugiej organizacji! 
+Wszystkie organizacje z którymi wtedy rozmawiałam nie kiwnęły nawet palcem, żeby pomóc, ale o dziwo — każda z nich  na pamięć umiała wyrecytować zakres obowiązków tej drugiej organizacji! 
 
 W jednej chwili zostaliśmy całkiem sami z gołębiem, o którym wiedzieliśmy jedynie tyle, że sam bez pomocy nie przeżyje i w tym właśnie momencie zaczęła się najpiękniejsza przygoda naszego życia!
 
 Gołąb dostał na imię Dzióbek. 
 Wyglądał dość mizernie, piórka zmierzwione, szare, matowe. Wygłodzony bidulek, wychudzony, pewnie też obolały. Myślałam wtedy, że jest poczciwym staruszkiem, który nie wiadomo jak długo pożyje.
-Na początek dostał ode mnie wodę, ziarno oraz kulę tłuszczową. Dzióbek tak się rzucił na jedzenie, że w kilka godzin zjadł niemal całą kulę tłuszczową! Potem, pod wpływem codziennych „rarytasów” – nigdy więcej nie tknął kuli 😊
+Na początek dostał ode mnie wodę, ziarno oraz kulę tłuszczową. Dzióbek tak się rzucił na jedzenie, że w kilka godzin zjadł niemal całą kulę tłuszczową! Potem, pod wpływem codziennych „rarytasów” —  nigdy więcej nie tknął kuli 😊
 
 Każdego dnia przez wiele godzin czytałam o gołębiach, oglądałam filmiki z poradami od hodowców, zamówiłam dobrą karmę, witaminy, minerały. Dowiedziałam się, że na odporność najlepszy jest czosnek wrzucony do picia, a naturalne witaminy pochodzą z tartych surowych warzyw zmieszanych z odrobiną oleju lnianego. Na warzywa Dzióbek zawsze kręcił nosem, ale śladowe ilości czosnku z wodą pił codziennie. 
 
 Przez pierwsze 2-3 dni, kiedy temperatura na dworze była wysoka Dzióbek mieszkał na balkonie w klatce kennelowej. Na noc przykrywałam klatkę śpiworem. Następnie, przygotowałam mu luksusowy apartament w naszym pomieszczeniu gospodarczym, w którym przechowywaliśmy dodatkowe krzesła, stół i komodę. Pomieszczenie (z oknem), choć niewielkie, okazało się bardzo przydatne. Dzióbek miał tam spokój, ciszę, ład, porządek i odpowiednią temperaturę.
 
-Dopóki pogoda na to pozwalała – brałam Dzióbka „na spacery” do ogródka działkowego. Dzióbek to uwielbiał! Jaki on tam był szczęśliwy! Ponieważ był wtedy nielotem, to chodził sobie po ogródku jak piesek, a następnie znajdował odpowiednie miejsce, w którym wylegiwał się i delektował świeżym powietrzem. Gdy nie krzątaliśmy się po ogródku i Dzióbek przez dłuższą chwilę nas nie widział – sam przychodził przed altanę i sprawdzał, czy jesteśmy. 
+Dopóki pogoda na to pozwalała —  brałam Dzióbka „na spacery” do ogródka działkowego. Dzióbek to uwielbiał! Jaki on tam był szczęśliwy! Ponieważ był wtedy nielotem, to chodził sobie po ogródku jak piesek, a następnie znajdował odpowiednie miejsce, w którym wylegiwał się i delektował świeżym powietrzem. Gdy nie krzątaliśmy się po ogródku i Dzióbek przez dłuższą chwilę nas nie widział —  sam przychodził przed altanę i sprawdzał, czy jesteśmy. 
 
-Nigdy Dzióbka nie oswajałam. Jeśli tylko był cień nadziei, że Dzióbek odzyska sprawność i odleci na wolność – nie wolno mi było tego robić. Pewne rzeczy jednak dzieją się samoczynnie. Podczas codziennego sprzątania klatki, karmienia, przebywania – duet ptako-ludzki uczy się siebie nawzajem, przyzwyczaja się, buduje się nić porozumienia…
+Nigdy Dzióbka nie oswajałam. Jeśli tylko był cień nadziei, że Dzióbek odzyska sprawność i odleci na wolność —  nie wolno mi było tego robić. Pewne rzeczy jednak dzieją się samoczynnie. Podczas codziennego sprzątania klatki, karmienia, przebywania —  duet ptako-ludzki uczy się siebie nawzajem, przyzwyczaja się, buduje się nić porozumienia…
 Dzióbek pod tym względem był absolutnie wyjątkowym ptakiem! 
 On tak jakby czytał mi w myślach. Rozumiał sytuacje, wiedział co  w tej chwili robię, do czego zmierzam, czego od niego oczekuję i współpracował ze mną. 
 Nigdy nie łapałam go bezpośrednio w ręce. Gdy musiałam go przenieść – podkładałam mu kartonik lub kawałek gałęzi, a on po prostu wskakiwał i dał się przenosić.
