@@ -47,7 +47,7 @@ I na to odpowiedź:
 
 OK, no to dzwonię. W odpowiedzi słyszę:
 
-— Nie, proszę panią, my tylko psy i koty. Ale proszę dzwonić do straży miejskiej – oni mają obowiązek zająć się gołębiem. 
+— Nie, proszę panią, my tylko psy i koty. Ale proszę dzwonić do straży miejskiej — oni mają obowiązek zająć się gołębiem. 
 
 Zatem dzwonię. Pan, niby miły, niby przyjął moje zgłoszenie… ale na pytanie kiedy przyjedziecie po niego? W odpowiedzi usłyszałam:
 
