@@ -35,12 +35,17 @@ W odpowiedzi takie: yyyyy, eeeee, yyyy… nooo… właściwie tak.
 — Aha. To może podpowie mi pani jak go złapać, żeby bardziej nie uszkodzić, ale też żeby samej się niczym nie zarazić. Rękawiczki wystarczą? 
 
 I na to odpowiedź: \
-— Właściwie, niech go pani nie bierze, tylko dzwoni do schroniska – oni mają dyżur popołudniowy i to jest ich obowiązek, żeby zwierzęciu pomóc. \
+— Właściwie, niech go pani nie bierze, tylko dzwoni do schroniska – oni mają dyżur popołudniowy i to jest ich obowiązek, żeby zwierzęciu pomóc. 
+
 OK, no to dzwonię. W odpowiedzi słyszę:\
-— Nie, proszę panią, my tylko psy i koty. Ale proszę dzwonić do straży miejskiej — oni mają obowiązek zająć się gołębiem. \
-Zatem dzwonię. Pan, niby miły, niby przyjął moje zgłoszenie… ale na pytanie kiedy przyjedziecie po niego? W odpowiedzi usłyszałam:\
-— My nie przyjedziemy. Ja to zgłoszenie przekażę organizacji, która zajmuje się dzikimi zwierzętami i to oni kogoś wyślą po niego. \
-— A kiedy? Bo wie pan, ten gołąb cały czas spaceruje, w tej chwili już powoli zbliżamy się do granicy z sąsiednim miastem. \
+— Nie, proszę panią, my tylko psy i koty. Ale proszę dzwonić do straży miejskiej — oni mają obowiązek zająć się gołębiem. 
+
+Zatem dzwonię. Pan, niby miły, niby przyjął moje zgłoszenie… ale na pytanie kiedy przyjedziecie po niego? W odpowiedzi usłyszałam:
+
+— My nie przyjedziemy. Ja to zgłoszenie przekażę organizacji, która zajmuje się dzikimi zwierzętami i to oni kogoś wyślą po niego. 
+
+— A kiedy? Bo wie pan, ten gołąb cały czas spaceruje, w tej chwili już powoli zbliżamy się do granicy z sąsiednim miastem. 
+
 — A tego to ja nie wiem. Oni przyjadą, gdy będą mieli czas. Oni obsługują kilka miast.
 
 Super!
@@ -57,7 +62,7 @@ Wszystkie organizacje z którymi wtedy rozmawiałam nie kiwnęły nawet palcem, 
 
 W jednej chwili zostaliśmy całkiem sami z gołębiem, o którym wiedzieliśmy jedynie tyle, że sam bez pomocy nie przeżyje i w tym właśnie momencie zaczęła się najpiękniejsza przygoda naszego życia!
 
-![Ranny gołąb o imieniu Dzióbek na dworze, znaleziony przez córkę pod blokiem](/images/500921344_1637256530309011_7584059076629338733_n.jpg)
+![Ranny gołąb o imieniu Dzióbek, znaleziony przez córkę pod blokiem](/images/500921344_1637256530309011_7584059076629338733_n.jpg)
 
 Gołąb dostał na imię Dzióbek. 
 Wyglądał dość mizernie, piórka zmierzwione, szare, matowe. Wygłodzony bidulek, wychudzony, pewnie też obolały. Myślałam wtedy, że jest poczciwym staruszkiem, który nie wiadomo jak długo pożyje.
