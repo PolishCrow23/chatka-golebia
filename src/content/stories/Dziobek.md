@@ -49,7 +49,9 @@ OK, no to dzwonię. W odpowiedzi słyszę:
 
 — Nie, proszę panią, my tylko psy i koty. Ale proszę dzwonić do straży miejskiej – oni mają obowiązek zająć się gołębiem. 
 
-Zatem dzwonię. Pan, niby miły, niby przyjął moje zgłoszenie… ale na pytanie kiedy przyjedziecie po niego? W odpowiedzi usłyszałam: 
+Zatem dzwonię. Pan, niby miły, niby przyjął moje zgłoszenie… ale na pytanie kiedy przyjedziecie po niego? W odpowiedzi usłyszałam:
+
+
 — My nie przyjedziemy. Ja to zgłoszenie przekażę organizacji, która zajmuje się dzikimi zwierzętami i to oni kogoś wyślą po niego. 
 
 — A kiedy? Bo wie pan, ten gołąb cały czas spaceruje, w tej chwili już powoli zbliżamy się do granicy z sąsiednim miastem. 
