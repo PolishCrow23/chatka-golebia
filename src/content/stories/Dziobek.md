@@ -14,7 +14,7 @@ description: Ranny gołąb o imieniu Dzióbek, znaleziony przez córkę pod blok
 
 Moja córka wracając ze szkoły, wpadła do domu jak burza i od progu wołała:
 
-—  Mamo, mamo, przed naszą klatką chodzi gołąb ze złamanym skrzydłem i jest taki biedny, to skrzydło mu wisi, ledwo chodzi… no i co teraz, co teraz?
+   —  Mamo, mamo, przed naszą klatką chodzi gołąb ze złamanym skrzydłem i jest taki biedny, to skrzydło mu wisi, ledwo chodzi… no i co teraz, co teraz?
 
 Mąż tylko pokręcił głową, machnął ręką i odszedł do drugiego pokoju, a jego mina wyrażała więcej niż tysiąc słów, mniej więcej takich: tym babom to się już całkiem w głowach poprzewracało. Ratować gołębia w bloku?!? Któż to widział!
 
