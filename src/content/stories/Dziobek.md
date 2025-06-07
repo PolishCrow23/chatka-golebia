@@ -23,6 +23,8 @@ Zatem zróbmy tak: zjedzmy na spokojnie obiad, a potem wyjdziemy na dwór i zoba
 W trakcie obiadu już przeglądałam internet w celu znalezienia jakiegoś rozwiązania, placówki, która pomoże. Obmyślałam strategię na wypadek gdybym musiała gołębia zabezpieczyć u siebie na jakiś czas. Klatka kennelowa od psa — jest, balkon — jest, małe pomieszczenie gospodarcze, które wynajmujemy w bloku — jest. Ostatecznie ogórek działkowy — też jest. Damy radę!
 Zabrałam ze sobą koc, rękawiczki jednorazowe, telefon i do dzieła! Idziemy szukać gołębia. Okazało się, że szukać wcale nie trzeba było, chodził sobie biedaczek niedaleko naszej klatki, jakby na nas czekał. Zbliżyłyśmy się z córką do niego — nie odfruwał, ale odchodził od nas. 
 
+![](/images/500921344_1637256530309011_7584059076629338733_n.jpg)
+
 Zaczęłam zatem wykonywać telefony. 
 Najpierw do weterynarza: \
 — Dzień dobry, czy można przyjechać z rannym gołębiem?\
@@ -37,8 +39,6 @@ Zatem dzwonię. Pan, niby miły, niby przyjął moje zgłoszenie… ale na pytan
    — My nie przyjedziemy. Ja to zgłoszenie przekażę organizacji, która zajmuje się dzikimi zwierzętami i to oni kogoś wyślą po niego. \
    — A kiedy? Bo wie pan, ten gołąb cały czas spaceruje, w tej chwili już powoli zbliżamy się do granicy z sąsiednim miastem. \
    — A tego to ja nie wiem. Oni przyjadą, gdy będą mieli czas. Oni obsługują kilka miast.
-
-![](/images/500921344_1637256530309011_7584059076629338733_n.jpg)
 
 Super!
 Więc podsumujmy: mamy pod nogami gołębia nielota, ciągnącego skrzydło. Gołąb cały czas idzie i prawdopodobnie będzie dalej szedł przed siebie. Pomoc przyjedzie — może za godzinę, może za 5 godzin, może jutro, a może za 2 dni. Zgłosiłam lokalizację gołębia sprzed pół godziny, która już w tej chwili była nieaktualna. Gdy przyjedzie pomoc (o ile przyjedzie) — gołąb będzie już w innym miejscu i nie znajdą go.
