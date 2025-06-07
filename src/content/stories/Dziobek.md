@@ -96,6 +96,8 @@ Bez Dzióbka ten dom już nigdy nie byłby taki sam. A jednak zrobiłabym wszyst
 Nadszedł długi weekend majówkowy. Zabrałam się za umycie okien i balkonu. Dzióbek korzystał z otwartego balkonu — jak zawsze. Tym razem jednak był bardzo niespokojny. Fruwał, zamiast siedzieć na bratku, wieszał się na siatkę, był wyraźnie pobudzony. Nawet go zbeształam, żeby się uspokoił, bo jeszcze sobie krzywdę zrobi. 
 Nagle na balkon przyleciał inny gołąb i usiadł na balustradzie na zewnątrz siatki. Dzióbek od razu przyfrunął do niego i usiadł przed nim po wewnętrznej stronie balustrady. Położył się przed nim i całym bokiem wtulił się w tego gołębia. Tamten z kolei przez siatkę zaczął Dzióbka głaskać dziobem po głowie… 
 Ze szmatą w ręku zamarłam. To był widok, który złamał moje serce na milion kawałków. Trwało to może około minuty, po czym obcy gołąb odleciał. Dzióbek z żalem zaczął rozglądać się za nim.
+
+
 Gdy tylko wyszłam z osłupienia pomyślałam — czy to był właśnie ten znak?
 Dzióbku, chciałbyś polecieć? Ale wiesz, że zawsze możesz tu wrócić? To jest twój dom. 
 Otworzyłam bok siatki, Dzióbek spojrzał na mnie i bez wahania odfrunął.
