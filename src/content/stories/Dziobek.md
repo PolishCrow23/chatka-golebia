@@ -24,7 +24,7 @@ Zatem zróbmy tak: zjedzmy na spokojnie obiad, a potem wyjdziemy na dwór i zoba
 W trakcie obiadu już przeglądałam internet w celu znalezienia jakiegoś rozwiązania, placówki, która pomoże. Obmyślałam strategię na wypadek gdybym musiała gołębia zabezpieczyć u siebie na jakiś czas. Klatka kennelowa od psa — jest, balkon — jest, małe pomieszczenie gospodarcze, które wynajmujemy w bloku — jest. Ostatecznie ogórek działkowy — też jest. Damy radę!
 Zabrałam ze sobą koc, rękawiczki jednorazowe, telefon i do dzieła! Idziemy szukać gołębia. Okazało się, że szukać wcale nie trzeba było, chodził sobie biedaczek niedaleko naszej klatki, jakby na nas czekał. Zbliżyłyśmy się z córką do niego — nie odfruwał, ale odchodził od nas. 
 
-![]()
+![](/images/500921344_1637256530309011_7584059076629338733_n.jpg)
 
 Zaczęłam zatem wykonywać telefony. 
 Najpierw do weterynarza: \
@@ -74,6 +74,8 @@ Nigdy nie łapałam go bezpośrednio w ręce. Gdy musiałam go przenieść — p
 W ogródku, gdy trzeba było wracać do domu — podkładałam mu kartonik, on bez wahania wchodził do środka i wracaliśmy. Gdy sprzątałam klatkę — zaczynałam od konkretnych czynności, a on przesuwał się i udostępniał mi po kolei dalsze zakamarki. 
 Czasem sama się zastanawiałam, czy to moja wyobraźnia płata mi figle, czy to się dzieje naprawdę? Gołąb rozumie i współpracuje!
 
+![]()
+
 Codziennie brałam Dzióbka na parę godzin do mieszkania, gdzie uprzednio przygotowywałam dla niego „plac zabaw” z kartonów i gałęzi przyniesionych z dworu. Układałam z nich różne stopnie, tak, by Dzióbek mógł sobie pospacerować i wspiąć się samodzielnie na szafkę, z której patrzył na nas z góry. Codziennie „plac zabaw” miał nieco inny kształt — żeby Dzióbkowi się nie nudziło i żeby mógł trochę pomyśleć przy pokonywaniu różnych przeszkód. Miałam wrażenie, że Dzióbek bawi się wyśmienicie! Oczywiście przynoszony ze swojego apartamentu i odnoszony z powrotem był również na gałęzi, bez konieczności gonienia go i brania w ręce.
 
 Po jakimś czasie wymyśliłam mu najlepszą zabawkę — kawałek gałęzi powieszony na żabkach z karnisza tuż przy oknie. To był strzał w dziesiątkę! Dzióbek nie tylko był wysoko — tak jak lubił, huśtał się — tak jak lubił, ale jeszcze mógł patrzeć przez okno i obserwować co dzieje się na dworze. To miejsce pokochał najbardziej. Wiele godzin dziennie dyndał na swojej huśtaweczce. Wtedy naprawdę był szczęśliwy. Początkowo musiał się natrudzić, by utrzymać na niej równowagę. Za pierwszym razem spadł, ale z każdą kolejną próbą szło mu coraz lepiej. Nauczył się sam na nią wfruwać, a dyndając na niej — ćwiczył wszystkie mięśnie, koordynację i ogólną sprawność, która z każdym dniem była coraz lepsza.
@@ -92,7 +94,7 @@ Wczesną wiosną zasadziłam na balkonie sałatę, szczypiorek i bratki. Dzióbe
 Niby wiedziałam, że Dzióbek może być u nas tylko czasowo, ale miesiące wspólnego życia spowodowały, że uważałam go za członka rodziny. Stało się oczywistym, że nasza rodzina to 4+2 (bo mamy jeszcze pieska).
 Bez Dzióbka ten dom już nigdy nie byłby taki sam. A jednak zrobiłabym wszystko, co należy dla dobra i szczęścia Dzióbka. Czekałam na znak.
 
-![](/images/494888584_1752542669023892_2921552156043223704_n.jpg)
+![]()
 
 Nadszedł długi weekend majówkowy. Zabrałam się za umycie okien i balkonu. Dzióbek korzystał z otwartego balkonu — jak zawsze. Tym razem jednak był bardzo niespokojny. Fruwał, zamiast siedzieć na bratku, wieszał się na siatkę, był wyraźnie pobudzony. Nawet go zbeształam, żeby się uspokoił, bo jeszcze sobie krzywdę zrobi. 
 Nagle na balkon przyleciał inny gołąb i usiadł na balustradzie na zewnątrz siatki. Dzióbek od razu przyfrunął do niego i usiadł przed nim po wewnętrznej stronie balustrady. Położył się przed nim i całym bokiem wtulił się w tego gołębia. Tamten z kolei przez siatkę zaczął Dzióbka głaskać dziobem po głowie… 
