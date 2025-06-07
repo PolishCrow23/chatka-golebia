@@ -69,9 +69,7 @@ Wykonałam jeszcze jeden telefon  do organizacji — żeby opowiedzieć o tej in
 Okazało się, że organizacja także nie przyjeżdża osobiście, tylko wysyła firmę do przewozu takich zwierząt, z którą współpracuje i mam się nie martwić, bo to są rzetelni i sprawdzeni ludzie. A ja mogę nazajutrz zadzwonić i dowiedzieć się, czy gołąb dotarł do organizacji.
 
 OK. Zatem czekamy. Godzinę, dwie, cztery, pięć… O 2:00 w końcu poszłam spać, mąż czuwał do rana.
-Oczywiście nikt nie przyjechał, nikt nie zadzwonił, nie otrzymaliśmy żadnej pomocy. 
-
-Gruszętnika jeszcze wtedy nie znaliśmy, Chatki gołębia także nie.
+Oczywiście nikt nie przyjechał, nikt nie zadzwonił, nie otrzymaliśmy żadnej pomocy. Gruszętnika jeszcze wtedy nie znaliśmy, Chatki gołębia także nie.
 Wszystkie organizacje z którymi wtedy rozmawiałam nie kiwnęły nawet palcem, żeby pomóc, ale o dziwo — każda z nich  na pamięć umiała wyrecytować zakres obowiązków tej drugiej organizacji! 
 
 W jednej chwili zostaliśmy całkiem sami z gołębiem, o którym wiedzieliśmy jedynie tyle, że sam bez pomocy nie przeżyje i w tym właśnie momencie zaczęła się najpiękniejsza przygoda naszego życia!
