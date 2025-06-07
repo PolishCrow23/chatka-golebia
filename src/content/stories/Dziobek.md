@@ -26,7 +26,6 @@ Zabrałam ze sobą koc, rękawiczki jednorazowe, telefon i do dzieła! Idziemy s
 
 Zaczęłam zatem wykonywać telefony. 
 Najpierw do weterynarza:\
-\
 — Dzień dobry, czy można przyjechać z rannym gołębiem?
 
 Konsternacja i cisza w słuchawce… \
