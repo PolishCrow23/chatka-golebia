@@ -25,17 +25,13 @@ W trakcie obiadu już przeglądałam internet w celu znalezienia jakiegoś rozwi
 Zabrałam ze sobą koc, rękawiczki jednorazowe, telefon i do dzieła! Idziemy szukać gołębia. Okazało się, że szukać wcale nie trzeba było, chodził sobie biedaczek niedaleko naszej klatki, jakby na nas czekał. Zbliżyłyśmy się z córką do niego — nie odfruwał, ale odchodził od nas. 
 
 Zaczęłam zatem wykonywać telefony. 
-Najpierw do weterynarza:\
-   — Dzień dobry, czy można przyjechać z rannym gołębiem?
-
+Najpierw do weterynarza: — Dzień dobry, czy można przyjechać z rannym gołębiem?\
 Konsternacja i cisza w słuchawce… \
-   — Halo, halo… Słyszy mnie pani?\
-W odpowiedzi takie: yyyyy, eeeee, yyyy… nooo… właściwie tak. 
+— Halo, halo… Słyszy mnie pani?\
+W odpowiedzi takie: yyyyy, eeeee, yyyy… nooo… właściwie tak. \
+— Aha. To może podpowie mi pani jak go złapać, żeby bardziej nie uszkodzić, ale też żeby samej się niczym nie zarazić. Rękawiczki wystarczą? 
 
-   — Aha. To może podpowie mi pani jak go złapać, żeby bardziej nie uszkodzić, ale też żeby samej się niczym nie zarazić. Rękawiczki wystarczą? 
-
-I na to odpowiedź: \
-   — Właściwie, niech go pani nie bierze, tylko dzwoni do schroniska – oni mają dyżur popołudniowy i to jest ich obowiązek, żeby zwierzęciu pomóc. 
+I na to odpowiedź — Właściwie, niech go pani nie bierze, tylko dzwoni do schroniska – oni mają dyżur popołudniowy i to jest ich obowiązek, żeby zwierzęciu pomóc. 
 
 OK, no to dzwonię. W odpowiedzi słyszę:\
    — Nie, proszę panią, my tylko psy i koty. Ale proszę dzwonić do straży miejskiej — oni mają obowiązek zająć się gołębiem. 
