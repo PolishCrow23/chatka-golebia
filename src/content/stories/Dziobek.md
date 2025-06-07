@@ -97,6 +97,8 @@ Nadszedł długi weekend majówkowy. Zabrałam się za umycie okien i balkonu. D
 Nagle na balkon przyleciał inny gołąb i usiadł na balustradzie na zewnątrz siatki. Dzióbek od razu przyfrunął do niego i usiadł przed nim po wewnętrznej stronie balustrady. Położył się przed nim i całym bokiem wtulił się w tego gołębia. Tamten z kolei przez siatkę zaczął Dzióbka głaskać dziobem po głowie… 
 Ze szmatą w ręku zamarłam. To był widok, który złamał moje serce na milion kawałków. Trwało to może około minuty, po czym obcy gołąb odleciał. Dzióbek z żalem zaczął rozglądać się za nim.
 
+![](/images/494886532_1388150542389251_6816405897818504858_n.jpg)
+
 
 Gdy tylko wyszłam z osłupienia pomyślałam — czy to był właśnie ten znak?
 Dzióbku, chciałbyś polecieć? Ale wiesz, że zawsze możesz tu wrócić? To jest twój dom. 
@@ -109,8 +111,6 @@ Ale czy na pewno? Ta myśl była nie do zniesienia.
 
 Po miesiącu od wypuszczenia go spacerowałam sobie z psem i jak zwykle rzuciłam ziarno, dokarmiając pobliskie stadko. Nagle wśród gołębi dostrzegłam Dzióbka! Dzióbku, czy to naprawdę ty? Zaczęłam mówić do niego, a on odszedł na chwilę od reszty ziomków, przybliżył się do mnie na około 1m, delikatnie zatańczył i wrócił do reszty. Ja także poszłam w swoją stronę.
 To była chwila absolutnego szczęścia!
-
-![](/images/494886532_1388150542389251_6816405897818504858_n.jpg)
 
 Od tamtej pory regularnie spotykam Dzióbka przynajmniej raz w miesiącu przy miejscu dokarmiania. Ma się dobrze. Skrzydło pięknie wraca na swoje miejsce. Już prawie nie widać, że jest ciutkę opuszczone. Trzeba się mocno przyglądać. Wiadomo, piórka nie są już tak lśniące jak w domu, ale żyje. Nie jest wychudzony. Wprawdzie swojej pary jeszcze nie odnalazł, ale może na wiosnę się uda?
 Całe życie przed nim. Uratowane życie.
