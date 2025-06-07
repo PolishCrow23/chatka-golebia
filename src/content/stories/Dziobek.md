@@ -54,8 +54,6 @@ Wszystkie organizacje z którymi wtedy rozmawiałam nie kiwnęły nawet palcem, 
 
 W jednej chwili zostaliśmy całkiem sami z gołębiem, o którym wiedzieliśmy jedynie tyle, że sam bez pomocy nie przeżyje i w tym właśnie momencie zaczęła się najpiękniejsza przygoda naszego życia!
 
-![](/images/501084025_981943477352558_6072620339818274190_n.jpg)
-
 Gołąb dostał na imię Dzióbek. 
 Wyglądał dość mizernie, piórka zmierzwione, szare, matowe. Wygłodzony bidulek, wychudzony, pewnie też obolały. Myślałam wtedy, że jest poczciwym staruszkiem, który nie wiadomo jak długo pożyje.
 Na początek dostał ode mnie wodę, ziarno oraz kulę tłuszczową. Dzióbek tak się rzucił na jedzenie, że w kilka godzin zjadł niemal całą kulę tłuszczową! Potem, pod wpływem codziennych „rarytasów” —  nigdy więcej nie tknął kuli 😊
@@ -95,12 +93,11 @@ Wczesną wiosną zasadziłam na balkonie sałatę, szczypiorek i bratki. Dzióbe
 Niby wiedziałam, że Dzióbek może być u nas tylko czasowo, ale miesiące wspólnego życia spowodowały, że uważałam go za członka rodziny. Stało się oczywistym, że nasza rodzina to 4+2 (bo mamy jeszcze pieska).
 Bez Dzióbka ten dom już nigdy nie byłby taki sam. A jednak zrobiłabym wszystko, co należy dla dobra i szczęścia Dzióbka. Czekałam na znak.
 
+![](/images/494888901_1650244655655184_8515057786966198795_n.jpg)
+
 Nadszedł długi weekend majówkowy. Zabrałam się za umycie okien i balkonu. Dzióbek korzystał z otwartego balkonu — jak zawsze. Tym razem jednak był bardzo niespokojny. Fruwał, zamiast siedzieć na bratku, wieszał się na siatkę, był wyraźnie pobudzony. Nawet go zbeształam, żeby się uspokoił, bo jeszcze sobie krzywdę zrobi. 
 Nagle na balkon przyleciał inny gołąb i usiadł na balustradzie na zewnątrz siatki. Dzióbek od razu przyfrunął do niego i usiadł przed nim po wewnętrznej stronie balustrady. Położył się przed nim i całym bokiem wtulił się w tego gołębia. Tamten z kolei przez siatkę zaczął Dzióbka głaskać dziobem po głowie… 
 Ze szmatą w ręku zamarłam. To był widok, który złamał moje serce na milion kawałków. Trwało to może około minuty, po czym obcy gołąb odleciał. Dzióbek z żalem zaczął rozglądać się za nim.
-
-![](/images/494886532_1388150542389251_6816405897818504858_n.jpg)
-
 
 Gdy tylko wyszłam z osłupienia pomyślałam — czy to był właśnie ten znak?
 Dzióbku, chciałbyś polecieć? Ale wiesz, że zawsze możesz tu wrócić? To jest twój dom. 
