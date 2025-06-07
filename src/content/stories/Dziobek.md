@@ -68,7 +68,7 @@ Tak zrobiłam.
 ![Dzióbek w domu, gołąbek siedzący w klatce.](/images/501084025_981943477352558_6072620339818274190_n.jpg)
 
 Z domu zadzwoniłam kolejny raz do straży miejskiej. Poinformowałam, że gołąb czeka u mnie w domu i poprosiłam, żeby organizacja przyjechała do mnie po niego.
-Wykonałam jeszcze jeden telefon – do organizacji – żeby opowiedzieć o tej interwencji i zapytać kto przyjedzie – żeby mieć pewność, że odpowiednim i odpowiedzialnym ludziom przekazuję gołębia i że dostarczą go do ośrodka, a nie wyrzucą jak śmiecia gdzieś po drodze. 
+Wykonałam jeszcze jeden telefon  do organizacji — żeby opowiedzieć o tej interwencji i zapytać kto przyjedzie —  żeby mieć pewność, że odpowiednim i odpowiedzialnym ludziom przekazuję gołębia i że dostarczą go do ośrodka, a nie wyrzucą jak śmiecia gdzieś po drodze. 
 Okazało się, że organizacja także nie przyjeżdża osobiście, tylko wysyła firmę do przewozu takich zwierząt, z którą współpracuje i mam się nie martwić, bo to są rzetelni i sprawdzeni ludzie. A ja mogę nazajutrz zadzwonić i dowiedzieć się, czy gołąb dotarł do organizacji.
 
 OK. Zatem czekamy. Godzinę, dwie, cztery, pięć… O 2:00 w końcu poszłam spać, mąż czuwał do rana.
