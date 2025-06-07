@@ -24,8 +24,6 @@ Zatem zróbmy tak: zjedzmy na spokojnie obiad, a potem wyjdziemy na dwór i zoba
 W trakcie obiadu już przeglądałam internet w celu znalezienia jakiegoś rozwiązania, placówki, która pomoże. Obmyślałam strategię na wypadek gdybym musiała gołębia zabezpieczyć u siebie na jakiś czas. Klatka kennelowa od psa — jest, balkon — jest, małe pomieszczenie gospodarcze, które wynajmujemy w bloku — jest. Ostatecznie ogórek działkowy — też jest. Damy radę!
 Zabrałam ze sobą koc, rękawiczki jednorazowe, telefon i do dzieła! Idziemy szukać gołębia. Okazało się, że szukać wcale nie trzeba było, chodził sobie biedaczek niedaleko naszej klatki, jakby na nas czekał. Zbliżyłyśmy się z córką do niego — nie odfruwał, ale odchodził od nas. 
 
-![Ranny gołąb o imieniu Dzióbek, znaleziony przez córkę pod blokiem](/images/500921344_1637256530309011_7584059076629338733_n.jpg)
-
 Zaczęłam zatem wykonywać telefony. 
 Najpierw do weterynarza:
 
@@ -70,7 +68,9 @@ Wykonałam jeszcze jeden telefon  do organizacji — żeby opowiedzieć o tej in
 Okazało się, że organizacja także nie przyjeżdża osobiście, tylko wysyła firmę do przewozu takich zwierząt, z którą współpracuje i mam się nie martwić, bo to są rzetelni i sprawdzeni ludzie. A ja mogę nazajutrz zadzwonić i dowiedzieć się, czy gołąb dotarł do organizacji.
 
 OK. Zatem czekamy. Godzinę, dwie, cztery, pięć… O 2:00 w końcu poszłam spać, mąż czuwał do rana.
-Oczywiście nikt nie przyjechał, nikt nie zadzwonił, nie otrzymaliśmy żadnej pomocy. Gruszętnika jeszcze wtedy nie znaliśmy, Chatki gołębia także nie. 
+Oczywiście nikt nie przyjechał, nikt nie zadzwonił, nie otrzymaliśmy żadnej pomocy. 
+
+Gruszętnika jeszcze wtedy nie znaliśmy, Chatki gołębia także nie.
 Wszystkie organizacje z którymi wtedy rozmawiałam nie kiwnęły nawet palcem, żeby pomóc, ale o dziwo — każda z nich  na pamięć umiała wyrecytować zakres obowiązków tej drugiej organizacji! 
 
 W jednej chwili zostaliśmy całkiem sami z gołębiem, o którym wiedzieliśmy jedynie tyle, że sam bez pomocy nie przeżyje i w tym właśnie momencie zaczęła się najpiękniejsza przygoda naszego życia!
