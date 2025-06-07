@@ -16,13 +16,12 @@ Moja córka wracając ze szkoły, wpadła do domu jak burza i od progu wołała:
 
 —  Mamo, mamo, przed naszą klatką chodzi gołąb ze złamanym skrzydłem i jest taki biedny, to skrzydło mu wisi, ledwo chodzi… no i co teraz, co teraz?
 
-
 Mąż tylko pokręcił głową, machnął ręką i odszedł do drugiego pokoju, a jego mina wyrażała więcej niż tysiąc słów, mniej więcej takich: tym babom to się już całkiem w głowach poprzewracało. Ratować gołębia w bloku?!? Któż to widział!
 
 Co robimy…? Trudne pytanie. Nie wiem. Jedno wiem — zwierzęcia na pewną śmierć nie zostawię, niech się dzieje co chce, ale coś wymyślić trzeba.
 Zatem zróbmy tak: zjedzmy na spokojnie obiad, a potem wyjdziemy na dwór i zobaczymy czy go jeszcze spotkamy. 
 
-W trakcie obiadu już przeglądałam internet w celu znalezienia jakiegoś rozwiązania, placówki, która pomoże. Obmyślałam strategię na wypadek gdybym musiała gołębia zabezpieczyć u siebie na jakiś czas. Klatka kennelowa od psa - jest, balkon - jest, małe pomieszczenie gospodarcze, które wynajmujemy w bloku – jest. Ostatecznie ogórek działkowy – też jest. Damy radę!
+W trakcie obiadu już przeglądałam internet w celu znalezienia jakiegoś rozwiązania, placówki, która pomoże. Obmyślałam strategię na wypadek gdybym musiała gołębia zabezpieczyć u siebie na jakiś czas. Klatka kennelowa od psa — jest, balkon — jest, małe pomieszczenie gospodarcze, które wynajmujemy w bloku — jest. Ostatecznie ogórek działkowy — też jest. Damy radę!
 Zabrałam ze sobą koc, rękawiczki jednorazowe, telefon i do dzieła! Idziemy szukać gołębia. Okazało się, że szukać wcale nie trzeba było, chodził sobie biedaczek niedaleko naszej klatki, jakby na nas czekał. Zbliżyłyśmy się z córką do niego – nie odfruwał, ale odchodził od nas. 
 
 ![Ranny gołąb o imieniu Dzióbek, znaleziony przez córkę pod blokiem](/images/500921344_1637256530309011_7584059076629338733_n.jpg)
