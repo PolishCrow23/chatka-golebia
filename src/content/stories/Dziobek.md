@@ -59,7 +59,7 @@ Zatem dzwonię. Pan, niby miły, niby przyjął moje zgłoszenie… ale na pytan
 — A tego to ja nie wiem. Oni przyjadą, gdy będą mieli czas. Oni obsługują kilka miast.
 
 Super!
-Więc podsumujmy: mamy pod nogami gołębia nielota, ciągnącego skrzydło. Gołąb cały czas idzie i prawdopodobnie będzie dalej szedł przed siebie. Pomoc przyjedzie – może za godzinę, może za 5 godzin, może jutro, a może za 2 dni. Zgłosiłam lokalizację gołębia sprzed pół godziny, która już w tej chwili była nieaktualna. Gdy przyjedzie pomoc (o ile przyjedzie) – gołąb będzie już w innym miejscu i nie znajdą go.
+Więc podsumujmy: mamy pod nogami gołębia nielota, ciągnącego skrzydło. Gołąb cały czas idzie i prawdopodobnie będzie dalej szedł przed siebie. Pomoc przyjedzie — może za godzinę, może za 5 godzin, może jutro, a może za 2 dni. Zgłosiłam lokalizację gołębia sprzed pół godziny, która już w tej chwili była nieaktualna. Gdy przyjedzie pomoc (o ile przyjedzie) — gołąb będzie już w innym miejscu i nie znajdą go.
 Pozostaje tylko jedno rozwiązanie: zabieramy go do domu i w domu poczekamy na pomoc.
 Tak zrobiłam.
 
