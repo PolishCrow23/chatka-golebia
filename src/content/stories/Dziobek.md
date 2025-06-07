@@ -74,16 +74,16 @@ Przez pierwsze 2-3 dni, kiedy temperatura na dworze była wysoka Dzióbek mieszk
 
 Dopóki pogoda na to pozwalała —  brałam Dzióbka „na spacery” do ogródka działkowego. Dzióbek to uwielbiał! Jaki on tam był szczęśliwy! Ponieważ był wtedy nielotem, to chodził sobie po ogródku jak piesek, a następnie znajdował odpowiednie miejsce, w którym wylegiwał się i delektował świeżym powietrzem. Gdy nie krzątaliśmy się po ogródku i Dzióbek przez dłuższą chwilę nas nie widział —  sam przychodził przed altanę i sprawdzał, czy jesteśmy. 
 
-Nigdy Dzióbka nie oswajałam. Jeśli tylko był cień nadziei, że Dzióbek odzyska sprawność i odleci na wolność —  nie wolno mi było tego robić. Pewne rzeczy jednak dzieją się samoczynnie. Podczas codziennego sprzątania klatki, karmienia, przebywania —  duet ptako-ludzki uczy się siebie nawzajem, przyzwyczaja się, buduje się nić porozumienia…
+Nigdy Dzióbka nie oswajałam. Jeśli tylko był cień nadziei, że Dzióbek odzyska sprawność i odleci na wolność —  nie wolno mi było tego robić. Pewne rzeczy jednak dzieją się samoczynnie. Podczas codziennego sprzątania klatki, karmienia, przebywania — duet ptako-ludzki uczy się siebie nawzajem, przyzwyczaja się, buduje się nić porozumienia…
 Dzióbek pod tym względem był absolutnie wyjątkowym ptakiem! 
 On tak jakby czytał mi w myślach. Rozumiał sytuacje, wiedział co  w tej chwili robię, do czego zmierzam, czego od niego oczekuję i współpracował ze mną. 
-Nigdy nie łapałam go bezpośrednio w ręce. Gdy musiałam go przenieść – podkładałam mu kartonik lub kawałek gałęzi, a on po prostu wskakiwał i dał się przenosić.
-W ogródku, gdy trzeba było wracać do domu – podkładałam mu kartonik, on bez wahania wchodził do środka i wracaliśmy. Gdy sprzątałam klatkę – zaczynałam od konkretnych czynności, a on przesuwał się i udostępniał mi po kolei dalsze zakamarki. 
+Nigdy nie łapałam go bezpośrednio w ręce. Gdy musiałam go przenieść — podkładałam mu kartonik lub kawałek gałęzi, a on po prostu wskakiwał i dał się przenosić.
+W ogródku, gdy trzeba było wracać do domu — podkładałam mu kartonik, on bez wahania wchodził do środka i wracaliśmy. Gdy sprzątałam klatkę — zaczynałam od konkretnych czynności, a on przesuwał się i udostępniał mi po kolei dalsze zakamarki. 
 Czasem sama się zastanawiałam, czy to moja wyobraźnia płata mi figle, czy to się dzieje naprawdę? Gołąb rozumie i współpracuje!
 
-Codziennie brałam Dzióbka na parę godzin do mieszkania, gdzie uprzednio przygotowywałam dla niego „plac zabaw” z kartonów i gałęzi przyniesionych z dworu. Układałam z nich różne stopnie, tak, by Dzióbek mógł sobie pospacerować i wspiąć się samodzielnie na szafkę, z której patrzył na nas z góry. Codziennie „plac zabaw” miał nieco inny kształt – żeby Dzióbkowi się nie nudziło i żeby mógł trochę pomyśleć przy pokonywaniu różnych przeszkód. Miałam wrażenie, że Dzióbek bawi się wyśmienicie! Oczywiście przynoszony ze swojego apartamentu i odnoszony z powrotem był również na gałęzi, bez konieczności gonienia go i brania w ręce.
+Codziennie brałam Dzióbka na parę godzin do mieszkania, gdzie uprzednio przygotowywałam dla niego „plac zabaw” z kartonów i gałęzi przyniesionych z dworu. Układałam z nich różne stopnie, tak, by Dzióbek mógł sobie pospacerować i wspiąć się samodzielnie na szafkę, z której patrzył na nas z góry. Codziennie „plac zabaw” miał nieco inny kształt — żeby Dzióbkowi się nie nudziło i żeby mógł trochę pomyśleć przy pokonywaniu różnych przeszkód. Miałam wrażenie, że Dzióbek bawi się wyśmienicie! Oczywiście przynoszony ze swojego apartamentu i odnoszony z powrotem był również na gałęzi, bez konieczności gonienia go i brania w ręce.
 
-Po jakimś czasie wymyśliłam mu najlepszą zabawkę – kawałek gałęzi powieszony na żabkach z karnisza tuż przy oknie. To był strzał w dziesiątkę! Dzióbek nie tylko był wysoko – tak jak lubił, huśtał się – tak jak lubił, ale jeszcze mógł patrzeć przez okno i obserwować co dzieje się na dworze. To miejsce pokochał najbardziej. Wiele godzin dziennie dyndał na swojej huśtaweczce. Wtedy naprawdę był szczęśliwy. Początkowo musiał się natrudzić, by utrzymać na niej równowagę. Za pierwszym razem spadł, ale z każdą kolejną próbą szło mu coraz lepiej. Nauczył się sam na nią wfruwać, a dyndając na niej – ćwiczył wszystkie mięśnie, koordynację i ogólną sprawność, która z każdym dniem była coraz lepsza.
+Po jakimś czasie wymyśliłam mu najlepszą zabawkę — kawałek gałęzi powieszony na żabkach z karnisza tuż przy oknie. To był strzał w dziesiątkę! Dzióbek nie tylko był wysoko — tak jak lubił, huśtał się — tak jak lubił, ale jeszcze mógł patrzeć przez okno i obserwować co dzieje się na dworze. To miejsce pokochał najbardziej. Wiele godzin dziennie dyndał na swojej huśtaweczce. Wtedy naprawdę był szczęśliwy. Początkowo musiał się natrudzić, by utrzymać na niej równowagę. Za pierwszym razem spadł, ale z każdą kolejną próbą szło mu coraz lepiej. Nauczył się sam na nią wfruwać, a dyndając na niej — ćwiczył wszystkie mięśnie, koordynację i ogólną sprawność, która z każdym dniem była coraz lepsza.
 
 W międzyczasie wiele się jeszcze wydarzyło. Znaleźliśmy weterynarza od ptaków, dwa razy Dzióbkowi obcinałam pazurki zanim nauczyłam się wykorzystywać dobroczynną moc działania cegły oraz grubo okorowanej szerokiej gałęzi. Dzióbek piękniał z każdym dniem, ślicznie się wypierzył i zaczął podfruwać. Początkowo na krótkie odległości, z czasem coraz wyżej i coraz dalej.
 
@@ -93,7 +93,7 @@ W grudniu nadeszły siarczyste mrozy. Wtedy Dzióbek „na chwilę” przyszedł
 
 Cały czas od początku w głowie siedziała mi jedna myśl: skąd będę wiedziała czy i kiedy wypuścić go na wolność? Czekałam na jakiś znak. Mówiłam do Dzióbka: pamiętaj, żeby dać mi znak, że będziesz gotowy albo też, że nie jesteś jeszcze gotowy. Czy inne gołębie cię zaakceptują? Będziesz umiał żyć na wolności?
 
-Mijały kolejne tygodnie i miesiące. Wraz z nadejściem wiosny zaczęłam hartować Dzióbka. Otwierałam okno, następnie wypuszczałam Dzióbka na balkon – początkowo na 10 min, a z czasem na coraz dłużej. Dzióbek już pięknie fruwał. Bawił się ze mną w ten sposób, że na balkon wyfruwał skrzydłem okiennym, a wracał drzwiami balkonowymi – robiąc w powietrzu coraz większe kółka. 
+Mijały kolejne tygodnie i miesiące. Wraz z nadejściem wiosny zaczęłam hartować Dzióbka. Otwierałam okno, następnie wypuszczałam Dzióbka na balkon — początkowo na 10 min, a z czasem na coraz dłużej. Dzióbek już pięknie fruwał. Bawił się ze mną w ten sposób, że na balkon wyfruwał skrzydłem okiennym, a wracał drzwiami balkonowymi — robiąc w powietrzu coraz większe kółka. 
 Wczesną wiosną zasadziłam na balkonie sałatę, szczypiorek i bratki. Dzióbek uwielbiał doniczki z tymi roślinami, a ja byłam spokojna, że są dla niego bezpieczne i może się częstować. Godzinami przesiadywał w donicy z bratkiem.
 
 Niby wiedziałam, że Dzióbek może być u nas tylko czasowo, ale miesiące wspólnego życia spowodowały, że uważałam go za członka rodziny. Stało się oczywistym, że nasza rodzina to 4+2 (bo mamy jeszcze pieska).
@@ -101,15 +101,15 @@ Bez Dzióbka ten dom już nigdy nie byłby taki sam. A jednak zrobiłabym wszyst
 
 ![](/images/494888584_1752542669023892_2921552156043223704_n.jpg)
 
-Nadszedł długi weekend majówkowy. Zabrałam się za umycie okien i balkonu. Dzióbek korzystał z otwartego balkonu – jak zawsze. Tym razem jednak był bardzo niespokojny. Fruwał, zamiast siedzieć na bratku, wieszał się na siatkę, był wyraźnie pobudzony. Nawet go zbeształam, żeby się uspokoił, bo jeszcze sobie krzywdę zrobi. 
+Nadszedł długi weekend majówkowy. Zabrałam się za umycie okien i balkonu. Dzióbek korzystał z otwartego balkonu — jak zawsze. Tym razem jednak był bardzo niespokojny. Fruwał, zamiast siedzieć na bratku, wieszał się na siatkę, był wyraźnie pobudzony. Nawet go zbeształam, żeby się uspokoił, bo jeszcze sobie krzywdę zrobi. 
 Nagle na balkon przyleciał inny gołąb i usiadł na balustradzie na zewnątrz siatki. Dzióbek od razu przyfrunął do niego i usiadł przed nim po wewnętrznej stronie balustrady. Położył się przed nim i całym bokiem wtulił się w tego gołębia. Tamten z kolei przez siatkę zaczął Dzióbka głaskać dziobem po głowie… 
 Ze szmatą w ręku zamarłam. To był widok, który złamał moje serce na milion kawałków. Trwało to może około minuty, po czym obcy gołąb odleciał. Dzióbek z żalem zaczął rozglądać się za nim.
-Gdy tylko wyszłam z osłupienia pomyślałam – czy to był właśnie ten znak?
+Gdy tylko wyszłam z osłupienia pomyślałam — czy to był właśnie ten znak?
 Dzióbku, chciałbyś polecieć? Ale wiesz, że zawsze możesz tu wrócić? To jest twój dom. 
 Otworzyłam bok siatki, Dzióbek spojrzał na mnie i bez wahania odfrunął.
-Od razu zdjęłam siatkę – żeby mógł przylecieć z powrotem. 
+Od razu zdjęłam siatkę — żeby mógł przylecieć z powrotem. 
 Wszystko działo się tak szybko i spontanicznie. Wyobrażałam sobie, że on zaraz wróci, że będzie wracał, że będę go miała na oku… Ale nie wrócił ani razu.
-Każdego dnia do późna w nocy czekałam, a rano skoro świt już ponownie go wypatrywałam. Codziennie robiliśmy obchód po osiedlu szukając Dzióbka. Nigdzie go nie było – jakby rozpłynął się w powietrzu.
+Każdego dnia do późna w nocy czekałam, a rano skoro świt już ponownie go wypatrywałam. Codziennie robiliśmy obchód po osiedlu szukając Dzióbka. Nigdzie go nie było — jakby rozpłynął się w powietrzu.
 Zamartwiałam się o niego, czasem w nocy szlochałam. Mąż mnie pocieszał, że przecież to dobrze, że nie wraca, bo to znaczy, że umie żyć bez nas.
 Ale czy na pewno? Ta myśl była nie do zniesienia.
 
