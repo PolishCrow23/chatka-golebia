@@ -62,7 +62,7 @@ Wszystkie organizacje z którymi wtedy rozmawiałam nie kiwnęły nawet palcem, 
 
 W jednej chwili zostaliśmy całkiem sami z gołębiem, o którym wiedzieliśmy jedynie tyle, że sam bez pomocy nie przeżyje i w tym właśnie momencie zaczęła się najpiękniejsza przygoda naszego życia!
 
-![](/images/500921344_1637256530309011_7584059076629338733_n.jpg)
+![Ranny gołąb o imieniu Dzióbek na dworze, znaleziony przez córkę pod blokiem](/images/500921344_1637256530309011_7584059076629338733_n.jpg)
 
 Gołąb dostał na imię Dzióbek. 
 Wyglądał dość mizernie, piórka zmierzwione, szare, matowe. Wygłodzony bidulek, wychudzony, pewnie też obolały. Myślałam wtedy, że jest poczciwym staruszkiem, który nie wiadomo jak długo pożyje.
