@@ -54,7 +54,7 @@ Wszystkie organizacje z którymi wtedy rozmawiałam nie kiwnęły nawet palcem, 
 
 W jednej chwili zostaliśmy całkiem sami z gołębiem, o którym wiedzieliśmy jedynie tyle, że sam bez pomocy nie przeżyje i w tym właśnie momencie zaczęła się najpiękniejsza przygoda naszego życia!
 
-![](/images/494888901_1650244655655184_8515057786966198795_n.jpg)
+![](/images/501084025_981943477352558_6072620339818274190_n.jpg)
 
 Gołąb dostał na imię Dzióbek. 
 Wyglądał dość mizernie, piórka zmierzwione, szare, matowe. Wygłodzony bidulek, wychudzony, pewnie też obolały. Myślałam wtedy, że jest poczciwym staruszkiem, który nie wiadomo jak długo pożyje.
