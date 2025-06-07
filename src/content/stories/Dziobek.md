@@ -25,8 +25,7 @@ W trakcie obiadu już przeglądałam internet w celu znalezienia jakiegoś rozwi
 Zabrałam ze sobą koc, rękawiczki jednorazowe, telefon i do dzieła! Idziemy szukać gołębia. Okazało się, że szukać wcale nie trzeba było, chodził sobie biedaczek niedaleko naszej klatki, jakby na nas czekał. Zbliżyłyśmy się z córką do niego — nie odfruwał, ale odchodził od nas. 
 
 Zaczęłam zatem wykonywać telefony. 
-Najpierw do weterynarza:
-
+Najpierw do weterynarza:\
 — Dzień dobry, czy można przyjechać z rannym gołębiem?
 
 Konsternacja i cisza w słuchawce… \
