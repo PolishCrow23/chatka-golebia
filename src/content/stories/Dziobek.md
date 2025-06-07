@@ -19,7 +19,7 @@ Moja córka wracając ze szkoły, wpadła do domu jak burza i od progu wołała:
 
 Mąż tylko pokręcił głową, machnął ręką i odszedł do drugiego pokoju, a jego mina wyrażała więcej niż tysiąc słów, mniej więcej takich: tym babom to się już całkiem w głowach poprzewracało. Ratować gołębia w bloku?!? Któż to widział!
 
-Co robimy…? Trudne pytanie. Nie wiem. Jedno wiem – zwierzęcia na pewną śmierć nie zostawię, niech się dzieje co chce, ale coś wymyślić trzeba.
+Co robimy…? Trudne pytanie. Nie wiem. Jedno wiem — zwierzęcia na pewną śmierć nie zostawię, niech się dzieje co chce, ale coś wymyślić trzeba.
 Zatem zróbmy tak: zjedzmy na spokojnie obiad, a potem wyjdziemy na dwór i zobaczymy czy go jeszcze spotkamy. 
 
 W trakcie obiadu już przeglądałam internet w celu znalezienia jakiegoś rozwiązania, placówki, która pomoże. Obmyślałam strategię na wypadek gdybym musiała gołębia zabezpieczyć u siebie na jakiś czas. Klatka kennelowa od psa - jest, balkon - jest, małe pomieszczenie gospodarcze, które wynajmujemy w bloku – jest. Ostatecznie ogórek działkowy – też jest. Damy radę!
