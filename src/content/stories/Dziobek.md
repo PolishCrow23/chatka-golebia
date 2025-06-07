@@ -66,6 +66,8 @@ Przez pierwsze 2-3 dni, kiedy temperatura na dworze była wysoka Dzióbek mieszk
 
 Dopóki pogoda na to pozwalała —  brałam Dzióbka „na spacery” do ogródka działkowego. Dzióbek to uwielbiał! Jaki on tam był szczęśliwy! Ponieważ był wtedy nielotem, to chodził sobie po ogródku jak piesek, a następnie znajdował odpowiednie miejsce, w którym wylegiwał się i delektował świeżym powietrzem. Gdy nie krzątaliśmy się po ogródku i Dzióbek przez dłuższą chwilę nas nie widział —  sam przychodził przed altanę i sprawdzał, czy jesteśmy. 
 
+![](/images/494886532_1388150542389251_6816405897818504858_n.jpg)
+
 Nigdy Dzióbka nie oswajałam. Jeśli tylko był cień nadziei, że Dzióbek odzyska sprawność i odleci na wolność —  nie wolno mi było tego robić. Pewne rzeczy jednak dzieją się samoczynnie. Podczas codziennego sprzątania klatki, karmienia, przebywania — duet ptako-ludzki uczy się siebie nawzajem, przyzwyczaja się, buduje się nić porozumienia…
 Dzióbek pod tym względem był absolutnie wyjątkowym ptakiem! 
 On tak jakby czytał mi w myślach. Rozumiał sytuacje, wiedział co  w tej chwili robię, do czego zmierzam, czego od niego oczekuję i współpracował ze mną. 
@@ -73,13 +75,11 @@ Nigdy nie łapałam go bezpośrednio w ręce. Gdy musiałam go przenieść — p
 W ogródku, gdy trzeba było wracać do domu — podkładałam mu kartonik, on bez wahania wchodził do środka i wracaliśmy. Gdy sprzątałam klatkę — zaczynałam od konkretnych czynności, a on przesuwał się i udostępniał mi po kolei dalsze zakamarki. 
 Czasem sama się zastanawiałam, czy to moja wyobraźnia płata mi figle, czy to się dzieje naprawdę? Gołąb rozumie i współpracuje!
 
-![](/images/494888584_1752542669023892_2921552156043223704_n.jpg)
-
 Codziennie brałam Dzióbka na parę godzin do mieszkania, gdzie uprzednio przygotowywałam dla niego „plac zabaw” z kartonów i gałęzi przyniesionych z dworu. Układałam z nich różne stopnie, tak, by Dzióbek mógł sobie pospacerować i wspiąć się samodzielnie na szafkę, z której patrzył na nas z góry. Codziennie „plac zabaw” miał nieco inny kształt — żeby Dzióbkowi się nie nudziło i żeby mógł trochę pomyśleć przy pokonywaniu różnych przeszkód. Miałam wrażenie, że Dzióbek bawi się wyśmienicie! Oczywiście przynoszony ze swojego apartamentu i odnoszony z powrotem był również na gałęzi, bez konieczności gonienia go i brania w ręce.
 
 Po jakimś czasie wymyśliłam mu najlepszą zabawkę — kawałek gałęzi powieszony na żabkach z karnisza tuż przy oknie. To był strzał w dziesiątkę! Dzióbek nie tylko był wysoko — tak jak lubił, huśtał się — tak jak lubił, ale jeszcze mógł patrzeć przez okno i obserwować co dzieje się na dworze. To miejsce pokochał najbardziej. Wiele godzin dziennie dyndał na swojej huśtaweczce. Wtedy naprawdę był szczęśliwy. Początkowo musiał się natrudzić, by utrzymać na niej równowagę. Za pierwszym razem spadł, ale z każdą kolejną próbą szło mu coraz lepiej. Nauczył się sam na nią wfruwać, a dyndając na niej — ćwiczył wszystkie mięśnie, koordynację i ogólną sprawność, która z każdym dniem była coraz lepsza.
 
-![](/images/494888901_1650244655655184_8515057786966198795_n.jpg)
+![](/images/494888584_1752542669023892_2921552156043223704_n.jpg)
 
 W międzyczasie wiele się jeszcze wydarzyło. Znaleźliśmy weterynarza od ptaków, dwa razy Dzióbkowi obcinałam pazurki zanim nauczyłam się wykorzystywać dobroczynną moc działania cegły oraz grubo okorowanej szerokiej gałęzi. Dzióbek piękniał z każdym dniem, ślicznie się wypierzył i zaczął podfruwać. Początkowo na krótkie odległości, z czasem coraz wyżej i coraz dalej.
 
