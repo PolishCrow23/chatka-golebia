@@ -1,6 +1,6 @@
 ---
 title: Dzióbek
-author: XYZ
+author: Anna Marciniak
 pubDate: 05.03.2025
 tag: Historia
 image: /images/our-stories/Dzióbek/Dzióbek.png
