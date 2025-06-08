@@ -101,6 +101,7 @@ collections:
     fields: # The fields for each document, usually in front matter
       # - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
       - {label: "tytuł", name: "title", widget: "string"}
+      - {label: "autor", name: "author", widget: "string"}
       - {label: "data publikacji", name: "pubDate", widget: "datetime", date_format: "MM.DD.YYYY", picker_utc: false}
       - {label: "tag", name: "tag", widget: "string"}
       - {label: "zdjęcie główne", name: "image", widget: "image"}
