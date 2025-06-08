@@ -1,5 +1,6 @@
 .slot-wrapper a {
   color: var(--very-dark-lavender);
+  font-size: var(--font-lg);
   text-decoration: underline;
   text-decoration-thickness: 2px;
   font-weight: 500;
