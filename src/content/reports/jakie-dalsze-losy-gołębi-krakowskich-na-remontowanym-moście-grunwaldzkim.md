@@ -1,6 +1,5 @@
 ---
-title: Jakie dalsze losy krakowskich gołębi na remontowanym moście Grunwaldzkim
-  - treść zaktualizowana
+title: Jakie dalsze losy krakowskich gołębi na remontowanym moście Grunwaldzkim?
 pubDate: 04.11.2025
 author: Anna Spodzieja
 image: /images/received_1690782001544646.jpeg

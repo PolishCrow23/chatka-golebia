@@ -1,0 +1,24 @@
+---
+import type { Avatar as AvatarType } from './avatars';
+import { avatars } from './avatars';
+
+const { author } = Astro.props;
+
+const avatar = avatars.find(a =>
+    (a.firstName + a.lastName).toLowerCase().replace(/\s+/g, '') === author.toLowerCase().replace(/\s+/g, '')
+);
+
+const placeholderImage = '/images/meta/placeholder.png';
+---
+
+<sl-avatar
+        author={author}
+        image={avatar ? avatar.imageSrc : placeholderImage}
+        label={avatar ? `Avatar of ${author}` : `Placeholder avatar for ${author}`}
+/>
+
+<style>
+    sl-avatar {
+        --size: 5rem;
+    }
+</style>

@@ -7,7 +7,7 @@ type Props = {
     backgroundColor?: string;
 }
 const { posts, backgroundColor } = Astro.props;
-    
+
 import "swiper/css";
 import "swiper/css/navigation";
 import "../../styles/swiper.scss"
@@ -16,34 +16,33 @@ import "../../styles/swiper.scss"
     import Swiper from 'swiper';
     const swiper = new Swiper('.swiper', {});
 </script>
-<section>
-    <div class="bk">
-        <a href="/blog"><h2>Poradniki</h2></a>
-    </div>
 
-    <div class="container"> 
+<section>
+    <h2>Poradniki</h2>
+
+    <div class="container">
         <div class="swiper">
             <!-- Additional required wrapper -->
             <div class="swiper-wrapper">
             <!-- Slides -->
             <div class="swiper blog-highlight-swiper">
                 <div class="swiper-wrapper">
-                    <div class="swiper-slide">{posts.slice(0, 3).map((post) => <Post item={post} backgroundColor="var(--cream)"/>)}</div>
-                    <div class="swiper-slide">{posts.slice(3, 6).map((post) => <Post item={post} backgroundColor="var(--cream)"/>)}</div>
-                    <div class="swiper-slide">{posts.slice(6, 9).map((post) => <Post item={post} backgroundColor="var(--cream)"/>)}</div>
+                    <div class="swiper-slide">{posts.slice(0, 3).map((post) => <Post item={post}/>)}</div>
+                    <div class="swiper-slide">{posts.slice(3, 6).map((post) => <Post item={post}/>)}</div>
+                    <div class="swiper-slide">{posts.slice(6, 9).map((post) => <Post item={post}/>)}</div>
                 </div>
             </div>
 
             </div>
             <!-- If we need pagination -->
-        
+
             <!-- If we need navigation buttons -->
             <div class="swiper-button-next blog-highlight-swiper-button-next swiper-box-shadow"></div>
             <div class="swiper-button-prev blog-highlight-swiper-button-prev swiper-box-shadow"></div>
 
             <!-- If we need scrollbar -->
         </div>
-        
+
         <a href="/poradniki" class="show-more">Pokaż wszystkie poradniki
             <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24"><g fill="none"><path d="M24 0v24H0V0zM12.593 23.258l-.011.002l-.071.035l-.02.004l-.014-.004l-.071-.035q-.016-.005-.024.005l-.004.01l-.017.428l.005.02l.01.013l.104.074l.015.004l.012-.004l.104-.074l.012-.016l.004-.017l-.017-.427q-.004-.016-.017-.018m.265-.113l-.013.002l-.185.093l-.01.01l-.003.011l.018.43l.005.012l.008.007l.201.093q.019.005.029-.008l.004-.014l-.034-.614q-.005-.019-.02-.022m-.715.002a.02.02 0 0 0-.027.006l-.006.014l-.034.614q.001.018.017.024l.015-.002l.201-.093l.01-.008l.004-.011l.017-.43l-.003-.012l-.01-.01z"/><path fill="currentColor" d="m15.06 5.283l5.657 5.657a1.5 1.5 0 0 1 0 2.12l-5.656 5.658a1.5 1.5 0 0 1-2.122-2.122l3.096-3.096H4.5a1.5 1.5 0 0 1 0-3h11.535L12.94 7.404a1.5 1.5 0 0 1 2.122-2.121Z"/></g></svg>
     </div>
@@ -51,18 +50,16 @@ import "../../styles/swiper.scss"
 
 <style>
 
-    section {   
-        
-        background-color: #ffcfac;
-        
+    section {
+        padding-inline: 2%;
+        background-color: var(--cream);
         background-repeat: no-repeat;
-        
+
     }
 
     .swiper {
         max-width: 1600px;
         margin-inline: auto;
-        padding-block: 16px;
     }
 
     .swiper-wrapper {
@@ -75,23 +72,15 @@ import "../../styles/swiper.scss"
         justify-content: space-around;
         flex-wrap: wrap;
         gap: 5em;
-    }
-
-    .bk {
-
-        background-image: url('/images/index/blog-highlight.svg');
-        background-color: var(--cream);
-        background-size: stretch;
-        background-size: 1800px;
-        padding-bottom: 30em;
-        position: relative;
+        padding-bottom: 4rem;
     }
 
     .container {
         max-width: 1980px;
+        max-width: 1980px;
         margin-inline: auto;
         padding: 2em;
-        background-color: #ffcfac;
+        background-color: var(--cream);
         padding-bottom: 10em;
     }
 
@@ -104,13 +93,12 @@ import "../../styles/swiper.scss"
     }
 
     h2 {
+        padding-left: 24rem;
+        padding-bottom: 4rem;
         font-family: "Ubuntu Condensed";
         font-size: 5rem;
         color: var(--plum);
         display: block;
-        position: absolute;
-        left: 230px;
-        bottom: 80px;
     }
 
     h3 {
@@ -126,11 +114,14 @@ import "../../styles/swiper.scss"
         justify-content: flex-end;
         align-items: center;
         gap: 0.1em;
-        padding-right: 5.5em;
+        padding-right: var(--spacing-5xl)
     }
 
-      
-    @media  (max-width: 758px) { 
+    @media  (max-width: 758px) {
+        h2 {
+        padding-left: 0;
+    }
+
         .cards-container {
             justify-content: center;
         }
@@ -141,13 +132,4 @@ import "../../styles/swiper.scss"
             padding-top: 0;
             padding-inline: 2%;
         }
-        h2 {
-            left: 20px;
-            
-        }
     }
-
-</style>
-<script>
-    import "/src/lib/slider-simple.js";
-</script>

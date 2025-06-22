@@ -15,6 +15,7 @@ const postsCollection = defineCollection({
 const meetupsCollection = defineCollection({
   schema: z.object({
     title: z.string().optional(),
+    author: z.string().optional(),
     pubDate: z.coerce.date(),
     image: z.string().optional(),
     description: z.string().optional()

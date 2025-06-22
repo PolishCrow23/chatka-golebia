@@ -1,5 +1,6 @@
 ---
 title: Akcja Sznurek 4. Edycja
+author: Dariusz Grochal
 pubDate: 2024.08.24
 description: Zapraszamy na kolejną edycję Akcji Sznurek! 31 sierpnia, 11:00,
   krakowski rynek.

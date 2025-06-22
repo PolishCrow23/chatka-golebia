@@ -61,12 +61,11 @@ import "../styles/swiper.scss"
         font-size: 2rem;
         font-weight: 600;
         color: var(--plum);
-        margin-block: ;
         display: flex;
         justify-content: flex-end;
         align-items: center;
         gap: var(--spacing-xxs);
-        padding-right: var(--spacing-xl);
+        padding-right: var(--spacing-5xl);
     }
 
     .wrapper {
@@ -86,6 +85,7 @@ import "../styles/swiper.scss"
         justify-content: space-around;
         flex-wrap: wrap;
         gap: 5em;
+        padding-bottom: 4rem;
     }
 
     .bk {
@@ -100,7 +100,6 @@ import "../styles/swiper.scss"
     .swiper {
         max-width: 1600px;
         margin-inline: auto;
-        padding-block: 16px;
     }
 
     .swiper-wrapper {
@@ -119,7 +118,8 @@ import "../styles/swiper.scss"
         font-size: 5rem;
         color: var(--plum);
         display: block;
-        padding: 1em 3em;
+        padding-left: 24rem;
+        padding-bottom: 4rem;
     }
 
     h3 {
@@ -140,9 +140,8 @@ import "../styles/swiper.scss"
         .cards-container {
             justify-content: center;
         }
-
         h2 {
-            padding-inline: 0;
+            padding-left: 0;
         }
     }
 
@@ -154,6 +153,10 @@ import "../styles/swiper.scss"
             left: 20px;
             
         }
+
+    @media (max-width: 468px) {
+        h2 {}
+    }
     }
 
 </style>

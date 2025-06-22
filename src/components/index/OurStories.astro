@@ -10,9 +10,7 @@ import "swiper/css";
 import "swiper/css/navigation";
 ---
 <section>
-    <div class="bk">
-        <a href="/blog"><h2>Skrzydlate historie</h2></a>
-    </div>
+    <h2>Skrzydlate historie</h2>
 
     <div class="our-stories-container"> 
         <div class="swiper our-stories-swiper">
@@ -32,9 +30,10 @@ import "swiper/css/navigation";
 
 <style>
     section {    
-        background-color: #ffcfac;
+        background-color: var(--cream);
         background-repeat: no-repeat;
         padding-inline: 2%;
+        padding-block: 4rem 8rem;
     }
 
     .swiper {
@@ -55,18 +54,11 @@ import "swiper/css/navigation";
         gap: 5em;
     }
 
-    .bk {
-        background-color: #ffcfac;
-        padding-bottom: 2rem;
-        position: relative;
-    }
-
     .our-stories-container {
         max-width: 1980px;
         margin-inline: auto;
-        padding-block: 2rem;
-        background-color: #ffcfac;
-        padding-block: 12rem 14rem;
+        background-color: var(--cream)
+        padding: 12rem 14rem;
     }
 
     .cards-container {
@@ -83,9 +75,8 @@ import "swiper/css/navigation";
         font-size: 5rem;
         color: var(--plum);
         display: block;
-        position: absolute;
-        left: 230px;
-        bottom: -25px;
+        padding-left: 24rem;
+        padding-bottom: 4rem;
     }
 
     h3 {
@@ -108,6 +99,9 @@ import "swiper/css/navigation";
     @media  (max-width: 758px) { 
         .cards-container {
             justify-content: center;
+        }
+        h2 {
+            padding-left: 0;
         }
     }
 

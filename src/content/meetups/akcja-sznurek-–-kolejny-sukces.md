@@ -1,5 +1,6 @@
 ---
 title: Akcja Sznurek – kolejny sukces!
+author: Dariusz Grochal
 pubDate: 09.04.2024
 image: /images/posts/img_2338.jpg
 description: W sobotę 31 sierpnia na krakowskim rynku, już po raz czwarty,

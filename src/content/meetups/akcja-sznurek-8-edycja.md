@@ -1,5 +1,6 @@
 ---
 title: Akcja Sznurek 8. Edycja
+author: Karolina Mikołajczyk
 pubDate: 05.09.2025
 image: /images/akcja-sznurek-8-edycja.jpg
 description: Akcja ,,Sznurek" polega na udzielaniu pomocy gołębiom miejskim, oto

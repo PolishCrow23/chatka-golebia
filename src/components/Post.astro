@@ -1,5 +1,6 @@
 ---
 import { type CollectionEntry } from "astro:content";
+import Avatar from './Avatar/Avatar.astro';
 import FormattedDateShort from "./essentials/FormattedDateShort.astro";
 
 type Props = {
@@ -9,50 +10,206 @@ type Props = {
 
 const { item, backgroundColor } = Astro.props
 
-const baseSlug = item.collection === 'posts' 
-    ? 'poradniki' 
-    : item.collection === 'reports' 
-    ? 'aktualności' 
+const baseSlug = item.collection === 'posts'
+    ? 'poradniki'
+    : item.collection === 'reports'
+    ? 'aktualności'
     : item.collection === 'meetups'
-    ? 'meetups'
+    ? 'wydarzenia'
     : item.collection === 'interventions'
     ? 'interwencje'
-    : item.collection === 'pigeons' 
+    : item.collection === 'pigeons'
     ? 'atlas-gołębi'
-    : '';   
+    : '';
+
+const tagTitle = baseSlug.charAt(0).toUpperCase() + baseSlug.slice(1);
 
 const postBackgroundColor = backgroundColor
   ? `background-color: ${backgroundColor};`
   : `background-color: var(--white);`;
+
+const truncateWords = (str: string | undefined, wordLimit: number) => {
+    const words = str?.split(' ');
+    if (words) {
+        return words.length > wordLimit
+            ? words?.slice(0, wordLimit).join(' ') + '...'
+            : str;
+    }
+};
+
+const truncatedDescription = truncateWords(item.data.description, 20);
+
 ---
 
-<div class="card" style={postBackgroundColor}>
-    <a class="card-img" href={`/${baseSlug}/${item.slug}`}>
-        <img 
-            src={item.data.image}
-            alt={item.data.title}
-        />
-    </a>
-    <div class="title-item">
-        <a href={`/${baseSlug}/${item.slug}`}>
-            <h2 class="title">
-                {item.data.title}
-            </h2>
-        </a>
-        {item.collection !== 'pigeons' && item.data?.pubDate && (
-            <span class="date">
-              <FormattedDateShort date={item.data.pubDate} />
-            </span>
-        )}
-    </div>
-    <p>{item.data.description}</p>
-    <a class="show-more" href={`/${baseSlug}/${item.slug}`}>
-        czytaj więcej...
-    </a>
-</div>
+<a href={`/${baseSlug}/${item.slug}`}>
+    <sl-card class="card-overview">
+
+        <div slot="header">
+            <div class="image-wrapper">
+                <img
+                        slot="image"
+                        src={item.data.image}
+                        alt={item.data.title}
+                        height={240}
+                />
+            </div>
+            <div class="tag-date-wrapper">
+                <sl-badge variant="neutral">{tagTitle}</sl-badge>
+                <div class="date-container">
+                    <svg xmlns="http://www.w3.org/2000/svg"
+                        width="21"
+                        height="21"
+                        viewBox="0 0 24 24"><path
+                        fill="var(--peach)"
+                        d="M7.75 2.5a.75.75 0 0 0-1.5 0v1.58c-1.44.115-2.384.397-3.078 1.092c-.695.694-.977 1.639-1.093 3.078h19.842c-.116-1.44-.398-2.384-1.093-3.078c-.694-.695-1.639-.977-3.078-1.093V2.5a.75.75 0 0 0-1.5 0v1.513C15.585 4 14.839 4 14 4h-4c-.839 0-1.585 0-2.25.013z"/><path
+                        fill="var(--peach)"
+                        fill-rule="evenodd"
+                        d="M2 12c0-.839 0-1.585.013-2.25h19.974C22 10.415 22 11.161 22 12v2c0 3.771 0 5.657-1.172 6.828S17.771 22 14 22h-4c-3.771 0-5.657 0-6.828-1.172S2 17.771 2 14zm15 2a1 1 0 1 0 0-2a1 1 0 0 0 0 2m0 4a1 1 0 1 0 0-2a1 1 0 0 0 0 2m-4-5a1 1 0 1 1-2 0a1 1 0 0 1 2 0m0 4a1 1 0 1 1-2 0a1 1 0 0 1 2 0m-6-3a1 1 0 1 0 0-2a1 1 0 0 0 0 2m0 4a1 1 0 1 0 0-2a1 1 0 0 0 0 2"
+                        clip-rule="evenodd"/>
+                    </svg>
+                    {item.collection !== 'pigeons' && item.data?.pubDate && (
+                            <span class="date">
+                          <FormattedDateShort date={item.data.pubDate} />
+                        </span>
+                    )}
+                </div>
+            </div>
+        </div>
+
+        <h2 class="title">{item.data.title}</h2><br />
+        <p class="description">{truncatedDescription}</p>
+
+        <div slot="footer">
+            <div class="author-wrapper">
+                {item.collection !== 'pigeons' && item.data.author && (
+                        <>
+                            <Avatar author={item.data.author} />
+                            <span class="author">{item.data.author}</span>
+                        </>
+                )}
+            </div>
+            <sl-button variant="primary" size="large" pill>Czytaj więcej</sl-button>
+        </div>
+    </sl-card>
+</a>
 
 <style>
-    
+    sl-card {
+        --border-radius: 16px;
+    }
+
+    sl-card:hover {
+        border-radius: 16px;
+        outline: 2px solid var(--peach);
+        outline-offset: -2px;
+    }
+
+    sl-card::part(base) {
+        justify-content: space-between;
+        height: 570px;
+    }
+
+    sl-card::part(body) {
+        padding-block: 1rem;
+        padding-inline: 2rem;
+    }
+
+    sl-card::part(footer) {
+        padding-block: 1rem;
+    }
+
+    sl-card::part(image) {
+        padding: 1rem;
+    }
+
+    sl-badge::part(base) {
+        color: var(--peach);
+        font-weight: bold;
+        background-color: #ffe6dd;
+        border-radius: 16px;
+        padding: 1rem;
+    }
+
+    .card-overview {
+        max-width: 430px;
+    }
+
+    .card-overview small {
+        color: var(--sl-color-neutral-500);
+    }
+
+    .card-overview [slot='footer'] {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    sl-avatar {
+        --size: 5rem;
+    }
+
+    sl-card::part(header) {
+        border-bottom: none;
+        padding: 0;
+    }
+
+    .card-overview [slot='header'] {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        gap: 2rem;
+    }
+
+    sl-button::part(base) {
+        padding: 0.1rem;
+        background-color: var(--peach);
+        border: none;
+        border-radius: 16px;
+        font-size: 14px;
+    }
+
+    sl-button::part(base):hover {
+        background-color: var(--lavender);
+    }
+
+    .date-container {
+        display: flex;
+        align-items: center;
+        gap: 0.8rem;
+    }
+
+    .tag-date-wrapper {
+        display: flex;
+        justify-content: space-between;
+        padding-inline: 2rem;
+    }
+
+    .author-wrapper {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        gap: 0.8rem;
+    }
+
+    .author {
+        display: block;
+        font-size: 1.4rem;
+        color: var(--plum);
+    }
+
+    .image-wrapper {
+        padding: 0.8rem;
+    }
+
+    @media (max-width: 458px) {
+        .card-overview [slot='header'] {
+            gap: 0.5rem;
+        }
+    }
+
+</style>
+
+<style>
     .card {
         display: flex;
         flex-direction: column;
@@ -68,28 +225,14 @@ const postBackgroundColor = backgroundColor
         transition-duration: 0.5s;
     }
 
-    .card:hover {
-        transform-origin: top;
-        transition-duration: 0.5s;
-        box-shadow: 0 0 12px rgba(0, 0, 0, 0.4);
-    }
-
-    .title-item {
-        display: grid;
-        grid-template-columns: 6fr 1fr;
-        gap: 0.5em;
-        justify-content: space-between;
-        align-items: center;
-    }
-
     .title {
         color: var(--plum);
         font-family: "Ubuntu Condensed";
         font-weight: 700;
         font-size: 2rem;
         text-align: left;
-        
     }
+
 
     .date {
         font-family: "Montserrat";
@@ -110,6 +253,7 @@ const postBackgroundColor = backgroundColor
     p {
         font-size: 1.6rem;
         font-family: "Poppins";
+        color: var(--greyed-out-plum);
         font-weight: 300;
         line-height: 1.5;
         margin-bottom: 0;
@@ -125,16 +269,9 @@ const postBackgroundColor = backgroundColor
         aspect-ratio: 3/2;
     }
 
-    @media  (min-width: 458px) { 
+    @media  (min-width: 458px) {
         .title {
             font-size: 2.6rem;
         }
     }
-
-    @media  (max-width: 500px) { 
-        .card {
-            max-height: 480px;
-        }
-    }
-
 </style>

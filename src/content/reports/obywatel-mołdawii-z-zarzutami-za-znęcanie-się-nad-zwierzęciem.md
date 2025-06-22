@@ -1,7 +1,7 @@
 ---
 title: Obywatel Mołdawii z zarzutami za znęcanie się nad zwierzęciem
 pubDate: 05.13.2025
-author: A. Spodzieja
+author: Anna Spodzieja
 image: /images/20250128_190518.jpg
 description: Zarzuty dla obywatela Mołdawii za znęcanie się nad zwierzęciem ze
   szczególnym okrucieństwem

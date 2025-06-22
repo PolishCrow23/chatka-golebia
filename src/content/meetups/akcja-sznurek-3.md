@@ -1,5 +1,6 @@
 ---
 title: Akcja Sznurek 3. Edycja
+author: Dariusz Grochal
 pubDate: 2024.08.25
 description: Zapraszamy na kolejną edycję Akcji Sznurek! 22 czerwca, 11:00, krakowski rynek.
 image: /images/meetups/akcja-sznurek-4.jpg
