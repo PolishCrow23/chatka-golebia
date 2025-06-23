@@ -3,7 +3,7 @@ title: Martwe ptaki z Warszawy
 pubDate: 08.21.2024
 author: Dariusz Grochal
 image: /images/posts/img_20240722_160717001.jpg
-description: Wiemy co zabiło wrony w Warszawie?
+description: W ostatnim czasie w Warszawie można było zaobserwować nadmierną ilość zgonów wśród ptaków. Wiemy co zabiło wrony w Warszawie?
 photos: Aneta Jasińska
 ---
 
