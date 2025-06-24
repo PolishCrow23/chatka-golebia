@@ -6,7 +6,7 @@ description: Dziewiąta Edycja Akcji Sznurek
 ---
 Sprawa wygląda tak: 
 
-* Gołąbek który przyszedł pojednczy, osobno - młody, znaczna infekcja dróg oddechowych, prawdopodobnie ornitoza, na razie zostaję, leczony objawowo.
+* Gołąbek który przyszedł pojednczy, osobno - młody, znaczna infekcja dróg oddechowych, prawdopodobnie ornitoza, na razie zostaję, leczony objawowo. [Młody gołąbek — Znaczna infekcja dróg oddechowych
 * gołąb 98, 84, 88 - wyglądają dobrze, w próbce zbiorczej kokcydia, odrobaczam, podałem lek na piorojady. Jak będą się dobrze czuć, jutro wypuszczam \[Zostanie wypuszczony w zależności od stanu zdrowia]
 * 8, 14 - rzęsistkowica, zapalenie spojówek, zostaję na leczenie
   47 - sznurek na prawej stopie, bez większych urazów, podałem lek na pasożyty zewnętrzne, wypuszczam
