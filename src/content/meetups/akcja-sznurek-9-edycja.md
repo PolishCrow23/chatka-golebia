@@ -8,7 +8,7 @@ Sprawa wygląda tak:
 
 Gołąbek który przyszedł pojednczy, osobno - młody, znaczna infekcja dróg oddechowych, prawdopodobnie ornitoza, na razie zostaję, leczony objawowo. \[Młody gołąbek — Znaczna infekcja dróg oddechowych, prawdopodobna ornitoza, jest leczony objawowo.]
 
-gołąb 98, 84, 88 - wyglądają dobrze, w próbce zbiorczej kokcydia, odrobaczam, podałem lek na piorojady. Jak będą się dobrze czuć, jutro wypuszczam \[3 gołębieZostanie wypuszczony w zależności od stanu zdrowia]
+gołąb 98, 84, 88 - wyglądają dobrze, w próbce zbiorczej kokcydia, odrobaczam, podałem lek na piorojady. Jak będą się dobrze czuć, jutro wypuszczam \[3 gołębieZostaną wypuszczony w zależności od stanu zdrowia]
 
 8, 14 - rzęsistkowica, zapalenie spojówek, zostaję na leczenie
 47 - sznurek na prawej stopie, bez większych urazów, podałem lek na pasożyty zewnętrzne, wypuszczam
