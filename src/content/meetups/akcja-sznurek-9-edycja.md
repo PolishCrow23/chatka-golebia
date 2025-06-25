@@ -19,4 +19,6 @@ Nasza akcja odbywa się na krakowskim rynku, obok fontanny. To tutaj odławiamy 
 
 Nasza strona na facebooku: <https://www.facebook.com/chatkagolebia>
 Instagram: <https://www.instagram.com/chatka_golebia/>
-Kontakt e-mail: [fundacja@chatkagolebia.pl](mailto:fundacja@chatkagolebia.pl)
+Kontakt e-mail: [fundacja@chatkagolebia.pl\
+Patronite ](mailto:fundacja@chatkagolebia.pl)
+[https://patronite.pl/Chatka_Golebia](https://l.facebook.com/l.php?u=https%3A%2F%2Fpatronite.pl%2FChatka_Golebia%3Ffbclid%3DIwZXh0bgNhZW0CMTAAYnJpZBExMXNjemNKcmtUcUFRUlJ1dwEexoo0Lb5AVb3CczeYqRYCgWqmWmn96Vz_yzBwIxKG8-EATQ1IyqUOq0OgnpA_aem_FjLD09rSnZiy65JpnWHd8w&h=AT3N0AHvFWCnyU_RokhV9KYkZyriA72ZmI_dsFQOxZqWrGRhHMPupLrfuxxFizMAQDtWTKPbrf_EwXoJGdVKpBI6WXT4_Yv3NupwOcgUSdp_KhzSdiufrwWmJGrh-xo_05K6)
