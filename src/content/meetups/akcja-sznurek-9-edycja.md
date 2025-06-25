@@ -10,8 +10,8 @@ Nasza akcja odbywa się na krakowskim rynku, obok fontanny. To tutaj odławiamy 
 
 ## Sprawa wygląda tak:
 
-* Młody, pojedynczy gołąbek — Znaczna infekcja dróg oddechowych, prawdopodobna ornitoza, jest leczony objawowo.
-* 3 gołębie — Kokcydia, zostały odrobaczone, podano im leki na piorojady, zostaną wypuszczone w zależności od stanu zdrowia]
+* Młody, pojedynczy gołąbek — Znaczna infekcja dróg oddechowych, prawdopodobna ornitoza. Jest leczony objawowo.
+* 3 gołębie — Kokcydia, zostały odrobaczone, podano im leki na piorojady. Zostaną wypuszczone w zależności od stanu zdrowia]
 * 8, 14 - rzęsistkowica, zapalenie spojówek, zostaję na leczenie
 * 47 - sznurek na prawej stopie, bez większych urazów, podałem lek na pasożyty zewnętrzne, wypuszczam
 * 2- znacznie uszkodzony palec prawej stopy, opracowałem, zakładam opatrunek z antybiotykiem, prawdopodobnie jutro wypuszczę 
