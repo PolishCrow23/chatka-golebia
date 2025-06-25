@@ -6,7 +6,7 @@ description: Rozwiązujemy sznurki i gołębie sprawy, zobaczcie podsumowanie na
 ---
 # Podsumowanie dziewiątej edycji Akcji "Sznurek"
 
-Nasza akcja odbywa się na krakowskim rynku, obok fontanny. To tutaj odławiamy gołębie, które mają zaplątane na nóżkach sznurki, chore gołębie trafiają do kliniki "Salamandra", gdzie uzyskują profesjonalną pomoc.
+Nasza akcja odbywa się na krakowskim rynku, obok fontanny. To tutaj odławiamy gołębie, które mają zaplątane na nóżkach sznurki, chore gołębie trafiają do **kliniki "Salamandra"**, gdzie uzyskują profesjonalną pomoc. Podczas tej akcji **trafiło ich tam 9**. Przyjrzyjmy się im.
 
 ## Sprawa wygląda tak:
 
