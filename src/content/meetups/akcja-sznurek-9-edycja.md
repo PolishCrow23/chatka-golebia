@@ -2,11 +2,11 @@
 title: Akcja Sznurek 9. Edycja
 pubDate: 06.23.2025
 image: /images/okładka-22.jpg
-description: Rozwiązujemy sznurki i gołębie sprawy, zobaczcie podsumowanie naszej akcji.
+description: "Rozwiązujemy sznurki i gołębie sprawy, zobaczcie podsumowanie naszej akcji. "
 ---
 # Podsumowanie dziewiątej edycji Akcji "Sznurek"
 
-Nasza akcja odbywa się na krakowskim rynku, obok fontanny. To tutaj odławiamy gołębie, które mają zaplątane na nóżkach sznurki, chore gołębie trafiają do **kliniki "Salamandra"**, gdzie uzyskują profesjonalną pomoc. Podczas tej akcji **trafiło ich tam 9**. Przyjrzyjmy się im.
+Nasza akcja odbywa się na krakowskim rynku, obok fontanny o 12:00. To tutaj odławiamy gołębie, które mają zaplątane na nóżkach sznurki, odwiązujemy je, edukujemy i dokarmiamy. Chore gołębie trafiają do **kliniki "Salamandra"**, gdzie uzyskują profesjonalną pomoc. Podczas tej akcji **trafiło ich tam 9**. Przyjrzyjmy się im.
 
 ## Sprawa wygląda tak:
 
