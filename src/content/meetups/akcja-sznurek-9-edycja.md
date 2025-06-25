@@ -14,7 +14,7 @@ Nasza akcja odbywa się na krakowskim rynku, obok fontanny o godzinie 12:00. To 
 * 3 gołębie — Kokcydia, zostały odrobaczone, podano im leki na piorojady. Zostaną wypuszczone w zależności od stanu ich zdrowia,
 * 2 gołębie — Rzęsistkowica i zapalenie spojówek. Oba zostają na leczenie,
 * 1 gołąb — Sznurek na prawej stopie, obyło się bez większych urazów, podano mu lek na pasożyty zewnętrzne i został wypuszczony,
-* jeden gołąb — Znacznie uszkodzony palec prawej stopy, opracowałem, zakładam opatrunek z antybiotykiem, prawdopodobnie jutro wypuszczę,
+* 1 gołąb — Znacznie uszkodzony palec prawej stopy, zakładam opatrunek z antybiotykiem, prawdopodobnie jutro wypuszczę,
 * I jeszcze taki bez obraczki- złamanie podudzia prawegoz wyrwana część ogona, zakładam usztywnienie, na razie wapń na 7ndni, potem gojenie przez ok 3 tygodnie- na ten czas w opatrunku u nas lub u państwa\
 
 Nasza strona na facebooku: <https://www.facebook.com/chatkagolebia>
