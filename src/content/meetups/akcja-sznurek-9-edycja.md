@@ -14,6 +14,10 @@ Chore gołębie trafiają do **kliniki "Salamandra"**, gdzie uzyskują profesjon
 
 ## Sprawa wygląda tak:
 
+
+Chore gołębie trafiają do **kliniki "Salamandra"**, gdzie uzyskują profesjonalną pomoc. Podczas tej akcji **trafiło ich tam 9**. Są to bardzo różne przypadki, przyjrzyjmy się im.
+
+
 * Młody, pojedynczy gołąbek — Znaczna infekcja dróg oddechowych, prawdopodobna ornitoza. Jest leczony objawowo,
 * 3 gołębie — Kokcydia, zostały odrobaczone, podano im leki na piorojady. Zostaną wypuszczone w zależności od stanu ich zdrowia,
 * 2 gołębie — Rzęsistkowica i zapalenie spojówek. Oba zostają na leczenie,
