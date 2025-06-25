@@ -8,7 +8,7 @@ description: "Rozwiązujemy sznurki i gołębie sprawy, zobaczcie podsumowanie n
 
 
 
-Nasza akcja odbywa się na krakowskim rynku, obok fontanny o godzinie 12:00. Odławiamy gołębie, które mają zaplątane na nóżkach sznurki, rozplątujemy je, dokarmiamy i edukujemy chętnych uczestników, którzy otrzymują rękawiczki, ziarno dla gołębi oraz środki higieny osobistej. W trakcie akcji można również złożyć darowiznę. Fundacja ma zarejestrowaną zbiórkę publiczną (2024/3769/OR)
+Nasza akcja odbywa się na krakowskim rynku, obok fontanny w sobotę o godzinie 12:00. Odławiamy gołębie, które mają zaplątane na nóżkach sznurki, rozplątujemy je, dokarmiamy i edukujemy chętnych uczestników, którzy otrzymują rękawiczki, ziarno dla gołębi oraz środki higieny osobistej. W trakcie akcji można również złożyć darowiznę. Fundacja ma zarejestrowaną zbiórkę publiczną (2024/3769/OR)
 
 Chore gołębie trafiają do **kliniki "Salamandra"**, gdzie uzyskują profesjonalną pomoc. Podczas tej akcji **trafiło ich tam 9**. Są to bardzo różne przypadki, przyjrzyjmy się im.
 
