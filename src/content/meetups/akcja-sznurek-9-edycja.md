@@ -15,7 +15,7 @@ Chore gołębie trafiają do **kliniki "Salamandra"**, gdzie uzyskują profesjon
 ## Sprawa wygląda tak:
 
 
-Chore gołębie trafiają do **kliniki "Salamandra"**, gdzie uzyskują profesjonalną pomoc. Podczas tej akcji **trafiło ich tam 9**. Są to bardzo różne przypadki, przyjrzyjmy się im.
+Chore gołębie trafiają do **kliniki "Salamandra"**, gdzie uzyskują profesjonalną pomoc. Podczas tej akcji **trafiło ich tam 9**. Są to bardzo różne przypadki, przyjrzyjmy się im:
 
 
 * Młody, pojedynczy gołąbek — Znaczna infekcja dróg oddechowych, prawdopodobna ornitoza. Jest leczony objawowo,
