@@ -4,6 +4,7 @@ pubDate: 06.23.2025
 image: /images/okładka-22.jpg
 description: Dziewiąta Edycja Akcji Sznurek
 ---
+\
 Sprawa wygląda tak: 
 
 Gołąbek który przyszedł pojednczy, osobno - młody, znaczna infekcja dróg oddechowych, prawdopodobnie ornitoza, na razie zostaję, leczony objawowo. \[Młody gołąbek — Znaczna infekcja dróg oddechowych, prawdopodobna ornitoza, jest leczony objawowo.]
