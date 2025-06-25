@@ -2,7 +2,7 @@
 title: Akcja Sznurek 9. Edycja
 pubDate: 06.23.2025
 image: /images/okładka-22.jpg
-description: Rozwiązujemy sznurki i nie tylko! Zobaczcie podsumowanie naszej akcji.
+description: Rozwiązujemy sznurki i gołębie sprawy, zobaczcie podsumowanie naszej akcji.
 ---
 # Podsumowanie Akcji "Sznurek"
 
