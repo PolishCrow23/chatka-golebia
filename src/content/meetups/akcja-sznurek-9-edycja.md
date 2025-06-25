@@ -1,5 +1,5 @@
 ---
-title: Akcja Sznurek 9 Edycja
+title: Akcja Sznurek 9. Edycja
 pubDate: 06.23.2025
 image: /images/okładka-22.jpg
 description: Dziewiąta Edycja Akcji Sznurek
