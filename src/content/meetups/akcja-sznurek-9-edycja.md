@@ -6,15 +6,15 @@ description: "Rozwiązujemy sznurki i gołębie sprawy, zobaczcie podsumowanie n
 ---
 # Podsumowanie dziewiątej edycji Akcji "Sznurek"
 
-Nasza akcja odbywa się na krakowskim rynku, obok fontanny o 12:00. To tutaj odławiamy gołębie, które mają zaplątane na nóżkach sznurki, odwiązujemy je, edukujemy i dokarmiamy. Chore gołębie trafiają do **kliniki "Salamandra"**, gdzie uzyskują profesjonalną pomoc. Podczas tej akcji **trafiło ich tam 9**. Przyjrzyjmy się im.
+Nasza akcja odbywa się na krakowskim rynku, obok fontanny o 12:00. To tutaj odławiamy gołębie, które mają zaplątane na nóżkach sznurki, odwiązujemy je, edukujemy i dokarmiamy. Chore gołębie trafiają do **kliniki "Salamandra"**, gdzie uzyskują profesjonalną pomoc. Podczas tej akcji **trafiło ich tam 9**. Są to bardzo różne przypadki, przyjrzyjmy się im.
 
 ## Sprawa wygląda tak:
 
 * Młody, pojedynczy gołąbek — Znaczna infekcja dróg oddechowych, prawdopodobna ornitoza. Jest leczony objawowo.
 * 3 gołębie — Kokcydia, zostały odrobaczone, podano im leki na piorojady. Zostaną wypuszczone w zależności od stanu zdrowia]
-* 8, 14 - rzęsistkowica, zapalenie spojówek, zostaję na leczenie
-* 47 - sznurek na prawej stopie, bez większych urazów, podałem lek na pasożyty zewnętrzne, wypuszczam
-* 2- znacznie uszkodzony palec prawej stopy, opracowałem, zakładam opatrunek z antybiotykiem, prawdopodobnie jutro wypuszczę 
+* 2 Gołebie - rzęsistkowica, zapalenie spojówek, zostaję na leczenie
+* Jeden sznurek na prawej stopie, bez większych urazów, podałem lek na pasożyty zewnętrzne, wypuszczam
+* jeden gołąb - znacznie uszkodzony palec prawej stopy, opracowałem, zakładam opatrunek z antybiotykiem, prawdopodobnie jutro wypuszczę 
 * I jeszcze taki bez obraczki- złamanie podudzia prawegoz wyrwana część ogona, zakładam usztywnienie, na razie wapń na 7ndni, potem gojenie przez ok 3 tygodnie- na ten czas w opatrunku u nas lub u państwa\
 
 Nasza strona na facebooku: <https://www.facebook.com/chatkagolebia>
