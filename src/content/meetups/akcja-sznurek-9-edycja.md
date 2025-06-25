@@ -15,8 +15,8 @@ Są to bardzo różne przypadki, przyjrzyjmy się im.
 * 3 gołębie — Kokcydia, zostały odrobaczone, podano im leki na piorojady. Zostaną wypuszczone w zależności od stanu ich zdrowia,
 * 2 gołębie — Rzęsistkowica i zapalenie spojówek. Oba zostają na leczenie,
 * 1 gołąb — Sznurek na prawej stopie, obyło się bez większych urazów, podano mu lek na pasożyty zewnętrzne i został wypuszczony,
-* 1 gołąb — Znacznie uszkodzony palec prawej stopy, zakładam opatrunek z antybiotykiem, prawdopodobnie jutro wypuszczę,
-* I jeszcze taki bez obraczki- złamanie podudzia prawegoz wyrwana część ogona, zakładam usztywnienie, na razie wapń na 7ndni, potem gojenie przez ok 3 tygodnie- na ten czas w opatrunku u nas lub u państwa\
+* 1 gołąb — Znacznie uszkodzony palec prawej stopy, założono mu opatrunek z antybiotykiem, wypuszczony,
+* I jeszcze taki bez obraczki — Złamanie podudzia prawego oraz wyrwana część ogona, zakładam usztywnienie, na razie wapń na 7ndni, potem gojenie przez ok 3 tygodnie- na ten czas w opatrunku u nas lub u państwa \[założono mu usztywnienie oraz podano wapń, przez około 3 tygodnie będzie zdrowiał [wracał do zdrowia] w opatrunku.]
 
 Nasza strona na facebooku: <https://www.facebook.com/chatkagolebia>
 Instagram: <https://www.instagram.com/chatka_golebia/>
