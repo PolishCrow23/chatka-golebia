@@ -6,15 +6,11 @@ description: "Rozwiązujemy sznurki i gołębie sprawy, zobaczcie podsumowanie n
 ---
 # Podsumowanie dziewiątej edycji Akcji "Sznurek"
 
-
-
-Nasza akcja odbywa się na krakowskim rynku, obok fontanny w sobotę o godzinie 12:00. Odławiamy gołębie, które mają zaplątane na nóżkach sznurki, rozplątujemy je, dokarmiamy i edukujemy chętnych uczestników, którzy otrzymują od organizatorów \[od nas] rękawiczki, ziarno dla gołębi oraz środki higieny osobistej. W trakcie akcji chętni mogą również przekazać darowiznę. Fundacja ma zarejestrowaną zbiórkę publiczną (2024/3769/OR)
+Nasza akcja odbywa się na krakowskim rynku, obok fontanny w sobotę o godzinie 12:00. Odławiamy gołębie, które mają zaplątane na nóżkach sznurki, rozplątujemy je, dokarmiamy i edukujemy chętnych uczestników, którzy otrzymują od organizatorów rękawiczki, ziarno dla gołębi oraz środki higieny osobistej. W trakcie akcji chętni mogą również przekazać darowiznę. Fundacja ma zarejestrowaną zbiórkę publiczną (2024/3769/OR)
 
 ## Sprawa wygląda tak:
 
-
-Chore gołębie trafiają do **kliniki "Salamandra"**, gdzie uzyskują profesjonalną pomoc. Podczas tej akcji **trafiło ich tam 9**. Są to bardzo różne przypadki, przyjrzyjmy się im:
-
+Chore gołębie trafiają do **kliniki "Salamandra"**, gdzie uzyskują profesjonalną pomoc. Podczas tej akcji **trafiło ich tam 9**. Przyjrzyjmy się im:
 
 * Młody, pojedynczy gołąbek — Znaczna infekcja dróg oddechowych, prawdopodobna ornitoza. Jest leczony objawowo,
 * 3 gołębie — Kokcydia, zostały odrobaczone, podano im leki na piorojady. Zostaną wypuszczone w zależności od stanu ich zdrowia,
@@ -23,7 +19,7 @@ Chore gołębie trafiają do **kliniki "Salamandra"**, gdzie uzyskują profesjon
 * 1 gołąb — Znacznie uszkodzony palec prawej stopy, założono mu opatrunek z antybiotykiem, wypuszczony,
 * I jeszcze taki bez obraczki — Złamanie podudzia prawego oraz wyrwana część ogona, zakładam usztywnienie, na razie wapń na 7ndni, potem gojenie przez ok 3 tygodnie- na ten czas w opatrunku u nas lub u państwa \[założono mu usztywnienie oraz podano wapń, przez około 3 tygodnie będzie zdrowiał [wracał do zdrowia] w opatrunku.]
 
-  Bardzo dziękujemy wszystkim za udział i zaangażowanie.  Razem przyczyniamy się do poprawy stanu Krakowskich gołębi. Zachęcamy do udziału w przyszłych edycjach naszej akcji!
+  Bardzo dziękujemy wszystkim za udział i zaangażowanie. Razem przyczyniamy się do poprawy stanu Krakowskich gołębi. Zachęcamy do udziału w przyszłych edycjach naszej akcji!
 
 Nasza strona na facebooku: <https://www.facebook.com/chatkagolebia>
 Instagram: <https://www.instagram.com/chatka_golebia/>
