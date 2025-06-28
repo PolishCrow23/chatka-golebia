@@ -1,5 +1,4 @@
 ---
-import type { Avatar as AvatarType } from './avatars';
 import { avatars } from './avatars';
 
 const { author } = Astro.props;
@@ -8,13 +7,38 @@ const avatar = avatars.find(a =>
     (a.firstName + a.lastName).toLowerCase().replace(/\s+/g, '') === author.toLowerCase().replace(/\s+/g, '')
 );
 
-const placeholderImage = '/images/meta/placeholder.png';
+const placeholderPath = '/images/components/avatar'
+
+const placeholderImages = [
+        `${placeholderPath}/placeholder-1.png`,
+        `${placeholderPath}/placeholder-2.png`,
+        `${placeholderPath}/placeholder-3.png`,
+        `${placeholderPath}/placeholder-4.png`,
+        `${placeholderPath}/placeholder-5.png`,
+        `${placeholderPath}/placeholder-6.png`,
+    ];
+
+const hashString = (str: string): number => {
+    let hash = 0;
+    for (let i = 0; i < str.length; i++) {
+        hash = (hash << 5) - hash + str.charCodeAt(i);
+        hash |= 0;
+    }
+    return Math.abs(hash);
+}
+
+const getPlaceholderImageForAuthor = (author: string): string => {
+    const index = hashString(author) % placeholderImages.length;
+    return placeholderImages[index];
+}
+
+const placeholderImage = getPlaceholderImageForAuthor(author);
 ---
 
 <sl-avatar
         author={author}
         image={avatar ? avatar.imageSrc : placeholderImage}
-        label={avatar ? `Avatar of ${author}` : `Placeholder avatar for ${author}`}
+        label={`Awatar ${author}`}
 />
 
 <style>

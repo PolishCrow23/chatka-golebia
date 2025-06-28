@@ -2,64 +2,141 @@
 import AccordionInput from "./AccordionInput.astro"
 ---
 <section>
-    <div>
-      <h2>Fakty o gołębiach</h2>
-      <img class="about-img" src="/images/index/collage-pigeon.png" alt="Portret szarego gołębia na fioletowym tle.">
+    <div class="container">
+    <div class="gallery-wrapper">
+        <div class="image-grid">
+            <div class="image-column offset">
+                <div class="image-box image1">
+                    <img src="/images/index/Julia.jpg" alt="Man" loading="eager" />
+                </div>
+                <div class="image-box image3">
+                    <img src="/images/index/Groszek.jpg" alt="Man fishing" loading="eager" />
+                </div>
+            </div>
+            <div class="image-column">
+                <div class="image-box image2">
+                    <img src="/images/index/Winter.jpg" alt="Fishing" loading="eager" />
+                </div>
+                <div class="image-box image4">
+                    <img src="/images/index/Chatka-grill.jpg" alt="Fish" loading="eager" />
+                </div>
+            </div>
+        </div>
     </div>
 
     <div class="accordion accordion--radio">
-      <AccordionInput accordionTabTitle="Jakie gatunki gołębi występują w Polsce?" accordionTabContent="Gołąb miejski (Columba Livia), sierpówka (Streptopelia decaocto), grzywacz (Columba palumbus), turkawka (Streptopelia turtur), turkawka wschodnia (Streptopelia orientalis), siniak (Columba oenas)."/>
-
-      <AccordionInput accordionTabTitle="Dlaczego warto adoptować gołębie?" accordionTabContent="Gołębie są świetnymi zwierzakami domowymi! Doskonale odnajdują się w towarzystwie ludzi, mają nieskomplikowaną dietę oraz delikatne dzioby i pazury (nie niszczą mebli)."/>
-
-      <AccordionInput accordionTabTitle="Co to znaczy, że gołębie miejskie są zwierzętami zdziczałymi?" accordionTabContent="Gołębie miejskie są potomkami. Gołębie domowe to udomowione gołębie skalne. Gołębie domowe uciekały z hodowli lub były z nich celowo wypuszczane i tworzyły zdziczałe populacje. Gołębie skalne (dzikie) występują w odizolowanych rejonach Wielkiej Brytanii i Irlandii."/>
-
-      <AccordionInput accordionTabTitle="Jak długo żyją gołębie?" accordionTabContent="Badania przeprowadzone w 1990 roku w szwajcarskim mieście Basel wykazały, że jedynie 10% lub mniej obserwowanej populacji gołębi miejskich dożywało wieku ponad 4 lat. Z kolei gołębie znajdujące się pod opieką człowieka mogą żyć nawet około 30 lat."/>
-
-      <AccordionInput accordionTabTitle="Jaki jest koszt utrzymania gołębia?" accordionTabContent="Najwięcej kosztów ponosi się na początku: klatka, miseczki, transporter itd. Potem utrzymanie gołębia nie jest drogie. Mieszanka ziaren dla gołębi 20 kg kosztuje ok. 50 zł. Raz w roku warto zabrać gołębia na badanie profilaktyczne u ptasiego weterynarza."/>
+    <h2>Gołębiowe ciekawostki</h2>
+        <AccordionInput accordionTabTitle="Jakie gatunki gołębi występują w Polsce?" accordionTabContent="Gołąb miejski (Columba Livia), sierpówka (Streptopelia decaocto), grzywacz (Columba palumbus), turkawka (Streptopelia turtur), turkawka wschodnia (Streptopelia orientalis), siniak (Columba oenas)." />
+        <AccordionInput accordionTabTitle="Dlaczego warto adoptować gołębie?" accordionTabContent="Gołębie są świetnymi zwierzakami domowymi! Doskonale odnajdują się w towarzystwie ludzi, mają nieskomplikowaną dietę oraz delikatne dzioby i pazury (nie niszczą mebli)." />
+        <AccordionInput accordionTabTitle="Co to znaczy, że gołębie miejskie są zwierzętami zdziczałymi?" accordionTabContent="Gołębie miejskie są potomkami. Gołębie domowe to udomowione gołębie skalne. Gołębie domowe uciekały z hodowli lub były z nich celowo wypuszczane i tworzyły zdziczałe populacje. Gołębie skalne (dzikie) występują w odizolowanych rejonach Wielkiej Brytanii i Irlandii." />
+        <AccordionInput accordionTabTitle="Jak długo żyją gołębie?" accordionTabContent="Badania przeprowadzone w 1990 roku w szwajcarskim mieście Basel wykazały, że jedynie 10% lub mniej obserwowanej populacji gołębi miejskich dożywało wieku ponad 4 lat. Z kolei gołębie znajdujące się pod opieką człowieka mogą żyć nawet około 30 lat." />
+        <AccordionInput accordionTabTitle="Jaki jest koszt utrzymania gołębia?" accordionTabContent="Najwięcej kosztów ponosi się na początku: klatka, miseczki, transporter itd. Potem utrzymanie gołębia nie jest drogie. Mieszanka ziaren dla gołębi 20 kg kosztuje ok. 50 zł. Raz w roku warto zabrać gołębia na badanie profilaktyczne u ptasiego weterynarza." />
+    </div>
     </div>
 </section>
 
 <style>
+    section {
+        background-color: var(--cream);
+    }
 
-img {
-  width: 300px;
-}
+    .container {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        gap: 5rem;
+        background-color: var(--cream);
+        padding: 2rem 4% 6rem 4%;
+        max-width: 1600px;
+        margin: 0 auto;
+    }
 
-section {
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
-    gap: 6em;
-    background-color: var(--cream);
-    padding: var(--spacing-4xl) 4% 13em 4%;
-}
+    /* Gallery styles */
+    .gallery-wrapper {
+        width: 100%;
+        max-width: 800px;
+    }
 
-.accordion {
-  max-width: 860px;
-  width: 100%;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  overflow: hidden;
-  border-radius: 24px;
-}
+    .image-grid {
+        display: flex;
+        gap: 20px;
+    }
 
-h2 {
-  font-family: "Ubuntu Condensed";
-  font-size: 5rem;
-  color: var(--plum);
-  margin-bottom: 3.4rem;
-}
- 
-@media  (max-width: 758px) { 
-  section {
-    flex-direction: column;
-  }
+    .image-column {
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+        flex: 1;
+    }
 
-  img {
-    display: none;
-  }
-}
+    /* Offset the first column down */
+    .image-column.offset {
+        margin-top: 60px;
+    }
+
+    .image-box {
+        position: relative;
+        width: 100%;
+        padding-top: 150%;
+        overflow: hidden;
+        border-radius: 34px;
+        box-shadow: 0 4px 10px rgb(0 0 0 / 0.1);
+    }
+
+    .image-box img {
+        position: absolute;
+        top: 0; left: 0;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+
+    /* Custom aspect ratios */
+    .image1 { padding-top: 115%; }
+    .image2 { padding-top: 160%; }
+    .image3 { padding-top: 150%; }
+    .image4 { padding-top: 90%; }
+
+    /* Accordion styles */
+    .accordion {
+        max-width: 860px;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        overflow: hidden;
+        border-radius: 24px;
+    }
+
+    h2 {
+        font-family: "Ubuntu Condensed", sans-serif;
+        font-size: 5rem;
+        color: var(--plum);
+        margin-bottom: 3.4rem;
+    }
+
+    /* Responsive */
+    @media (max-width: 758px) {
+        h2 {
+            margin-right: auto;
+        }
+
+        .container {
+            padding-bottom: 3rem;
+            flex-direction: column;
+            padding-inline: 2%;
+        }
+
+        .image-column.offset {
+            margin-top: 0;
+        }
+
+        .gallery-wrapper {
+            order: 2; /* Show second */
+        }
+
+        .accordion {
+            order: 1; /* Show first */
+        }
+    }
 </style>
