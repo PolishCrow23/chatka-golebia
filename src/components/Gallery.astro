@@ -1,5 +1,11 @@
 ---
-const { images } = Astro.props;
+interface ImageItem {
+    src: string;
+    thumb: string;
+    caption?: string;
+}
+
+const { images } = Astro.props as { images: ImageItem[] };
 ---
 
 <!-- Remove the local CSS import since we're using CDN in PageLayout -->
