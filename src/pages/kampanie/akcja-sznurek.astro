@@ -1,0 +1,67 @@
+---
+import Gallery from "../../components/Gallery.astro"
+import PageLayout from "../../layouts/PageLayout.astro";
+
+const images = [
+    {
+        src: '/images/kampanie/akcja-sznurek/14.02.2025/julia.jpg',
+        thumb: '/images/kampanie/akcja-sznurek/14.02.2025/julia.jpg',
+        caption: '<h3>Julia trzyma kubek z ziarnem.</h3>',
+    },
+    {
+        src: '/images/kampanie/akcja-sznurek/14.02.2025/patryk-z-golebiem.jpg',
+        thumb: '/images/kampanie/akcja-sznurek/14.02.2025/patryk-z-golebiem.jpg',
+        caption: '<h3>Patryk przecina skalpelem włos zaplątany wokół łapki gołębia.</h3>',
+    },
+    {
+        src: '/images/kampanie/akcja-sznurek/21.06.2025/uczestnicy-karmia-golebie.jpg',
+        thumb: '/images/kampanie/akcja-sznurek/21.06.2025/uczestnicy-karmia-golebie.jpg',
+        caption: '<h3>Uczestnicy akcji karmią ptaki i szukają osobników z zaplątanymi nóżkami/objawami chorobowymi.</h3>',
+    },
+    {
+        src: '/images/kampanie/akcja-sznurek/26.04.2025/martwica.jpg',
+        thumb: '/images/kampanie/akcja-sznurek/26.04.2025/martwica.jpg',
+        caption: '<h3>Gołąbek z martwicą. Został przetransportowany do przychodni Salamandra.</h3>',
+    },
+    {
+        src: '/images/kampanie/akcja-sznurek/14.02.2025/wlos-na-nodze.jpg',
+        thumb: '/images/kampanie/akcja-sznurek/14.02.2025/wlos-na-nodze.jpg',
+        caption: '<h3>Przecinanie zaplątanych wokół palców włosów.</h3>',
+    },
+    {
+        src: '/images/kampanie/akcja-sznurek/14.02.2025/walentynkowe-stoisko-chatki.jpg',
+        thumb: '/images/kampanie/akcja-sznurek/14.02.2025/walentynkowe-stoisko-chatki.jpg',
+        caption: '<h3>Nasze walentynkowe stoisko. ❤️</h3>',
+    }
+];
+---
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <title>Gallery</title>
+</head>
+<body>
+<PageLayout
+    title="Akcja Sznurek"
+    image="/images/kampanie/akcja-sznurek/baner-akcji-sznurek.jpg"
+>
+    <p>Akcja Sznurek polega na udzielaniu pomocy gołębiom miejskim oraz innym ptakom potrzebującym opieki medycznej.
+    <ol>
+    <li>W trakcie akcji odławiamy gołębie, które mają na nogach zaplątane sznurki oraz ptaki, które wykazują objawy chorobowe. Przedstawiciele fundacji dokonują wstępnej oceny stanu zdrowia gołębia.</li>
+    <li>W przypadku łatwego do zdjęcia sznurka, jest on usuwany na miejscu i jeżeli gołąb nie wykazuje innych objawów chorobowych jest wypuszczany.</li>
+    <li>Gołębie z wrośniętymi w nogi sznurkami, których usunięcie na miejscu byłoby ryzykowne dla ich zdrowia, są zabezpieczane do transporterów.</li>
+    <li>Gołębie wykazujące objawy chorobowe również zabezpieczane są w transporterach.</li>
+    <li>Bezpośrednio po akcji, wszystkie gołębie przewożone są do Kliniki Weterynaryjnej „Salamandra”, gdzie uzyskują pomoc weterynarzy specjalizujących się w leczeniu gołębi. Koszty leczenie i rehabilitacji pokrywa Fundacja Chatka Gołębia.</li>
+    </ol>
+    <ul>
+    <li>W trakcie akcji na naszym stoisku można złożyć darowiznę na rzecz fundacji. Fundacja ma zarejestrowaną zbiórkę publiczną. (2024/3769/OR )</li>
+    <li>Organizatorzy wydarzenia, zapewniają uczestnikom bezpłatnie: ziarno dla gołębi, jednorazowe rękawiczki, środki higieny osobistej.</li>
+    <li>Wydarzenie jest zarejestrowane w Urzędzie Miasta Krakowa.</li>
+    </ul>
+    <p>Kontakt z organizatorami: <a href="mailto:fundacja@chatkagolebia.pl">fundacja@chatkagolebia.pl</a></p>
+    <p>Dołącz do naszym kolejnych "Sznurków". :) Potrzebujemy właśnie CIEBIE! Wszystkie wydarzenia organizowane przez naszą fundację wyświetlają się na naszym <a href="https://www.facebook.com/chatkagolebia/events">Facebooku</a>.</p>
+    <Gallery images={images} />
+</PageLayout>
+</body>
+</html>

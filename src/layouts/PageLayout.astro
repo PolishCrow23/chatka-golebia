@@ -11,6 +11,10 @@ const { frontmatter = {}, title, description, date, image, maxWidth = '720px'} =
 <html lang="en">
     <head>
         <BaseHead title={frontmatter.title || title} description={frontmatter.description || description} date={frontmatter.date || date} />
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lightgallery@2.8.3/css/lightgallery.css" />
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lightgallery@2.8.3/css/lg-zoom.css" />
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lightgallery@2.8.3/css/lg-thumbnail.css" />
+
     </head>
     <body>
         <PiwikPro />
@@ -58,6 +62,7 @@ const { frontmatter = {}, title, description, date, image, maxWidth = '720px'} =
     main {
         margin-inline: auto;
         background-color: var(--cream);
-        padding-block: 2rem;
+        padding-block: 2rem 4rem;
+        padding-inline: 2%;
     }
 </style>

@@ -1,0 +1,56 @@
+---
+const { images } = Astro.props;
+---
+
+<!-- Remove the local CSS import since we're using CDN in PageLayout -->
+
+<style>
+    .gallery-container {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+        gap: 1rem;
+    }
+
+    .gallery-item {
+        cursor: pointer;
+    }
+
+    .gallery-item img {
+        width: 100%;
+        height: 200px;
+        object-fit: cover;
+        border-radius: 8px;
+    }
+</style>
+
+<div id="lightgallery" class="gallery-container">
+    {images.map(({ src, thumb, caption }) => (
+            <a
+                    class="gallery-item"
+                    data-src={src}
+                    data-sub-html={caption || ''}
+            >
+                <img src={thumb} alt="Gallery image" />
+            </a>
+    ))}
+</div>
+
+<script>
+    // Using a normal script tag instead of type="module" to ensure proper loading order
+    import lightGallery from 'lightgallery';
+    import lgThumbnail from 'lightgallery/plugins/thumbnail';
+    import lgZoom from 'lightgallery/plugins/zoom';
+
+    // Initialize directly in the component
+    document.addEventListener('DOMContentLoaded', () => {
+        const container = document.getElementById('lightgallery');
+        if (!container) return;
+
+        lightGallery(container, {
+            plugins: [lgThumbnail, lgZoom],
+            speed: 500,
+        });
+    });
+
+
+</script>
