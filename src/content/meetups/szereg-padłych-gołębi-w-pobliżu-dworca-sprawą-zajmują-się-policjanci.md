@@ -4,12 +4,8 @@ title: Szereg padłych gołębi w pobliżu dworca. Sprawą zajmują się policja
 pubDate: 07.02.2025
 image: /images/20250128_190518.jpg
 description: "przed południem na jednym z parkingów natrafiono na liczne padłe
-  gołębie. W pobliżu zabezpieczono rozsypane zboże. Trwają czynności
-  wyjaśniające. "
+  gołębie. Trwają czynności wyjaśniające. "
 ---
-
-
-
 W poniedziałek po godzinie 11 policjanci zostali zaalarmowani, że 
 obok starego dworca autobusowego przy al. Tysiąclecia znajduje się wiele
  padłych gołębi. Leżały one na parkingu między poczekalnią dla pasażerów
@@ -24,3 +20,5 @@ Dalsze czynności wykonywano już z udziałem technika, który m.in.
 zabezpieczył do analizy znajdujące się w pobliżu rozsypane zboże. 
 Obecnie trwa ustalanie, czy ptaki padły z powodu jakiejś choroby, czy 
 też zostały otrute. \[Pozostaje pytanie, dlaczego?]
+
+W pobliżu zabezpieczono rozsypane zboże.
