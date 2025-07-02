@@ -1,6 +1,6 @@
 ---
 title: Szereg padłych gołębi w pobliżu dworca. Sprawą zajmują się policjanci.
-  [Masowa śmierć golębii w pobliżu dworca, sprawą zajęła się policja]
+  [Masowa śmierć gołębii w pobliżu dworca, sprawą zajęła się policja]
 pubDate: 07.02.2025
 image: /images/20250128_190518.jpg
 description: "przed południem na jednym z parkingów natrafiono na liczne padłe
