@@ -10,7 +10,7 @@ W poniedziałek po godzinie 11 policjanci zostali zaalarmowani, że
 obok starego dworca autobusowego przy al. Tysiąclecia znajduje się wiele
  padłych gołębi. Leżały one na parkingu między poczekalnią dla pasażerów
  a halą Nova. Istniało podejrzenie, że ptaki zostały otrute.\
-[Poniedziałek, godzina 11:00. Polizcjanci otrzymali zawiadomienie
+\[Poniedziałek, godzina 11:00. Policjanci otrzymali zawiadomienie o wielu padłych gołębiach przy al. Tysiąclecia. Znajdowały się na parkingu między poczekalnią dla pasażerów a halą Nova. Istnieje podejrzenie, że gołębie zostały otrute.]
 
 Teren został zabezpieczony przez funkcjonariuszy, o sprawie 
 powiadomiono również Powiatowego Inspektora Weterynarii. Jak wyjaśnia 
