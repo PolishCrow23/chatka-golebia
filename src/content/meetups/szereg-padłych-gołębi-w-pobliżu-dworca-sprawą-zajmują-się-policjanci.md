@@ -1,6 +1,6 @@
 ---
 title: Szereg padłych gołębi w pobliżu dworca. Sprawą zajmują się policjanci.
-  [Znaleziono 16 padłych gołębi w pobliżu dworca, sprawą zajęła się policja]
+  [Znaleziono 16 padłych gołębi, sprawą zajęła się policja]
 pubDate: 07.02.2025
 image: /images/20250128_190518.jpg
 description: "przed południem na jednym z parkingów natrafiono na liczne padłe
