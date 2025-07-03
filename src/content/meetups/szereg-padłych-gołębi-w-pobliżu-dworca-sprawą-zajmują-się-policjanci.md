@@ -1,5 +1,5 @@
 ---
-title: 18 padłych gołębi w pobliżu dworca w Lublinie. Policja szuka przyczyny.
+title: 18 padłych gołębi w pobliżu dworca autobusowego. Policja szuka przyczyny.
 pubDate: 07.02.2025
 image: /images/zblizenie-selektywne-focus-strzal-golebi-w-parku-z-zielenia.jpg
 description: "Przed południem na jednym z parkingów w lublinie natrafiono na
