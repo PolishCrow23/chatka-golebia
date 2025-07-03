@@ -40,6 +40,6 @@ podkom. Kamil Karbowniczek z Komendy Wojewódzkiej Policji w Lublinie,
 Dalsze czynności wykonywano już z udziałem technika, który m.in. 
 zabezpieczył do analizy znajdujące się w pobliżu rozsypane zboże. 
 Obecnie trwa ustalanie, czy ptaki padły z powodu jakiejś choroby, czy 
-też zostały otrute. \[Pozostaje pytanie, dlaczego?]\
+też zostały otrute. \[Pozostaje pytanie, co był przyczyną ich śmierci dlaczego?]\
 \
 Źródło zdjęcia: Freepik.
