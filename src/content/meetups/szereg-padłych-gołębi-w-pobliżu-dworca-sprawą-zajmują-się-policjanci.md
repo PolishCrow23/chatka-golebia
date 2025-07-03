@@ -1,6 +1,5 @@
 ---
-title: Choroba, zatrucie a może celowe działanie? 18 padłych gołębi w pobliżu
-  dworca autobusowego. Policja szuka przyczyny.
+title: 18 padłych gołębi w pobliżu dworca autobusowego. Policja szuka przyczyny.
 pubDate: 07.02.2025
 image: /images/zblizenie-selektywne-focus-strzal-golebi-w-parku-z-zielenia.jpg
 description: Na starym parkingu autobusowym w Lublinie natrafiono na liczne
