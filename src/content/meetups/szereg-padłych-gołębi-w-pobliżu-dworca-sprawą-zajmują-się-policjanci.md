@@ -7,7 +7,9 @@ description: Na starym parkingu autobusowym w Lublinie natrafiono na liczne
 ---
 # Choroba, zatrucie a może celowe działanie?
 
-# Zabezpieczono materiały. Policja bada przyczynę. 
+# Zabezpieczono materiały. Policja bada przyczynę.
+
+
 
 W poniedziałek, po godzinie 11:00 policjanci otrzymali zawiadomienie o wielu padłych gołębiach przy al. Tysiąclecia. Znajdowały się one na parkingu w pobliżu hali Nova na starym przystanku autobusowym. Trwa śledztwo w kierunku [art. 35 ust. o ochronie zwierząt.](https://lexlege.pl/ustawa-o-ochronie-zwierzat/art-35/)
 
