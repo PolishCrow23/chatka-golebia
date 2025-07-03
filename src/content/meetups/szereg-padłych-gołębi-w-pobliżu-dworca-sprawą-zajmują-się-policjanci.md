@@ -2,7 +2,7 @@
 title: 18 padłych gołębi w pobliżu dworca. Policja szuka przyczyny.
 pubDate: 07.02.2025
 image: /images/zblizenie-selektywne-focus-strzal-golebi-w-parku-z-zielenia.jpg
-description: "przed południem na jednym z parkingów natrafiono na liczne padłe
+description: "Przed południem na jednym z parkingów natrafiono na liczne padłe
   gołębie. Trwają czynności wyjaśniające. "
 ---
 W poniedziałek po godzinie 11 policjanci zostali zaalarmowani, że 
