@@ -1,7 +1,6 @@
 ---
 title: Szereg padłych gołębi w pobliżu dworca. Sprawą zajmują się policjanci.
-  [18 padłych gołębi w pobliżu dworca, sprawą zajęła się policja/ technicy
-  szukają przyczyny.]
+  [18 padłych gołębi w pobliżu dworca, technicy szukają przyczyny.]
 pubDate: 07.02.2025
 image: /images/zblizenie-selektywne-focus-strzal-golebi-w-parku-z-zielenia.jpg
 description: "przed południem na jednym z parkingów natrafiono na liczne padłe
