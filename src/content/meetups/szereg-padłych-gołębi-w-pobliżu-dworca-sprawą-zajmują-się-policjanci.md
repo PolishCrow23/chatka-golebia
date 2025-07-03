@@ -2,8 +2,8 @@
 title: Padłe gołębie w pobliżu dworca. Policja szuka przyczyny.
 pubDate: 07.02.2025
 image: /images/zblizenie-selektywne-focus-strzal-golebi-w-parku-z-zielenia.jpg
-description: "Przed południem na jednym z parkingów natrafiono na liczne padłe
-  gołębie. Trwają czynności wyjaśniające. "
+description: "Przed południem na jednym z parkingów natrafiono na liczne martwe
+  ptaki. Trwają czynności wyjaśniające. "
 ---
 W poniedziałek po godzinie 11 policjanci zostali zaalarmowani, że 
 obok starego dworca autobusowego przy al. Tysiąclecia znajduje się wiele
