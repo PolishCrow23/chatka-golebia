@@ -36,7 +36,7 @@ W poniedziałek, po godzinie 11:00 policjanci otrzymali zawiadomienie o wielu pa
 Teren został zabezpieczony przez funkcjonariuszy, o sprawie 
 powiadomiono również Powiatowego Inspektora Weterynarii. Jak wyjaśnia 
 podkom. Kamil Karbowniczek z Komendy Wojewódzkiej Policji w Lublinie, 
-łącznie znaleziono 18 nieżywych ptaków. \[ Zabezpieczono nagrania z monitoringu oraz wezwano technika, który m.in zabezpieczył rozsypane w pobliżu zboże. Trwa ustalanie przyczyny śmierci gołębi [czy to choroba, zatrucie a może celowe działanie], zostały przeniesione do chłodni w schronisku.
+łącznie znaleziono 18 nieżywych ptaków. \[ Zabezpieczono nagrania z monitoringu, przesłuchano świadka zdarzenia oraz wezwano technika, który m.in zabezpieczył rozsypane w pobliżu zboże. Trwa ustalanie przyczyny śmierci gołębi [czy to choroba, zatrucie a może celowe działanie], zostały przeniesione do chłodni w schronisku.
 
 ## Choroba, zatrucie a może celowe działanie?
 
