@@ -2,8 +2,8 @@
 title: 18 padłych gołębi w pobliżu dworca autobusowego. Sprawą zajęła się policja.
 pubDate: 07.02.2025
 image: /images/zblizenie-selektywne-focus-strzal-golebi-w-parku-z-zielenia.jpg
-description: Na starym parkingu autobusowym w Lublinie natrafiono na liczne
-  martwe ptaki, sprawę zgłoszono na policję. Trwają czynności wyjaśniające.
+description: Na parkingu autobusowym w Lublinie natrafiono na liczne martwe
+  ptaki, sprawę zgłoszono na policję. Trwają czynności wyjaśniające.
 ---
 # Choroba, zatrucie a może celowe działanie?
 
