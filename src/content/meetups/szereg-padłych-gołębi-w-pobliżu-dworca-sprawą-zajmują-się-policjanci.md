@@ -5,6 +5,17 @@ image: /images/zblizenie-selektywne-focus-strzal-golebi-w-parku-z-zielenia.jpg
 description: Na starym parkingu autobusowym w Lublinie natrafiono na liczne
   martwe ptaki, sprawę zgłoszono na policję. Trwają czynności wyjaśniające.
 ---
+>
+>
+>
+> ### Odpowiedzialność karna za zabijanie, uśmiercanie lub dokonywanie 
+> uboju zwierzęcia z naruszeniem przepisów ustawy albo znęcanie się nad 
+> zwierzęciem
+>
+>
+>
+>
+
 W poniedziałek po godzinie 11 policjanci zostali zaalarmowani, że 
 obok starego dworca autobusowego przy al. Tysiąclecia znajduje się wiele
  padłych gołębi. Leżały one na parkingu między poczekalnią dla pasażerów
