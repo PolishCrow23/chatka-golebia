@@ -23,6 +23,9 @@ o sprawie
 powiadomiono również Powiatowego Inspektora Weterynarii
 
 
+Zajmują się sprawą zgodnie z art.35 ust. o ochronie zwierząt, kontaktują sie z prokuraturą, przesłuchali 1 podejrzanego (osobę zgłaszającą) zabezpieczyli monitoring, samych gołębii było 18 i przebywaja w schronisku w chłodni
+
+
 
 
 
