@@ -31,17 +31,18 @@ Zajmują się sprawą zgodnie z art.35 ust. o ochronie zwierząt, kontaktują si
  przeniesionych do chłodni w schronisku.
 
 
+Teren został zabezpieczony przez funkcjonariuszy, o sprawie 
+powiadomiono również Powiatowego Inspektora Weterynarii. Jak wyjaśnia 
+podkom. Kamil Karbowniczek z Komendy Wojewódzkiej Policji w Lublinie, 
+łącznie znaleziono 18 nieżywych ptaków. 
+
+
 
 
 
 # Zabezpieczono materiały. Policja bada przyczynę. 
 
 W poniedziałek, po godzinie 11:00 policjanci otrzymali zawiadomienie o wielu padłych gołębiach przy al. Tysiąclecia. Znajdowały się one na parkingu w pobliżu hali Nova. Trwa śledztwo w kierunku [art. 35 ust. o ochronie zwierząt.](https://lexlege.pl/ustawa-o-ochronie-zwierzat/art-35/)
-
-Teren został zabezpieczony przez funkcjonariuszy, o sprawie 
-powiadomiono również Powiatowego Inspektora Weterynarii. Jak wyjaśnia 
-podkom. Kamil Karbowniczek z Komendy Wojewódzkiej Policji w Lublinie, 
-łącznie znaleziono 18 nieżywych ptaków. 
 
 [ Funkcjonariusze zabezpieczyli nagrania z monitoringu, przesłuchali świadka zdarzenia oraz wezwali technika, który m.in zabezpieczył rozsypane w pobliżu zboże. Trwa ustalanie przyczyny śmierci gołębi oraz poszukiwania ewentualnego winnego.
 
