@@ -43,11 +43,13 @@ powiadomiono również Powiatowego Inspektora Weterynarii. Jak wyjaśnia
 podkom. Kamil Karbowniczek z Komendy Wojewódzkiej Policji w Lublinie, 
 łącznie znaleziono 18 nieżywych ptaków. 
 
-[ Funkcjonariusze zabezpieczyli nagrania z monitoringu, przesłuchali świadka zdarzenia oraz wezwali technika, który m.in zabezpieczył rozsypane w pobliżu zboże. Trwa ustalanie przyczyny śmierci gołębi, [czy to choroba, zatrucie a może celowe działanie?
+[ Funkcjonariusze zabezpieczyli nagrania z monitoringu, przesłuchali świadka zdarzenia oraz wezwali technika, który m.in zabezpieczył rozsypane w pobliżu zboże. Trwa ustalanie przyczyny śmierci gołębi oraz poszukiwania ewentualnego winnego.
 
 Dalsze czynności wykonywano już z udziałem technika, który m.in. 
 zabezpieczył do analizy znajdujące się w pobliżu rozsypane zboże. 
 Obecnie trwa ustalanie, czy ptaki padły z powodu jakiejś choroby, czy 
-też zostały otrute. \[Ustala się, w jaki sposób gołębie straciły życie. Pozostaje pytanie, co było przyczyną ich śmierci dlaczego?]\
+też zostały otrute.
+
+ \[Ustala się, w jaki sposób gołębie straciły życie. Pozostaje pytanie, co było przyczyną ich śmierci dlaczego?]\
 \
 Źródło zdjęcia: Freepik
