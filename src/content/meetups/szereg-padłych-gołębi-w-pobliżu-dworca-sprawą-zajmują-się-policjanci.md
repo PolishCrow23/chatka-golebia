@@ -17,7 +17,7 @@ Istnieje podejrzenie, że ptaki zostały otrute.
 
 
 
-# Trwa śledztwo, zabezpieczono materiały. 
+# Zabezpieczono materiały. Policja bada przyczynę.
 
 W poniedziałek, po godzinie 11:00 policjanci otrzymali zawiadomienie o wielu padłych gołębiach przy al. Tysiąclecia. Znajdowały się na parkingu w pobliżu hali Nova.  Trwa śledztwo w kierunku [art. 35 ust. o ochronie zwierząt.](https://lexlege.pl/ustawa-o-ochronie-zwierzat/art-35/)
 
