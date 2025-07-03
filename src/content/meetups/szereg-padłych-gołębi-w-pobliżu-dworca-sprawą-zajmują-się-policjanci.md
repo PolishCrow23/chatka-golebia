@@ -1,9 +1,9 @@
 ---
-title: 18 padłych gołębi w pobliżu dworca. Policja szuka przyczyny.
+title: 18 padłych gołębi w pobliżu dworca w Lublinie. Policja szuka przyczyny.
 pubDate: 07.02.2025
 image: /images/zblizenie-selektywne-focus-strzal-golebi-w-parku-z-zielenia.jpg
-description: "Przed południem na jednym z parkingów natrafiono na liczne martwe
-  ptaki. Trwają czynności wyjaśniające. "
+description: "Przed południem na jednym z parkingów w lublinie natrafiono na
+  liczne martwe ptaki. Trwają czynności wyjaśniające. "
 ---
 W poniedziałek po godzinie 11 policjanci zostali zaalarmowani, że 
 obok starego dworca autobusowego przy al. Tysiąclecia znajduje się wiele
@@ -11,8 +11,6 @@ obok starego dworca autobusowego przy al. Tysiąclecia znajduje się wiele
  a halą Nova. Istniało podejrzenie, że ptaki zostały otrute.
 
 
-
-# Porzucone ptaki, powiadomienie policji.
 
 \
 [W poniedziałek, po godzinie 11:00 policjanci otrzymali zawiadomienie o wielu padłych gołębiach przy al. Tysiąclecia. Znajdowały się na parkingu między poczekalnią dla pasażerów a halą Nova. Istnieje podejrzenie, że ptaki zostały otrute. Trwają czynności śledcze w kierunku [art. 35 ust. o ochronie zwierząt.](https://lexlege.pl/ustawa-o-ochronie-zwierzat/art-35/)
