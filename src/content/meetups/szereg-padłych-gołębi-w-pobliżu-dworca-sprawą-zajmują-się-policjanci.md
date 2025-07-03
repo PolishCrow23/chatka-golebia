@@ -21,4 +21,5 @@ zabezpieczył do analizy znajdujące się w pobliżu rozsypane zboże.
 Obecnie trwa ustalanie, czy ptaki padły z powodu jakiejś choroby, czy 
 też zostały otrute. \[Pozostaje pytanie, dlaczego?]
 
-W pobliżu zabezpieczono rozsypane zboże.
+W pobliżu zabezpieczono rozsypane zboże.\
+Źródło zdjęcia: Freepik.
