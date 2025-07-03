@@ -48,7 +48,7 @@ też zostały otrute.
 
 # Zabezpieczono materiały. Policja bada przyczynę. 
 
-W poniedziałek, po godzinie 11:00 policjanci otrzymali zawiadomienie o wielu padłych gołębiach przy al. Tysiąclecia. Znajdowały się one na parkingu w pobliżu hali Nova. Trwa śledztwo w kierunku [art. 35 ust. o ochronie zwierząt.](https://lexlege.pl/ustawa-o-ochronie-zwierzat/art-35/)
+W poniedziałek, po godzinie 11:00 policjanci otrzymali zawiadomienie o wielu padłych gołębiach przy al. Tysiąclecia. Znajdowały się one na parkingu w pobliżu hali Nova na starym przystanku autobusowym. Trwa śledztwo w kierunku [art. 35 ust. o ochronie zwierząt.](https://lexlege.pl/ustawa-o-ochronie-zwierzat/art-35/)
 
 [ Funkcjonariusze zabezpieczyli nagrania z monitoringu, przesłuchali świadka zdarzenia oraz wezwali technika, który m.in zabezpieczył rozsypane w pobliżu zboże. Trwa ustalanie przyczyny śmierci gołębi oraz poszukiwania ewentualnego winnego.
 
