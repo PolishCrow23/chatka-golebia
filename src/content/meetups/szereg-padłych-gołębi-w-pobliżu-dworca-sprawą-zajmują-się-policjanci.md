@@ -14,7 +14,7 @@ obok starego dworca autobusowego przy al. Tysiąclecia znajduje się wiele
 
 # Trwa śledztwo, zabezpieczono materiały. 
 
-[W poniedziałek, po godzinie 11:00 policjanci otrzymali zawiadomienie o wielu padłych gołębiach przy al. Tysiąclecia. Znajdowały się na parkingu w pobliżu hali Nova. Istnieje podejrzenie, że ptaki zostały otrute. Trwa śledztwo w kierunku [art. 35 ust. o ochronie zwierząt.](https://lexlege.pl/ustawa-o-ochronie-zwierzat/art-35/)
+W poniedziałek, po godzinie 11:00 policjanci otrzymali zawiadomienie o wielu padłych gołębiach przy al. Tysiąclecia. Znajdowały się na parkingu w pobliżu hali Nova. Istnieje podejrzenie, że ptaki zostały otrute. Trwa śledztwo w kierunku [art. 35 ust. o ochronie zwierząt.](https://lexlege.pl/ustawa-o-ochronie-zwierzat/art-35/)
 
 Teren został zabezpieczony przez funkcjonariuszy, o sprawie 
 powiadomiono również Powiatowego Inspektora Weterynarii. Jak wyjaśnia 
