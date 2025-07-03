@@ -25,6 +25,9 @@ powiadomiono również Powiatowego Inspektora Weterynarii
 Zajmują się sprawą zgodnie z art.35 ust. o ochronie zwierząt, kontaktują sie z prokuraturą, przesłuchali 1 podejrzanego (osobę zgłaszającą) zabezpieczyli monitoring, samych gołębii było 18 i przebywaja w schronisku w chłodni
 
 
+ przeniesionych do chłodni w schronisku.
+
+
 
 
 
@@ -37,7 +40,7 @@ powiadomiono również Powiatowego Inspektora Weterynarii. Jak wyjaśnia
 podkom. Kamil Karbowniczek z Komendy Wojewódzkiej Policji w Lublinie, 
 łącznie znaleziono 18 nieżywych ptaków. 
 
-[ Funkcjonariusze zabezpieczyli nagrania z monitoringu, przesłuchali świadka zdarzenia oraz wezwali technika, który m.in zabezpieczył rozsypane w pobliżu zboże. Trwa ustalanie przyczyny śmierci gołębi, przeniesionych do chłodni w schronisku. [czy to choroba, zatrucie a może celowe działanie?
+[ Funkcjonariusze zabezpieczyli nagrania z monitoringu, przesłuchali świadka zdarzenia oraz wezwali technika, który m.in zabezpieczył rozsypane w pobliżu zboże. Trwa ustalanie przyczyny śmierci gołębi, [czy to choroba, zatrucie a może celowe działanie?
 
 ## Choroba, zatrucie a może celowe działanie?
 
