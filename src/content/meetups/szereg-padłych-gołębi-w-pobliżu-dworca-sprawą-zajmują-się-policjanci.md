@@ -15,6 +15,13 @@ obok starego dworca autobusowego przy al. Tysiąclecia znajduje się wiele
 Istnieje podejrzenie, że ptaki zostały otrute.
 
 
+łącznie znaleziono 18 nieżywych ptaków.
+
+
+o sprawie 
+powiadomiono również Powiatowego Inspektora Weterynarii
+
+
 
 
 
