@@ -19,7 +19,7 @@ obok starego dworca autobusowego przy al. Tysiąclecia znajduje się wiele
 Teren został zabezpieczony przez funkcjonariuszy, o sprawie 
 powiadomiono również Powiatowego Inspektora Weterynarii. Jak wyjaśnia 
 podkom. Kamil Karbowniczek z Komendy Wojewódzkiej Policji w Lublinie, 
-łącznie znaleziono 18 nieżywych ptaków. [ Zabezpieczono nagrania z monitoringu oraz wezwano technika, który m.in zabezpieczył rozsypane w pobliżu zboże. Trwa ustalanie przyczyny śmierci gołębi, ich zwłoki zostały zabezpieczone w chłodni.
+łącznie znaleziono 18 nieżywych ptaków. [ Zabezpieczono nagrania z monitoringu oraz wezwano technika, który m.in zabezpieczył rozsypane w pobliżu zboże. Trwa ustalanie przyczyny śmierci gołębi, zostały przeniesione do chłodni w schronisku.
 
 Dalsze czynności wykonywano już z udziałem technika, który m.in. 
 zabezpieczył do analizy znajdujące się w pobliżu rozsypane zboże. 
