@@ -26,4 +26,4 @@ CENTRUM HODOWLANE (czekamy jeszcze na dokładną rozpiskę)
 
 Tekst: Klaudia Beleć/Dariusz Groch
 
-Foto: Maria Jas
+Foto: Redakcja
