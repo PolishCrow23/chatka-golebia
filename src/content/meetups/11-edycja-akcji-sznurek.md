@@ -7,5 +7,5 @@ description: Witamy jesień jedenastą edycją Akcji Sznurek! Zobacz, co udało 
 ---
 Podsumowanie\
 
-TVP Kraków wspomniało o naszej akcji\
+TVP Kraków wyemitowało nawet materiał o naszej akcji\
 Gołębie były wyjątkowo wygłodzone,
