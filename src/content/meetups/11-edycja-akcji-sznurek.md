@@ -7,5 +7,5 @@ description: Witamy jesień podsumowaniem jedenastej edycji Akcji Sznurek!
 ---
 Podsumowanie\
 
-TVP Kraków wyemitowało nawet materiał o naszej październikowej akcji, można zobaczyć go na naszym [facebooku](https://www.facebook.com/share/v/1BYdkQc44R/). Materiał w zwięzły sposób przedstawia sytuację Krakowskich gołębi oraz podkreśla jak ważna jest empatia wobec zwierząt. Trzeba zaznaczyć, że ta jest trudna - gołębie były wyjątkowo wygłodzone, rożrzuciliśmy łącznie aż 50 kg ziarna, z czego ok.35 na samym rynku, resztą gołębie zostały dokarmione w jego okolicy.
+TVP Kraków wyemitowało nawet materiał o naszej październikowej akcji, można zobaczyć go na naszym [facebooku](https://www.facebook.com/share/v/1BYdkQc44R/). Materiał w zwięzły sposób przedstawia sytuację Krakowskich gołębi oraz podkreśla, jak ważna jest empatia wobec zwierząt. Trzeba zaznaczyć, że ta jest trudna - gołębie były wyjątkowo wygłodzone, rożrzuciliśmy łącznie aż 50 kg ziarna, z czego ok.35 na samym rynku, resztą gołębie zostały dokarmione w jego okolicy.
 autor zdjęć Jakub Jas
