@@ -5,4 +5,7 @@ image: /images/image-673327102055950-1-.jpg
 description: Witamy jesień jedenastą edycją Akcji Sznurek! Zobacz, co udało nam
   się osiągnąć.
 ---
-Podsumowanie
+Podsumowanie\
+
+TVP Kraków wspomniało o naszej akcji\
+Gołębie były wyjątkowo wygłodzone,
