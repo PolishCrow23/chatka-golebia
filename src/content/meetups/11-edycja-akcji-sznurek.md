@@ -5,7 +5,7 @@ image: /images/image-673327102055950-1-.jpg
 description: Witamy jesień podsumowaniem jedenastej edycji Akcji Sznurek!
   Zobacz, co udało się nam osiągnąć.
 ---
-Jak zwykle spotkaliśmy się o godzinie dwunastej pod fontanną na krakowskim rynku.
+Jak zwykle spotkaliśmy się o godzinie dwunastej obok fontanny na krakowskim rynku.
 
 
 Miejsce zbiórki: Rynek Główny (obok fontanny) 
