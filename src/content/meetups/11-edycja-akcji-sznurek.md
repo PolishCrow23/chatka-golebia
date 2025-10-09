@@ -5,7 +5,7 @@ image: /images/image-673327102055950-1-.jpg
 description: Witamy jesień podsumowaniem jedenastej edycji Akcji Sznurek!
   Zobacz, co udało się nam osiągnąć.
 ---
-Jak zwykle spotkaliśmy się o godzinie dwunastej obok fontanny na Rynku Głównym w Krakowie.
+Jak zwykle spotkaliśmy się o godzinie dwunastej obok fontanny na Rynku Głównym w Krakowie. Mamy dla was garść dobrych wiadomości!
 
 Dla osób, które jeszcze nie uczestniczyły w naszej akcji — W jej trakcie udzielamy pomocy gołębiom miejskim, które mają zaplątane na nóżkach sznurki, w zależności od stanu zdrowia gołębia możemy usunąć je na miejscu lub zabezpieczyć do transporterów. Odławiamy też chore osobniki, które wymagają pomocy weterynaryjnej, są one przewożone bezpośrednio po akcji do Kliniki Weterynaryjnej „Salamandra”. Mamy również stoisko, przy którym udzielamy informacji oraz rozdajemy ziarno i środki higieny osobistej. Fundacja ma zarejestrowaną zbiórkę publiczną (2024/3769/OR) a samo wydarzenie jest zarejestrowane w Urzędzie Miasta Krakowa.
 
