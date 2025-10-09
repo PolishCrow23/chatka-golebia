@@ -14,4 +14,4 @@ Fundacja ma zarejestrowaną zbiórkę publiczną. (2024/3769/OR ) a samo wydarze
 
 
 
-autor zdjęć Jakub Jas
+Autor zdjęć: Jakub Jas
