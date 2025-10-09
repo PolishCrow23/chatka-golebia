@@ -7,7 +7,7 @@ description: Witamy jesień podsumowaniem jedenastej edycji Akcji Sznurek!
 ---
 Jak zwykle spotkaliśmy się o godzinie 12:00 obok fontanny na Rynku Głównym w Krakowie. Dokarmialiśmy, pomagaliśmy oraz edukowaliśmy. Czas na podsumowanie naszych działań. Mamy dla was garść dobrych wiadomości!
 
-Wydarzenie zyskuje coraz większą popularność. TVP Kraków wyemitowało nawet materiał zapowiadający październikową akcję, można zobaczyć go na naszym [facebooku](https://www.facebook.com/share/v/1BYdkQc44R/). Materiał w zwięzły sposób przedstawia sytuację krakowskich gołębi, oraz podkreśla, jak ważna jest empatia wobec zwierząt. 
+Wydarzenie zyskuje coraz większą popularność. TVP Kraków wyemitowało nawet materiał zapowiadający październikową akcję, można zobaczyć go na naszym [facebooku](https://www.facebook.com/share/v/1BYdkQc44R/). Materiał podkreśla, jak ważna jest empatia wobec zwierząt oraz w zwięzły sposób przedstawia sytuację krakowskich gołębi. 
 
 Warto zaznaczyć, że ta jest trudna —  gołębie były bardzo wygłodzone, rozrzuciliśmy łącznie aż **50 kg ziarna,** **z czego ok. 35 na samym rynku**, resztą dokarmiliśmy gołębie w jego okolicy. 
 
