@@ -3,7 +3,7 @@ title: 11. Edycja Akcji Sznurek - Kraków, 04.10.2025
 pubDate: 10.09.2025
 image: /images/image-673327102055950-1-.jpg
 description: Witamy jesień podsumowaniem jedenastej edycji Akcji Sznurek!
-  Zobacz, co udało się nam osiągnąć.
+  Zobacz, co wspólnie osiągnęliśmy.
 ---
 Jak zwykle spotkaliśmy się o godzinie dwunastej obok fontanny na Rynku Głównym w Krakowie. Mamy dla was garść dobrych wiadomości!
 
