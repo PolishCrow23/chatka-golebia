@@ -16,7 +16,7 @@ Warto zaznaczyć, że ta jest trudna —  gołębie były bardzo wygłodzone, ro
 
 Serdecznie dziękujemy Wam za udział oraz poświęcony czas i energię. Wolontariuszom za pomoc przy lekkich przypadkach oraz edukację, a także Klinice Weterynaryjnej „Salamandra” za pełen profesjonalizm. Gorąco zachęcamy do wzięcia udziału w kolejnych edycjach naszej akcji! Następna rusza już
 
-Dla osób, które jeszcze nie miały okazji uczestniczyć w Akcji Sznurek — W jej trakcie udzielamy pomocy gołębiom miejskim, które mają zaplątane na nóżkach sznurki lub włosy. W zależności od stanu zdrowia gołębia możemy usunąć je na miejscu lub zabezpieczyć do transporterów. Odławiamy też chore osobniki, które wymagają pomocy, są one przewożone bezpośrednio po akcji do Kliniki Weterynaryjnej „Salamandra”. Mamy również stoisko, przy którym udzielamy informacji, edukujemy oraz rozdajemy ziarno i środki higieny osobistej. Fundacja ma zarejestrowaną zbiórkę publiczną (2024/3769/OR) a samo wydarzenie jest zarejestrowane w Urzędzie Miasta Krakowa.
+Dla osób, które jeszcze nie miały okazji uczestniczyć w Akcji Sznurek — W jej trakcie udzielamy pomocy gołębiom miejskim, które mają zaplątane na nóżkach sznurki lub włosy. W zależności od stanu zdrowia gołębia możemy usunąć je na miejscu lub zabezpieczyć do transporterów. Odławiamy też chore osobniki, które wymagają pomocy, są one bezpośrednio po akcji przewożone do Kliniki Weterynaryjnej „Salamandra”. Mamy również stoisko, przy którym udzielamy informacji, edukujemy oraz rozdajemy ziarno i środki higieny osobistej. Fundacja ma zarejestrowaną zbiórkę publiczną (2024/3769/OR) a samo wydarzenie jest zarejestrowane w Urzędzie Miasta Krakowa.
 \
 Nasze social media: \
 [Facebook](https://www.facebook.com/chatkagolebia) \
