@@ -6,7 +6,7 @@ description: Witamy jesień podsumowaniem jedenastej edycji Akcji Sznurek!
   Zobacz, co udało się nam osiągnąć.
 ---
 Jak zwykle spotkaliśmy się o godzinie dwunastej obok fontanny na Rynku Głównym w Krakowie.\
-Dla osób które jeszcze nie uczestniczyły w naszej akcji — W jej trakcie udzielamy pomocy gołębiom miejskim, które mają zaplątane na nóżkach sznurki, w zależności od stanu gołębia możemy usunąć je na miejscu lub zabezpieczyć. Odławiamy też chore osobniki, które wymagają pomocy weterynaryjnej, są one przewożone bezpośrednio po akcji do Kliniki Weterynaryjnej „Salamandra”.
+Dla osób, które jeszcze nie uczestniczyły w naszej akcji — W jej trakcie udzielamy pomocy gołębiom miejskim, które mają zaplątane na nóżkach sznurki, w zależności od stanu gołębia możemy usunąć je na miejscu lub zabezpieczyć. Odławiamy też chore osobniki, które wymagają pomocy weterynaryjnej, są one przewożone bezpośrednio po akcji do Kliniki Weterynaryjnej „Salamandra”.
 
 Wydarzenie zyskuje coraz większą popularność, TVP Kraków wyemitowało nawet materiał o naszej październikowej akcji, można zobaczyć go na naszym [facebooku](https://www.facebook.com/share/v/1BYdkQc44R/). Materiał w zwięzły sposób przedstawia sytuację krakowskich gołębi, oraz podkreśla, jak ważna jest empatia wobec zwierząt. Trzeba zaznaczyć, że ta jest trudna - gołębie były wyjątkowo wygłodzone, rozrzuciliśmy łącznie aż **50 kg ziarna,** **z czego ok. 35 na samym rynku**, resztą dokarmiliśmy gołębie w jego okolicy. 
 
