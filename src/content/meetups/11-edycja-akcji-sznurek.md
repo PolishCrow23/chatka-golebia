@@ -18,10 +18,6 @@ Serdecznie dziękujemy Wam za udział oraz poświęcony czas i energię. Wolonta
 
 Dla osób, które jeszcze nie miały okazji uczestniczyć w naszej akcji — W jej trakcie udzielamy pomocy gołębiom miejskim, które mają zaplątane na nóżkach sznurki, w zależności od stanu zdrowia gołębia możemy usunąć je na miejscu lub zabezpieczyć do transporterów. Odławiamy też chore osobniki, które wymagają pomocy weterynaryjnej, są one przewożone bezpośrednio po akcji do Kliniki Weterynaryjnej „Salamandra”. Mamy również stoisko, przy którym udzielamy informacji, edukujemy oraz rozdajemy ziarno i środki higieny osobistej. Fundacja ma zarejestrowaną zbiórkę publiczną (2024/3769/OR) a samo wydarzenie jest zarejestrowane w Urzędzie Miasta Krakowa.
 \
-Nasze social media
+Nasze social media 
 
-Facebook:\
-Instagram:\
-Youtube:
-
-Autor zdjęć: Jakub Jas
+[Facebook](https://www.facebook.com/chatkagolebia) Autor zdjęć: Jakub Jas
