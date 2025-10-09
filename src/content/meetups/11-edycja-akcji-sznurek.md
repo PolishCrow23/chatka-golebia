@@ -20,4 +20,8 @@ Dla osób, które jeszcze nie miały okazji uczestniczyć w naszej akcji — W j
 \
 Nasze social media 
 
-[Facebook](https://www.facebook.com/chatkagolebia) Autor zdjęć: Jakub Jas
+[Facebook](https://www.facebook.com/chatkagolebia) \
+Instagram\
+Youtube\
+\
+Autor zdjęć: Jakub Jas
