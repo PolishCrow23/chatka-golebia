@@ -14,7 +14,7 @@ Wydarzenie zyskuje coraz większą popularność. TVP Kraków wyemitowało nawet
 **W klinice „Salamandra” usunęliśmy 11 sznurków** i wszystkie gołębie wróciły na wolność, 
 **do Centrum Hodowlanego pojechało 12 gołębi**, co daje nam wynik **23 wyleczonych gołębi**!
 
-Bez Waszej pomocy
+Serdecznie dziękujemy Wam za udział, każde ziarenko przyczynia się do poprawy stanu gołębia.
 
 
 Autor zdjęć: Jakub Jas
