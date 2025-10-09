@@ -21,7 +21,7 @@ Dla osób, które jeszcze nie miały okazji uczestniczyć w naszej akcji — W j
 Nasze social media 
 
 [Facebook](https://www.facebook.com/chatkagolebia) \
-Instagram\
-Youtube\
+[Instagram](https://www.instagram.com/chatka_golebia/)\
+[Youtube](https://www.youtube.com/@FundacjaChatkaGolebia)\
 \
 Autor zdjęć: Jakub Jas
