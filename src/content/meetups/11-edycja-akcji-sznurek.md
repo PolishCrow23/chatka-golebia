@@ -5,7 +5,7 @@ image: /images/image-673327102055950-1-.jpg
 description: Witamy jesień podsumowaniem jedenastej edycji Akcji Sznurek!
   Zobacz, ilu gołębiom wspólnie pomogliśmy.
 ---
-Jak zwykle spotkaliśmy się o godzinie dwunastej obok fontanny na Rynku Głównym w Krakowie. Mamy dla was garść dobrych wiadomości!
+Jak zwykle spotkaliśmy się o godzinie 12:00 obok fontanny na Rynku Głównym w Krakowie. Dokarmialiśmy, pomagaliśmy oraz edukowaliśmy. Mamy dla was garść dobrych wiadomości!
 
 Wydarzenie zyskuje coraz większą popularność. TVP Kraków wyemitowało nawet materiał zapowiadający naszą październikową akcję, można zobaczyć go na naszym [facebooku](https://www.facebook.com/share/v/1BYdkQc44R/). Materiał w zwięzły sposób przedstawia sytuację krakowskich gołębi, oraz podkreśla, jak ważna jest empatia wobec zwierząt. 
 
