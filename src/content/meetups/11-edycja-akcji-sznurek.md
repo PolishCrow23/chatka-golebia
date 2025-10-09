@@ -12,7 +12,7 @@ Wydarzenie zyskuje coraz większą popularność. TVP Kraków wyemitowało nawet
 **W klinice „Salamandra” usunęliśmy 11 sznurków** i wszystkie gołębie wróciły na wolność, 
 **do Centrum Hodowlanego pojechało 12 gołębi**, co daje nam wynik **23 wyleczonych gołębi**!
 
-Serdecznie dziękujemy Wam za udział, poświęcony czas oraz chęć pomocy, klinice „Salamandra” za pełen profesjonalizm oraz zachęcamy do wzięcia udziału w kolejnych edycjach naszej akcji!
+Serdecznie dziękujemy Wam za udział, poświęcony czas oraz chęć pomocy. Klinice „Salamandra” za pełen profesjonalizm oraz zachęcamy do wzięcia udziału w kolejnych edycjach naszej akcji!
 
 
 Dla osób, które jeszcze nie miały okazji uczestniczyć w naszej akcji — W jej trakcie udzielamy pomocy gołębiom miejskim, które mają zaplątane na nóżkach sznurki, w zależności od stanu zdrowia gołębia możemy usunąć je na miejscu lub zabezpieczyć do transporterów. Odławiamy też chore osobniki, które wymagają pomocy weterynaryjnej, są one przewożone bezpośrednio po akcji do Kliniki Weterynaryjnej „Salamandra”. Mamy również stoisko, przy którym udzielamy informacji, edukujemy oraz rozdajemy ziarno i środki higieny osobistej. Fundacja ma zarejestrowaną zbiórkę publiczną (2024/3769/OR) a samo wydarzenie jest zarejestrowane w Urzędzie Miasta Krakowa.
