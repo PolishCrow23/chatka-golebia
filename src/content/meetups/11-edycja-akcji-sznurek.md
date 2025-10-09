@@ -12,8 +12,7 @@ Wydarzenie zyskuje coraz większą popularność. TVP Kraków wyemitowało nawet
 Warto zaznaczyć, że ta jest trudna —  gołębie były bardzo wygłodzone, rozrzuciliśmy łącznie aż **50 kg ziarna,** **z czego ok. 35 na samym rynku**, resztą dokarmiliśmy gołębie w jego okolicy. 
 
 **W klinice „Salamandra” usunęliśmy 11 sznurków** i wszystkie gołębie wróciły na wolność, 
-**do Centrum Hodowlanego pojechało 12 gołębi**, \
-co daje nam wynik **23 uratowanych ptaków**!
+**do Centrum Hodowlanego pojechało 12 gołębi**, co daje nam wynik **23 uratowanych ptaków**!
 
 Serdecznie dziękujemy Wam za udział oraz poświęcony czas i energię. Wolontariuszom za pomoc przy lekkich przypadkach oraz edukację, a także Klinice Weterynaryjnej „Salamandra” za pełen profesjonalizm. Gorąco zachęcamy do wzięcia udziału w kolejnych edycjach naszej akcji! Następna rusza już
 
