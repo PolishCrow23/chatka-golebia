@@ -6,20 +6,8 @@ description: Witamy jesień podsumowaniem jedenastej edycji Akcji Sznurek!
   Zobacz, co udało się nam osiągnąć.
 ---
 Jak zwykle spotkaliśmy się o godzinie dwunastej obok fontanny na Rynku Głównym w Krakowie.\
-Dla osób które jeszcze nie uczestniczyły w naszej akcji — Podczas niej udzielamy pomocy gołębiom miejskim, które mają zaplątane na nóżkach sznurki, usuwamy je
- wydarzenia jest Fundacja Chatka Gołębia. Akcja Sznurek polega na 
-udzielaniu pomocy gołębiom miejskim. W trakcie akcji odławiamy gołębie, 
-które mają na nogach zaplątane sznurki oraz takie, które wykazują objawy
- chorobowe. Przedstawiciele fundacji dokonują wstępnej oceny stanu 
-zdrowia gołębia.  W przypadku łatwego do zdjęcia sznurka, jest on 
-usuwany na miejscu i jeżeli gołąb nie wykazuje innych objawów 
-chorobowych jest wypuszczany. Gołębie z wrośniętymi w nogi sznurkami, 
-których usunięcie na miejscu byłoby ryzykowne dla ich zdrowia, są 
-zabezpieczane do transporterów. Gołębie wykazujące objawy chorobowe 
-również zabezpieczane są w transporterach. Bezpośrednio po akcji, 
-wszystkie gołębie przewożone są do Kliniki Weterynaryjnej „Salamandra”, 
-gdzie uzyskują pomoc weterynarzy specjalizujących się w leczeniu gołębi.
- Koszty leczenie i rehabilitacji pokrywa Fundacja Chatka Gołębia.
+Dla osób które jeszcze nie uczestniczyły w naszej akcji — Podczas niej udzielamy pomocy gołębiom miejskim, które mają zaplątane na nóżkach sznurki, usuwamy je, odławiamy osobniki, które wymagają pomocy weterynaryjnej są zabezpieczane i przewożone bezpośrednio po akcji do Kliniki Weterynaryjnej „Salamandra”.
+
 W
  trakcie akcji na naszym stoisku można złożyć darowiznę na rzecz 
 fundacji. Fundacja ma zarejestrowaną zbiórkę publiczną. (2024/3769/OR )
