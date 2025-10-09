@@ -6,7 +6,7 @@ description: Witamy jesień podsumowaniem jedenastej edycji Akcji Sznurek!
   Zobacz, co udało się nam osiągnąć.
 ---
 Jak zwykle spotkaliśmy się o godzinie dwunastej obok fontanny na Rynku Głównym w Krakowie.\
-
+Podczas akcji pomagamy gołębiom, które mają zaplątane na nóżkach sznurki, usuwamy je
 Dla osób które jeszcze nie uczestniczyły w naszej akcji podajemy garść podstawowych informacji.
 Organizatorem
  wydarzenia jest Fundacja Chatka Gołębia. Akcja Sznurek polega na 
