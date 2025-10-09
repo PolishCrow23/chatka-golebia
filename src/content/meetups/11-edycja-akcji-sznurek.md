@@ -9,7 +9,7 @@ Jak zwykle spotkaliśmy się o godzinie 12:00 obok fontanny na Rynku Głównym w
 
 Wydarzenie zyskuje coraz większą popularność. TVP Kraków wyemitowało nawet materiał zapowiadający naszą październikową akcję, można zobaczyć go na naszym [facebooku](https://www.facebook.com/share/v/1BYdkQc44R/). Materiał w zwięzły sposób przedstawia sytuację krakowskich gołębi, oraz podkreśla, jak ważna jest empatia wobec zwierząt. 
 
-Warto zaznaczyć, że ich sytuacja jest trudna — podczas tej edycji gołębie były wyjątkowo wygłodzone, rozrzuciliśmy łącznie aż **50 kg ziarna,** **z czego ok. 35 na samym rynku**, resztą dokarmiliśmy gołębie w jego okolicy. 
+Warto zaznaczyć, że ta jest trudna — podczas tej edycji gołębie były wyjątkowo wygłodzone, rozrzuciliśmy łącznie aż **50 kg ziarna,** **z czego ok. 35 na samym rynku**, resztą dokarmiliśmy gołębie w jego okolicy. 
 
 **W klinice „Salamandra” usunęliśmy 11 sznurków** i wszystkie gołębie wróciły na wolność, 
 **do Centrum Hodowlanego pojechało 12 gołębi**, co daje nam wynik **23 wyleczonych gołębi**!
