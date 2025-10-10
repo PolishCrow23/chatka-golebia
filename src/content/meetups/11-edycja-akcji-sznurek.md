@@ -3,7 +3,7 @@ title: 11. Edycja Akcji Sznurek - Kraków, 04.10.2025
 pubDate: 10.09.2025
 image: /images/image-673327102055950-1-.jpg
 description: Witamy jesień podsumowaniem jedenastej edycji Akcji Sznurek!
-  Zobacz, ilu gołębiom wspólnie pomogliśmy.
+  Zobacz, ilu gołębiom pomogliśmy.
 ---
 Jak zwykle spotkaliśmy się o godzinie 12:00 obok fontanny na Rynku Głównym w Krakowie. Dokarmialiśmy, pomagaliśmy oraz edukowaliśmy. Czas na podsumowanie naszych działań. Mamy dla was garść dobrych wiadomości!
 
