@@ -5,7 +5,7 @@ image: /images/image-673327102055950-1-.jpg
 description: Witamy jesień podsumowaniem jedenastej edycji Akcji Sznurek!
   Zobacz, ilu gołębiom pomogliśmy.
 ---
-Jak zwykle spotkaliśmy się o godzinie 12:00 obok fontanny na Rynku Głównym w Krakowie. Dokarmialiśmy, pomagaliśmy oraz edukowaliśmy. Czas na podsumowanie naszych działań. Mamy dla was garść dobrych wiadomości!
+Jak zwykle spotkaliśmy się o godzinie 12:00 obok fontanny na Rynku Głównym w Krakowie. Czas na podsumowanie naszych działań. Mamy dla was garść dobrych wiadomości!
 
 Wydarzenie zyskuje coraz większą popularność. TVP Kraków wyemitowało nawet materiał zapowiadający październikową akcję, można zobaczyć go na naszym [facebooku](https://www.facebook.com/share/v/1BYdkQc44R/). Materiał podkreśla, jak ważna jest empatia wobec zwierząt oraz w zwięzły sposób przedstawia sytuację krakowskich gołębi. 
 
@@ -15,8 +15,6 @@ Warto zaznaczyć, że ta jest trudna —  gołębie były bardzo wygłodzone, ro
 **do Centrum Hodowlanego pojechało 12 gołębi**, co daje nam wynik **23 uratowanych ptaków**!
 
 Serdecznie dziękujemy Wam za udział oraz poświęcony czas i energię. Wolontariuszom za pomoc przy lekkich przypadkach oraz edukację, a także Klinice Weterynaryjnej „Salamandra” za pełen profesjonalizm. Gorąco zachęcamy do wzięcia udziału w kolejnych edycjach naszej akcji! Następna rusza już
-
-
 
 Dla osób, które jeszcze nie miały okazji uczestniczyć w Akcji Sznurek — \
 W jej trakcie udzielamy pomocy gołębiom miejskim, które mają zaplątane na nóżkach sznurki lub włosy. W zależności od stanu zdrowia gołębia możemy usunąć je na miejscu lub zabezpieczyć do transporterów. Odławiamy też chore osobniki, które wymagają pomocy, są one przewożone do Kliniki Weterynaryjnej „Salamandra” bezpośrednio po akcji. Mamy również stoisko, przy którym udzielamy informacji, edukujemy oraz rozdajemy ziarno i środki higieny osobistej. Fundacja ma zarejestrowaną zbiórkę publiczną (2024/3769/OR) a samo wydarzenie jest zarejestrowane w Urzędzie Miasta Krakowa.
