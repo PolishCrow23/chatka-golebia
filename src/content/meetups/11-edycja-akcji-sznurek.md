@@ -21,8 +21,8 @@ W jej trakcie udzielamy pomocy gołębiom miejskim, które mają zaplątane na n
 
 Nasze social media: 
 [Facebook](https://www.facebook.com/chatkagolebia) 
-[Instagram](<>)
-[Youtube](<>)
+[Instagram](https://www.instagram.com/chatka_golebia/)
+[Youtube](https://www.youtube.com/@FundacjaChatkaGolebia)
 
 \
 Autor zdjęć: Jakub Jas
