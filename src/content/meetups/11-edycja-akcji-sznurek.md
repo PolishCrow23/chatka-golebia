@@ -14,7 +14,7 @@ Warto zaznaczyć, że ta jest trudna —  gołębie były wyjątkowo wygłodzone
 **W klinice „Salamandra” usunięto 11 sznurków** i wszystkie gołębie wróciły na wolność, 
 **do Centrum Hodowlanego pojechało 12 gołębi**, co daje nam wynik **23 uratowanych ptaków**!
 
-Serdecznie dziękujemy Wam za udział oraz poświęcony czas i energię. Wolontariuszom za pomoc przy lekkich przypadkach oraz edukację. [Aktywistom z "W imię Zwierząt" za wsparcie](https://www.facebook.com/reel/24472734785762431) a także Klinice Weterynaryjnej „Salamandra” za pełen profesjonalizm. Gorąco zachęcamy do wzięcia udziału w kolejnych edycjach naszej akcji, nie przegap i zaobserwuj naszego facebooka.
+Serdecznie dziękujemy Wam za udział oraz poświęcony czas i energię. Wolontariuszom za pomoc przy lekkich przypadkach oraz edukację. [Aktywistom z "W imię Zwierząt" za wsparcie](https://www.facebook.com/reel/24472734785762431) a także Klinice Weterynaryjnej „Salamandra” za pełen profesjonalizm. Gorąco zachęcamy do wzięcia udziału w kolejnych edycjach naszej akcji, nie przegap jej i zaobserwuj naszego facebooka.
 
 Dla osób, które jeszcze nie miały okazji uczestniczyć w Akcji Sznurek — \
 W jej trakcie udzielamy pomocy gołębiom miejskim, które mają zaplątane na nóżkach sznurki lub włosy. W zależności od stanu zdrowia gołębia możemy usunąć je na miejscu lub zabezpieczyć do transporterów. Odławiamy też chore osobniki, które wymagają pomocy, są one przewożone do Kliniki Weterynaryjnej „Salamandra” bezpośrednio po akcji. Mamy również stoisko, przy którym udzielamy informacji, edukujemy oraz rozdajemy ziarno i środki higieny osobistej. Fundacja ma zarejestrowaną zbiórkę publiczną (2024/3769/OR) a samo wydarzenie jest zarejestrowane w Urzędzie Miasta Krakowa.
