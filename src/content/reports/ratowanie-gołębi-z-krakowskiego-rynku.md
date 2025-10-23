@@ -3,12 +3,11 @@ title: Ratowanie gołębi z krakowskiego Rynku
 pubDate: 10.23.2025
 author: Dariusz Grochal
 image: /images/received_794923593535751.jpeg
-description: Wczoraj rozpoczęła się akcja ratowania gołębi z krakowskiego Rynku
-  Głównego. Problem chorych ptaków w najbardziej reprezentacyjnym miejscu
-  Krakowa pojawił się już w sierpniu.
+description: Przeprowadziliśmy specjalną akcję ratowania gołębi z krakowskiego
+  Rynku Głównego
 photos: Jakub Jas
 ---
-Wczoraj rozpoczęła się akcja ratowania gołębi z krakowskiego Rynku Głównego. Problem chorych ptaków w najbardziej reprezentacyjnym miejscu Krakowa pojawił się już w sierpniu. Podczas sierpniowej edycji Akcji Sznurek odłowiliśmy ponad 20 chorych gołębi – to znaczny wzrost w porównaniu z wcześniejszymi edycjami. Liczba chorych ptaków rosła w zatrważającym tempie, a ORDZ Salamandra momentami pękał w szwach. Wtedy zrodził się pomysł, że musimy zainterweniować bardziej zdecydowanie. 
+W środę, 22 października rozpoczęła się akcja ratowania gołębi z krakowskiego Rynku Głównego. Problem chorych ptaków w najbardziej reprezentacyjnym miejscu Krakowa pojawił się już w sierpniu. Podczas sierpniowej edycji Akcji Sznurek odłowiliśmy ponad 20 chorych gołębi – to znaczny wzrost w porównaniu z wcześniejszymi edycjami. Liczba chorych ptaków rosła w zatrważającym tempie, a ORDZ Salamandra momentami pękał w szwach. Wtedy zrodził się pomysł, że musimy zainterweniować bardziej zdecydowanie. 
 
 Konieczne było przerwanie łańcucha zakażeń wśród ptaków. Jedynym sposobem, by to zrobić, było odłowienie wszystkich chorych jednego dnia i systematyczne powtarzanie akcji. Niestety takie działania przekraczały możliwości Fundacji Chatka Gołębi oraz Fundacji Dzikusy Salamandry. Byliśmy gotowi zmobilizować naszych wolontariuszy, odłowić gołębie i bezpiecznie dostarczyć je do przychodni. Lekarze z Salamandry również zadeklarowali gotowość do leczenia i rehabilitacji ptaków, jednak tak duża liczba pacjentów przekraczała ich możliwości finansowe. 
 
@@ -34,4 +33,10 @@ I last but not least – ogromne podziękowania należą się Kasi, Kubie, Maćk
 
 ![](/images/received_1316841633553692.jpeg)
 
-![]()
+![](/images/received_1907358279994225.jpeg)
+
+![](/images/received_2327255384392169.jpeg)
+
+![](/images/received_1139403484968602.jpeg)
+
+![](/images/received_1526553708489914.jpeg)
