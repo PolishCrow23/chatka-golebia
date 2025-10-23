@@ -31,8 +31,6 @@ Serdecznie dziękujemy także wszystkim mieszkańcom Krakowa, którzy włączyli
 
 I last but not least – ogromne podziękowania należą się Kasi, Kubie, Maćkowi i Konradowi. Jesteście wspaniałą ekipą! Bez Was nie udałoby się zorganizować odłowu i transportu tak sprawnie!
 
-Zdjęcia: Jakub Jas
-
 ![](/images/received_1316841633553692.jpeg)
 
 ![](/images/received_1907358279994225.jpeg)
