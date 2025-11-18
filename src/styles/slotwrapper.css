@@ -64,6 +64,73 @@
   margin-block: 10px;
 }
 
+.warning {
+  display: block;
+  border-radius: 36px;
+  background: white;
+  padding: var(--spacing-lg) var(--spacing-xl) var(--spacing-lg)
+  100px;
+  margin-block: var(--spacing-xl);
+  position: relative;
+
+  /*Font*/
+  font-family: "Poppins";
+  font-size: 1.8rem;
+  line-height: 1.8;
+  text-align: justify;
+  color: var(--black);
+
+  /*Borders - (Optional)*/
+  border-left: 12px solid var(--peach);
+  /* border-right: 5px solid #c76c0c; */
+
+  /*Box Shadow - (Optional)*/
+  -moz-box-shadow: 2px 2px 15px #ccc;
+  -webkit-box-shadow: 2px 2px 15px #ccc;
+  box-shadow: 2px 2px 15px #ccc;
+}
+
+.warning::before {
+  content: "";
+  display: inline-block;
+  width: 80px;
+  height: 80px;
+  background: url('../../public/images/meta/warning.png') no-repeat center center;
+  background-size: contain;
+
+  /*Font*/
+  font-family: Georgia, serif;
+  font-size: 60px;
+  font-weight: bold;
+  color: #20150c;
+
+  /*Positioning*/
+  position: absolute;
+  left: 10px;
+  top: 20px;
+}
+
+.warning::after {
+  /*Reset to make sure*/
+  content: "";
+}
+
+.warning a {
+  text-decoration: none;
+  background: #eee;
+  cursor: pointer;
+  padding: 0 3px;
+  color: #c76c0c;
+}
+
+.warning a:hover {
+  color: #666;
+}
+
+.warning em {
+  font-style: italic;
+}
+
 blockquote {
   display: block;
   border-radius: 36px;
