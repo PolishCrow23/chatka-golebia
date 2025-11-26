@@ -1,12 +1,10 @@
 ---
 title: Dość tych kłamstw!
 pubDate: 08.25.2024
-author: "Dariusz Grochal "
+author: Dariusz Grochal
 image: /images/choroby-gołębi.png
-description: "Najpopularniejszym „argumentem” przeciwników gołębi miejskich jest
-  ten o rzekomo roznoszonych przez nie chorobach. "
-sources: BI.OI.0134.107.2024.
-photos: "Dariusz Grochal "
+description: Najpopularniejszym „argumentem” przeciwników gołębi miejskich jest ten o rzekomo roznoszonych przez nie chorobach."
+tag: Zdrowie
 ---
 
 Sprawdziliśmy, jaka jest prawda na temat chorób przenoszonych przez gołębie i jaka jest realna skala zagrożenia dla ludzi.
