@@ -2,20 +2,23 @@
     <div class="flex-container">
         <!-- <img class="background" src="/images/meta/feet-pattern.png"> -->
         <div class="flex-item flex-item-1">
-            <h1>Przygarnij <span>Gołębia</span> </br> Pod Swoje Skrzydła</h1>
+            <h1>Zostań Gołębim </br><span>Superbohaterem</span></h1>
             <p class="about">
-                Promujemy <a href="/adopcja">adopcję</a> gołębi udomowionych oraz gołębi dzikich, które przez swoją niepełnosprawność nie mogą wrócić na wolność. Jesteśmy organizatorami <a href="/kampanie/akcja-sznurek">Akcji Sznurek</a>, podczas której rozplątujemy łapki gołębi ze sznurków. Powołaliśmy kampanię <a href="https://www.facebook.com/profile.php?id=61550834258407">Zakaz Kolców</a>, która postuluje zakazanie montażu kolców w celu odstraszania ptaków. Działamy dzięki datkom oraz wsparciu wolontariuszy. Razem możemy więcej!
+                <a href="/adopcja">Adoptuj</a> gołębie potrzebujące opieki człowieka. Weź udział w <a href="/kampanie/akcja-sznurek">Akcji Sznurek</a>, podczas której rozplątujemy łapki gołębi ze sznurków.
             </p>
             
             <div class="button-container">
             <a class="button button-peach" href="https://www.facebook.com/groups/783765922151332">
-                DOŁĄCZ DO GRUPY
+                DOŁĄCZ DO NASZEJ GRUPY
+            </a>
+            <a class="button button-grass" href="https://patronite.pl/Chatka_Golebia">
+                ZOSTAŃ NASZYM PATRONEM
             </a>
             </div>
         </div>
         
         <div class="flex-item flex-item-2">
-                <img class="hero-img" src="/images/index/hero.svg" alt="Kobieta z adoptowanym gołębiem siedzącym na głowie.">
+                <img class="hero-img" src="/images/index/Maria-gołąb.jpg" alt="Kobieta ze złapanym gołębiem na Akcji Sznurek.">
         </div>
     </div>
     <!-- <div class="flex-container-2">
@@ -66,7 +69,7 @@
     }
 
     h1, span {
-        font-size: calc(1.8vw + 2.7rem);
+        font-size: calc(2vw + 3rem);
         font-family: 'Fraunces';
         margin-bottom: 0.5em;
     }
@@ -103,9 +106,9 @@
     }
 
     .about {
-        font-family: "Poppins";
-        font-size: 2rem;
-        font-weight: 300;
+        font-family: "Inter", sans-serif;
+        font-size: 2.2rem;
+        font-weight: 400;
         color: var(--dark-plum);
         text-align: left;
         line-height: 1.8;
@@ -114,17 +117,37 @@
     }
 
     .button-container {
+        display: flex;
+        flex-direction: row;
         text-align: center;
+        justify-content: center;
+        gap: 2rem;
     }
 
-    @media  (max-width: 900px) {
+    @media  (max-width: 468px) {
+        h1 {
+            margin-top: 1rem;
+            font-size: calc(0.8vw + 1.8rem);
+        }
+    }
+
+    @media  (max-width: 760px) {
         section {
             padding-inline: 2%;
+            background-image: none;
+        }
+
+        .about {
+            margin-bottom: 2rem;
+        }
+
+        .button-container {
+            flex-direction: column;
         }
 
         .flex-container {
             flex-direction: column;
-            gap: 5em;
+            gap: 4rem;
         }
 
         .flex-container-2 {
