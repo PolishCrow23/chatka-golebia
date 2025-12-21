@@ -76,6 +76,7 @@
   --light-lavender: #d0c0f3;
   --lilac: #e5dcf9;
   --peach: #ff9750;
+  --peach-medium: #ffbe92;
   --light-peach: #f6c49f;
   --grass: #bbdb9b;
   --cream: #fff3ea;
@@ -225,7 +226,7 @@ a:hover {
 .button-peach {
   border: 1.5px solid var(--peach);
   background-color: var(--peach);
-  color: var(--dark-plum) !important;
+  color: black !important;
   border: none;
   transition-duration: 0.3s;
 }
@@ -240,7 +241,7 @@ a:hover {
 .button-grass {
   border: 1.5px solid var(--lavender);
   background-color: var(--lavender);
-  color: var(--dark-plum) !important;
+  color: black !important;
   transition-duration: 0.3s;
 }
 

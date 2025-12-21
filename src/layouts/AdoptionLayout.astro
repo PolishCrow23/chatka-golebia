@@ -65,27 +65,8 @@ const otherAdoptions = adoptions.filter(adoption => adoption.slug !== slug);
             </section>
         </main>
             <div class="other-pigeons">
-                <div class="swiper">
-                    <!-- Additional required wrapper -->
-                    <div class="swiper-wrapper">
-                    <!-- Slides -->
-                    <div class="swiper">
-                        <div class="swiper-wrapper">
-                            <div class="swiper-slide">{adoptions.slice(0, 4).map((adoption) => <AdoptionCard adoption={adoption} />)}</div>
-                            <div class="swiper-slide">{adoptions.slice(0, 4).map((adoption) => <AdoptionCard adoption={adoption} />)}</div>
-                            <div class="swiper-slide">{adoptions.slice(0, 4).map((adoption) => <AdoptionCard adoption={adoption} />)}</div>
-                        </div>
-                    </div>
-        
-                    </div>
-                    <!-- If we need pagination -->
-                
-                    <!-- If we need navigation buttons -->
-                    <div class="swiper-button-prev button-prev"></div>
-
-                    <div class="swiper-button-next button-next"></div>
-                
-                    <!-- If we need scrollbar -->
+                <div class="adoptions-grid">
+                    {adoptions.slice(0, 8).map((adoption) => <AdoptionCard adoption={adoption} />)}
                 </div>
             </div>
             </section>
@@ -205,16 +186,13 @@ const otherAdoptions = adoptions.filter(adoption => adoption.slug !== slug);
         background-size: 1800px;
     }
 
-    .swiper-wrapper {
+    .adoptions-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+        gap: 2rem;
         margin-inline: auto;
         max-width: 1160px;
-    }
-
-    .swiper-slide {
-        display: flex;
-        flex-direction: row;
-        justify-content: space-around;
-        gap: 15px;
+        padding: 2rem;
     }
 
     .image-gallery {
@@ -224,9 +202,7 @@ const otherAdoptions = adoptions.filter(adoption => adoption.slug !== slug);
         
     }
 
-    .swiper-button-next, .swiper-button-prev {
-    color: var(--plum);
-}
+
 
     .image-gallery-container {
         display: flex;

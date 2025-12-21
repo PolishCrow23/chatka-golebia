@@ -17,7 +17,6 @@
     "@shoelace-style/shoelace": "^2.20.1",
     "astro": "^5.9.2",
     "lightgallery": "^2.8.3",
-    "swiper": "11.2.6",
     "typescript": "5.8.2"
   },
   "devDependencies": {

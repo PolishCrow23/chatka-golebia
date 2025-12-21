@@ -28,9 +28,8 @@ const interventions = (await getCollection("interventions"))
   const stories = (await getCollection("stories"))
   .sort((a, b) => a.data.pubDate.valueOf() - b.data.pubDate.valueOf());
 
-import "swiper/css";
-import "swiper/css/navigation";
 import OurStories from "../components/index/OurStories.astro";
+import FoundPigeon from "../components/index/FoundPigeon.astro";
 import Campaigns from "../components/index/Campaigns.astro";
 ---
 
@@ -41,14 +40,14 @@ import Campaigns from "../components/index/Campaigns.astro";
 	<body>
 		<PiwikPro />
 		<Header />
-		<Hero />
-		<News reports={reports} meetups={meetups} interventions={interventions} />
-		<BlogHighlight posts={posts} />
-		<OurStories stories={stories} />
+		<main>
+			<Hero />
+			<FoundPigeon />
+			<News reports={reports} meetups={meetups} interventions={interventions} />
+			<BlogHighlight posts={posts} />
+			<OurStories stories={stories} />
+		</main>
 		<Footer />
-		<script is:inline data-astro-rerun>
-			import "/src/lib/slider-simple.js";
-		</script>
 	</body>
 </html>
 
@@ -60,3 +59,11 @@ import Campaigns from "../components/index/Campaigns.astro";
 	// Load all components.
 	import '@shoelace-style/shoelace';
 </script>
+
+<style>
+	main {
+		background-color: var(--cream);
+		padding-bottom: 6rem;
+		padding: 0;
+	}
+</style>

@@ -1,6 +1,7 @@
 ---
 import type { CollectionEntry } from "astro:content";
 import Post from "./Post.astro";
+import SectionWrapper from "./SectionWrapper.astro";
 
 type Props = {
     meetups: CollectionEntry<"meetups">[];
@@ -12,154 +13,12 @@ const { meetups, reports, interventions } = Astro.props;
 const sortedPosts = [...reports, ...meetups, ...interventions].sort((a, b) =>
   new Date(b.data.pubDate).valueOf() - new Date(a.data.pubDate).valueOf()
 );
-
-import "swiper/css";
-import "swiper/css/navigation";
-import "../styles/swiper.scss"
 ---
 
-<section>
-    <div class="wrapper">
-        <div class="flex-container">
-            <h2>Aktualności</h2>
-        </div>
-
-        <div class="swiper">
-            <!-- Additional required wrapper -->
-            <div class="swiper-wrapper">
-            <!-- Slides -->
-            <div class="swiper news-swiper">
-                <div class="swiper-wrapper">
-                <div class="swiper-slide">{sortedPosts.slice(0, 3).map((post) => <Post item={post} />)}</div>
-                <div class="swiper-slide">{sortedPosts.slice(3, 6).map((post) => <Post item={post} />)}</div>
-                <div class="swiper-slide">{sortedPosts.slice(6, 9).map((post) => <Post item={post} />)}</div>
-                </div>
-            </div>
-
-            </div>
-            <!-- If we need pagination -->
-            <div class="swiper-pagination"></div>
-        
-            <!-- If we need navigation buttons -->
-            <div class="swiper-button-prev news-swiper-button-prev swiper-box-shadow"></div>
-            <div class="swiper-button-next news-swiper-button-next swiper-box-shadow"></div>
-        
-            <!-- If we need scrollbar -->
-
-        </div>
-        <a href="/aktualnosci" class="show-more">Pokaż wszystkie aktualności 
-        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24"><g fill="none"><path d="M24 0v24H0V0zM12.593 23.258l-.011.002l-.071.035l-.02.004l-.014-.004l-.071-.035q-.016-.005-.024.005l-.004.01l-.017.428l.005.02l.01.013l.104.074l.015.004l.012-.004l.104-.074l.012-.016l.004-.017l-.017-.427q-.004-.016-.017-.018m.265-.113l-.013.002l-.185.093l-.01.01l-.003.011l.018.43l.005.012l.008.007l.201.093q.019.005.029-.008l.004-.014l-.034-.614q-.005-.019-.02-.022m-.715.002a.02.02 0 0 0-.027.006l-.006.014l-.034.614q.001.018.017.024l.015-.002l.201-.093l.01-.008l.004-.011l.017-.43l-.003-.012l-.01-.01z"/><path fill="currentColor" d="m15.06 5.283l5.657 5.657a1.5 1.5 0 0 1 0 2.12l-5.656 5.658a1.5 1.5 0 0 1-2.122-2.122l3.096-3.096H4.5a1.5 1.5 0 0 1 0-3h11.535L12.94 7.404a1.5 1.5 0 0 1 2.122-2.121Z"/></g></svg>
-    </a>
-      <div>
-</section>
-
-
-
-<style>
-    .show-more {
-        font-family: 'Ubuntu Condensed';
-        font-size: 2rem;
-        font-weight: 600;
-        color: var(--plum);
-        display: flex;
-        justify-content: flex-end;
-        align-items: center;
-        gap: var(--spacing-xxs);
-        padding-right: var(--spacing-5xl);
-    }
-
-    .wrapper {
-        max-width: 1920px;
-        margin-inline: auto;
-    }
-
-    section { 
-        padding-inline: 2%;
-        background-color: var(--cream);
-        padding-block: var(--spacing-xl) var(--spacing-4xl);
-        background-repeat: no-repeat;
-    }
-
-    .swiper-slide {
-        display: flex;
-        justify-content: space-around;
-        flex-wrap: wrap;
-        gap: 5em;
-        padding-bottom: 4rem;
-    }
-
-    .bk {
-        background-image: url('/images/index/blog-highlight.svg');
-        background-size: stretch;
-        background-size: 1800px;
-        padding-bottom: 30em;
-        position: relative;
-
-    }
-
-    .swiper {
-        max-width: 1600px;
-        margin-inline: auto;
-    }
-
-    .swiper-wrapper {
-        margin-inline: auto;
-        max-width: 1500px;
-    }
-
-    .flex-container {
-        display: flex;
-        align-items: center;
-        gap: 1em;
-    }
-
-    h2 {
-        font-family: "Ubuntu Condensed";
-        font-size: 5rem;
-        color: var(--plum);
-        display: block;
-        padding-left: 24rem;
-        padding-bottom: 4rem;
-    }
-
-    h3 {
-        font-size: 2rem;
-    }
-
-    .older {
-        font-size: 2.1rem;
-        font-weight: 700;
-        display: flex;
-        color: var(--plum);
-        justify-content: flex-end;
-        font-family: "Ubuntu Condensed";
-    }
-
-      
-    @media  (max-width: 758px) { 
-        .cards-container {
-            justify-content: center;
-        }
-        h2 {
-            padding-left: 0;
-        }
-    }
-
-    @media  (max-width: 900px) {
-        .container {
-            padding-inline: 2%;
-        }
-        h2 {
-            left: 20px;
-            
-        }
-
-    @media (max-width: 468px) {
-        h2 {}
-    }
-    }
-
-</style>
-<script>
-    import "/src/lib/slider-simple.js";
-</script>
+<SectionWrapper 
+    title="Aktualności"
+    showMoreText="Pokaż wszystkie aktualności"
+    showMoreHref="/aktualnosci"
+>
+    {sortedPosts.slice(0, 3).map((post) => <Post item={post} />)}
+</SectionWrapper>
