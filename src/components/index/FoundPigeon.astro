@@ -1,0 +1,107 @@
+---
+import SectionWrapper from "../SectionWrapper.astro";
+---
+
+<SectionWrapper 
+    title="Znalazłeś/aś gołębia?"
+    maxWidth="1500px"
+>
+    <div>
+        <h3>Jeśli widzisz którykolwiek z tych sygnałów, gołąb może potrzebować pomocy:</h4>
+        <div class="card-content">
+            <ol>
+                <li>Siedzi bez ruchu na ziemi</li>
+                <li>Ma przymknięte oczy</li>
+                <li>Ma owinięte wokół łapek sznurki</li>
+                <li>Opada mu skrzydło</li>
+                <li>Jest bardzo młody (pisklę lub podlot)</li>
+                <li>Jest gołębiem domowym (np. ozdobny, z obrączką)</li>
+            </ol>
+        </div>
+        <a class="button button-grass" href="/znalazlem-golebia">
+            DOWIEDZ SIĘ JAK POMÓC GOŁĘBIOWI
+        </a>
+    </div>
+</SectionWrapper>
+
+<style>
+    /* Mobile-first styles */
+    div {
+        background-color: var(--peach-medium);
+        border-radius: 16px;
+        padding: 16px;
+    }
+
+    ol {
+        padding: 0;
+        padding-inline: 1rem;
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 0.5rem;
+        list-style: none;
+        counter-reset: list-counter;
+    }
+
+    li {
+        font-family: "Inter", sans-serif;
+        font-weight: 400;
+        line-height: 1.6;
+        font-size: 1.8rem;
+        margin-block: 0.3em;
+        counter-increment: list-counter;
+        position: relative;
+        padding-left: 1.8rem;
+    }
+
+    li::before {
+        content: counter(list-counter) ".";
+        position: absolute;
+        left: 0;
+        font-weight: 600;
+        color: var(--plum);
+    }
+
+    h3 {
+        font-size: 2.2rem;
+        margin-bottom: 1rem;
+    }
+
+    .button {
+        display: block;
+        margin: 2rem auto 0;
+        width: fit-content;
+        text-align: center;
+    }
+
+    /* Tablet and up (768px+) */
+    @media (min-width: 768px) {
+        div {
+            border-radius: 24px;
+            padding: 24px;
+        }
+
+        ol {
+            padding-inline: 1.8rem;
+            grid-template-columns: 1fr 1fr;
+            gap: 0.5rem 2rem;
+        }
+
+        li {
+            font-size: 2rem;
+            margin-block: 0.4em;
+            padding-left: 2rem;
+        }
+
+        h3 {
+            font-size: 2.6rem;
+            margin-bottom: 1.5rem;
+        }
+    }
+
+    /* Desktop (1024px+) */
+    @media (min-width: 1024px) {
+        div {
+            padding: 32px 24px;
+        }
+    }
+</style>
