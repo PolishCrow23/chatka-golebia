@@ -103,7 +103,8 @@ const foundationPigeonsCollection = defineCollection({
     personality: z.string().optional(),
     personality_traits: z.array(z.string()).optional(),
     likes: z.array(z.string()).optional(),
-    dislikes: z.array(z.string()).optional()
+    dislikes: z.array(z.string()).optional(),
+    in_relationship: z.string().optional()
   }),
 });
 

@@ -11,6 +11,7 @@ sideImage2: "/images/birds/Siwa/Siwa3.jpg"
 personality_traits: ["Ciekawska"]
 likes: ["Siedzenie na głowie", "Słonecznik", "Goście"]
 dislikes: ["Samotność"]
+in_relationship: "Herman"
 ---
 
 Siwa jest żoną Hermana.
