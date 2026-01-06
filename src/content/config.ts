@@ -98,7 +98,7 @@ const foundationPigeonsCollection = defineCollection({
     sideImage4: z.string().optional(),
     sideImage5: z.string().optional(),
     sideImage6: z.string().optional(),
-    description: z.string(),
+    description: z.string().optional(),
     special_needs: z.string().optional(),
     personality: z.string().optional(),
     personality_traits: z.array(z.string()).optional(),
