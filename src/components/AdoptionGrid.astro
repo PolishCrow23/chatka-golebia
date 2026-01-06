@@ -1,0 +1,37 @@
+---
+import { getCollection } from "astro:content";
+import AdoptionCard from "./AdoptionCard.astro";
+
+// Get both collections
+const adoptions = await getCollection("adoptions");
+const foundationPigeons = await getCollection("foundationPigeons");
+
+// Combine and sort by date (foundation pigeons by arrival_date, adoptions don't have dates so we'll put them first)
+const allBirds = [
+    ...adoptions.map(bird => ({ ...bird, sortDate: new Date(0) })), // Default old date for adoptions
+    ...foundationPigeons.map(bird => ({ ...bird, sortDate: bird.data.arrival_date }))
+].sort((a, b) => b.sortDate.getTime() - a.sortDate.getTime());
+---
+
+<div class="adoption-grid">
+    {allBirds.map((bird) => (
+        <AdoptionCard bird={bird} />
+    ))}
+</div>
+
+<style>
+    .adoption-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+        gap: 3rem;
+        padding: 2rem 0;
+    }
+
+    @media (max-width: 768px) {
+        .adoption-grid {
+            grid-template-columns: 1fr;
+            gap: 2rem;
+            padding: 1rem 0;
+        }
+    }
+</style>

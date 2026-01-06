@@ -1,123 +1,410 @@
 ---
-const { adoption } = Astro.props
+import type { CollectionEntry } from "astro:content";
+
+/*
+Usage Examples:
+
+1. For regular adoption birds:
+```astro
+
+import { getCollection } from "astro:content";
+import AdoptionCard from "./AdoptionCard.astro";
+
+const adoptions = await getCollection("adoptions");
+
+{adoptions.map(bird => <AdoptionCard bird={bird} />)}
+```
+
+2. For foundation pigeons:
+```astro
+
+import { getCollection } from "astro:content";
+import AdoptionCard from "./AdoptionCard.astro";
+
+const foundationPigeons = await getCollection("foundationPigeons");
+
+{foundationPigeons.map(bird => <AdoptionCard bird={bird} />)}
+```
+
+3. For mixed display (see AdoptionGrid.astro for full example)
+*/
+
+type AdoptionBird = CollectionEntry<"adoptions">;
+type FoundationBird = {
+    slug: string;
+    data: {
+        pigeon_name: string;
+        species: string;
+        breed: string;
+        gender: string;
+        birthday: Date;
+        status: string;
+        arrival_date: Date;
+        pubImage: string;
+        sideImage1?: string;
+        sideImage2?: string;
+        sideImage3?: string;
+        sideImage4?: string;
+        description: string;
+        special_needs?: string;
+        personality?: string;
+    };
+};
+
+type Props = {
+    bird: AdoptionBird | FoundationBird;
+}
+
+const { bird } = Astro.props;
+
+// Type guard to check if it's a foundation pigeon
+const isFoundationPigeon = (bird: AdoptionBird | FoundationBird): bird is FoundationBird => {
+    return bird?.data && 'status' in bird.data && 'arrival_date' in bird.data;
+};
+
+// Calculate age from birthday for foundation pigeons
+function calculateAge(birthday: Date) {
+    if (!birthday) return null;
+    
+    const birthDate = new Date(birthday);
+    const today = new Date();
+    
+    const ageInMs = today - birthDate;
+    const ageInDays = Math.floor(ageInMs / (1000 * 60 * 60 * 24));
+    const ageInMonths = Math.floor(ageInDays / 30.44);
+    const ageInYears = Math.floor(ageInDays / 365.25);
+    
+    if (ageInYears >= 1) {
+        return {
+            value: ageInYears,
+            unit: ageInYears === 1 ? 'rok' : ageInYears < 5 ? 'lata' : 'lat'
+        };
+    } else {
+        return {
+            value: ageInMonths,
+            unit: ageInMonths === 1 ? 'miesiąc' : ageInMonths < 5 ? 'miesiące' : 'miesięcy'
+        };
+    }
+}
+
+// Extract common fields with safety checks and defaults
+const { 
+    pigeon_name = 'Unknown', 
+    species = 'Unknown', 
+    breed, 
+    gender = 'Unknown', 
+    pubImage = '/images/placeholder.jpg' 
+} = bird?.data || {};
+
+// Handle age calculation
+let ageDisplay = '';
+if (isFoundationPigeon(bird) && bird.data.birthday) {
+    const ageInfo = calculateAge(bird.data.birthday);
+    ageDisplay = ageInfo ? `${ageInfo.value} ${ageInfo.unit}` : 'Nieznany';
+} else if (!isFoundationPigeon(bird) && bird.data.age) {
+    const age = bird.data.age;
+    ageDisplay = `${age} ${age === 1 ? 'rok' : age < 5 ? 'lata' : 'lat'}`;
+}
+
+// Get type-specific fields with safety checks
+const description = (isFoundationPigeon(bird) && bird.data.description) ? bird.data.description : '';
+const status = (isFoundationPigeon(bird) && bird.data.status) ? bird.data.status : 'available';
+const special_needs = (isFoundationPigeon(bird) && bird.data.special_needs) ? bird.data.special_needs : undefined;
+const personality = (isFoundationPigeon(bird) && bird.data.personality) ? bird.data.personality : undefined;
+
+// Determine the link path and badge text based on collection type
+const linkPath = isFoundationPigeon(bird) ? `/golebie-z-chatki/${bird?.slug || 'unknown'}` : `/golebie-do-adopcji/${bird?.slug || 'unknown'}`;
+const badgeText = isFoundationPigeon(bird) ? 'Fundacja' : 'Adopcja';
+
+// Status badge text
+const statusText = status === 'available' ? 'Dostępny' : 
+                  status === 'adopted' ? 'Adoptowany' : 
+                  status === 'in_care' ? 'W opiece' :
+                  status === 'W Chatce' ? 'W Chatce' :
+                  status === 'W opiece' ? 'W opiece' :
+                  status; // Use the actual status value as fallback
+
+// Truncate description for card display
+const truncateWords = (str: string, wordLimit: number) => {
+    const words = str?.split(' ');
+    if (words) {
+        return words.length > wordLimit
+            ? words?.slice(0, wordLimit).join(' ') + '...'
+            : str;
+    }
+    return str;
+};
+
+// Get description from markdown content for foundation pigeons
+const getMarkdownContent = async (bird: any) => {
+    if (isFoundationPigeon(bird)) {
+        try {
+            const { Content } = await bird.render();
+            // For now, we'll use a simple approach - you might want to render and extract text
+            // Since we can't easily extract rendered text in Astro components, we'll use the body content
+            return bird.body || '';
+        } catch {
+            return '';
+        }
+    }
+    return '';
+};
+
+// Extract first 10 words from markdown content
+const extractFirstWords = (content: string, wordLimit: number) => {
+    if (!content) return '';
+    
+    // Remove markdown syntax and get plain text
+    const plainText = content
+        .replace(/---[\s\S]*?---/, '') // Remove frontmatter
+        .replace(/[#*_`\[\]()]/g, '') // Remove basic markdown syntax
+        .replace(/\n+/g, ' ') // Replace newlines with spaces
+        .trim();
+    
+    const words = plainText.split(/\s+/).filter(word => word.length > 0);
+    return words.length > wordLimit
+        ? words.slice(0, wordLimit).join(' ') + '...'
+        : plainText;
+};
+
+// Get the actual description
+let cardDescription = '';
+if (isFoundationPigeon(bird)) {
+    // Extract from markdown content instead of frontmatter description
+    const markdownContent = bird.body || '';
+    cardDescription = extractFirstWords(markdownContent, 10);
+    
+    // Fallback if no content
+    if (!cardDescription) {
+        cardDescription = `${breed || species} ${ageDisplay ? `w wieku ${ageDisplay}` : ''}`;
+    }
+} else {
+    // For regular adoption birds, use the description field or fallback
+    cardDescription = description ? truncateWords(description, 10) : `${breed || species} ${ageDisplay ? `w wieku ${ageDisplay}` : ''}`;
+}
+
+const truncatedDescription = cardDescription;
 ---
 
-<div class="card">
-    <a href={`/golebie-do-adopcji/${adoption.slug}`}>
-        <img 
-            src={adoption.data.pubImage}
-            alt={adoption.data.pigeon_name}
-        />
-    </a>
-    <div class="title-adoption">
-        <a href={`/golebie-do-adopcji/${adoption.slug}`}>
-            <h2 class="title">
-                {adoption.data.pigeon_name}
-            </h2>
-        </a>
-        <h3>
-            {adoption.data.species}
-        </h3>
-        <h3>
-            {adoption.data.gender}
-        </h2>
-    </div>
-    <p>{adoption.data.description}</p>
-    <!-- <a class="show-more" href={`/gołębie-do-adopcji/${adoption.slug}`}>
-        czytaj więcej...
-    </a> -->
-</div>
+<a href={linkPath}>
+    <sl-card class="adoption-card">
+        <div slot="header">
+            <div class="image-wrapper">
+                <img
+                    slot="image"
+                    src={pubImage}
+                    alt={pigeon_name}
+                    height={320}
+                />
+            </div>
+            <div class="badge-status-wrapper">
+                <h2 class="pigeon-name">{pigeon_name}</h2>
+
+                {isFoundationPigeon(bird) && (
+                    <sl-badge>
+                        {statusText}
+                    </sl-badge>
+                )}
+            </div>
+        </div>
+        
+        <div class="details">
+            <div class="detail-item">
+                <strong>Gatunek:</strong> {species}
+            </div>
+            {breed && breed !== 'Gołąb domowy' && breed !== 'Unknown' && breed.trim() !== '' && (
+                <div class="detail-item">
+                    <strong>Rasa:</strong> {breed}
+                </div>
+            )}
+            <div class="detail-item">
+                <strong>Płeć:</strong> {gender}{gender === 'samiec' ? ' ♂️' : gender === 'samica' ? ' ♀️' : ''}
+            </div>
+            {ageDisplay && (
+                <div class="detail-item">
+                    <strong>Wiek:</strong> {ageDisplay}
+                </div>
+            )}
+        </div>
+
+        <p class="description">{truncatedDescription}</p>
+
+        <div slot="footer">
+            <div class="info-wrapper">
+                {/* Footer content can be added here if needed */}
+            </div>
+            <sl-button variant="primary" size="large" pill>Zobacz więcej</sl-button>
+        </div>
+    </sl-card>
+</a>
 
 <style>
-    
-    .card {
+    sl-card {
+        --border-radius: 16px;
+        transition: all 0.3s ease;
+    }
+
+    sl-card::part(base) {
+        justify-content: space-between;
+        height: 600px;
+        transition: all 0.3s ease;
+        border: none;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    sl-card:hover::part(base) {
+        box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+    }
+
+    sl-card::part(body) {
+        padding-block: 0 1rem;
+        padding-inline: 2rem;
+    }
+
+    sl-card::part(footer) {
+        padding-block: 1rem;
+    }
+
+    sl-card::part(image) {
+        padding: 1rem;
+    }
+
+    sl-badge::part(base) {
+        color: var(--peach);
+        font-weight: bold;
+        background-color: #ffe6dd;
+        border-radius: 16px;
+        padding: 1rem;
+    }
+
+    .adoption-card {
+        max-width: 430px;
+    }
+
+    .adoption-card small {
+        color: var(--sl-color-neutral-500);
+    }
+
+    .adoption-card [slot='footer'] {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    sl-card::part(header) {
+        border-bottom: none;
+        padding: 0;
+    }
+
+    .adoption-card [slot='header'] {
         display: flex;
         flex-direction: column;
-        gap: 1em;
-        max-width: 272px;
-        width: 100%;
-        height: 334px;
-        padding: 10px;
-        border-radius: 20px;
-        background-color: #ffffff;
-        box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
-        transition-duration: 0.5s;
-    }
-
-    .card:hover {
-        transform-origin: top;
-        transition-duration: 0.5s;
-        box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
-    }
-
-    .title-adoption {
-        display: grid;
-        grid-template-columns: 1fr;
-        gap: 0.5em;
         justify-content: space-between;
-        justify-items: center;
+        gap: 0.5rem;
     }
 
-    .title {
+    sl-button::part(base) {
+        padding: 0.1rem;
+        background-color: var(--peach);
+        border: none;
+        border-radius: 16px;
+        font-size: 14px;
+    }
+
+    sl-button::part(base):hover {
+        background-color: var(--lavender);
+    }
+
+    .date-container {
+        display: flex;
+        align-items: center;
+        gap: 0.8rem;
+    }
+
+    .image-wrapper {
+        padding: 0.8rem;
+    }
+
+    .image-wrapper img {
+        border-radius: 8px;
+        object-fit: cover;
+        aspect-ratio: 4/3;
+    }
+
+    @media (max-width: 458px) {
+        .adoption-card [slot='header'] {
+            gap: 0.5rem;
+        }
+    }
+
+    /* Additional styles for adoption-specific content */
+    .badge-status-wrapper {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding-inline: 2rem;
+    }
+
+    .pigeon-name {
         color: var(--plum);
         font-family: "Ubuntu Condensed";
         font-weight: 700;
-        font-size: 2.4rem;
-        text-align: left;
-        
+        font-size: 2rem;
     }
 
-    h3 {
-        font-size: 1.6rem;
+    .details {
+        display: flex;
+        flex-direction: column;
+        gap: 0.3rem;
+        margin-bottom: 1rem;
     }
 
-    .date {
-        font-family: "Inter", sans-serif;
+    .detail-item {
         font-size: 1.4rem;
-        text-align: right;
+        font-family: "Inter", sans-serif;
+        color: var(--greyed-out-plum);
+        font-weight: 300;
+    }
+
+    .detail-item strong {
+        color: var(--plum);
         font-weight: 500;
     }
 
-    .show-more {
-        margin-left: auto;
-        font-weight: 700;
-        font-size: 1.8rem;
-        color: var(--plum);
-        font-family: "Ubuntu Condensed";
-    }
-
-    p {
+    .description {
         font-size: 1.6rem;
-        font-weight: 400;
-        color: var(--gray);
-        line-height: 22px;
+        font-family: "Inter", sans-serif;
+        color: var(--greyed-out-plum);
+        font-weight: 300;
+        line-height: 1.5;
+        margin-bottom: 1rem;
     }
 
-    img {
+    .special-info {
+        background-color: var(--lilac);
+        padding: 0.8rem;
         border-radius: 8px;
-        object-fit: cover;  /* This will ensure the image covers the area specified */
-        width: 100%;
-        border-radius: 20px;
-        height: 210px;      /* Specify the height */
+        font-family: "Inter", sans-serif;
+        font-size: 1.3rem;
+        color: var(--greyed-out-plum);
+        font-weight: 300;
+        margin-bottom: 1rem;
     }
 
-    /* @media  (min-width: 458px) { 
-        .title {
+    .special-info strong {
+        color: var(--plum);
+        font-weight: 500;
+    }
+
+    .arrival-date {
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+    }
+
+    @media (min-width: 458px) {
+        .pigeon-name {
             font-size: 2.6rem;
         }
     }
-
-    @media  (max-width: 458px) { 
-        .card {
-            max-width: 260px;
-            max-height: 420px;
-        }
-
-        img {
-            object-fit: cover;
-            max-width: 200px;
-            max-height: 200px;
-        }
-    } */
-
 </style>

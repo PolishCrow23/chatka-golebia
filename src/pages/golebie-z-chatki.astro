@@ -1,0 +1,149 @@
+---
+import BaseHead from "../components/essentials/BaseHead.astro";
+import Header from "../components/essentials/Header.astro";
+import Footer from "../components/essentials/Footer.astro";
+import PiwikPro from "../components/essentials/PiwikPro.astro";
+import AdoptionCard from "../components/AdoptionCard.astro";
+import { getCollection } from "astro:content";
+
+const title = "Gołębie z Chatki";
+const description = "Poznaj gołębie, które znalazły schronienie w naszej fundacji. Każdy z nich ma swoją historię i potrzebuje specjalnej opieki.";
+
+// Get foundation pigeons collection
+const foundationPigeons = await getCollection("foundationPigeons");
+
+// Debug: Log the collection to see what we're getting
+console.log('Foundation pigeons loaded:', foundationPigeons.length);
+if (foundationPigeons.length > 0) {
+    console.log('First pigeon:', foundationPigeons[0]);
+}
+
+// Sort by arrival date (newest first)
+const sortedPigeons = foundationPigeons.sort((a, b) => 
+    new Date(b.data.arrival_date).getTime() - new Date(a.data.arrival_date).getTime()
+);
+---
+
+<html lang="pl">
+    <head>
+        <BaseHead title={title} description={description} />
+    </head>
+    <body>
+        <PiwikPro />
+        <Header />
+        
+        <main>
+            <div class="title">
+                <h1>Gołębie z Chatki</h1>
+                <img src="/images/birds/Jagoda2.jpg" alt="Gołębie z Chatki">
+            </div>
+
+            <section class="pigeons-section">
+                <div class="container">
+                    {sortedPigeons.length > 0 ? (
+                        <div class="pigeons-grid">
+                            {sortedPigeons.map((pigeon) => (
+                                <AdoptionCard bird={pigeon} />
+                            ))}
+                        </div>
+                    ) : (
+                        <div class="no-pigeons">
+                            <h2>Obecnie nie mamy gołębi w naszej opiece</h2>
+                            <p>Sprawdź tę stronę ponownie wkrótce lub skontaktuj się z nami, aby dowiedzieć się więcej.</p>
+                        </div>
+                    )}
+                </div>
+            </section>
+        </main>
+
+        <Footer />
+    </body>
+</html>
+
+<style>
+    main {
+        background-color: var(--cream);
+        margin-inline: auto;
+        padding-block: 2rem 4rem;
+        padding-inline: 2%;
+    }
+
+    .title {
+        padding: 0.6em 0.5em 5em;
+    }
+
+    .title h1 {
+        text-align: center;
+        font-size: 4.1rem;
+        color: var(--dark-plum);
+        margin-bottom: 4rem;
+    }
+
+    .title img {
+        display: block;
+        margin-inline: auto;
+        max-width: 1200px;
+        width: 100%;
+        height: 300px;
+        object-fit: cover;
+        border-radius: 35px;
+    }
+
+    .container {
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 0 2rem;
+    }
+
+    .pigeons-section {
+        padding: 2rem 0;
+    }
+
+    .pigeons-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+        gap: 3rem;
+        margin-top: 2rem;
+    }
+
+    .no-pigeons {
+        text-align: center;
+        padding: 4rem 2rem;
+        background-color: white;
+        border-radius: 16px;
+    }
+
+    .no-pigeons h2 {
+        font-family: "Urbanist", sans-serif;
+        font-weight: 900;
+        font-size: 2.8rem;
+        color: var(--dark-plum);
+        margin-bottom: 1rem;
+    }
+
+    .no-pigeons p {
+        font-family: "Inter", sans-serif;
+        font-size: 1.8rem;
+        color: var(--plum);
+        line-height: 1.6;
+    }
+
+    @media (max-width: 768px) {
+        .title h1 {
+            font-size: 3.2rem;
+        }
+
+        .pigeons-grid {
+            grid-template-columns: 1fr;
+            gap: 2rem;
+        }
+
+        .container {
+            padding: 0 1rem;
+        }
+
+    .pigeons-section {
+        padding: 0;
+    }
+    }
+</style>

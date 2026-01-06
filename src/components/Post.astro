@@ -96,17 +96,19 @@ const truncatedDescription = truncateWords(item.data.description, 20);
 <style>
     sl-card {
         --border-radius: 16px;
-    }
-
-    sl-card:hover {
-        border-radius: 16px;
-        outline: 2px solid var(--peach);
-        outline-offset: -2px;
+        transition: all 0.3s ease;
     }
 
     sl-card::part(base) {
         justify-content: space-between;
         height: 570px;
+        transition: all 0.3s ease;
+        border: none;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    sl-card:hover::part(base) {
+        box-shadow: 0 2px 12px rgba(0, 0, 0, 0.1), 0 4px 24px rgba(0, 0, 0, 0.1);
     }
 
     sl-card::part(body) {

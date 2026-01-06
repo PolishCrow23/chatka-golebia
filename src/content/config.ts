@@ -82,6 +82,31 @@ const storiesCollection = defineCollection({
   }),
 });
 
+const foundationPigeonsCollection = defineCollection({
+  schema: z.object({
+    pigeon_name: z.string(),
+    species: z.string(),
+    breed: z.string().optional(),
+    gender: z.string(),
+    birthday: z.coerce.date(),
+    status: z.string(), // e.g., "available", "adopted", "in_care"
+    arrival_date: z.coerce.date(),
+    pubImage: z.string(),
+    sideImage1: z.string().optional(),
+    sideImage2: z.string().optional(),
+    sideImage3: z.string().optional(),
+    sideImage4: z.string().optional(),
+    sideImage5: z.string().optional(),
+    sideImage6: z.string().optional(),
+    description: z.string(),
+    special_needs: z.string().optional(),
+    personality: z.string().optional(),
+    personality_traits: z.array(z.string()).optional(),
+    likes: z.array(z.string()).optional(),
+    dislikes: z.array(z.string()).optional()
+  }),
+});
+
 export const collections = {
   posts: postsCollection,
   meetups: meetupsCollection,
@@ -89,5 +114,6 @@ export const collections = {
   interventions: interventionsCollection,
   pigeons: pigeonsCollection,
   adoptions: adoptionsCollection,
-  stories: storiesCollection
+  stories: storiesCollection,
+  foundationPigeons: foundationPigeonsCollection
 };
