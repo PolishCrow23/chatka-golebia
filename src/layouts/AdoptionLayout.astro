@@ -8,9 +8,6 @@ import "../styles/slotwrapper.css"
 
 const { title, description, date, pigeon_name, species, breed, gender, birthday, status, arrival_date, personality, personality_traits, likes, dislikes, pubImage, sideImage1, sideImage2, sideImage3, sideImage4, sideImage5, sideImage6, in_relationship, slug} = Astro.props;
 
-// Debug: log birthday value
-console.log('Birthday value:', birthday);
-
 // Calculate age from birthday
 function calculateAge(birthday: any) {
     if (!birthday) return null;
@@ -37,7 +34,6 @@ function calculateAge(birthday: any) {
 }
 
 const ageInfo = calculateAge(birthday);
-console.log('Age info:', ageInfo);
 
 // Relationship logic
 let partnerInfo = null;

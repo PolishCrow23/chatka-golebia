@@ -38,6 +38,11 @@ type Props = {
 
 const { bird } = Astro.props;
 
+// Safety check
+if (!bird || !bird.data) {
+    return null;
+}
+
 // Type guard to check if it's a foundation pigeon
 const isFoundationPigeon = (bird: AdoptionBird | FoundationBird): bird is FoundationBird => {
     return bird?.data && 'status' in bird.data && 'arrival_date' in bird.data;

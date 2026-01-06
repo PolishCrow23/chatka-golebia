@@ -19,7 +19,7 @@ const adoptions = await getCollection("adoptions");
             <section>
                 <h1>Chatkowe gołębie do adopcji</h1>
                 <div class="cards-container">
-                    {adoptions.map((adoption) => <AdoptionCard adoption={adoption}/>)}
+                    {adoptions.map((adoption) => <AdoptionCard bird={adoption}/>)}
             </section>
                 <section>
                     <h1>Ogłoszenia grzecznościowe</h1>
