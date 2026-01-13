@@ -29,3 +29,5 @@ W chwili znalezienia Lomi ważył mniej 190 g, był bardzo chudy, miał pasożyt
 Lomi przez długi czas był karmiony sondą, a jego nauczycielką samodzielnego jedzenia została...pluszowa kura. Okazało się, że jest niesamowicie wybredny i długo trwało, zanim spróbował jakiegokolwiek ziarna większego od prosa. 
 
 Pomimo wielu kłopotów zdrowotnych, długotrwałego leczenia i ogromnej wybiórczości pokarmowej, Lomi jest dzisiaj dorodnym, ważącym 360 g samcem o żywiołowym temperamencie. Jest niesamowicie ciekawski, ma swoje zdanie na temat wszystkiego, a do tego ma kumpli w postaci czterech maleńkich przepiórek chińskich. Najbardziej ceni w życiu białe sorgo i spanie w swoim ukochanym posłaniu w kształcie żaby. Jest kochanym i pełnoprawnym członkiem rodziny, który zostanie pod opieką Klaudii już do końca życia ❤️
+
+Klaudia
