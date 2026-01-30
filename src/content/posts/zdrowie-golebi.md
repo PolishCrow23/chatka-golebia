@@ -15,9 +15,6 @@ Poradnik w produkcji. 🔨
 ## Jak podawać leki?
 
 ### Jak trzymać gołębia?
-1. Aby podać lek gołębiowi, trzeba go oczywiście złapać. Aby gołąb nie trzepotał skrzydłami. Nie ściskami gołębia za klatkę piersiową. Można trzymać go za pomocą **chwytu bukietowego** (druga ręka pozostaje wolna).
-
-![Gołąb owinięty ręcznikiem wsadzony między uda, tzw. burrito.](/images/posts/choroby/chwyt-bukietowy.png)
 
 ![Gołąb owinięty ręcznikiem wsadzony między uda, tzw. burrito.](/images/posts/choroby/burrito.jpg)
 *Gołąb owinięty ręcznikiem, tzw., burrito i wsadzony między uda. Osoba siedzi na krześle. Ręcznik uniemożliwia gołębiowi poruszanie skrzydłami. Trzymanie gołębia udami zwalnia obie ręce.*
