@@ -17,7 +17,7 @@ Trichomonoza, zwana również rzęsistkowicą lub żółtym guzkiem, jest chorob
 Rzęsistek jest często uważany za normalnego mieszkańca (współbiesiadnika) powierzchni błony śluzowej górnego odcinka przewodu pokarmowego. Gołębie mogą być **bezobjawowymi nosicielami** rzęsistka, co oznacza, że pasożyt bytuje w ich organizmie, ale nie powoduje zmian chorobowych (co nie jest obserwowane u innych rzędów ptaków). W związku z tym konieczność ich leczenia może być przedmiotem dyskusji – zarażenie szczepami o niskiej zjadliwości zapewnia pewną ochronę przed szczepami o wysokiej zjadliwości. Odporność ta ma jdnak charakter przejściowy - gołębie, u których ustąpiła utajona infekcja mogą ponownie zarazić się rzęsitkiem. Zjawisko to ma szczególne znaczenie u młodych ptaków, które nabywają odporność poprzez kontakt z rzęsistkami przekazywanymi im przez rodziców podczas karmienia ptasim mleczkiem [B. Doneley, s. 230; B. Tuska-Szalay et al., s. 2; E. Urban, R. Mannan, s. 51; C. Walker].
 
 ### Etapy rozwoju rzęsistkowicy
-1. Zarażenie rzęsistkiem następuje drogą pokarmową. Po dostaniu się do jamy dziobowo-gardłowej ptaka, pierwotniaki początkowo pływają swobodnie w ślinie. W ciągu około 90 minut potrafią przyczepić się do komórek nabłonka jamy dziobowo-gardłowej, jednak na tym etapie nie powodują jeszcze uszkodzeń. Rozwój infekcji postępuje stopniowo — po 19–24 godzinach rzęsistek zaczyna wnikać w tkanki, a po 48–72 godzinach wywołuje znaczne złuszczanie nabłonka [B. Doneley, s. 230; E. Urban, R. Mannan, s. 53]. 
+1. Zarażenie rzęsistkiem następuje drogą pokarmową. Po dostaniu się do jamy dziobowo-gardłowej ptaka, pierwotniaki początkowo pływają swobodnie w ślinie. W ciągu około 90 minut potrafią przyczepić się do komórek nabłonka jamy dziobowo-gardłowej, jednak na tym etapie nie powodują jeszcze uszkodzeń. Rozwój infekcji postępuje stopniowo – po 19–24 godzinach rzęsistek zaczyna wnikać w tkanki, a po 48–72 godzinach wywołuje znaczne złuszczanie nabłonka [B. Doneley, s. 230; E. Urban, R. Mannan, s. 53]. 
 2. Pasożyt wywołuje stan zapalny błony śluzowej jamy dziobowo-gardłowej, przełyku i wola z obecnością włóknika oraz martwiczych komórek nabłonka, które tworzą błony rzekome (serowate żółtobiałe naloty). Błony rzekome ściśle przylegają do błony śluzowej (**próba ich oderwania powoduje krwawienie**) [B. Doneley, s. 230]. 
 3. W niektórych przypadkach, w szczególności u młodych ptaków, pasożyt może do dalszych odcinków przewodu pokarmowego oraz powodować uszkodzenia narządów wewnętrznych, w szczególności wątroby (tzw. trichomonoza narządowa) [A. Ledwoń, P. Szeleszczuk, s. 178].
 
@@ -38,7 +38,7 @@ Ptaki nie mogą zarazić się drogą wziewną. Gołębie mogą też stanowić ź
 
 ## Możliwe miejsca występowania rzęsistków
 Rzęsistek **najczęściej zamieszkuje górny odcinek układu pokarmowego**: jamę dziobowo-gardłową, przełyk i wole.
-Kiedy pasożyt zacznie wnikać głębiej w tkanki, może (rzadko) przedostać się do tchawicy, przestrzeni podspojówkowej czy zatok [A. Ledwoń, P. Szeleszczuk, s. 178].
+Kiedy pasożyt zacznie wnikać głębiej w tkanki, może (w rzadkich przypadkach) przedostać się do tchawicy, przestrzeni podspojówkowej czy zatok [A. Ledwoń, P. Szeleszczuk, s. 178].
 
 Najcięższa postać choroby to tzw. trichomonoza narządowa, kiedy pasożyt wywołuje zmiany w wątrobie (najczęściej), trzustce, okolicach pępka. W rzadkich przypadkach może przedostać się także do płuc, worków powietrznych czy nawet kości [A. Ledwoń, P. Szeleszczuk, s. 178, H. Mohamed et al., s. 257].
 
