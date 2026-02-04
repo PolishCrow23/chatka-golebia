@@ -53,9 +53,7 @@ Tak powszechne dokarmianie bogatym w sól chlebem, słonymi
 przekąskami lub resztkami fast-foodów skutkuje m.in. biegunkami, ponieważ przewód
 pokarmowy gołębia nie jest dostosowany do tego typu pożywienia.  Ponadto gołębie nie tolerują laktozy!
 
-# 3.    
-
-Czym karmić gołębie w zależności od pory roku?
+# Czym karmić gołębie w zależności od pory roku?
 
 To, kiedy zaczynamy dokarmiać gołębie ma znaczenie. Poniżej przedstawiamy
 listę najczęściej wybieranych przez gołębie produktów z podziałem na miesiące.
@@ -64,17 +62,9 @@ Janiga.
 
 Grudzień
 
-·        
-Kukurydza
-(66%)
-
-·        
-Proso
-(19%)
-
-·        
-Komosa
-(6%)
+* Kukurydza (66%)
+* Proso (19%)
+* Komosa (6%)
 
 W śladowych ilościach: Małe kamienie,
 Pszenica
