@@ -22,7 +22,9 @@ też widzimy je często na dachach, parapetach i innych budynkach miejskich.
 Warto zaznaczyć, że gołębie
 miejskie są zdziczałe, więc nie należy ich traktować tak samo jak dzikie ptaki.
 Zostały one udomowione w toku ewolucji po czym wróciły do swojego naturalnego
-stanu. 
+stanu. Ludzie dokarmiający jeśli tylko zachowują odpowiednią higienę rąk nie mają praktycznie żadnego ryzyka zarażenia się od gołębi.
+
+
 
 Populacja gołębi cały czas spada. Tracą swoje
 naturalne siedliska i źródła czystej wody. Dlatego też w dużych miastach dokarmianie gołębi jest konieczne. Warto zaznaczyć,
