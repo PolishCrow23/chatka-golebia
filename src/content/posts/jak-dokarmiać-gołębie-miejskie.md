@@ -36,9 +36,7 @@ jej odbudowania potrzebuje kolejnych 5 dni dokarmiania. Jakość i ilość
 dostępnego pożywienia oraz świeżej wody, pozostają kluczowymi czynnikami w
 codziennym funkcjonowaniu zdziczałych gołębi miejskich.
 
-# 2.    
-
-Co jedzą gołębie miejskie? (Badania)
+# Co jedzą gołębie miejskie? (Badania)
 
 Ludzie dokarmiają gołębie przez
 cały rok dla rozrywki lub z chęci niesienia pomocy. Gołębie wykazują zainteresowane
