@@ -10,15 +10,7 @@ description: "Kiedy dokarmianie rzeczywiście pomaga gołębiom, a kiedy może i
   jakie niesie ryzyka. Podajemy również alternatywy dla tradycyjnego
   dokarmiania. "
 ---
-
-
-
-
-
-# 1.    
-Dlaczego gołębie miejskie wymagają dokarmiania?
-
- 
+# Dlaczego gołębie miejskie wymagają dokarmiania?
 
 Do lat 60. gołąb miał szansę na znalezienie ziarna
 poza miastem. W tych czasach przez wszechobecne
@@ -32,8 +24,6 @@ miejskie są zdziczałe, więc nie należy ich traktować tak samo jak dzikie pt
 Zostały one udomowione w toku ewolucji po czym wróciły do swojego naturalnego
 stanu. 
 
- 
-
 Populacja gołębi cały czas spada. Tracą swoje
 naturalne siedliska i źródła czystej wody. Dlatego też w dużych miastach dokarmianie gołębi jest konieczne. Warto zaznaczyć,
 że dokarmianie nie powoduje nadmiernego
@@ -46,9 +36,8 @@ jej odbudowania potrzebuje kolejnych 5 dni dokarmiania. Jakość i ilość
 dostępnego pożywienia oraz świeżej wody, pozostają kluczowymi czynnikami w
 codziennym funkcjonowaniu zdziczałych gołębi miejskich.
 
- 
-
 # 2.    
+
 Co jedzą gołębie miejskie? (Badania)
 
 Ludzie dokarmiają gołębie przez
@@ -67,14 +56,13 @@ przekąskami lub resztkami fast-foodów skutkuje m.in. biegunkami, ponieważ prz
 pokarmowy gołębia nie jest dostosowany do tego typu pożywienia.  Ponadto gołębie nie tolerują laktozy!
 
 # 3.    
+
 Czym karmić gołębie w zależności od pory roku?
 
 To, kiedy zaczynamy dokarmiać gołębie ma znaczenie. Poniżej przedstawiamy
 listę najczęściej wybieranych przez gołębie produktów z podziałem na miesiące.
 Na podstawie książki „Feral Pigeons” autorstwa Ricarda F. Johnstona i Mariana
 Janiga.
-
- 
 
 Grudzień
 
@@ -92,8 +80,6 @@ Komosa
 
 W śladowych ilościach: Małe kamienie,
 Pszenica
-
- 
 
 Styczeń 
 
@@ -169,8 +155,6 @@ zielony (5%)
 
 W
 śladowych ilościach: Groszek, Małe kamienie
-
- 
 
 Kwiecień
 
@@ -258,8 +242,6 @@ Mięczaki -
 Mak
 lekarski (5%)
 
- 
-
 Sierpień
 
 ·        
@@ -346,14 +328,11 @@ kamienie (5%)
 W śladowych ilościach: Proso, Chwastnica
 jednostronna,  Kukurydza, Żyto
 
- 
-
 Przeczytaj osobny artykuł:  https://chatkagolebia.pl/poradniki/czym-karmic-golebie/
 
 # 4.    
-Ryzyka związane z dokarmianiem gołębi
 
- 
+Ryzyka związane z dokarmianiem gołębi
 
 ## Przekarmienie
 
@@ -376,10 +355,10 @@ Chore, nie leczone osobniki stanowią ogniska groźnych dla
 gołębi chorób, które potrafią szybko się wśród nich rozprzestrzeniać. Więcej o gołębich
 przypadłościach znajduje się tutaj: <https://chatkagolebia.pl/poradniki/zdrowie-golebi/>
 
-
 Widzisz chorego gołębia? Zareaguj: https://chatkagolebia.pl/znalazlem-golebia/
 
 # 5.    
+
 Jak pomagać gołębiom bez dokarmiania?
 
 Coraz więcej naturalnej, zielonej przestrzeni miejskiej
@@ -403,8 +382,6 @@ Dlatego też wymaga on oczyszczania.
 * Zmniejszone ryzyko chorób,
 * Redukcja zabrudzeń powodowanych przez gołębie, wszystko
   zostaje w gołębniku!
-
- 
 
 ## Drzewka owocowe
 
