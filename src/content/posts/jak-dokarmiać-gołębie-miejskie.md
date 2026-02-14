@@ -33,7 +33,7 @@ Gołąb w naturze jest ziarnojadem, lubi różnorodne warzywa,
 jagody i owoce, w śladowych ilościach żywi się również ślimakami, owadami i
 dżdżownicami. W ciągu 3 dni gołąb bez jedzenia potrafi zrzucić 5% swojej wagi, do
 jej odbudowania potrzebuje kolejnych 5 dni dokarmiania. Jakość i ilość
-dostępnego pożywienia oraz świeżej wody, pozostają kluczowymi czynnikami w
+dostępnego pożywienia oraz świeżej wody pozostają kluczowymi czynnikami w
 codziennym funkcjonowaniu zdziczałych gołębi miejskich.
 
 # Co jedzą gołębie miejskie? (Badania)
