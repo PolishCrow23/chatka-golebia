@@ -24,12 +24,10 @@ miejskie są zdziczałe, więc nie należy ich traktować tak samo jak dzikie pt
 Zostały one udomowione w toku ewolucji po czym wróciły do swojego naturalnego
 stanu.
 
-
-
 Populacja gołębi cały czas spada. Tracą swoje
-naturalne siedliska i źródła czystej wody. Dlatego też w dużych miastach, dokarmianie gołębi jest konieczne. Warto zaznaczyć,
+naturalne siedliska i źródła czystej wody. Dlatego też w dużych miastach dokarmianie gołębi jest konieczne. Warto zaznaczyć,
 że dokarmianie nie powoduje nadmiernego
-mnożenia się ptaków, a ludzie dokarmiający, jeśli tylko zachowują odpowiednią higienę rąk, nie mają praktycznie żadnego ryzyka zarażenia się od gołębi.
+mnożenia się ptaków a ludzie dokarmiający, jeśli tylko zachowują odpowiednią higienę rąk, nie mają praktycznie żadnego ryzyka zarażenia się od gołębi.
 
 Gołąb w naturze jest ziarnojadem, lubi różnorodne warzywa,
 jagody i owoce, w śladowych ilościach żywi się również ślimakami, owadami i
