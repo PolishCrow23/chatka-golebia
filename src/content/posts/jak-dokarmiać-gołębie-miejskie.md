@@ -40,7 +40,7 @@ codziennym funkcjonowaniu zdziczałych gołębi miejskich.
 
 Ludzie dokarmiają gołębie przez
 cały rok dla rozrywki lub z chęci niesienia pomocy. Gołębie wykazują zainteresowane
-oferowanym pokarmem, jednak to, na ile z niego korzystają, pozostaje kwestią
+oferowanym pokarmem, jednak to na ile z niego korzystają, pozostaje kwestią
 dyskusyjną.
 
 Według badania „Nutritional implications of feeding
