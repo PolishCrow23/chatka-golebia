@@ -43,8 +43,8 @@ cały rok dla rozrywki lub z chęci niesienia pomocy. Gołębie wykazują zainte
 oferowanym pokarmem, jednak to na ile z niego korzystają, pozostaje kwestią
 dyskusyjną.
 
-Według badania „Nutritional implications of feeding
-free-living birds in public urban areas” najczęstszym
+Według badania [„Nutritional implications of feeding
+free-living birds in public urban areas” ](https://www.researchgate.net/publication/344321625_Nutritional_implications_of_feeding_free-living_birds_in_public_urban_areas)najczęstszym
 produktem dawanym gołębiom jest chleb (oszacowano 67% jego obecności w
 ogólnej ilości pożywienia) Większość respondentów dokarmiała gołębie chlebem po
 to, żeby nie marnować resztek jedzenia. Jakie są tego skutki?
