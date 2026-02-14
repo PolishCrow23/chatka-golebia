@@ -3,7 +3,7 @@ title: Jak dokarmiać gołębie miejskie?
 author: Karolina Mikołajczyk
 pubDate: 02.04.2026
 tag: Poradnik
-image: /images/zblizenie-selektywne-focus-strzal-golebi-w-parku-z-zielenia.jpg
+image: /images/gołab-na-karmiku-dsc_6106.jpg
 description: "Kiedy dokarmianie rzeczywiście pomaga gołębiom, a kiedy może im
   szkodzić? W tym artykule wyjaśniamy, jakie są nawyki żywieniowe gołębi
   miejskich, co jedzą w naturze, kiedy dokarmianie gołębi jest uzasadnione oraz
