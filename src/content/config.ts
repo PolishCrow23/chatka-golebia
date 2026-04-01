@@ -108,6 +108,26 @@ const foundationPigeonsCollection = defineCollection({
   }),
 });
 
+const templatesCollection = defineCollection({
+  schema: z.object({
+    title: z.string(),
+    description: z.string(),
+    pubImage: z.string(),
+    author: z.string().optional(),
+    pubDate: z.coerce.date().optional(),
+  }),
+});
+
+const monthlyReportsCollection = defineCollection({
+  schema: z.object({
+    title: z.string(),
+    description: z.string(),
+    author: z.string(),
+    pubDate: z.coerce.date(),
+    image: z.string(),
+  }),
+});
+
 export const collections = {
   posts: postsCollection,
   meetups: meetupsCollection,
@@ -116,5 +136,7 @@ export const collections = {
   pigeons: pigeonsCollection,
   adoptions: adoptionsCollection,
   stories: storiesCollection,
-  foundationPigeons: foundationPigeonsCollection
+  foundationPigeons: foundationPigeonsCollection,
+  templates: templatesCollection,
+  monthlyReports: monthlyReportsCollection
 };

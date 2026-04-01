@@ -4,11 +4,12 @@ import Avatar from './Avatar/Avatar.astro';
 import FormattedDateShort from "./essentials/FormattedDateShort.astro";
 
 type Props = {
-    item: CollectionEntry<"posts" | "meetups" | "reports" | "interventions" | "pigeons">;
+    item: CollectionEntry<"posts" | "meetups" | "reports" | "interventions" | "pigeons" | "monthlyReports">;
     backgroundColor?: string;
+    cardHeight?: string;
 }
 
-const { item, backgroundColor } = Astro.props
+const { item, backgroundColor, cardHeight = '570px' } = Astro.props
 
 const baseSlug = item.collection === 'posts'
     ? 'poradniki'
@@ -20,6 +21,8 @@ const baseSlug = item.collection === 'posts'
     ? 'interwencje'
     : item.collection === 'pigeons'
     ? 'atlas-gołębi'
+    : item.collection === 'monthlyReports'
+    ? 'podsumowania-miesiaca'
     : '';
 
 const tagTitle = baseSlug.charAt(0).toUpperCase() + baseSlug.slice(1);
@@ -42,7 +45,7 @@ const truncatedDescription = truncateWords(item.data.description, 20);
 ---
 
 <a href={`/${baseSlug}/${item.slug}`}>
-    <sl-card class="card-overview">
+    <sl-card class="card-overview" style={`--card-height: ${cardHeight}`}>
 
         <div slot="header">
             <div class="image-wrapper">
@@ -53,8 +56,8 @@ const truncatedDescription = truncateWords(item.data.description, 20);
                         height={240}
                 />
             </div>
+            {item.collection !== 'monthlyReports' && (
             <div class="tag-date-wrapper">
-                <sl-badge variant="neutral">{tagTitle}</sl-badge>
                 <div class="date-container">
                     <svg xmlns="http://www.w3.org/2000/svg"
                         width="21"
@@ -67,13 +70,14 @@ const truncatedDescription = truncateWords(item.data.description, 20);
                         d="M2 12c0-.839 0-1.585.013-2.25h19.974C22 10.415 22 11.161 22 12v2c0 3.771 0 5.657-1.172 6.828S17.771 22 14 22h-4c-3.771 0-5.657 0-6.828-1.172S2 17.771 2 14zm15 2a1 1 0 1 0 0-2a1 1 0 0 0 0 2m0 4a1 1 0 1 0 0-2a1 1 0 0 0 0 2m-4-5a1 1 0 1 1-2 0a1 1 0 0 1 2 0m0 4a1 1 0 1 1-2 0a1 1 0 0 1 2 0m-6-3a1 1 0 1 0 0-2a1 1 0 0 0 0 2m0 4a1 1 0 1 0 0-2a1 1 0 0 0 0 2"
                         clip-rule="evenodd"/>
                     </svg>
-                    {item.collection !== 'pigeons' && item.data?.pubDate && (
+                    {item.collection !== 'pigeons' && item.collection !== 'monthlyReports' && item.data?.pubDate && (
                             <span class="date">
                           <FormattedDateShort date={item.data.pubDate} />
                         </span>
                     )}
                 </div>
             </div>
+            )}
         </div>
 
         <h2 class="title">{item.data.title}</h2><br />
@@ -101,7 +105,7 @@ const truncatedDescription = truncateWords(item.data.description, 20);
 
     sl-card::part(base) {
         justify-content: space-between;
-        height: 570px;
+        height: var(--card-height, 570px);
         transition: all 0.3s ease;
         border: none;
         box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
