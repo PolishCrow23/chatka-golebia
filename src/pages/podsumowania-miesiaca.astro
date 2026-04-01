@@ -1,0 +1,12 @@
+---
+import GridLayout from "../layouts/GridLayout.astro";
+import { getCollection } from "astro:content";
+import Post from "../components/Post.astro";
+
+const monthlyReports = (await getCollection('monthlyReports'))
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+---
+
+<GridLayout title="Podsumowania miesiąca" description="Miesięczne podsumowania działalności fundacji">
+    {monthlyReports.map((report) => <Post item={report} />)}
+</GridLayout>

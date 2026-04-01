@@ -1,0 +1,12 @@
+---
+import GridLayout from "../layouts/GridLayout.astro";
+import { getCollection } from "astro:content";
+import Post from "../components/Post.astro";
+
+const interventions = (await getCollection('interventions'))
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+---
+
+<GridLayout title="Interwencje" description="Nasze interwencje w terenie">
+    {interventions.map((intervention) => <Post item={intervention} />)}
+</GridLayout>

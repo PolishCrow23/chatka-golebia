@@ -1,0 +1,12 @@
+---
+import GridLayout from "../layouts/GridLayout.astro";
+import { getCollection } from "astro:content";
+import Post from "../components/Post.astro";
+
+const meetups = (await getCollection('meetups'))
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+---
+
+<GridLayout title="Wydarzenia" description="Nadchodzące i minione wydarzenia">
+    {meetups.map((meetup) => <Post item={meetup} />)}
+</GridLayout>

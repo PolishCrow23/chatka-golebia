@@ -1,0 +1,28 @@
+---
+import { getCollection, type CollectionEntry } from "astro:content";
+import PostLayout from "../../layouts/PostLayout.astro";
+
+export const getStaticPaths = async () => {
+    const monthlyReports = await getCollection("monthlyReports");
+    return monthlyReports.map(report => ({
+        params: { monthlyReport: report.slug },
+        props: { report }
+    }));
+}
+
+type Props = { report: CollectionEntry<"monthlyReports"> }
+
+const { report } = Astro.props;
+const { Content, headings } = await report.render();
+---
+
+<PostLayout
+    title={report.data.title}
+    description={report.data.description}
+    author={report.data.author}
+    pubDate={report.data.pubDate}
+    image={report.data.image}
+    headings={headings}
+>
+    <Content />
+</PostLayout>

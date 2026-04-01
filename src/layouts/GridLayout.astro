@@ -1,0 +1,53 @@
+---
+import BaseHead from "../components/essentials/BaseHead.astro";
+import Header from "../components/essentials/Header.astro";
+import Footer from "../components/essentials/Footer.astro";
+import PiwikPro from "../components/essentials/PiwikPro.astro";
+
+const { title, description, maxWidth = '1400px' } = Astro.props;
+---
+
+<html lang="pl">
+    <head>
+        <BaseHead title={title} description={description} />
+    </head>
+    <body>
+        <PiwikPro />
+        <Header />
+        <div class="main-wrapper">
+            <main style={`max-width: ${maxWidth};`}>
+                <h1>{title}</h1>
+                <div class="cards-grid">
+                    <slot />
+                </div>
+            </main>
+        </div>
+        <Footer />
+    </body>
+</html>
+
+<style>
+    .main-wrapper {
+        background-color: var(--cream);
+    }
+
+    main {
+        padding: 4em 2% 6em;
+        background-color: var(--cream);
+        margin-inline: auto;
+    }
+
+    h1 {
+        font-size: 3.6rem;
+        color: var(--dark-plum);
+        font-family: "Ubuntu Condensed";
+        margin-bottom: 2em;
+        text-align: center;
+    }
+
+    .cards-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+        gap: 2em;
+    }
+</style>
