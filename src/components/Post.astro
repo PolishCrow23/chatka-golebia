@@ -4,7 +4,7 @@ import Avatar from './Avatar/Avatar.astro';
 import FormattedDateShort from "./essentials/FormattedDateShort.astro";
 
 type Props = {
-    item: CollectionEntry<"posts" | "meetups" | "reports" | "interventions" | "pigeons" | "monthlyReports">;
+    item: CollectionEntry<"posts" | "meetups" | "reports" | "interventions" | "pigeons"> | CollectionEntry<"monthlyReports">;
     backgroundColor?: string;
     cardHeight?: string;
 }

@@ -23,6 +23,7 @@ const { Content, headings } = await report.render();
     pubDate={report.data.pubDate}
     image={report.data.image}
     headings={headings}
+    slug={report.slug}
 >
     <Content />
 </PostLayout>
