@@ -11,13 +11,11 @@ To właśnie dzięki takim gestom i gotowości do działania nasze środowisko s
 
 Dziękujemy zastępowi ochotniczej straży pożarnej w Barczewie!
 
+![Miejsce w którym utknął ptak. Strażak wykonuje dostęp odkręcając drzwiczki, używając do tego odpowiednich narzędzi.](/images/658729552_1381324347369493_1127336235149334534_n.jpg)
 
+![Strażak ostrożnie wyjmuje uwięzionego ptaka z rynny.](/images/656903814_1381324387369489_9089806435355247996_n.jpg)
 
-
-
-
-
-
+![Kawka w rękach strażaka](/images/661317027_1381324607369467_1738708957248420188_n.jpg)
 
 
 
