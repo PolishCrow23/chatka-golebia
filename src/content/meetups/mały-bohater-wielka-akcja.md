@@ -13,4 +13,4 @@ Dziękujemy zastępowi ochotniczej straży pożarnej w Barczewie!
 
 Zdjęcia pochodzą z profilu [Ochotnicza Straż pożarna w Barczewie](https://www.facebook.com/OchotniczaStrazPozarnaWBarczewie/posts/pfbid02ArFsFYwHxF5pvBngcG6QQwENP1aATmzP4r7diLQFH4wEcxYBBVAaM5qCBZJMnv6zl)
 
-![Miejsce uwięzienia ptaka, strażak odkręcz drzwiczki do rewizji, uzywając odpowiednich narzedzi](/images/658729552_1381324347369493_1127336235149334534_n.jpg)
+![Miejsce uwięzienia ptaka, strażak odkręca drzwiczki do rewizji, używając odpowiednich narzedzi](/images/658729552_1381324347369493_1127336235149334534_n.jpg)
