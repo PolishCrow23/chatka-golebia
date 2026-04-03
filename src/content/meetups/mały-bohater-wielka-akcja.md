@@ -10,3 +10,5 @@ Interwencja ona ptaka uwięzionego w rynnie, z której nie potrafił się samodz
 To właśnie dzięki takim gestom i gotowości do działania nasze środowisko staje się trochę bardziej przyjazne dla tych najmniejszych i najbardziej bezbronnych.
 
 Dziękujemy zastępowi ochotniczej straży pożarnej w Barczewie
+
+Zdjęcia pochodzą z profilu [Ochotnicza Straż pożarna w Barczewie](https://www.facebook.com/OchotniczaStrazPozarnaWBarczewie/posts/pfbid02ArFsFYwHxF5pvBngcG6QQwENP1aATmzP4r7diLQFH4wEcxYBBVAaM5qCBZJMnv6zl)
