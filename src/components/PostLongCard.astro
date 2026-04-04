@@ -18,7 +18,7 @@ function extractFirst120Words(body: string) {
     return words.slice(0, 90).join(' ') + '...';
 }
 
-const description = extractFirst120Words(item.body);
+const description = extractFirst120Words(item.body ?? '');
 ---
 
 <div class="post-card">
