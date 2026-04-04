@@ -1,0 +1,210 @@
+---
+const { label = 'Menu', items = [] } = Astro.props
+const id = `dropdown-${Math.random().toString(36).slice(2, 7)}`
+---
+
+<sl-dropdown class="desktop-dropdown" skidding="-10">
+    <sl-button slot="trigger" caret>{label}</sl-button>
+    <sl-menu>
+        {items.map((item: { label: string, href: string }) => (
+            <sl-menu-item><a href={item.href}>{item.label}</a></sl-menu-item>
+        ))}
+    </sl-menu>
+</sl-dropdown>
+
+<div class="mobile-dropdown">
+    <input type="checkbox" id={id} class="mobile-dropdown-check" />
+    <label for={id} class="mobile-dropdown-toggle">{label} ▾</label>
+    <ul class="mobile-dropdown-menu">
+        <div>
+        {items.map((item: { label: string, href: string }) => (
+            <li><a href={item.href}>{item.label}</a></li>
+        ))}
+        </div>
+    </ul>
+</div>
+
+<style>
+    /* Mobile first — show mobile, hide desktop */
+    .desktop-dropdown {
+        display: none !important;
+    }
+
+    .mobile-dropdown {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+    }
+
+    .mobile-dropdown-check {
+        display: none;
+    }
+
+    .mobile-dropdown-toggle {
+        color: var(--plum);
+        font-family: "Ubuntu Condensed";
+        font-size: 2rem;
+        font-weight: 700;
+        cursor: pointer;
+        width: 100%;
+        text-align: center;
+        user-select: none;
+        padding: 1rem;
+    }
+
+    .mobile-dropdown-menu {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+        width: 100%;
+        display: grid;
+        grid-template-rows: 0fr;
+        transition: grid-template-rows 0.3s ease;
+        overflow: hidden;
+        background-color: var(--light-lavender);
+    }
+
+    .mobile-dropdown-menu > div {
+        overflow: hidden;
+    }
+
+    .mobile-dropdown-menu li {
+        overflow: visible;
+    }
+
+    .mobile-dropdown-check:checked ~ .mobile-dropdown-menu {
+        grid-template-rows: 1fr;
+    }
+
+    .mobile-dropdown-menu a {
+        display: block;
+        font-size: 2rem;
+        padding: 0.8em 2em;
+        text-align: center;
+        color: var(--plum);
+        font-family: "Ubuntu Condensed";
+        font-weight: 700;
+    }
+
+    /* Desktop — swap to sl-dropdown */
+    @media (min-width: 760px) {
+        .desktop-dropdown {
+            display: inline-flex !important;
+        }
+
+        .mobile-dropdown {
+            display: none !important;
+        }
+
+        sl-dropdown {
+            vertical-align: middle;
+        }
+
+        sl-dropdown sl-button {
+            --sl-button-font-size-medium: 2.4rem;
+            --sl-input-height-medium: auto;
+            font-size: 2rem;
+            padding: 6px 0;
+        }
+
+        sl-dropdown sl-button::part(base) {
+            background-color: transparent;
+            border: none;
+            box-shadow: none;
+            color: var(--plum);
+            font-family: "Ubuntu Condensed";
+            font-size: 2rem;
+            font-weight: 700;
+            height: auto;
+            padding: 0;
+            vertical-align: text-top;
+        }
+
+        sl-icon::part(base) {
+            vertical-align: bottom;
+        }
+
+        sl-dropdown sl-button::part(base):hover {
+            color: var(--peach);
+            background-color: transparent;
+        }
+
+        sl-dropdown sl-button::part(label) {
+            font-size: 2rem;
+            font-family: "Ubuntu Condensed";
+            padding-inline:0 0.2rem;
+        }
+
+        sl-menu-item::part(base) {
+            padding: 0.8rem 1.6rem;
+            box-shadow: none;
+        }
+
+        sl-menu-item::part(label) {
+            font-size: 2rem;
+            font-family: 'Ubuntu Condensed';
+            color: var(--plum);
+        }
+
+        sl-menu {
+            border: none;
+            border-radius: 24px;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        sl-dropdown::part(panel) {
+            border: none;
+            border-radius: 24px;
+            box-shadow: none;
+        }
+
+        sl-button::part(caret) {
+            font-size: 2.1rem;
+            translate: 0 1px;
+        }
+
+        sl-menu-item::part(base):hover {
+            background-color: var(--cream);
+            color: var(--peach);
+        }
+
+        sl-menu-item:hover a {
+            color: var(--peach);
+        }
+
+        sl-menu-item::part(label):hover {
+            color: var(--peach);
+        }
+
+        sl-menu-item:hover a {
+            color: var(--peach);
+        }
+
+        sl-menu {
+            --sl-color-neutral-0: var(--cream);
+            --sl-color-primary-600: var(--cream);
+        }
+
+        sl-menu-item::part(checked-icon),
+        sl-menu-item::part(submenu-icon) {
+            display: none;
+        }
+    }
+</style>
+
+<script>
+    const dropdown = document.querySelector('sl-dropdown') as any;
+    if (dropdown) {
+        dropdown.addEventListener('mouseenter', () => dropdown.show());
+        dropdown.addEventListener('mouseleave', () => dropdown.hide());
+
+        const trigger = dropdown.querySelector('[slot="trigger"]');
+        if (trigger) {
+            trigger.addEventListener('touchend', (e: TouchEvent) => {
+                e.preventDefault();
+                dropdown.open ? dropdown.hide() : dropdown.show();
+            });
+        }
+    }
+</script>
