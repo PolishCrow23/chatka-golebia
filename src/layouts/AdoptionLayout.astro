@@ -52,7 +52,7 @@ if (in_relationship) {
             partnerInfo = {
                 name: partner.data.pigeon_name,
                 image: partner.data.pubImage,
-                slug: partner.slug,
+                id: partner.id,
                 gender: partner.data.gender
             };
         }
@@ -196,7 +196,7 @@ if (sideImage6) {
                         <div class="relationship-card">
                             <h3>💕 W związku</h3>
                             <div class="relationship-content">
-                                <a href={`/golebie-z-chatki/${partnerInfo.slug}`} class="partner-link">
+                                <a href={`/golebie-z-chatki/${partnerInfo.id}`} class="partner-link">
                                     <img src={partnerInfo.image} alt={partnerInfo.name} class="partner-image" />
                                     <div class="partner-info">
                                         <h4>{partnerInfo.name}</h4>

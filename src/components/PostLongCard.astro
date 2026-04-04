@@ -24,19 +24,19 @@ const description = extractFirst120Words(item.body);
 <div class="post-card">
     <div class="flex1">
     <div class="grid-title">
-        <a href={`/${baseSlug}/${item.slug}`}>
+        <a href={`/${baseSlug}/${item.id}`}>
             <h2 class="title">{item.data.title}</h2>
         </a>
         <span class="date"><FormattedDateShort date={item.data.pubDate} /></span>
     </div>
     <p>{description}</p>
-    <a class="show-more" href={`/${baseSlug}/${item.slug}`}>
+    <a class="show-more" href={`/${baseSlug}/${item.id}`}>
         czytaj więcej...
     </a>
     </div>
 
     <div class="flex2">
-        <a class="grid-img" href={`/${baseSlug}/${item.slug}`}>
+        <a class="grid-img" href={`/${baseSlug}/${item.id}`}>
             <img src ={item.data.image} width={300} height={260} alt={item.data.title}/>
         </a>
     </div>

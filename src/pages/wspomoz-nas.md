@@ -1,6 +1,7 @@
 ---
 title: Wspomóż nas
 layout: ../layouts/PageLayout.astro
+image: /images/pages/wspomoz-nas/wspomoz-nas-tekst.png
 ---
 
 ## Przekaż 1,5% na Fundację Chatka Gołębia

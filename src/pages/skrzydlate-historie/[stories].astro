@@ -14,7 +14,7 @@ export const getStaticPaths = async () => {
   );
 
   return stories.map((story, index) => ({
-    params: { stories: story.slug },
+    params: { stories: story.id },
     props: { story, headings: headings[index] },
   }));
 };
@@ -25,11 +25,9 @@ type Props = {
 }
 
 const { story, headings } = Astro.props;
-const { Content } = await story.render();
-
-console.log("stories");
+const { Content } = await render(story);
 ---
 
-<PostLayout {...story.data} headings={headings} slug={story.slug}>
+<PostLayout {...story.data} headings={headings} slug={story.id}>
   <Content />
 </PostLayout>

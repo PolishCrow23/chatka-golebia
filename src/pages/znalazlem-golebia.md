@@ -1,7 +1,7 @@
 ---
 layout: ../layouts/PageLayout.astro
 title: Znalazłem gołębia
-image: "/images/birds/Snip3.jpg"
+image: "/images/pages/znalazlem-golebia/znalazlem-golebia-tekst.png"
 ---
 
 **Jak wygląda chory gołąb potrzebujący pomocy człowieka?**
@@ -32,7 +32,7 @@ _Pisklę sierpówki._
 
 **Co zrobić gdy znajdziesz gołębia potrzebującego pomocy?**
 
-1. Złap gołębia. Sposoby łapania gołębia znajdziesz w [tym poradniku.](poradniki/jak-z%C5%82apa%C4%87-go%C5%82%C4%99bia-potrzebuj%C4%85cego-pomocy)
+1. Złap gołębia. Sposoby łapania gołębia znajdziesz w [tym poradniku.](poradniki/jak-zlapac-golebia-potrzebujacego-pomocy)
 2. Włóż gołębia do pudełka kartonowego, transportera, papierowej torby na zakupy lub zawiń go w ubranie, kocyk, ręcznik.
 3. Wnieś gołębia do środka budynku (na zewnątrz jest narażony na atak drapieżników) i umieść go w cichym, ciepłym, ciemnym miejscu w pudełku kartonowym lub transporterze wyłożonym gazetami lub ręcznikami papierowymi.
 4. Znajdź pomoc. Możesz to zrobić poprzez naszą grupę na Facebooku.

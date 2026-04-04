@@ -99,7 +99,7 @@ const special_needs = (isFoundationPigeon(bird) && bird.data.special_needs) ? bi
 const personality = (isFoundationPigeon(bird) && bird.data.personality) ? bird.data.personality : undefined;
 
 // Determine the link path and badge text based on collection type
-const linkPath = isFoundationPigeon(bird) ? `/golebie-z-chatki/${bird?.slug || 'unknown'}` : `/golebie-do-adopcji/${bird?.slug || 'unknown'}`;
+const linkPath = isFoundationPigeon(bird) ? `/golebie-z-chatki/${bird?.id || 'unknown'}` : `/golebie-do-adopcji/${bird?.id || 'unknown'}`;
 const badgeText = isFoundationPigeon(bird) ? 'Fundacja' : 'Adopcja';
 
 // Status badge text

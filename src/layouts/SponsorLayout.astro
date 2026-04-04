@@ -26,6 +26,7 @@ const { frontmatter = {}, title, description, date, image, maxWidth = '720px'} =
                 <div class="grid-container">
                     <SponsorCard href="https://www.facebook.com/przychodniasalamandrakrakow" src="/images/pages/sponsorzy/Salamandra.png" alt="Logo Przychodni Weterynaryjnej Salamandra"/>
                     <SponsorCard href="https://www.kontna.pl/" src="/images/pages/sponsorzy/Lucyna-Kontna.png" alt="Logo biura rachunkowego Lucyna Kontna"/>
+                    <SponsorCard href="https://kancelariakudasikgil.pl/" src="/images/pages/sponsorzy/Emilia-Kudasik-Gil.png" alt="Logo Kancelarii Radcy Prawnego Emilia Kudasik-Gil"/>
                 </div>
                 <h2>Patroni</h2>
                 <p>Twoje wsparcie jest dla nas nieocenione! Dzięki Twojemu patronatowi możemy kontynuować naszą misję ochrony gołębi i innych ptaków.</p>
@@ -78,12 +79,12 @@ const { frontmatter = {}, title, description, date, image, maxWidth = '720px'} =
 
     .grid-container {
         display: grid;
-        align-items: center;
-        justify-items: center;
+        justify-items: start;
         gap: 1rem;
+        grid-row-gap: 8em;
         grid-template-columns: 
             repeat(auto-fit,
-                minmax(min(24rem, 100%), 1fr));
+                minmax(min(28rem, 100%), 1fr));
         padding-block: 2em;
 }
 </style>

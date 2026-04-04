@@ -1,6 +1,7 @@
 ---
 title: Media o nas
 layout: ../layouts/PageLayout.astro
+image: "/images/pages/media/media-tekst.png"
 ---
 
 - ["Akcja Sznurek", czyli na ratunek krakowskim gołębiom, Radio Kraków](https://www.radiokrakow.pl/aktualnosci/krakow/akcja-sznurek-czyli-na-ratunek-krakowskim-golebiom)

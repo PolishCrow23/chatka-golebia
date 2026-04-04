@@ -18,7 +18,7 @@ const posts = (await getCollection('posts'))
         <Header backgroundColor="rgb(246, 196, 159)"/>
         <main>
             <section>
-                <h1>Poradniki</h1>
+                <h1>Baza wiedzy o gołębiach (Poradniki)</h1>
                 <div class="cards-container">
                     {posts.map((post) => <Post item={post} backgroundColor="var(--cream)"/>)}
                 </div>

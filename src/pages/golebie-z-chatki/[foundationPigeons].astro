@@ -1,20 +1,13 @@
 ---
-import { getCollection, type CollectionEntry } from "astro:content"
+import { getCollection, type CollectionEntry, render } from "astro:content"
 import AdoptionLayout from "../../layouts/AdoptionLayout.astro"
 
 export const getStaticPaths = async () => {
     const foundationPigeons = await getCollection("foundationPigeons")
-    const paths = foundationPigeons.map(pigeon => {
-        return {
-            params: {
-                foundationPigeons: pigeon.slug
-            },
-            props: {
-                pigeon
-            }
-        }
-    })
-    return paths
+    return foundationPigeons.map(pigeon => ({
+        params: { foundationPigeons: pigeon.id },
+        props: { pigeon }
+    }))
 }
 
 type Props = {
@@ -22,7 +15,7 @@ type Props = {
 }
 
 const { pigeon } = Astro.props
-const {Content} = await pigeon.render()
+const { Content } = await render(pigeon)
 ---
 <AdoptionLayout {...pigeon.data}>
     <Content />
