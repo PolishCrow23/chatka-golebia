@@ -1,6 +1,6 @@
 ---
-title: "Pomoc dla gołębi miejskich – Badanie socjologiczne Gołębie a socjologia:
-  Pomoc wolontariuszy"
+title: Pomoc dla gołębi miejskich – Badanie socjologiczne działań pomocowych
+  wobec gołębii.
 pubDate: 04.17.2026
 author: Karolina Mikołajczyk
 image: /images/20250128_190518.jpg
