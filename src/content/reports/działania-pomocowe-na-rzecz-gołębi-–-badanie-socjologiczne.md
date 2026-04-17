@@ -8,6 +8,8 @@ description: Badanie socjologiczne zwraca uwagę na zjawisko interakcji ludzi ze
   wywiady z 12 wolontariuszami, w tym z naszej fundacji!
 photos: Placeholder
 ---
-
-
 ## Symboliczny interakcjonizm i relacje międzygatunkowe
+
+Omawiane badanie
+
+Badanie relacji międzygatunkowych w ramach teorii symbolicznego interakcjonizmu pozostaje stosunkowo nowym i często niedostrzeganym podejściem.
