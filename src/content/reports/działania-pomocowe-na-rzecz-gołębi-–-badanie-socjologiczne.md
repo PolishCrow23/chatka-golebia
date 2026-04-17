@@ -10,8 +10,16 @@ photos: Placeholder
 ---
 ## Symboliczny interakcjonizm i relacje międzygatunkowe
 
-Omawiane badanie
+Omawiane badanie: link
 
 Symboliczny interakcjonizm to...
 
+Na relację międzygatunkowe składa się...
+
 Badanie relacji międzygatunkowych w ramach teorii symbolicznego interakcjonizmu pozostaje stosunkowo nowym i często niedostrzeganym podejściem.
+
+Relacja człowiek - ptak
+
+
+
+Działania pomocowe
