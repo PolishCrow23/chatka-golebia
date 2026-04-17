@@ -5,7 +5,8 @@ author: Karolina Mikołajczyk
 image: /images/20250128_190518.jpg
 description: Badanie socjologiczne zwraca uwagę na zjawisko interakcji ludzi ze
   zwierzętami ze szczególnym uwzględnieniem gołębi miejskich. Przeprowadzono
-  wywiady z 12 wolontariuszami, w tym z naszej fundacji!
+  wywiady z 12 wolontariuszami, w tym z naszej fundacji! 1.Kontekst
+  socjologiczny 2. Relacja człowiek-ptak 3.działania pomocowe.
 photos: Placeholder
 ---
 ## Symboliczny interakcjonizm i relacje międzygatunkowe
