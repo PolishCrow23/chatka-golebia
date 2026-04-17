@@ -18,8 +18,10 @@ Na relację międzygatunkowe składa się...
 
 Badanie relacji międzygatunkowych w ramach teorii symbolicznego interakcjonizmu pozostaje stosunkowo nowym i często niedostrzeganym podejściem.
 
-Relacja człowiek - ptak
+## Relacja człowiek - ptak
 
+Konteksty dotyczące interakcji międzygatunkowych wykraczająpoza ramy opieki nad zwierzętami towarzyszącymi, wskazując inne obszaryludzkiej działalności względem zwierząt. Jeden z nich stanowią działaniapomocowe skierowane zarówno do zwierząt towarzyszących, jak i dziko żyjących.
 
+Wobszarze działań pomocowych na rzecz zwierząt ważną rolę odgrywają wolontariusze,podejmujący działania indywidualnie, a także w ramach zrzeszenia worganizacjach współpracujących ze schroniskami dla zwierząt (Corso, 2022). Wdziałaniach pomocowych wolontariuszy uwzględnia się społeczne i międzygatunkoweinterakcje jako źródło wrażliwości oraz opiekuńczości, które przekładają się napoprawę dobrostanu zwierząt (Glanville i in., 2020). 
 
-Działania pomocowe
+## Działania pomocowe
