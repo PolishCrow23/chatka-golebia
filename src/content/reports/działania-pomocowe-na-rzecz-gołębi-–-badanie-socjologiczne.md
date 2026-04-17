@@ -12,4 +12,6 @@ photos: Placeholder
 
 Omawiane badanie
 
+Symboliczny interakcjonizm to...
+
 Badanie relacji międzygatunkowych w ramach teorii symbolicznego interakcjonizmu pozostaje stosunkowo nowym i często niedostrzeganym podejściem.
