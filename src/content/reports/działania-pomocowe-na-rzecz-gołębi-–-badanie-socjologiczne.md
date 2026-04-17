@@ -1,5 +1,6 @@
 ---
-title: DZIAŁANIA POMOCOWE NA RZECZ GOŁĘBI – Badanie socjologiczne
+title: "Pomoc dla gołębi miejskich – Badanie socjologiczne Gołębie a socjologia:
+  Pomoc wolontariuszy"
 pubDate: 04.17.2026
 author: Karolina Mikołajczyk
 image: /images/20250128_190518.jpg
