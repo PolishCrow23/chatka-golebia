@@ -33,4 +33,4 @@ Poznajcie naszych podopiecznych: [Gołębie z chatki](https://chatkagolebia.pl/g
 
 ## Działania pomocowe
 
-Adopcja gołębia: Warunki adopcji<https://chatkagolebia.pl/adopcja/>
+Adopcja gołębia: [Warunki adopcji](https://chatkagolebia.pl/adopcja/)
