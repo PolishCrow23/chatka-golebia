@@ -3,9 +3,8 @@ title: Działania pomocowe na rzecz gołębi - badanie socjologiczne
 pubDate: 04.17.2026
 author: Karolina Mikołajczyk
 image: /images/20250128_190518.jpg
-description: Celem badania jest ukazanie działań pomocowych na rzecz gołębi z
-  perspektywy socjologicznej. W badaniu wzięli udział wolontariusze z naszej
-  fundacji!
+description: Badanie pokazuje różnorodny oodbiór działań pomocowych dla gołębi,
+  wzięli w nim udział wolontariusze z naszej fundacji!
 photos: Placeholder
 ---
 ## Działania pomocowe i relacje międzygatunkowe
