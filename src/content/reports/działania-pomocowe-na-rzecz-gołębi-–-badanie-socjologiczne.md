@@ -3,10 +3,9 @@ title: Działania pomocowe na rzecz gołębi - badanie socjologiczne
 pubDate: 04.17.2026
 author: Karolina Mikołajczyk
 image: /images/20250128_190518.jpg
-description: Badanie socjologiczne zwraca uwagę na zjawisko interakcji ludzi ze
-  zwierzętami ze szczególnym uwzględnieniem gołębi miejskich. Przeprowadzono
-  wywiady z 12 wolontariuszami, w tym z naszej fundacji! 1.Kontekst
-  socjologiczny 2. Relacja człowiek-ptak 3.działania pomocowe.
+description: Celem badania jest ukazanie działań na rzecz gołębi z perspektywy
+  socjologicznej. Wynikających zarówno z interakcji społecznych, jak i
+  międzygatunkowych. W badaniu wzięli udział wolontariusze z naszej fundacji!
 photos: Placeholder
 ---
 ## Działania pomocowe i relacje międzygatunkowe
