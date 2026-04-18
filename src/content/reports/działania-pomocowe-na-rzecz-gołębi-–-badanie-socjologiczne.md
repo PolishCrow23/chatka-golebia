@@ -23,7 +23,7 @@ Konteksty dotyczące interakcji międzygatunkowych wykraczają poza ramy opieki 
 
 ## Relacja człowiek - ptak
 
-*W obszarze działań pomocowych na rzecz zwierząt ważną rolę odgrywają wolontariusze, podejmujący działania indywidualnie, a także w ramach zrzeszenia w organizacjach współpracujących ze schroniskami dla zwierząt (Corso, 2022). W działaniach pomocowych wolontariuszy uwzględnia się społeczne i międzygatunkowe interakcje jako źródło wrażliwości oraz opiekuńczości, które przekładają się na poprawę dobrostanu zwierząt (Glanville i in., 2020).* 
+*W obszarze działań pomocowych na rzecz zwierząt ważną rolę odgrywają wolontariusze, podejmujący działania indywidualnie, a także w ramach zrzeszenia w organizacjach współpracujących ze schroniskami dla zwierząt. W działaniach pomocowych wolontariuszy uwzględnia się społeczne i międzygatunkowe interakcje jako źródło wrażliwości oraz opiekuńczości, które przekładają się na poprawę dobrostanu zwierząt.* 
 
 Poznajcie naszych podopiecznych: [Gołębie z chatki](https://chatkagolebia.pl/golebie-z-chatki/)
 
