@@ -32,3 +32,5 @@ Konteksty dotyczące interakcji międzygatunkowych wykraczają poza ramy opieki 
 Poznajcie naszych podopiecznych: [Gołębie z chatki](https://chatkagolebia.pl/golebie-z-chatki/)
 
 ## Działania pomocowe
+
+Adopcja gołębia: Warunki adopcji<https://chatkagolebia.pl/adopcja/>
