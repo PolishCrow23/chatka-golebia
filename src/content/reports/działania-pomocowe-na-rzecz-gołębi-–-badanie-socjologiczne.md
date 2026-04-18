@@ -11,6 +11,8 @@ photos: Placeholder
 
 Omawiane badanie: [DZIAŁANIA POMOCOWE NA RZECZ GOŁĘBI WYNIKAJĄCE Z INTERAKCJI SPOŁECZNYCH I MIĘDZYGATUNKOWYCH](https://www.czasopisma.pan.pl/Content/138719/PDF/06_Walkowiak_Piotr_dzialania_archiv.pdf)
 
+*Badanie relacji międzygatunkowych w ramach teorii symbolicznego interakcjonizmu pozostaje stosunkowo nowym i często niedostrzeganym podejściem.*
+
 Artykuł ma na celu ukazanie działań pomocowych wolontariuszy wynikających za
 
 Celem artykułu jest ukazanie działań pomocowych wolontariuszy na rzecz gołębi wynikających zarówno z interakcji społecznych, jak i międzygatunkowych.
@@ -19,9 +21,9 @@ Symboliczny interakcjonizm to ciągła wymiana symbolicznych znaczeń.
 
 Na relację międzygatunkowe składa się...
 
-Badanie relacji międzygatunkowych w ramach teorii symbolicznego interakcjonizmu pozostaje stosunkowo nowym i często niedostrzeganym podejściem.
 
-Konteksty dotyczące interakcji międzygatunkowych wykraczają poza ramy opieki nad zwierzętami towarzyszącymi, wskazując inne obszary ludzkiej działalności względem zwierząt. Jeden z nich stanowią działania pomocowe skierowane zarówno do zwierząt towarzyszących, jak i dziko żyjących.
+
+*Konteksty dotyczące interakcji międzygatunkowych wykraczają poza ramy opieki nad zwierzętami towarzyszącymi, wskazując inne obszary ludzkiej działalności względem zwierząt. Jeden z nich stanowią działania pomocowe skierowane zarówno do zwierząt towarzyszących, jak i dziko żyjących.*
 
 ## Relacja człowiek - ptak
 
