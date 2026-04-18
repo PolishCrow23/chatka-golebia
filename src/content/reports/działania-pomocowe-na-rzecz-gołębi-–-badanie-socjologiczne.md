@@ -9,9 +9,13 @@ description: Badanie socjologiczne zwraca uwagę na zjawisko interakcji ludzi ze
   socjologiczny 2. Relacja człowiek-ptak 3.działania pomocowe.
 photos: Placeholder
 ---
-## Symboliczny interakcjonizm i relacje międzygatunkowe
+## Działania pomocowe i relacje międzygatunkowe
 
 Omawiane badanie: [DZIAŁANIA POMOCOWE NA RZECZ GOŁĘBI WYNIKAJĄCE Z INTERAKCJI SPOŁECZNYCH I MIĘDZYGATUNKOWYCH](https://www.czasopisma.pan.pl/Content/138719/PDF/06_Walkowiak_Piotr_dzialania_archiv.pdf)
+
+Artykuł ma na celu ukazanie działań pomocowych wolontariuszy wynikających za
+
+Celem artykułu jest ukazanie działań pomocowych wolontariuszy na rzecz gołębi wynikających zarówno z interakcji społecznych, jak i międzygatunkowych.
 
 Symboliczny interakcjonizm to ciągła wymiana symbolicznych znaczeń.
 
