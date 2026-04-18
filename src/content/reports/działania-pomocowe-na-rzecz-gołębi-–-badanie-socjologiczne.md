@@ -11,7 +11,7 @@ photos: Placeholder
 ---
 ## Symboliczny interakcjonizm i relacje międzygatunkowe
 
-Omawiane badanie: link
+Omawiane badanie: [DZIAŁANIA POMOCOWE NA RZECZ GOŁĘBI WYNIKAJĄCE Z INTERAKCJI SPOŁECZNYCH I MIĘDZYGATUNKOWYCH](https://www.czasopisma.pan.pl/Content/138719/PDF/06_Walkowiak_Piotr_dzialania_archiv.pdf)
 
 Symboliczny interakcjonizm to...
 
