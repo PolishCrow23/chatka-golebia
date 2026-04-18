@@ -7,7 +7,7 @@ description: Badanie pokazuje różnorodny odbiór społeczny działań pomocowy
   gołębi, wzięli w nim udział wolontariusze z naszej fundacji.
 photos: Placeholder
 ---
-## Działania pomocowe i relacje międzygatunkowe
+## Interakcje społeczne i relacje międzygatunkowe
 
 Omawiane badanie: [DZIAŁANIA POMOCOWE NA RZECZ GOŁĘBI WYNIKAJĄCE Z INTERAKCJI SPOŁECZNYCH I MIĘDZYGATUNKOWYCH](https://www.czasopisma.pan.pl/Content/138719/PDF/06_Walkowiak_Piotr_dzialania_archiv.pdf)
 
