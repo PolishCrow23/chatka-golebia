@@ -4,8 +4,8 @@ pubDate: 04.17.2026
 author: Karolina Mikołajczyk
 image: /images/20250128_190518.jpg
 description: Celem badania jest ukazanie działań pomocowych na rzecz gołębi
-  wynikających zarówno z interakcji społecznych, jak i międzygatunkowych. W
-  badaniu wzięli udział wolontariusze z naszej fundacji!
+  wynikających z perspektywy socjologicznej. W badaniu wzięli udział
+  wolontariusze z naszej fundacji!
 photos: Placeholder
 ---
 ## Działania pomocowe i relacje międzygatunkowe
