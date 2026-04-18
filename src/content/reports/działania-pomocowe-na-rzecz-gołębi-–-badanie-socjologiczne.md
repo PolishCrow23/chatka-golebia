@@ -4,7 +4,7 @@ pubDate: 04.17.2026
 author: Karolina Mikołajczyk
 image: /images/20250128_190518.jpg
 description: Badanie pokazuje różnorodny odbiór społeczny działań pomocowych dla
-  gołębi, wzięli w nim udział wolontariusze z naszej fundacji!
+  gołębi, wzięli w nim udział wolontariusze z naszej fundacji.
 photos: Placeholder
 ---
 ## Działania pomocowe i relacje międzygatunkowe
