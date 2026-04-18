@@ -13,7 +13,7 @@ photos: Placeholder
 
 Omawiane badanie: [DZIAŁANIA POMOCOWE NA RZECZ GOŁĘBI WYNIKAJĄCE Z INTERAKCJI SPOŁECZNYCH I MIĘDZYGATUNKOWYCH](https://www.czasopisma.pan.pl/Content/138719/PDF/06_Walkowiak_Piotr_dzialania_archiv.pdf)
 
-Symboliczny interakcjonizm to...
+Symboliczny interakcjonizm to ciągła wymiana symbolicznych znaczeń.
 
 Na relację międzygatunkowe składa się...
 
@@ -23,6 +23,6 @@ Konteksty dotyczące interakcji międzygatunkowych wykraczają poza ramy opieki 
 
 ## Relacja człowiek - ptak
 
-Wobszarze działań pomocowych na rzecz zwierząt ważną rolę odgrywają wolontariusze,podejmujący działania indywidualnie, a także w ramach zrzeszenia worganizacjach współpracujących ze schroniskami dla zwierząt (Corso, 2022). Wdziałaniach pomocowych wolontariuszy uwzględnia się społeczne i międzygatunkoweinterakcje jako źródło wrażliwości oraz opiekuńczości, które przekładają się napoprawę dobrostanu zwierząt (Glanville i in., 2020). 
+*W obszarze działań pomocowych na rzecz zwierząt ważną rolę odgrywają wolontariusze, podejmujący działania indywidualnie, a także w ramach zrzeszenia w organizacjach współpracujących ze schroniskami dla zwierząt (Corso, 2022). W działaniach pomocowych wolontariuszy uwzględnia się społeczne i międzygatunkowe interakcje jako źródło wrażliwości oraz opiekuńczości, które przekładają się na poprawę dobrostanu zwierząt (Glanville i in., 2020).* 
 
 ## Działania pomocowe
