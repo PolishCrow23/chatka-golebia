@@ -13,16 +13,12 @@ Omawiane badanie: [DZIAŁANIA POMOCOWE NA RZECZ GOŁĘBI WYNIKAJĄCE Z INTERAKCJ
 
 Artykuł ma na celu ukazanie działań pomocowych wolontariuszy:
 
-1. Wynikających z interakcji społecznych - Omówione zostają relacje z weterynarzami, hodowcami oraz osobami postronnymi, które sygnalizują gołębie wymagające pomocy oraz reakcje na działania wolontariuszy.
+1. Wynikających z interakcji społecznych - Omówione zostają relacje wolontariuszy z weterynarzami, hodowcami oraz osobami postronnymi, które sygnalizują gołębie wymagające pomocy.
 2. Wynikających z relacji międzygatunkowych - Czy gołąb może odwzajemniać gesty wolontariusza?
 
 *Badanie relacji międzygatunkowych w ramach teorii symbolicznego interakcjonizmu pozostaje stosunkowo nowym i często niedostrzeganym podejściem.*
 
-Celem artykułu jest ukazanie działań pomocowych wolontariuszy na rzecz gołębi wynikających zarówno z interakcji społecznych, jak i międzygatunkowych.
 
-Symboliczny interakcjonizm to ciągła wymiana symbolicznych znaczeń.
-
-Na relację międzygatunkowe składa się...
 
 *Konteksty dotyczące interakcji międzygatunkowych wykraczają poza ramy opieki nad zwierzętami towarzyszącymi, wskazując inne obszary ludzkiej działalności względem zwierząt. Jeden z nich stanowią działania pomocowe skierowane zarówno do zwierząt towarzyszących, jak i dziko żyjących.*
 
