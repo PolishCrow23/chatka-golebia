@@ -18,21 +18,25 @@ Artykuł ma na celu ukazanie działań pomocowych wolontariuszy:
 
 > *Konteksty dotyczące interakcji międzygatunkowych wykraczają poza ramy opieki nad zwierzętami towarzyszącymi, wskazując inne obszary ludzkiej działalności względem zwierząt. Jeden z nich stanowią działania pomocowe skierowane zarówno do zwierząt towarzyszących, jak i dziko żyjących.*
 
-symboliczny interakcjonizm bazuje na trzech podstawach koncepcyjnych:
 
-1) „istoty ludzkie działają wobec przedmiotów na podstawie znaczeń, jakie
 
-te przedmioty dla nich mają”;
-
-2) „znaczenia takich przedmiotów wywodzą się z interakcji społecznych,
-
-jakie łączą jednostkę z jej otoczeniem”;
-
-3) „ludzie posługują się tymi znaczeniami i modyfikują je w procesach interpre-
-
-tacji, jakim poddają napotykane przedmioty” (Blumer, 2007 \[1969], s. 5–6)
-
-> *Badanie relacji międzygatunkowych w ramach [teorii symbolicznego interakcjonizmu](https://pl.wikipedia.org/wiki/Interakcjonizm_symboliczny) pozostaje stosunkowo nowym i często niedostrzeganym podejściem.*
+> *Badanie relacji międzygatunkowych w ramach [teorii symbolicznego interakcjonizmu](https://pl.wikipedia.org/wiki/Interakcjonizm_symboliczny) pozostaje stosunkowo nowym i często niedostrzeganym podejściem.* 
+>
+> symboliczny interakcjonizm bazuje na trzech podstawach koncepcyjnych:
+>
+> 1. „istoty ludzkie działają wobec przedmiotów na podstawie znaczeń, jakie
+>
+> te przedmioty dla nich mają”;
+>
+> 1. „znaczenia takich przedmiotów wywodzą się z interakcji społecznych,
+>
+> jakie łączą jednostkę z jej otoczeniem”;
+>
+> 1. „ludzie posługują się tymi znaczeniami i modyfikują je w procesach interpre-
+>
+> tacji, jakim poddają napotykane przedmioty” (Blumer, 2007 \[1969], s. 5–6)
+>
+>
 
 ## Relacja człowiek - ptak
 
