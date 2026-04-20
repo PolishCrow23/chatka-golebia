@@ -16,11 +16,11 @@ Artykuł ma na celu ukazanie działań pomocowych wolontariuszy:
 1. Wynikających z interakcji społecznych - Omówione zostają relacje wolontariuszy z weterynarzami, hodowcami oraz osobami postronnymi, które sygnalizują gołębie wymagające pomocy.
 2. Wynikających z relacji międzygatunkowych - Czy gołąb rozumie intencje i gesty człowieka?
 
-> *Konteksty dotyczące interakcji międzygatunkowych wykraczają poza ramy opieki nad zwierzętami towarzyszącymi, wskazując inne obszary ludzkiej działalności względem zwierząt. Jeden z nich stanowią działania pomocowe skierowane zarówno do zwierząt towarzyszących, jak i dziko żyjących.*
+> Konteksty dotyczące interakcji międzygatunkowych wykraczają poza ramy opieki nad zwierzętami towarzyszącymi, wskazując inne obszary ludzkiej działalności względem zwierząt. Jeden z nich stanowią działania pomocowe skierowane zarówno do zwierząt towarzyszących, jak i dziko żyjących.
 
 
 
-> *Badanie relacji międzygatunkowych w ramach [teorii symbolicznego interakcjonizmu](https://pl.wikipedia.org/wiki/Interakcjonizm_symboliczny) pozostaje stosunkowo nowym i często niedostrzeganym podejściem.* 
+> Badanie relacji międzygatunkowych w ramach [teorii symbolicznego interakcjonizmu](https://pl.wikipedia.org/wiki/Interakcjonizm_symboliczny) pozostaje stosunkowo nowym i często niedostrzeganym podejściem. 
 >
 > symboliczny interakcjonizm bazuje na trzech podstawach koncepcyjnych:
 >
