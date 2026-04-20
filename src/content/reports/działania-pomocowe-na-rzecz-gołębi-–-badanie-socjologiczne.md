@@ -24,9 +24,9 @@ Artykuł ma na celu ukazanie działań pomocowych wolontariuszy:
 >
 > Symboliczny interakcjonizm bazuje na trzech podstawach koncepcyjnych:
 >
-> 1.  „istoty ludzkie działają wobec przedmiotów na podstawie znaczeń, jakie te przedmioty dla nich mają”;
-> 2.  „znaczenia takich przedmiotów wywodzą się z interakcji społecznych, jakie łączą jednostkę z jej otoczeniem”;
-> 3.  „ludzie posługują się tymi znaczeniami i modyfikują je w procesach interpretacji, jakim poddają napotykane przedmioty” (Blumer, 2007 \[1969], s. 5–6)
+> 1. „istoty ludzkie działają wobec przedmiotów na podstawie znaczeń, jakie te przedmioty dla nich mają”;
+> 2. „znaczenia takich przedmiotów wywodzą się z interakcji społecznych, jakie łączą jednostkę z jej otoczeniem”;
+> 3. „ludzie posługują się tymi znaczeniami i modyfikują je w procesach interpretacji, jakim poddają napotykane przedmioty” (Blumer, 2007 \[1969], s. 5–6)
 
 ## Relacja człowiek - ptak
 
