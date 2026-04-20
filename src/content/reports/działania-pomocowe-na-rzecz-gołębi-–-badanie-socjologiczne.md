@@ -1,5 +1,5 @@
 ---
-title: Działania pomocowe - badanie socjologiczne
+title: Działania pomocowe na rzecz gołębi - badanie socjologiczne
 pubDate: 04.17.2026
 author: Karolina Mikołajczyk
 image: /images/20250128_190518.jpg
