@@ -30,6 +30,8 @@ Artykuł ma na celu ukazanie działań pomocowych wolontariuszy:
 
 > W obszarze działań pomocowych na rzecz zwierząt ważną rolę odgrywają wolontariusze, podejmujący działania indywidualnie, a także w ramach zrzeszenia w organizacjach współpracujących ze schroniskami dla zwierząt. W działaniach pomocowych wolontariuszy uwzględnia się społeczne i międzygatunkowe interakcje jako źródło wrażliwości oraz opiekuńczości, które przekładają się na poprawę dobrostanu zwierząt. 
 
+
+
 Poznajcie naszych podopiecznych: [Gołębie z chatki](https://chatkagolebia.pl/golebie-z-chatki/)
 
 ## Działania pomocowe
