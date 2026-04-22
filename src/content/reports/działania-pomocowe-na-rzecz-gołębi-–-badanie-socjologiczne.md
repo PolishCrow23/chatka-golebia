@@ -28,7 +28,7 @@ Artykuł ma na celu ukazanie działań pomocowych wolontariuszy:
 
 Przedmiotami mogą być rzeczy, ludzie oraz zwierzęta. *
 
-## Relacja człowiek - ptak
+## Relacja człowiek - ptak <- zmień nazwę
 
 > W obszarze działań pomocowych na rzecz zwierząt ważną rolę odgrywają wolontariusze, podejmujący działania indywidualnie, a także w ramach zrzeszenia w organizacjach współpracujących ze schroniskami dla zwierząt. W działaniach pomocowych wolontariuszy uwzględnia się społeczne i międzygatunkowe interakcje jako źródło wrażliwości oraz opiekuńczości, które przekładają się na poprawę dobrostanu zwierząt. 
 
@@ -43,5 +43,9 @@ Wolontariusze wspierają ptaki na różne sposoby, zmienia też o formę komunik
 Poznajcie naszych podopiecznych: [Gołębie z chatki](https://chatkagolebia.pl/golebie-z-chatki/)
 
 ## Działania pomocowe
+
+### Co się dzieje po otrzymsaniu zgłoszenia?
+
+
 
 Adopcja gołębia: [Warunki adopcji](https://chatkagolebia.pl/adopcja/)
