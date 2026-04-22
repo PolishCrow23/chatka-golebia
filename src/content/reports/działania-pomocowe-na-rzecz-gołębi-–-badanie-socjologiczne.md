@@ -30,6 +30,11 @@ Przedmiotami mogą być rzeczy, ludzie oraz zwierzęta. *
 
 ## Relacja człowiek - ptak <- zmień nazwę
 
+Podejście do gołębi z perspektywy wolontariusza?\
+Jak ludzie odbierają gołębie?\
+Weterynarze, hodowcy, gołymbiorze i relacje z nimi\
+Wolontariusze pierwszego kontaktu, do kogo się zwracamy?
+
 > W obszarze działań pomocowych na rzecz zwierząt ważną rolę odgrywają wolontariusze, podejmujący działania indywidualnie, a także w ramach zrzeszenia w organizacjach współpracujących ze schroniskami dla zwierząt. W działaniach pomocowych wolontariuszy uwzględnia się społeczne i międzygatunkowe interakcje jako źródło wrażliwości oraz opiekuńczości, które przekładają się na poprawę dobrostanu zwierząt. 
 
 Wolontariusze pomagają zwietzętom już od najmłodszych lat* za przykład niech posłuży historia z badania:
