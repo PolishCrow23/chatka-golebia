@@ -53,6 +53,8 @@ Poznajcie naszych podopiecznych: [Gołębie z chatki](https://chatkagolebia.pl/g
 
 ### Co się dzieje po otrzymsaniu zgłoszenia?
 
+### Gołębie azyle
 
+### Gołąb na balkonie, w domu
 
 Adopcja gołębia: [Warunki adopcji](https://chatkagolebia.pl/adopcja/)
