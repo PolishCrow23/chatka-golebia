@@ -36,7 +36,9 @@ Wolontariusze pomagają zwietzętom już od najmłodszych lat* za przykład niec
 
 \*DO REDAKCJI/ROZWINIĘCIA
 
-Wolontariusze wspierają ptaki na różne sposoby, zmienia też o formę komunikacji
+Wracanie w te same moejsca podczas karmienia
+
+Wolontariusze wspierają ptaki na różne sposoby, zmienia też o formę komunikacji*
 
 Poznajcie naszych podopiecznych: [Gołębie z chatki](https://chatkagolebia.pl/golebie-z-chatki/)
 
