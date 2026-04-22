@@ -26,6 +26,8 @@ Artykuł ma na celu ukazanie działań pomocowych wolontariuszy:
 > 2. „znaczenia takich przedmiotów wywodzą się z interakcji społecznych, jakie łączą jednostkę z jej otoczeniem”;
 > 3. „ludzie posługują się tymi znaczeniami i modyfikują je w procesach interpretacji, jakim poddają napotykane przedmioty” (Blumer, 2007 \[1969], s. 5–6)
 
+Przedmiotami mogą być rzeczy, ludzie oraz zwierzęta. 
+
 ## Relacja człowiek - ptak
 
 > W obszarze działań pomocowych na rzecz zwierząt ważną rolę odgrywają wolontariusze, podejmujący działania indywidualnie, a także w ramach zrzeszenia w organizacjach współpracujących ze schroniskami dla zwierząt. W działaniach pomocowych wolontariuszy uwzględnia się społeczne i międzygatunkowe interakcje jako źródło wrażliwości oraz opiekuńczości, które przekładają się na poprawę dobrostanu zwierząt. 
