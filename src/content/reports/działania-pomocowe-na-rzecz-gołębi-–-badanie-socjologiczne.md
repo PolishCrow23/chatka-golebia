@@ -42,6 +42,8 @@ Wolontariusze wspierają ptaki na różne sposoby, zmienia też o formę komunik
 
 Poznajcie naszych podopiecznych: [Gołębie z chatki](https://chatkagolebia.pl/golebie-z-chatki/)
 
+### Ciekawy przypadek hodowców gołębi
+
 ## Działania pomocowe
 
 ### Co się dzieje po otrzymsaniu zgłoszenia?
