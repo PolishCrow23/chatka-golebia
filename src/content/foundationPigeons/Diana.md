@@ -1,6 +1,6 @@
 ---
 pigeon_name: "Diana"
-species: "Columba livia"
+species: "Columba livia (gołąb miejski)"
 gender: "samica"
 birthday: 2019-01-01
 status: "Na wolności"
@@ -9,7 +9,7 @@ pubImage: "/images/birds/Diana/Diana1.jpg"
 description: "Lomi trafił do naszej Członkini Zarządu Klaudii pod koniec..."
 personality_traits: ["Spokojna", "Świetna lotniczka", "Dużo grucha"]
 likes: ["kukurydza"]
-dislikes: ["Bycia łapaną :)"]
+dislikes: ["bycie łapaną :)"]
 in_relationship: ""
 ---
 UWAGA! Drastyczne zdjęcia rany poniżej!
@@ -44,3 +44,5 @@ Widujemy Diana prawie codziennie podczas karmienia stada. Jest wciąż rozpoznaw
 
 ![](/images/birds/Diana/rana5.jpg)
 *Rana (a właściwie jej brak!) na początku marca 2026 r. Sukces!*
+
+Iga
