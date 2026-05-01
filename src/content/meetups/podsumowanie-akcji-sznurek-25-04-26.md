@@ -1,7 +1,7 @@
 ---
 title: Podsumowanie Akcji Sznurek Kraków 25.04.2026
 pubDate: 04.30.2026
-image: /images/img_0142.jpg
+image: /images/img_9858.jpg
 description: Akcja Sznurek odbyła się w Krakowie. Czas na jej podsumowanie!
   Zobacz, ilu gołębiom pomogliśmy.
 ---
