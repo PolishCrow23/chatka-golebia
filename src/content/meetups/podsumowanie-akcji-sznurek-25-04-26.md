@@ -9,6 +9,8 @@ description: Akcja Sznurek odbyła się w Krakowie. Czas na jej podsumowanie!
 
 Akcja Sznurek polega na udzielaniu pomocy gołębiom miejskim. W jej trakcie dokarmiamy ptaki, wśród nich wyłapujemy te z zaplątanymi wokół łapek nitkami i usuwamy je na miejscu lub, w przypadku wrośnięcia sznurka w łapkę, zabezpieczamy w transporterach.
 
+![Gołąb z zaciśniętym na palcu sznurkiem](/images/img_0150.jpg)
+
 W trakcie akcji zabezpieczmy też gołębie wykazujące objawy chorobowe lub zbyt młode żeby mogły funkcjonować w mieście same. Trafiają one do kliniki weterynaryjnej Salamandra, gdzie zyskują profesjonalną pomoc. Organizatorzy wydarzenia, zapewniają uczestnikom bezpłatnie: ziarno dla gołębi, jednorazowe rękawiczki i środki higieny osobistej.
 
 ## Czas na podsumowanie Naszych działań!
