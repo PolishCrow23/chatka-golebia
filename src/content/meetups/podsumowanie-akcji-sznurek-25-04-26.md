@@ -11,7 +11,7 @@ Akcja Sznurek polega na udzielaniu pomocy gołębiom miejskim. W jej trakcie dok
 
 ![Gołąb z zaciśniętym na palcu sznurkiem](/images/img_0150.jpg)
 
-W trakcie akcji zabezpieczmy też gołębie wykazujące objawy chorobowe lub zbyt młode żeby mogły funkcjonować w mieście samodzielnie. Trafiają one do kliniki weterynaryjnej Salamandra, gdzie zyskują profesjonalną pomoc. Organizatorzy wydarzenia, zapewniają uczestnikom bezpłatnie: ziarno dla gołębi, jednorazowe rękawiczki i środki higieny osobistej.
+W trakcie akcji zabezpieczmy też gołębie wykazujące objawy chorobowe lub zbyt młode żeby mogły funkcjonować w mieście samodzielnie. Trafiają one do kliniki weterynaryjnej Salamandra, gdzie zyskują profesjonalną pomoc. Łączymy pomoc gołębiom z edukacją społeczną. Zapewniamy uczestnikom bezpłatnie: ziarno dla gołębi, jednorazowe rękawiczki i środki higieny osobistej..
 
 ## Czas na podsumowanie Naszych działań!
 
@@ -21,9 +21,10 @@ W trakcie akcji zabezpieczmy też gołębie wykazujące objawy chorobowe lub zby
 
 * Wszystkie zostały odrobaczone,
 * 5 z urazami łapek, w tym 3 przypadki amputacji palców spowodowane sznurkami,
-* 3 z nich są osowiałe, przejawiają objawy oddechowe (kaszel, charczenie, obrzęk gardła) oraz zdiagnozowano u nich rzęsistek,
+* 3 z nich są chore na rzęsistek,
 * 2 przypadki posklejanych, martwych piór,
-* 1 z urazem prawego skrzydła,- 1 brak ogona i strup,
+* 1 z urazem prawego skrzydła,
+* 1 brak ogona i strup,
 * 1 bardzo osłabiony, wychudzony, źle rokuje,
 
 
