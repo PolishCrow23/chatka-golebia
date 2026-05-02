@@ -2,16 +2,18 @@
 title: Podsumowanie Akcji Sznurek Kraków 25.04.2026
 pubDate: 04.30.2026
 image: /images/img_9858.jpg
-description: Akcja Sznurek odbyła się w Krakowie. Czas na jej podsumowanie!
-  Zobacz, ilu gołębiom pomogliśmy.
+description: Akcja Sznurek odbyła się 25 kwietnia na krakowskim rynku. Czas na
+  jej podsumowanie! Zobacz, ilu gołębiom pomogliśmy.
 ---
 # Czym jest Akcja Sznurek?
 
-Akcja Sznurek polega na udzielaniu pomocy gołębiommiejskim. W jej trakcie dokarmiamy gołębie, wśród nich wyłapujemy te zzaplątanymi wokół łapek nitkami i usuwamy je na miejscu lub, w przypadkuwrośnięcia sznurka w łapkę, zabezpieczamy w transporterach.
+Akcja Sznurek polega na udzielaniu pomocy gołębiom miejskim. W jej trakcie dokarmiamy gołębie, wśród nich wyłapujemy te z zaplątanymi wokół łapek nitkami i usuwamy je na miejscu lub, w przypadku wrośnięcia sznurka w łapkę, zabezpieczamy w transporterach.
 
 ![Gołąb z zaciśniętym na palcu sznurkiem](/images/img_0150.jpg)
 
-W trakcie akcji zabezpieczmy też gołębie wykazujące objawy chorobowe lub zbyt młode żeby mogły funkcjonować w mieście samodzielnie. Trafiają one do kliniki weterynaryjnej Salamandra, gdzie zyskują profesjonalną pomoc. Łączymy pomoc gołębiom z edukacją społeczną. Zapewniamy uczestnikom bezpłatnie: ziarno dla gołębi, jednorazowe rękawiczki i środki higieny osobistej..
+
+
+W trakcie akcji zabezpieczmy też gołębie wykazujące objawy chorobowe lub zbyt młode żeby mogły samodzielnie funkcjonować. Trafiają one do kliniki weterynaryjnej Salamandra, gdzie zyskują profesjonalną pomoc. Łączymy pomoc gołębiom z edukacją społeczną. Zapewniamy uczestnikom bezpłatnie: ziarno dla gołębi,jednorazowe rękawiczki i środki higieny osobistej.
 
 ## Czas na podsumowanie Naszych działań!
 
