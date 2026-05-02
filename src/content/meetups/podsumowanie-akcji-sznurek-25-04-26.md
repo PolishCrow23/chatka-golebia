@@ -17,16 +17,20 @@ W trakcie akcji zabezpieczmy też gołębie wykazujące objawy chorobowe lub zby
 
 ## Czas na podsumowanie Naszych działań!
 
- Już na miejscu **zdjęliśmy aż 14 sznurków!** 
+Już na miejscu **zdjęliśmy aż 14 sznurków**! 
 
-13 gołębi uzyskało pomoc weterynaryjną:
+**13 gołębi uzyskało pomoc** weterynaryjną:
 
-* Wszystkie zostały odrobaczone,
-* 5 z urazami łapek, w tym 3 przypadki amputacji palców spowodowane sznurkami,
-* 3 z nich są chore na rzęsistek,
-* 2 przypadki posklejanych, martwych piór,
-* 1 z urazem prawego skrzydła,
-* 1 brak ogona i strup,
-* 1 bardzo osłabiony, wychudzony, źle rokuje,
+* Wszystkie zostały odrobaczone, 
+* **5** z urazami łapek, w tym 3 przypadki amputacji palców spowodowane sznurkami, 
+* **3** są chore na rzęsistek, 
+* **2** przypadki posklejanych, martwych piór,
+* **1** z urazem prawego skrzydła,
+* **1** brak ogona i strup, 
+* **1** bardzo osłabiony, wychudzony, źle rokuje,
 
-To dzięki Waszym działaniom gołąbki mają się coraz lepiej a chętnych do wzięcia udziału w akcji wciąż przybywa! Dziękujemy za zaangażowanie
+5 gołębi zdążyło już wrócić na wolność 
+
+Rozsypaliśmy również łącznie 25kg ziarna!
+
+To dzięki Waszym działaniom gołąbki mają się coraz lepiej a chętnych do wzięcia udziału w akcji wciąż przybywa! Dziękujemy za zaangażowanie, kolejna akcja już niebawem.
