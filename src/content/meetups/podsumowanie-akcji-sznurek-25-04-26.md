@@ -7,7 +7,7 @@ description: Akcja Sznurek odbyła się w Krakowie. Czas na jej podsumowanie!
 ---
 # Czym jest Akcja Sznurek?
 
-Akcja Sznurek polega na udzielaniu pomocy gołębiom miejskim. W jej trakcie dokarmiamy ptaki, wśród nich wyłapujemy te z zaplątanymi wokół łapek nitkami i usuwamy je na miejscu lub, w przypadku wrośnięcia sznurka w łapkę, zabezpieczamy w transporterach.
+Akcja Sznurek polega na udzielaniu pomocy gołębiommiejskim. W jej trakcie dokarmiamy gołębie, wśród nich wyłapujemy te zzaplątanymi wokół łapek nitkami i usuwamy je na miejscu lub, w przypadkuwrośnięcia sznurka w łapkę, zabezpieczamy w transporterach.
 
 ![Gołąb z zaciśniętym na palcu sznurkiem](/images/img_0150.jpg)
 
@@ -27,5 +27,4 @@ W trakcie akcji zabezpieczmy też gołębie wykazujące objawy chorobowe lub zby
 * 1 brak ogona i strup,
 * 1 bardzo osłabiony, wychudzony, źle rokuje,
 
-
-To dzięki Waszym działaniom gołąbki mają się coraz lepiej a chętnych do wzięcia udziału w akcji wciąż przybywa! Dziękujemy za zaangażowanie ❤
+To dzięki Waszym działaniom gołąbki mają się coraz lepiej a chętnych do wzięcia udziału w akcji wciąż przybywa! Dziękujemy za zaangażowanie
