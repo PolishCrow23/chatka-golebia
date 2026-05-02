@@ -29,8 +29,10 @@ Już na miejscu **zdjęliśmy aż 14 sznurków**!
 * **1** brak ogona i strup, 
 * **1** bardzo osłabiony, wychudzony, źle rokuje,
 
-5 gołębi zdążyło już wrócić na wolność 
+**5 gołębi** zdążyło już wrócić na wolność 
 
-Rozsypaliśmy również łącznie 25kg ziarna!
+Rozsypaliśmy również łącznie **25kg ziarna**!
 
 To dzięki Waszym działaniom gołąbki mają się coraz lepiej a chętnych do wzięcia udziału w akcji wciąż przybywa! Dziękujemy za zaangażowanie, kolejna akcja już niebawem.
+
+Fot. Jakub Jas
