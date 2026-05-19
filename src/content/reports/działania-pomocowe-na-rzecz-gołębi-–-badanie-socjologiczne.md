@@ -1,5 +1,6 @@
 ---
-title: Działania pomocowe na rzecz gołębi - badanie socjologiczne
+title: Dlaczego pomagamy gołębiom miejskim? Interakcje i jej wpływ na działania
+  pomocowe
 pubDate: 04.17.2026
 author: Karolina Mikołajczyk
 image: /images/20250128_190518.jpg
