@@ -1,6 +1,6 @@
 ---
 title: Czy i jak można oprotestować decyzję Regionalnej Dyrekcji Ochrony
-  Środowiska, jeśli nie jest się wnioskodawcą?
+  Środowiska?
 author: Hanna Cichocka
 pubDate: 05.08.2025
 tag: Prawo

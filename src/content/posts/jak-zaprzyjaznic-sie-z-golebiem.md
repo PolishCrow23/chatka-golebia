@@ -1,6 +1,6 @@
 ---
 title: Jak zaprzyjaźnić się z gołębiem?
-author: Iga Spodzieja
+author: Iga Fant
 pubDate: 2020.11.10
 description: Jak zyskać zaufanie naszego skrzydlatego podpiecznego? Co zrobić, żeby nas polubił?
 longDescription: "Jak zyskać zaufanie naszego skrzydlatego podpiecznego? Co zrobić, żeby nas polubił? W tym poście znajdziecie kilkanaście pomysłów na to, w jaki sposób możemy zaprzyjaźnić się z naszym gołębiem! Pamiętajmy, żeby nigdy nie próbować oswajać gołębia, który ma szansę powrotu na wolność!"

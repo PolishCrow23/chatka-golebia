@@ -47,7 +47,21 @@ const { title, description, maxWidth = '1400px' } = Astro.props;
 
     .cards-grid {
         display: grid;
-        grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
-        gap: 2em;
+        grid-template-columns: 1fr;
+        row-gap: 40px;
+        column-gap: 40px;
+        justify-items: center;
+    }
+
+    @media (min-width: 720px) {
+        .cards-grid {
+            grid-template-columns: 1fr 1fr;
+        }
+    }
+
+    @media (min-width: 1240px) {
+        .cards-grid {
+            grid-template-columns: 1fr 1fr 1fr;
+        }
     }
 </style>

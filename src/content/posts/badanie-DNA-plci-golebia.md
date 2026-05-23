@@ -1,6 +1,6 @@
 ---
 title: Jakiej płci jest mój gołąb? Badanie DNA płci
-author: Iga Spodzieja
+author: Iga Fant
 pubDate: 03.21.2021
 description: Jak dowiedzieć się jakiej płci jest nasz gołąb? Na pomoc przychodzi badanie płci DNA.
 image: /images/posts/badanie-dna-płci/snip-zelda.jpg
@@ -33,9 +33,13 @@ Drugą opcją jest **samodzielne pobranie próbki** i wysłanie jej do laborator
 
 ## Przykład z życia – badanie DNA płci Zeldy
 
-_Zdecydowałam się na zrobienie Zeldzie badania płci w laboratorium [CIGEN – Genetyka Ptaków](http://www.genetykaptakow.pl/). Koszt badania to 55 zł za jednego gołębia. Czas realizacji to 10-12 dni roboczych. Do badania koniecznych jest 3-5 świeżo wyrwanych piór (lepiej wyrwać trochę więcej), najlepsze są nowowyrastające pióra, ale nie są one konieczne do badania. Jeśli nie chce się otrzymać certyfikatu płci gołębia, to w podpunkcie „deklarowany sposób otrzymania wyników badań" trzeba napisać z boku „otrzymanie wyników smsem"._
+_Zdecydowałam się na zrobienie Zeldzie badania płci w laboratorium [CIGEN – Genetyka Ptaków](http://www.genetykaptakow.pl/). Koszt badania to 60 zł za jednego gołębia (badanie płci papug). Czas realizacji to 5-8 dni roboczych (zwykle dłużej). Do badania koniecznych jest 3-5 świeżo wyrwanych piór (lepiej wyrwać trochę więcej), najlepsze są nowowyrastające pióra, ale nie są one konieczne do badania. Nie nadają się natomiast pióra zgubione przez ptaka._
 
-_Do pobierania piór przygotowałam: umytą pęsetę (można też wyrywać pióra rękami), jednorazowe rękawiczki (można wyrywać pióra umytymi rękami bez rękawiczek), woreczek strunowy i kopertę do wysłania piór do laboratorium. Poprosiłam drugą osobę, żeby przytrzymała mi Zeldę. Szukałam na jego klatce piersiowej i szyi nowowyrastających piór. Następnie chwytałam je pęsetą (trzymając za końcówkę pióra, nie nasadę), gwałtownym ruchem wyrywałam je i wsadzałam do woreczka strunowego. Łącznie wyrwałam 10 piór._
+_W przypadku gołębi miejskich i domowych w pole "nazwa łacińska" wpisujemy: Columba livia. W pole "nazwa polska":_
+- _w przypadku gołębi miejskich: gołąb miejski,_
+- _w przypadku gołębi pocztowych i ozdobnych: gołąb domowy._
+
+_Do pobierania piór przygotowałam: umytą pęsetę, woreczek strunowy i kopertę do wysłania piór do laboratorium. Poprosiłam drugą osobę, żeby przytrzymała mi Zeldę. Szukałam na jego klatce piersiowej i szyi nowowyrastających piór. Następnie chwytałam je pęsetą (trzymając za końcówkę pióra, nie nasadę), gwałtownym ruchem wyrywałam je i wsadzałam do woreczka strunowego. Łącznie wyrwałam 10 piór._
 
 _Wypełniłam formularz zgłoszeniowy. Wsadziłam formularz do koperty wraz z piórami w woreczku. Wysłałam kopertę pocztą, a następnie zrobiłam przelew na konto laboratorium. Na wyniki badań czekałam dosyć długo, około 3 tygodnie. Gdy robiłam badanie DNA płci kolejnego gołębia, Myszki, otrzymałam wyniki po 2 tygodniach._
 
@@ -43,7 +47,7 @@ _Wypełniłam formularz zgłoszeniowy. Wsadziłam formularz do koperty wraz z pi
 _Rozwinięte wyrwane pióro i nowowyrastające wyrwane pióro._
 
 ![](/images/posts/badanie-dna-płci/nowe-pióra.jpg)
-_Nowowyrastające pióra na szyi Malinki._
+_Nowowyrastające pióra na szyi [Malinki](/golebie-z-chatki/malinka)._
 
 ![](/images/posts/badanie-dna-płci/certyfikat.jpg)
 _Certyfikat płci Zeldy._

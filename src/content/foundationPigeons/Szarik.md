@@ -1,8 +1,8 @@
 ---
 pigeon_name: "Szarik"
 species: "Columba livia (gołąb miejski)"
-gender: "samiec"
-birthday: 2015-05-01
+gender: "nieznana"
+birthday: "2018-05-01"
 status: "Na wolności"
 arrival_date: 2019-05-01
 pubImage: "/images/birds/Szarik/Szarik1.jpg"

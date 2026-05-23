@@ -6,10 +6,9 @@ import FormattedDateShort from "./essentials/FormattedDateShort.astro";
 type Props = {
     item: CollectionEntry<"posts" | "meetups" | "reports" | "interventions" | "pigeons" | "monthlyReports">;
     backgroundColor?: string;
-    cardHeight?: string;
 }
 
-const { item, backgroundColor, cardHeight = '570px' } = Astro.props
+const { item, backgroundColor } = Astro.props
 
 const baseSlug = item.collection === 'posts'
     ? 'poradniki'
@@ -40,12 +39,12 @@ const truncateWords = (str: string | undefined, wordLimit: number) => {
     }
 };
 
-const truncatedDescription = truncateWords(item.data.description, 20);
+const truncatedDescription = truncateWords(item.data.description, 10);
 
 ---
 
 <a href={`/${baseSlug}/${item.id}`}>
-    <sl-card class="card-overview" style={`--card-height: ${cardHeight}`}>
+    <sl-card class="card-overview">
 
         <div slot="header">
             <div class="image-wrapper">
@@ -53,7 +52,6 @@ const truncatedDescription = truncateWords(item.data.description, 20);
                         slot="image"
                         src={item.data.image}
                         alt={item.data.title}
-                        height={240}
                 />
             </div>
             {item.collection !== 'monthlyReports' && (
@@ -105,7 +103,7 @@ const truncatedDescription = truncateWords(item.data.description, 20);
 
     sl-card::part(base) {
         justify-content: space-between;
-        height: var(--card-height, 570px);
+        height: var(--card-height, 480px);
         transition: all 0.3s ease;
         border: none;
         box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
@@ -125,7 +123,6 @@ const truncatedDescription = truncateWords(item.data.description, 20);
     }
 
     sl-card::part(image) {
-        padding: 1rem;
     }
 
     sl-badge::part(base) {
@@ -172,6 +169,9 @@ const truncatedDescription = truncateWords(item.data.description, 20);
         border: none;
         border-radius: 16px;
         font-size: 14px;
+        font-family: 'Ubuntu Condensed';
+        color: var(--dark-plum);
+        font-weight: 600;
     }
 
     sl-button::part(base):hover {
@@ -204,7 +204,7 @@ const truncatedDescription = truncateWords(item.data.description, 20);
     }
 
     .image-wrapper {
-        padding: 0.8rem;
+        aspect-ratio: 3/2;
     }
 
     @media (max-width: 458px) {
@@ -223,7 +223,7 @@ const truncatedDescription = truncateWords(item.data.description, 20);
         align-items: center;
         max-width: 380px;
         width: 100%;
-        height: 540px;
+        height: 340px;
         border-radius: 16px;
         padding: 12px;
         background-color: #ffffff;
@@ -270,7 +270,10 @@ const truncatedDescription = truncateWords(item.data.description, 20);
     }
 
     img {
-        border-radius: 8px;
+        border-top-left-radius: 16px;
+        border-top-right-radius: 16px;
+        border-bottom-left-radius: 0;
+        border-bottom-right-radius: 0;
         object-fit: cover;
         aspect-ratio: 3/2;
     }
@@ -279,5 +282,11 @@ const truncatedDescription = truncateWords(item.data.description, 20);
         .title {
             font-size: 2.6rem;
         }
+    }
+
+    @media  (min-width: 758px) {
+    sl-card::part(base) {
+        height: var(--card-height, 580px);
+    }
     }
 </style>

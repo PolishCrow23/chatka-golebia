@@ -7,12 +7,18 @@ type Props = {
     posts: CollectionEntry<"posts">[]
 }
 const { posts } = Astro.props;
+
+const featuredIds = ['klatka-dla-golebia', 'majtki-dla-golebi', 'czym-karmic-golebie'];
+const featured = featuredIds
+    .map(id => posts.find(p => p.id === id))
+    .filter((p): p is NonNullable<typeof p> => p !== undefined);
 ---
 
 <SectionWrapper 
     title="Poradniki"
-    showMoreText="Pokaż wszystkie poradniki"
+    showMoreText="POKAŻ WSZYSTKIE PORADNIKI"
     showMoreHref="/poradniki"
+    description="Baza wiedzy na temat opieki nad adoptowanymi i uratowanymi gołębiami, zdrowia, a także porady prawne."
 >
-    {posts.slice(0, 3).map((post) => <Post item={post}/>)}
+    {featured.map((post) => <Post item={post}/>)}
 </SectionWrapper>

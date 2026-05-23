@@ -1,6 +1,6 @@
 ---
 title: Opieka nad pisklętami gołębi
-author: Iga Spodzieja
+author: Iga Fant
 pubDate: 2021.09.20
 description: Czym karmić pisklęta gołębi? Jakie warunki im zapewnić?
 image: /images/posts/pisklęta/pisklęta-małe.jpg

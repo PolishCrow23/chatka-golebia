@@ -3,7 +3,7 @@ pigeon_name: "Gris"
 species: "Columba livia (gołąb domowy)"
 gender: "samica"
 birthday: 2019-01-01
-status: "Za tęczowym mostem"
+status: "Adoptowan(a/y)"
 arrival_date: 2020-10-20
 pubImage: "/images/birds/Gris/Gris1.jpg"
 sideImage1: "/images/birds/Gris/Gris2.png"

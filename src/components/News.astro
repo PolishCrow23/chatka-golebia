@@ -17,8 +17,9 @@ const sortedPosts = [...reports, ...meetups, ...interventions].sort((a, b) =>
 
 <SectionWrapper 
     title="Aktualności"
-    showMoreText="Pokaż wszystkie aktualności"
+    showMoreText="POKAŻ WSZYSTKIE AKTUALNOŚCI"
     showMoreHref="/aktualnosci"
+    description="Nowości w naszej fundacji, wydarzenia, interwencje oraz opisy zdarzeń z Polski."
 >
     {sortedPosts.slice(0, 3).map((post) => <Post item={post} />)}
 </SectionWrapper>

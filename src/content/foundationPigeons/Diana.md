@@ -1,7 +1,7 @@
 ---
 pigeon_name: "Diana"
 species: "Columba livia (gołąb miejski)"
-gender: "samica"
+gender: "nieznana"
 birthday: 2019-01-01
 status: "Na wolności"
 arrival_date: 2026-01-10

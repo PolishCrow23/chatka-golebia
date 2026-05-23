@@ -19,7 +19,7 @@ Gołębie są też niezwykle ciekawskie i będą szczęśliwe, przechadzając si
 3. Klatka o minimalnych wymiarach 107cm długości x 70cm szerokości x 75cm wysokości dla pary gołębi lub 91cm długości x 60cm szerokości x 66cm wysokości dla jednego gołębia. Odpowiednie wyposażenie klatki (półki, gniazdo, zabawki, lusterko, miska do kąpieli).
 4. Podawanie gołębiowi odpowiedniej mieszanki ziaren (ok. 15-16% białka i ok. 3,5% tłuszczu).
 5. Regularne socjalizowanie się z gołębiem (np. karmienie z ręki, zabieranie gołębia do pokoju, w którym przebywają domownicy, naśladowanie mowy ciała gołębia, więcej w [tym](Jak zaprzyjaźnić się z gołębiem) poście).
-6. Zapewnienie opieki weterynaryjnej u [lekarza specjalizującego się w leczeniu ptaków](https://www.google.com/maps/d/u/0/viewer?mid=1Zzb9DNho0v9q7D0_pXt0LlcK_63nr6AI&fbclid=IwAR32zPCt11NYOx5y2agWXJAIbrJ4HoljxS9FBknglcr0JmPpJloeswoyqOU&ll=50.233291637921965%2C20.120435368923747&z=8).
+6. Zapewnienie opieki weterynaryjnej u lekarza specjalizującego się w leczeniu ptaków.
 7. Codzienne wypuszczanie gołębia poza klatkę na kilka godzin.
 8. Wychodzenie z gołębiem na zewnątrz tylko w majtkach dla gołębi i na smyczy.
 9. Niewypuszczanie gołębia na wolne loty.
@@ -27,6 +27,6 @@ Gołębie są też niezwykle ciekawskie i będą szczęśliwe, przechadzając si
 11. Nierozmnażanie gołębi - wymiana jajek prawdziwych na podkładowe w przypadku posiadania samca i samiczki.
 12. Regularne podawanie gołębiowi wapnia i preparatów witaminowych.
 
-Więcej gołębi do adopcji możesz znaleźć na naszej stronie [Chatka gołębia - gołębie do adopcji](https://www.facebook.com/chatkagolebia/) oraz na stronie [Gruszętnik - gołębie w potrzebie](https://www.facebook.com/gruszetnik/)
+Więcej gołębi do adopcji możesz znaleźć na naszej stronie [Chatka gołębia - gołębie do adopcji](https://www.facebook.com/chatkagolebia/).
 
 ![](/images/pages/adopcja/zelda.jpg)

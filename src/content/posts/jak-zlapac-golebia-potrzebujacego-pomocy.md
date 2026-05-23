@@ -1,6 +1,6 @@
 ---
 title: Jak złapać gołębia potrzebującego pomocy?
-author: Iga Spodzieja
+author: Iga Fant
 pubDate: 2020.12.15
 description: Różne sposoby złapania gołębi potrzebujących naszej pomocy.
 image: /images/posts/Jak%20złapać%20gołębia/Dokusia%20złapana.jpg

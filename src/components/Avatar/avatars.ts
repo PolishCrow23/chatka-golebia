@@ -14,18 +14,13 @@ export const avatars: Avatar[] = [
     },
     {
         firstName: "Iga",
-        lastName: "Spodzieja",
+        lastName: "Fant",
         imageSrc: `${imagePath}/Iga.jpg`,
     },
     {
         firstName: "Dariusz",
         lastName: "Grochal",
         imageSrc: `${imagePath}/Dariusz.jpg`,
-    },
-    {
-        firstName: "Julia",
-        lastName: "Ziarkowska",
-        imageSrc: `${imagePath}/Julia.jpg`,
     },
     {
         firstName: "Wiktoria",

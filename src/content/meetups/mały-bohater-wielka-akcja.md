@@ -1,5 +1,6 @@
 ---
 title: Mały bohater, wielka akcja!
+author: Redakcja
 pubDate: 04.03.2026
 image: /images/659203579_1381324664036128_8887349137229619392_n.jpg
 description: Strażacy z Barczewa pokazali, że nawet najmniejsze istoty mogą

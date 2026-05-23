@@ -189,7 +189,7 @@ const truncatedDescription = cardDescription;
                 </div>
             )}
             <div class="detail-item">
-                <strong>Płeć:</strong> {gender}{gender === 'samiec' ? ' ♂️' : gender === 'samica' ? ' ♀️' : ''}
+                <strong>Płeć:</strong> {gender}{gender === 'samiec' ? ' ♂️' : gender === 'samica' ? ' ♀️' : gender === 'nieznana' ? ' ❔' : ''}
             </div>
             {ageDisplay && (
                 <div class="detail-item">
@@ -204,7 +204,7 @@ const truncatedDescription = cardDescription;
             <div class="info-wrapper">
                 {/* Footer content can be added here if needed */}
             </div>
-            <sl-button variant="primary" size="large" pill>Zobacz więcej</sl-button>
+            <sl-button variant="primary" size="large" pill>ZOBACZ WIĘCEJ</sl-button>
         </div>
     </sl-card>
 </a>
@@ -241,9 +241,9 @@ const truncatedDescription = cardDescription;
     }
 
     sl-badge::part(base) {
-        color: var(--peach);
+        color: var(--plum);
         font-weight: bold;
-        background-color: #ffe6dd;
+        background-color: var(--lilac);
         border-radius: 16px;
         padding: 1rem;
     }
@@ -277,6 +277,9 @@ const truncatedDescription = cardDescription;
     sl-button::part(base) {
         padding: 0.1rem;
         background-color: var(--peach);
+        color: var(--plum);
+        font-family: "Ubuntu Condensed";
+        font-weight: 900;
         border: none;
         border-radius: 16px;
         font-size: 14px;
@@ -293,11 +296,14 @@ const truncatedDescription = cardDescription;
     }
 
     .image-wrapper {
-        padding: 0.8rem;
+        padding-bottom: 1rem;
     }
 
     .image-wrapper img {
-        border-radius: 8px;
+        border-top-left-radius: 16px;
+        border-top-right-radius: 16px;
+        border-bottom-left-radius: 0;
+        border-bottom-right-radius: 0;
         object-fit: cover;
         aspect-ratio: 4/3;
     }

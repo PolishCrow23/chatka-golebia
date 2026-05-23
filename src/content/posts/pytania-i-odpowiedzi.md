@@ -1,6 +1,6 @@
 ---
 title: Pytania i odpowiedzi
-author: Iga Spodzieja
+author: Iga Fant
 pubDate: 2021.11.27
 image: /images/posts/Pytania i odpowiedzi/Gris zblizenie.jpg
 description: Podstawowe informacje dotyczące gołębi w formie pytań i odpowiedzi.

@@ -1,6 +1,6 @@
 ---
 title: Polecane
-author: Iga Spodzieja
+author: Iga Fant
 pubDate: 02.20.2021
 description: Polecane strony, artykuły, książki, podcasty i sklepy.
 longDescription: "Polecane strony, artykuły, książki, podcasty i sklepy."

@@ -43,9 +43,10 @@ import Campaigns from "../components/index/Campaigns.astro";
 		<main>
 			<Hero />
 			<FoundPigeon />
-			<News reports={reports} meetups={meetups} interventions={interventions} />
-			<BlogHighlight posts={posts} />
-			<OurStories stories={stories} />
+			<div class="collection-wrapper">
+				<News reports={reports} meetups={meetups} interventions={interventions} />
+				<BlogHighlight posts={posts} />
+			</div>
 		</main>
 		<Footer />
 	</body>
@@ -65,5 +66,9 @@ import Campaigns from "../components/index/Campaigns.astro";
 		background-color: var(--cream);
 		padding-bottom: 6rem;
 		padding: 0;
+	}
+
+	.collection-wrapper {
+		padding-block: 6rem 4rem;
 	}
 </style>
