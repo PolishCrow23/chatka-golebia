@@ -2,7 +2,7 @@
 import SectionWrapper from "../SectionWrapper.astro";
 ---
 
-<SectionWrapper maxWidth="1536px" padding="2rem 1rem" noGrid backgroundColor="linear-gradient(to right, var(--lavender) 50%, var(--peach) 50%)">
+<SectionWrapper maxWidth="900px" padding="2rem 1rem" noGrid backgroundColor="linear-gradient(to right, var(--lavender) 50%, var(--peach) 50%)">
     <div class="container">
         <img src="/images/index/found-pigeon.png" alt="" class="bg-image" />
         <div class="content">
@@ -79,29 +79,7 @@ import SectionWrapper from "../SectionWrapper.astro";
 
     .button { display: inline-block; }
 
-    @media (min-width: 768px) {
-        .container {
-            position: relative;
-            padding: 0;
-            background-color: linear-gradient(to right, var(--lavender) 50%, var(--peach) 50%);
-            border-radius: 0;
-        }
+    @media(min-width: 768px) {
 
-        .bg-image {
-            display: block;
-            width: 100%;
-            height: auto;
-        }
-
-        .content {
-            position: absolute;
-            inset: 0;
-            justify-content: center;
-            padding: 2rem 6%;
-        }
-
-        h2 { font-size: clamp(2.4rem, 4vw, 5rem); }
-        .subtitle { font-size: clamp(1.4rem, 1.8vw, 2rem); }
-        li { font-size: clamp(1.2rem, 1.6vw, 2rem); }
     }
 </style>
