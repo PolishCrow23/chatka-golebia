@@ -15,6 +15,6 @@ Mieszkańcy miasta poinformowali nas o decyzji Rady Miejskiej w sprawie wprowadz
 Nasza fundacja po otrzymaniu informacji przez nasze media społecznościowe podjęła kroki prawne w tej sprawie.
 
 
-Misją fundacji jest dbanie o dobrostan gołębi miejskich i innych ptaków. W rosnącej przestrzeni miejskiej coraz trudniejszym dostępie do pożywienia świadome dokarmianie i zapewnianie dostępu do wody pozostaje kluczowe dla dobrostanu ptaków.
+Misją fundacji jest dbanie o dobrostan gołębi miejskich i innych ptaków. W rosnącej przestrzeni miejskiej coraz trudniejszy staje się dostęp do pożywienia. Świadome dokarmianie i zapewnianie dostępu do wody pozostaje kluczowe dla dobrostanu ptaków.
 
 Link do pełnego artykułu na stronie znajduje się tutaj: <https://elka.pl/content/view/130186/81/>
