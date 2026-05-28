@@ -12,8 +12,8 @@ Mieszkańcy miasta poinformowali nas o decyzji Rady Miejskiej w sprawie wprowadz
 
 > Za uchwałą głosowało 18 radnych, przeciw był jedynie Roman Krupieńczyk.
 
-Nasza fundacja po otrzymaniu informacji przez nasze media społecznościowe podjęła kroki prawne w tej sprawie.
-
+Nasza fundacja po otrzymaniu informacji przez nasze media społecznościowe podjęła kroki prawne w tej sprawie.\
+Dariusz Grochal, wiceprezes fundacji, przygotował (...).\
 
 Misją fundacji jest dbanie o dobrostan gołębi miejskich i innych ptaków. W rosnącej przestrzeni miejskiej coraz trudniejszy staje się dostęp do pożywienia. Świadome dokarmianie i zapewnianie dostępu do wody pozostaje kluczowe dla dobrostanu ptaków.
 
