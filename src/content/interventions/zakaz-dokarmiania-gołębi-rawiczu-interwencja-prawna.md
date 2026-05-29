@@ -1,7 +1,7 @@
 ---
 title: Zakaz dokarmiania gołębi Rawiczu - Interwencja prawna
 pubDate: 05.29.2026
-author: Dariusz Grochal
+author: Karolina Mikołajczyk
 image: gołąb-na-trawie-2.jpg
 description: Radio Elka o naszej interwencji w sprawie zakazu dokarmiania gołębi w Rawiczu
 photos: Dariusz Grochal
