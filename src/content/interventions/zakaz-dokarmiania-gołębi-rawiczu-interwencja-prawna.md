@@ -12,6 +12,6 @@ Rada Miejska w Rawiczu przyjęła zmiany w regulaminie korzystania z rynku, wpro
 
 Nasza fundacja po otrzymaniu informacji o przyjętej uchwale podjęła kroki prawne w tej sprawie. W pierwszej kolejności skierowaliśmy do Rady Miejskiej Gminy Rawicz wniosek o podjęcie uchwały uchylającej. Jeżeli Radni nie zdecydują się na podjęcie takiej uchwały, złożymy wniosek do Sądu Administracyjnego. W naszej ocenie uchwała ta jest wątpliwa prawnie.
 
-Link do pełnego artykułu na stronie elka: [https://elka.pl/content/view/130186/81/](<>)
+Link do pełnego artykułu na stronie elka: <https://elka.pl/content/view/130186/81/>
 
 Będziemy na bieżąco informować o nowych krokach w tej sprawie.
