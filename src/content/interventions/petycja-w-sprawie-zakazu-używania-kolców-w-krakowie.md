@@ -59,9 +59,9 @@ Z uwagi na powyższe, wnosimy o:
 
 \    trudny – demontaż wymagający specjalistycznego sprzętu, w tym podnośników, rusztowań lub prac wysokościowych;
 
-3. utworzenie i prowadzenie strony informacyjnej w Biuletynie Informacji Publicznej Miasta Krakowa, poświęconej programowi demontażu metalowych kolców jako zabezpieczeń przed bytowaniem ptaków, wraz z aktualizacją danych przeprowadzaną nie rzadziej niż raz na trzy miesiące;
+3. **utworzenie i prowadzenie strony informacyjnej w Biuletynie Informacji Publicznej Miasta Krakowa**, poświęconej programowi demontażu metalowych kolców jako zabezpieczeń przed bytowaniem ptaków, wraz z aktualizacją danych przeprowadzaną nie rzadziej niż raz na trzy miesiące;
 
-4.  wprowadzenie okresu przejściowego na realizację programu likwidacji metalowych kolców jako zabezpieczeń przed bytowaniem ptaków: 
+4.  **wprowadzenie okresu przejściowego** na realizację programu likwidacji metalowych kolców jako zabezpieczeń przed bytowaniem ptaków: 
 
 \    dla kategorii „łatwy” – niezwłocznie, 
 
