@@ -4,7 +4,7 @@ pubDate: 05.31.2026
 author: Dariusz Grochal
 image: 706990300_1665819321137225_6651488220354823954_n-1-.jpg
 description: Nasza fundacja przygotowała petycję do Rady Miasta Krakowa w
-  sprawie zastąpienia kolców bezpiecznymi alternatywami
+  sprawie wprowadzenia zakazu używania kolców na budynkach
 photos: Iga Fant
 ---
 # Treść petycji
