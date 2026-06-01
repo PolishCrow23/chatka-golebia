@@ -21,7 +21,7 @@ Rada Miasta Krakowa \
 za pośrednictwem \
 Przewodniczącego Rady Miasta Krakowa
 
-**PETYCJA** 
+## **PETYCJA** 
 
 w interesie publicznym
 
@@ -31,7 +31,7 @@ wnoszona na podstawie art. 2 ust. 1 i 2 oraz art. 4 ustawy z dnia 11 lipca 2014 
 
 *Podmiotu wnoszącego petycję.*
 
-**PRZEDMIOT PETYCJI** 
+## **PRZEDMIOT PETYCJI** 
 
 Działając w interesie publicznym, w imieniu Fundacji Chatka Gołębia, zwracamy się z petycją o podjęcie przez Radę Miasta Krakowa uchwały w sprawie **wprowadzenia zakazu stosowania metalowych kolców jako zabezpieczeń przed bytowaniem ptaków na obiektach budowlanych, w tym budynkach, budowlach i innych nieruchomościach, będących własnością lub pozostających w zarządzie Gminy Miejskiej Kraków.** 
 
@@ -45,7 +45,7 @@ c) właściwych samorządowych osób prawnych, zawsze, gdy taka możliwość wyn
 
 do przeprowadzenia inwentaryzacji istniejących obecnie na obiektach budowlanych, w tym budynkach, budowlach i innych nieruchomościach, metalowych kolców jako zabezpieczeń przed bytowaniem ptaków oraz wdrożenia programu ich stopniowego demontażu i zastępowania rozwiązaniami bezpiecznymi dla ptaków, tj. drucianymi spiralami.
 
-**ŻĄDANIE PETYCJI**
+## **ŻĄDANIE PETYCJI**
 
 Z uwagi na powyższe, wnosimy o: 
 
@@ -65,7 +65,7 @@ Z uwagi na powyższe, wnosimy o:
 
 5.  **zastąpienie** – w razie konieczności – **metalowych kolców rozwiązaniami alternatywnymi,** które nie powodują okaleczania ani śmierci ptaków, np. modułami spiralnymi.
 
-**UZASADNIENIE**
+## **UZASADNIENIE**
 
 Obowiązujące przepisy prawa nie określają obecnie katalogu dopuszczalnych metod zabezpieczania budynków przed obecnością ptaków, pozostawiając właścicielom i zarządcom obiektów znaczną swobodę wyboru stosowanych rozwiązań.
 
@@ -131,23 +131,3 @@ wiceprezes zarządu
 (własnoręczny podpis)
 
 Wiceprezes Zarządu Fundacji Chatka Gołębia
-
-
-
-## Zdjęcia petycji
-
-![](706849690_1726000581935012_7210079890022484379_n.jpg)
-
-![](707445138_26840515815558840_715821067794524862_n.jpg)
-
-![](706035275_1008918785434727_6510632784521991024_n.jpg)
-
-![](706648335_1296693579218875_6253829752425047707_n.jpg)
-
-![](705319820_1216948417104767_7485427664933058122_n.jpg)
-
-![](707884834_2213662769403235_139605198696376792_n.jpg)
-
-![](708592689_1968736464518448_2658889270837126919_n.jpg)
-
-![](706855927_1308436674757436_5490035630609800895_n.jpg)
