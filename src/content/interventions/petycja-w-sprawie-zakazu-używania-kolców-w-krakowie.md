@@ -98,9 +98,9 @@ Pierwszym krokiem w kierunku realizacji programu demontażu metalowych kolców j
   Kolejno, dojść powinno do przeprowadzenia prac polegających na demontażu metalowych kolców i – ewentualnie – montażu innych (bezpiecznych dla ptaków) zabezpieczeń, tj. drucianych spiral.
 
    Termin na przeprowadzenie inwentaryzacji w ocenie Fundacji powinien być określony w uchwale w sposób precyzyjny, natomiast – w zależności od kategorii, do której w trakcie inwentaryzacji zostaną zakwalifikowane istniejące zabezpieczenia – konieczne jest wprowadzenie odmiennych terminów na przeprowadzenie samej likwidacji metalowych kolców jako zabezpieczeń przed bytowaniem ptaków. Demontaż zabezpieczeń powinien odbyć się:
-* \    dla kategorii „łatwy” – niezwłocznie,
-* \    dla kategorii „średni” – w terminie do 3 lat,
-* \    dla kategorii „trudny” – w terminie do 10 lat, z zastrzeżeniem, że likwidacja metalowych kolców jako zabezpieczeń przed bytowaniem ptaków zostanie dokonana również w ramach przeprowadzonych we wcześniejszym terminie prac konserwatorskich, remontowych, modernizacyjnych, rewitalizacyjnych lub związanych z bieżącym utrzymaniem obiektów budowlanych;
+*   dla kategorii „łatwy” – niezwłocznie,
+*   dla kategorii „średni” – w terminie do 3 lat,
+*   dla kategorii „trudny” – w terminie do 10 lat, z zastrzeżeniem, że likwidacja metalowych kolców jako zabezpieczeń przed bytowaniem ptaków zostanie dokonana również w ramach przeprowadzonych we wcześniejszym terminie prac konserwatorskich, remontowych, modernizacyjnych, rewitalizacyjnych lub związanych z bieżącym utrzymaniem obiektów budowlanych;
 
    W celu realizacji programu demontażu metalowych kolców jako zabezpieczeń przed bytowaniem ptaków, konieczne wydaje się zobowiązanie:
 
