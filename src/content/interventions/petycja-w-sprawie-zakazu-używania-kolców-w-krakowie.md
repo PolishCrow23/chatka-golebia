@@ -111,7 +111,7 @@ Pierwszym krokiem w kierunku realizacji programu demontażu metalowych kolców j
 
 
 
-W celu realizacji programu demontażu metalowych kolców jako zabezpieczeń przed bytowaniem ptaków, konieczne wydaje się zobowiązanie:
+   W celu realizacji programu demontażu metalowych kolców jako zabezpieczeń przed bytowaniem ptaków, konieczne wydaje się zobowiązanie:
 
 a) Prezydenta Miasta Krakowa jako podmiotu gospodarującego gminnym zasobem nieruchomości (stosownie do treści art. 25 ust. 1 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, t.j. Dz. U. z 2026 r. poz. 399),
 
