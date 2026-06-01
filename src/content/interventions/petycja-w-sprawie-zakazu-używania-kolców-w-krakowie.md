@@ -53,9 +53,9 @@ Z uwagi na powyższe, wnosimy o:
 
 2.  **przeprowadzenie inwentaryzacji** obiektów budowlanych, w tym budynków, budowli i innych nieruchomości należących do Gminy Miejskiej Kraków (niezależnie od tytułu prawnego i jednostki zarządzającej) pod kątem występowania metalowych kolców jako zabezpieczeń przed bytowaniem ptaków **w terminie do końca 2028 roku** wraz z określeniem zakresu prac koniecznych do ich usunięcia, według następującej klasyfikacji: 
 
-* łatwy – demontaż możliwy niezwłocznie, bez użycia specjalistycznego sprzętu (np. kolce zamontowane na parapetach, gzymsach dostępnych z poziomu okna lub balkonu),
-* średni – demontaż wymagający użycia drabiny lub podstawowego sprzętu technicznego, 
-* trudny – demontaż wymagający specjalistycznego sprzętu, w tym podnośników, rusztowań lub prac wysokościowych;
+* **łatwy** – demontaż możliwy niezwłocznie, bez użycia specjalistycznego sprzętu (np. kolce zamontowane na parapetach, gzymsach dostępnych z poziomu okna lub balkonu),
+* **średni** – demontaż wymagający użycia drabiny lub podstawowego sprzętu technicznego, 
+* **trudny** – demontaż wymagający specjalistycznego sprzętu, w tym podnośników, rusztowań lub prac wysokościowych;
 
 3. **utworzenie i prowadzenie strony informacyjnej w Biuletynie Informacji Publicznej Miasta Krakowa**, poświęconej programowi demontażu metalowych kolców jako zabezpieczeń przed bytowaniem ptaków, wraz z aktualizacją danych przeprowadzaną nie rzadziej niż raz na trzy miesiące;
 
