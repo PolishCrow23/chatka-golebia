@@ -61,11 +61,9 @@ Z uwagi na powyższe, wnosimy o:
 
 4.  **wprowadzenie okresu przejściowego** na realizację programu likwidacji metalowych kolców jako zabezpieczeń przed bytowaniem ptaków: 
 
-\    dla kategorii „łatwy” – niezwłocznie, 
-
-\    dla kategorii „średni” – w terminie do 3 lat, 
-
-\    dla kategorii „trudny” – w terminie do 10 lat, z zastrzeżeniem, że likwidacja metalowych kolców jako zabezpieczeń przed bytowaniem ptaków zostanie dokonana każdorazowo w ramach przeprowadzanych we wcześniejszym terminie prac konserwatorskich, remontowych, modernizacyjnych, rewitalizacyjnych lub związanych z bieżącym utrzymaniem obiektów budowlanych; 
+* dla kategorii „łatwy” – niezwłocznie, 
+* dla kategorii „średni” – w terminie do 3 lat, 
+* dla kategorii „trudny” – w terminie do 10 lat, z zastrzeżeniem, że likwidacja metalowych kolców jako zabezpieczeń przed bytowaniem ptaków zostanie dokonana każdorazowo w ramach przeprowadzanych we wcześniejszym terminie prac konserwatorskich, remontowych, modernizacyjnych, rewitalizacyjnych lub związanych z bieżącym utrzymaniem obiektów budowlanych; 
 
 5.  ** zastąpienie** – w razie konieczności – **metalowych kolców rozwiązaniami alternatywnymi,** które nie powodują okaleczania ani śmierci ptaków, np. modułami spiralnymi.
 
