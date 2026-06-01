@@ -69,9 +69,9 @@ Z uwagi na powyższe, wnosimy o:
 
 \    dla kategorii „trudny” – w terminie do 10 lat, z zastrzeżeniem, że likwidacja metalowych kolców jako zabezpieczeń przed bytowaniem ptaków zostanie dokonana każdorazowo w ramach przeprowadzanych we wcześniejszym terminie prac konserwatorskich, remontowych, modernizacyjnych, rewitalizacyjnych lub związanych z bieżącym utrzymaniem obiektów budowlanych; 
 
-5.   zastąpienie – w razie konieczności – metalowych kolców rozwiązaniami alternatywnymi, które nie powodują okaleczania ani śmierci ptaków, np. modułami spiralnymi.
+5.  ** zastąpienie** – w razie konieczności – **metalowych kolców rozwiązaniami alternatywnymi,** które nie powodują okaleczania ani śmierci ptaków, np. modułami spiralnymi.
 
-UZASADNIENIE
+**UZASADNIENIE**
 
 Obowiązujące przepisy prawa nie określają obecnie katalogu dopuszczalnych metod zabezpieczania budynków przed obecnością ptaków, pozostawiając właścicielom i zarządcom obiektów znaczną swobodę wyboru stosowanych rozwiązań.
 
