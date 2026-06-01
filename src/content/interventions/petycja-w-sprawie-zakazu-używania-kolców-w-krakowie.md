@@ -93,7 +93,7 @@ Jak podkreślono również w cytowanej powyżej Opinii, „wszystkie gatunki pta
 
 
 
-Uchwała powinna wprowadzać i regulować zasady funkcjonowania programu demontażu metalowych kolców jako zabezpieczeń przed bytowaniem ptaków.
+Uchwała powinna wprowadzać i regulować zasady funkcjonowania **programu demontażu metalowych kolców jako zabezpieczeń przed bytowaniem ptaków.**
 
 Pierwszym krokiem w kierunku realizacji programu demontażu metalowych kolców jako zabezpieczeń przed bytowaniem ptaków powinno być przeprowadzenie – w terminie do końca 2028 roku – inwentaryzacji obiektów budowlanych, w tym budynków, budowli i innych nieruchomości należących do Gminy Miejskiej Kraków, niezależnie od tytułu prawnego, pod kątem występowania metalowych kolców jako zabezpieczeń przed bytowaniem ptaków, w celu określenia zakresu prac koniecznych do ich usunięcia, według następującej klasyfikacji:
 
@@ -105,11 +105,9 @@ Pierwszym krokiem w kierunku realizacji programu demontażu metalowych kolców j
 
    Termin na przeprowadzenie inwentaryzacji w ocenie Fundacji powinien być określony w uchwale w sposób precyzyjny, natomiast – w zależności od kategorii, do której w trakcie inwentaryzacji zostaną zakwalifikowane istniejące zabezpieczenia – konieczne jest wprowadzenie odmiennych terminów na przeprowadzenie samej likwidacji metalowych kolców jako zabezpieczeń przed bytowaniem ptaków. Demontaż zabezpieczeń powinien odbyć się:
 
-\    dla kategorii „łatwy” – niezwłocznie,
-
-\    dla kategorii „średni” – w terminie do 3 lat,
-
-\    dla kategorii „trudny” – w terminie do 10 lat, z zastrzeżeniem, że likwidacja metalowych kolców jako zabezpieczeń przed bytowaniem ptaków zostanie dokonana również w ramach przeprowadzonych we wcześniejszym terminie prac konserwatorskich, remontowych, modernizacyjnych, rewitalizacyjnych lub związanych z bieżącym utrzymaniem obiektów budowlanych;
+* \    dla kategorii „łatwy” – niezwłocznie,
+* \    dla kategorii „średni” – w terminie do 3 lat,
+* \    dla kategorii „trudny” – w terminie do 10 lat, z zastrzeżeniem, że likwidacja metalowych kolców jako zabezpieczeń przed bytowaniem ptaków zostanie dokonana również w ramach przeprowadzonych we wcześniejszym terminie prac konserwatorskich, remontowych, modernizacyjnych, rewitalizacyjnych lub związanych z bieżącym utrzymaniem obiektów budowlanych;
 
 
 
