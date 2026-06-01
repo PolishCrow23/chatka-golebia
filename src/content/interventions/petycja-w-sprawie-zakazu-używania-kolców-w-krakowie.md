@@ -25,7 +25,7 @@ Przewodniczącego Rady Miasta Krakowa
 
 w interesie publicznym
 
- wnoszona na podstawie art. 2 ust. 1 i 2 oraz art. 4 ustawy z dnia 11 lipca 2014 r. o petycjach (Dz.U. z 2018 r. poz. 870). 
+wnoszona na podstawie art. 2 ust. 1 i 2 oraz art. 4 ustawy z dnia 11 lipca 2014 r. o petycjach (Dz.U. z 2018 r. poz. 870). 
 
 *Stosownie do treści art. 4 ust. 3 ustawy o petycjach, zgadzam się na ujawnienie na stronie internetowej podmiotu rozpatrującego petycję lub urzędu go obsługującego danych osobowych* 
 
