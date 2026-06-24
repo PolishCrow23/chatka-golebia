@@ -1,6 +1,5 @@
 ---
-title: Nasza fundacja oskarżycielem posiłkowym w sprawie brutalnego zabicia
-  zwierzęcia - Interwencja prawna
+title: Działania w sprawie brutalnego zabicia zwierzęcia - Interwencja prawna
 pubDate: 06.24.2026
 author: Karolina Mikołajczyk
 image: 721089780_10243003028955936_6279153199413397132_n.jpg
