@@ -7,7 +7,7 @@ description: Nasza fundacja będzie działała w sprawie brutalnego zabicia
   zwierzęcia jako oskarżyciel posiłkowy.
 photos: Irmina Czy
 ---
-Policja przyjęła zgłoszenie w sprawie zakatowania gołębia.
+Fundacja przystąpi do sprawy brutalnego zabicia zwierzęcia w charakterze oskarżyciela posiłkowego. Naszym celem jest ochrona zwierząt i monitorowanie przebiegu postępowania.
 
 Do sklepu sieci "Nasz" sklep na ul. Miechowity 21a wpadł gołąb. Sprawca zdarzenia zaczął uderzać ptaka kijem od szczotki, złapał i rzucił nim o jezdnię. Gołąb nie przeżył.
 
