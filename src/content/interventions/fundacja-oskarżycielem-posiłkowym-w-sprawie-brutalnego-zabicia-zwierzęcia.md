@@ -35,9 +35,9 @@ Kraków, dnia 15 czerwca 2026 r.
 **Fundacja Chatka Gołębia**\
 ul. Promienna 26/7,33-100 Tarnów,\
 KRS: 0001104995\
-*reprezentowana przez*\
-Wiceprezesa Zarządu\
-Dariusza Grochala\
+***reprezentowana przez***\
+**Wiceprezesa Zarządu**\
+**Dariusza Grochala**\
 e-mail: fundacja@chatkagolebia.pl
 
 Komisariat Policji III w KrakowieUl. Strzelców 1631-422 Kraków
