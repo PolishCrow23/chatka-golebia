@@ -9,4 +9,6 @@ photos: Irmina Czy
 ---
 Policja przyjęła zgłoszenie w sprawie zakatowania gołębia.
 
-Do sklepu sieci "Nasz" sklep na ul. Miechowity 21a wpadł gołąb.  zaczął uderzać ptaka kijem od szczotki, złapał i cisnął nim o jezdnię. Gołąb nie przeżył.
+Do sklepu sieci "Nasz" sklep na ul. Miechowity 21a wpadł gołąb. Sprawca zdarzenia zaczął uderzać ptaka kijem od szczotki, złapał i cisnął nim o jezdnię. Gołąb nie przeżył.
+
+Zgodnie z art.
