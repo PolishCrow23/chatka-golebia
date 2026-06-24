@@ -17,10 +17,12 @@ Zabicie zwierzęcia bez uzasadnionej przyczyny lub w sposób niehumanitarny jest
 
 ## Interwencja fundacji
 
-Zgodnie z [art. 39 ustawy o ochronie zwierząt](https://lexlege.pl/ustawa-o-ochronie-zwierzat/art-39/) Przystąpimy do sprawy dotyczącej brutalnego zabicia zwierzęcia w charakterze oskarżyciela posiłkowego. Naszym celem jest reprezentowanie interesu społecznego oraz działanie na rzecz egzekwowania przepisów chroniących zwierzęta przed przemocą.
-
-fundacja będzie działała w postępowaniu sądowym jako oskarżyciel posiłkowy.
+Zgodnie z [art. 39 ustawy o ochronie zwierząt](https://lexlege.pl/ustawa-o-ochronie-zwierzat/art-39/) przystąpimy do sprawy dotyczącej brutalnego zabicia zwierzęcia w charakterze oskarżyciela posiłkowego. Naszym celem jest reprezentowanie interesu społecznego oraz działanie na rzecz egzekwowania przepisów chroniących zwierzęta przed przemocą.
 
 Jako organizacja zajmująca się ochroną zwierząt będziemy monitorować przebieg postępowania oraz wspierać działania zmierzające do wyjaśnienia okoliczności zdarzenia. Udział organizacji społecznej w charakterze oskarżyciela posiłkowego pozwala aktywnie uczestniczyć w procesie karnym dotyczącym znęcania się nad zwierzętami i innych przestępstw przeciwko zwierzętom.
 
-O dalszych działaniach oraz przebiegu sprawy będziemy informować na bieżąco.
+O dalszych działaniach oraz przebiegu sprawy będziemy informować na bieżąco na naszych social mediach.
+
+## Wstąpienie do sprawy
+
+![](pismo.jpg)
