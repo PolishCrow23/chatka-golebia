@@ -3,7 +3,7 @@ title: Działania w sprawie brutalnego zabicia gołębia - Interwencja prawna
 pubDate: 06.24.2026
 author: Karolina Mikołajczyk
 image: 721089780_10243003028955936_6279153199413397132_n.jpg
-description: Fundacja działa w sprawie brutalnego zabicia zwierzęcia jako
+description: Przystępujemy do sprawy brutalnego zabicia zwierzęcia jako
   oskarżyciel posiłkowy.
 photos: Irmina Czy
 ---
