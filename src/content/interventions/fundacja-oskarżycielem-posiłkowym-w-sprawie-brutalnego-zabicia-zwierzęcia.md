@@ -25,4 +25,4 @@ O dalszych działaniach oraz przebiegu sprawy będziemy informować na bieżąco
 
 ## Wstąpienie do sprawy
 
-![](pismo.jpg)
+![](pismo.jpg "Wstąpienie do sprawy")
