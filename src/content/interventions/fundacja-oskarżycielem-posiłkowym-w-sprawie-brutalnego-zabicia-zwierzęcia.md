@@ -3,7 +3,7 @@ title: Nasza fundacja oskarżycielem posiłkowym w sprawie brutalnego zabicia zw
 pubDate: 06.24.2026
 author: Karolina Mikołajczyk
 image: 721089780_10243003028955936_6279153199413397132_n.jpg
-description: Będziemy działać w sprawie brutalnego zabicia zwierzęcia jako
+description: Będziemy działać w sprawie brutalnego zakatowania zwierzęcia jako
   oskarżyciel posiłkowy.
 photos: Irmina Czy
 ---
