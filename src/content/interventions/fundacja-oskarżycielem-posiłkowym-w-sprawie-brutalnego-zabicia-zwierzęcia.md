@@ -44,7 +44,7 @@ e-mail: fundacja@chatkagolebia.pl
 Ul. Strzelców 16\
 31-422 Kraków
 
-Sygn. akt: MKF-D-2343/26
+**Sygn. akt: MKF-D-2343/26**
 
 ### WSTĄPIENIE DO SPRAWY
 
