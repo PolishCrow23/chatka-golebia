@@ -7,7 +7,7 @@ description: "Przystępujemy do sprawy brutalnego zabicia zwierzęcia jako
   oskarżyciel posiłkowy. "
 photos: Irmina Czy
 ---
-Fundacja Chatka Gołębia przystąpi do sprawy brutalnego zabicia zwierzęcia w charakterze oskarżyciela posiłkowego. Naszym celem jest wspieranie działań na rzecz ochrony zwierząt i monitorowanie przebiegu postępowania.
+Fundacja Chatka Gołębia przystąpi do sprawy brutalnego zabicia zwierzęcia w charakterze oskarżyciela posiłkowego. Naszym celem jest egzekwowanie przepisów dotyczących ochrony zwierząt i monitorowanie przebiegu postępowania.
 
 Do sklepu sieci "Nasz" sklep na ul. Miechowity 21a wpadł gołąb. Sprawca zdarzenia zaczął uderzać ptaka kijem od szczotki, złapał i rzucił nim o jezdnię. Gołąb nie przeżył.
 
