@@ -40,7 +40,9 @@ KRS: 0001104995\
 **Dariusza Grochala**\
 e-mail: fundacja@chatkagolebia.pl
 
-Komisariat Policji III w KrakowieUl. Strzelców 1631-422 Kraków
+**Komisariat Policji III w Krakowie**\
+Ul. Strzelców 16\
+31-422 Kraków
 
 Sygn. akt: MKF-D-2343/26
 
