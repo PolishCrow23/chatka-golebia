@@ -53,9 +53,9 @@ Działając w imieniu Fundacji Chatka Gołębia - organizacji społecznej, któr
 1. Informuję, że **Fundacja Chatka Gołębia będzie wykonywać w niniejszym postępowaniu uprawnienia pokrzywdzonego** z mocy art. 39 ustawy z dnia 21 sierpnia 1997 r. o ochronie zwierząt (t.j. Dz. U. z 2025 r. poz. 1844), a także będzie **działała jako oskarżyciel posiłkowy w postępowaniu sądowym;**
 2. Wnoszę o informowanie przedstawiciela Fundacji o terminach przeprowadzanych czynności procesowych i czynności dowodowych oraz umożliwienie wzięcia w nich udziału, jak również doręczanie wszelkich orzeczeń, zarządzeń, zawiadomień i odpisów doręczanych stronom.
 
-Fundacja Chatka GołębiaDariusz Grochalwiceprezes zarządu*(podpis)*Dariusz Grochal
+Fundacja Chatka Gołębia Dariusz Grochal wiceprezes zarządu *(podpis)* Dariusz Grochal
 
-Załącznik:Odpis z KRS dla Pokrzywdzonego.
+Załącznik: Odpis z KRS dla Pokrzywdzonego.
 
 Otrzymują:
 
