@@ -9,6 +9,8 @@ photos: Irmina Czy
 ---
 Do sklepu sieci "Nasz" sklep na ul. Miechowity 21a wpadł gołąb. Sprawca zdarzenia zaczął uderzać ptaka kijem od szczotki, złapał i rzucił nim o jezdnię. Gołąb nie przeżył.
 
+Zabicie zwierzęcia bez uzasadnionej przyczyny lub w sposób niehumanitarny jest w Polsce przestępstwem ściganym z urzędu na mocy ustawy o ochronie zwierząt. Policja przyjęła zgłoszenie. 
+
 Zgodnie z [art. 39 ustawy o ochronie zwierząt](https://lexlege.pl/ustawa-o-ochronie-zwierzat/art-39/) Przystąpimy do sprawy dotyczącej brutalnego zabicia zwierzęcia w charakterze oskarżyciela posiłkowego. Naszym celem jest reprezentowanie interesu społecznego oraz działanie na rzecz egzekwowania przepisów chroniących zwierzęta przed przemocą.
 
 fundacja będzie działała w postępowaniu sądowym jako oskarżyciel posiłkowy.
