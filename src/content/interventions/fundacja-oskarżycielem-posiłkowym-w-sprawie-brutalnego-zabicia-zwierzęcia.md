@@ -26,7 +26,7 @@ Zgodnie z [art. 39 ustawy o ochronie zwierząt](https://lexlege.pl/ustawa-o-ochr
 
 Udział organizacji społecznej w charakterze oskarżyciela posiłkowego pozwala aktywnie uczestniczyć w procesie karnym dotyczącym znęcania się nad zwierzętami i innych przestępstw przeciwko zwierzętom.
 
-Jako organizacja zajmująca się ochroną zwierząt będziemy monitorować przebieg postępowania oraz wspierać działania zmierzające do wyjaśnienia okoliczności zdarzenia. Udział organizacji społecznej w charakterze oskarżyciela posiłkowego pozwala aktywnie uczestniczyć w procesie karnym dotyczącym znęcania się nad zwierzętami i innych przestępstw przeciwko zwierzętom.
+Jako organizacja zajmująca się ochroną zwierząt będziemy monitorować przebieg postępowania oraz wspierać działania zmierzające do wyjaśnienia okoliczności zdarzenia. 
 
 O dalszych działaniach oraz przebiegu sprawy będziemy informować na bieżąco na naszych social mediach.
 
