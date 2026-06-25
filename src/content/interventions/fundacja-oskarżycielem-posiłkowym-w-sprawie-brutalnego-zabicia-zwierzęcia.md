@@ -3,8 +3,9 @@ title: " Interwencja prawna w sprawie brutalnego zabicia gołębia"
 pubDate: 06.24.2026
 author: Karolina Mikołajczyk
 image: 721089780_10243003028955936_6279153199413397132_n.jpg
-description: "Przystępujemy do sprawy brutalnego zabicia zwierzęcia jako
-  oskarżyciel posiłkowy. "
+description: "W czerwcu doszło w Krakowie do brutalnego zabicia grzywacza.
+  Sprawa została zgłoszona na Policję przez świadka zdarzenia. Fundacja Chatka
+  Gołębia przystępuje do sprawy jako strona społeczna. "
 photos: Irmina Czy
 ---
 Fundacja Chatka Gołębia przystąpi do sprawy brutalnego zabicia zwierzęcia w charakterze oskarżyciela posiłkowego. Naszym celem jest egzekwowanie przepisów dotyczących ochrony zwierząt i monitorowanie przebiegu postępowania.
