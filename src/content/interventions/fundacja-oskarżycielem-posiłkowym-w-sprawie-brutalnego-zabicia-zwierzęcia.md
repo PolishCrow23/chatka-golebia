@@ -14,9 +14,7 @@ Fundacja Chatka Gołębia przystąpi do sprawy brutalnego zabicia zwierzęcia w 
 
 Do sklepu sieci "Nasz" sklep na ul. Miechowity 21a wpadł gołąb. Sprawca zaczął uderzać ptaka kijem od szczotki, złapał i rzucił nim o jezdnię. Gołąb nie przeżył.
 
-Zabicie zwierzęcia bez uzasadnionej przyczyny lub w sposób niehumanitarny jest w Polsce przestępstwem ściganym z urzędu na mocy ustawy o ochronie zwierząt. Zgodnie z art. 35 ustawy o ochronie zwierząt grozi za nie kara od 3 miesięcy do 5 lat pozbawienia wolności.
-
-
+Zabicie zwierzęcia bez uzasadnionej przyczyny lub w sposób niehumanitarny jest w Polsce przestępstwem ściganym z urzędu na mocy ustawy o ochronie zwierząt. Zgodnie z [art. 35 ustawy o ochronie zwierząt](https://lexlege.pl/ustawa-o-ochronie-zwierzat/art-35/) grozi za nie kara od 3 miesięcy do 5 lat pozbawienia wolności.
 
 ![Sklep sieci "Nasz" sklep na ul. Miechowity 21a](723556805_10243003028555926_2060248757954117193_n.jpg "Miejsce zdarzenia")
 
