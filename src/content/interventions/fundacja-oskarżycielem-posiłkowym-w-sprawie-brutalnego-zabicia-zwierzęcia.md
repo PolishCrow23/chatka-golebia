@@ -62,7 +62,7 @@ Fundacja Chatka Gołębia Dariusz Grochal wiceprezes zarządu *(podpis)* Dariusz
 
 Załącznik: Odpis z KRS dla Pokrzywdzonego.
 
-Otrzymują:\
+Otrzymują:
 
-1. Adresat - listem poleconym;\
+1. Adresat - listem poleconym;
 2. A/a.
