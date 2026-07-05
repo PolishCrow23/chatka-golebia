@@ -1,5 +1,5 @@
 ---
-title: Zakaz dokarmiania gołębi Rawiczu - Interwencja prawna
+title: Zakaz dokarmiania gołębi w Rawiczu - Interwencja prawna
 pubDate: 05.29.2026
 author: Dariusz Grochal
 image: gołąb-na-trawie-2.jpg
