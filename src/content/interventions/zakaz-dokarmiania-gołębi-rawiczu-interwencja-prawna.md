@@ -1,5 +1,5 @@
 ---
-title: Zakaz dokarmiania gołębi Rawiczu - Interwencja prawna
+title: Zakaz dokarmiania gołębi w Rawiczu - Interwencja prawna
 pubDate: 05.29.2026
 author: Dariusz Grochal
 image: gołąb-na-trawie-2.jpg
@@ -13,5 +13,11 @@ Rada Miejska w Rawiczu przyjęła zmiany w regulaminie korzystania z rynku, wpro
 Nasza fundacja po otrzymaniu informacji o przyjętej uchwale podjęła kroki prawne w tej sprawie. W pierwszej kolejności skierowaliśmy do Rady Miejskiej Gminy Rawicz wniosek o podjęcie uchwały uchylającej. Jeżeli Radni nie zdecydują się na podjęcie takiej uchwały, złożymy wniosek do Sądu Administracyjnego. W naszej ocenie uchwała ta jest wątpliwa prawnie.
 
 Link do pełnego artykułu na stronie elka: <https://elka.pl/content/view/130186/81/>
+
+**AKTUALIZACJA 26.06**
+
+Dnia 26.06.2026 złożyliśmy kolejne pismo ws. zakazu karmienia gołębi na Rynku w Rawiczu cytując najważniejszy fragment:
+
+„Zawiadamiający wnosi o podjęcie przez Prokuratora odpowiednich czynności mających na celu usunięcie stanu niezgodności z prawem, w tym – wystąpienie o stwierdzenie nieważności Uchwały nr XXV/221/25 do Wojewódzkiego Sądu Administracyjnego w Poznaniu.“
 
 Będziemy na bieżąco informować o nowych krokach w tej sprawie.
