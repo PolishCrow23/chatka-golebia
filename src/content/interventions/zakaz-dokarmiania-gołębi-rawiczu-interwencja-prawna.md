@@ -14,4 +14,10 @@ Nasza fundacja po otrzymaniu informacji o przyjętej uchwale podjęła kroki pra
 
 Link do pełnego artykułu na stronie elka: <https://elka.pl/content/view/130186/81/>
 
+**AKTUALIZACJA 26.06**
+
+Dnia 26.06.2026 złożyliśmy kolejne pismo ws. zakazu karmienia gołębi na Rynku w Rawiczu cytując najważniejszy fragment:
+
+„Zawiadamiający wnosi o podjęcie przez Prokuratora odpowiednich czynności mających na celu usunięcie stanu niezgodności z prawem, w tym – wystąpienie o stwierdzenie nieważności Uchwały nr XXV/221/25 do Wojewódzkiego Sądu Administracyjnego w Poznaniu.“
+
 Będziemy na bieżąco informować o nowych krokach w tej sprawie.
