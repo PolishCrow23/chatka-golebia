@@ -3,7 +3,7 @@ title: Kartki w Izbie Administracji Skarbowej w Krakowie
 pubDate: 07.06.2026
 author: placeholder
 image: 710040503_1301010425478768_5174104067795071130_n.jpg
-description: Kartki z nietypową informacją na pojawiły się w oknach IAS. Zapytaliśmy o nie.
+description: Kartki z informacją na pojawiły się w oknach IAS, zapytaliśmy o nie.
 photos: placeholder
 ---
 Otrzymaliśmy odpowiedź w sprawie kartek z informacją o treści: „Nie dokarmiaj gołębi! Ptaki żyjące w mieście potrafią samodzielnie znaleźć naturalne pożywienie” umieszczonych w oknach Izby Administracji Skarbowej w Krakowie przy ul. Wiślnej 7.
