@@ -1,5 +1,5 @@
 ---
-title: placeholder
+title: Kartki w Izbie Administracji Skarbowej w Krakowie
 pubDate: 07.06.2026
 author: placeholder
 image: 710040503_1301010425478768_5174104067795071130_n.jpg
