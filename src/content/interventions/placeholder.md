@@ -48,4 +48,21 @@ Komunikaty zostały przygotowane we własnym zakresie przez pracowników Izby i 
 
 Celem tych komunikatów było ograniczenie pozostawiania żywności przy budynku, co wpływa na utrzymanie porządku w jego otoczeniu, a także na stan techniczny i estetyczny obiektu. Budynek użytkowany przez Izbę ma charakter zabytkowy, dlatego jego utrzymanie wymaga szczególnej staranności oraz prowadzenia prac porządkowych i konserwacyjnych z uwzględnieniem wymogów ochrony zabytków. 
 
-Dlatego decyzja o zamieszczeniu komunikatów była związana z koniecznością ochrony i utrzymania należytego stanu technicznego, sanitarnego oraz estetycznego budynku użytkowanego przez IAS w Krakowie oraz przyległych ciągów komunikacyjnych. Regularne gromadzenie się ptaków zachęcanych przez nieodpowiedzialne ich dokarmianie w rejonie ulic Wiślnej i Gołębiej powoduje
+Dlatego decyzja o zamieszczeniu komunikatów była związana z koniecznością ochrony i utrzymania należytego stanu technicznego, sanitarnego oraz estetycznego budynku użytkowanego przez IAS w Krakowie oraz przyległych ciągów komunikacyjnych. Regularne gromadzenie się ptaków zachęcanych przez nieodpowiedzialne ich dokarmianie w rejonie ulic Wiślnej i Gołębiej powoduje degradację elewacji i elementów architektonicznych budynku, generując konieczność prowadzenia kosztownych prac porządkowych i konserwacyjnych (realizowanych z uwzględnieniem wymogów ochrony zabytków) angażujących środki publiczne w stosunkowo niedawno odnowionym budynku. 
+
+Naszą intencją nie było zniechęcanie do odpowiedzialnej troski o ptaki, lecz zwrócenie uwagi na problem pozostawiania w tym miejscu resztek żywności, które nie stanowią właściwego pokarmu dla ptaków miejskich i przyczyniają się do pogorszenia stanu otoczenia budynku. 
+
+Jednocześnie należy podkreślić, że zgodnie z przepisami Ustawy z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym, mieniem państwowym zarządza się zgodnie z zasadami prawidłowej gospodarki i z zachowaniem szczególnej staranności, a jednostki organizacyjne są zobowiązane do zabezpieczenia mienia Skarbu Państwa przed uszkodzeniem lub zniszczeniem. W tym kontekście działania podejmowane przez Izbę miały na celu realizację obowiązku dbałości o powierzony budynek. 
+
+Przy opracowywaniu treści komunikatu korzystano z ogólnodostępnych materiałów dotyczących zasad dokarmiania ptaków publikowanych przez miejskie jednostki organizacyjne, a także zweryfikowano zgodność sposobu umieszczenia komunikatów z regulacjami obowiązującymi na obszarze Parku Kulturowego Stare Miasto. 
+
+Jednocześnie wyjaśniam, że treść zamieszczonych komunikatów nie stanowi oficjalnego stanowiska Izby Administracji Skarbowej w Krakowie w zakresie polityki dotyczącej zwierząt żyjących w przestrzeni miejskiej. Kwestie te pozostają poza zakresem ustawowych kompetencji organów Krajowej Administracji Skarbowej. 
+
+Komunikaty miały charakter wyłącznie lokalnego apelu porządkowego i prewencyjnego, związanego z ochroną budynku oraz utrzymaniem porządku w jego bezpośrednim otoczeniu. 
+
+Mając na uwadze zgłoszone przez Państwa uwagi, a także potrzebę jednoznacznego i precyzyjnego formułowania takich komunikatów, deklarujemy zmianę ich treści tak, aby wyraźnie odnosiły się do prośby o niedokarmianie ptaków w bezpośrednim sąsiedztwie budynku. 
+
+Jednocześnie będziemy wdzięczni za przedstawienie rekomendacji dotyczących działań, jakie – z punktu widzenia ochrony zwierząt – mogłyby zostać zastosowane w podobnej sytuacji. Zależy nam zarówno na zapewnieniu właściwej ochrony ptaków, jak i na realizacji obowiązku dbania o zabytkowy budynek pozostający w użytkowaniu Izby. 
+
+Z wyrazami szacunku \
+z up. Dyrektora Izby Administracji Skarbowej w Krakowie kierownik Referatu Komunikacji Joanna Drużyńska (kwalifikowany podpis elektroniczny) Korespondencję otrzymują: 1. Iga Fant 2. aa Ogólną klauzulę informacyjną, dotyczącą przetwarzania danych osobowych znajdą Państwo na stronie Biuletynu Informacji Publicznej http://www.malopolskie.kas.gov.pl w zakładce Organizacja/Ochrona Danych Osobowych oraz na tablicach informacyjnych w naszej siedzibie
