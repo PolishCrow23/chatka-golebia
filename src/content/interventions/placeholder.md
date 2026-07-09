@@ -14,6 +14,6 @@ Otrzymaliśmy odpowiedź – nie jest to oficjalna kampania informacyjna. Kartki
 
 Intencją pracowników było zwrócenie uwagi na resztki żywności, które nie stanowią dobrego pokarmu dla ptaków i przyczyniają się do pogorszenia stanu otoczenia zabytkowego budynku.
 
-Zgodnie z przepisami Ustawy z dnia 16 grudnia 2016 r. jednostki organizacyjne są zobowiązane do zabezpieczenia mienia Skarbu Państwa przed uszkodzeniem lub zniszczeniem.
+Zgodnie z przepisami [Ustawy z dnia 16 grudnia 2016 r](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002259). jednostki organizacyjne są zobowiązane do zabezpieczenia mienia Skarbu Państwa przed uszkodzeniem lub zniszczeniem.
 
 Dzięki naszej wiadomości pracownicy IAS deklarują zmianę treści kartek w sposób, który wyraźnie odnosi się do prośby o niedokarmianie ptaków w okolicy budynku, dzięki czemu będą mogli pogodzić kwestię dokarmiania z obowiązkiem dbania o budynek.
