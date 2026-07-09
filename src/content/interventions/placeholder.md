@@ -1,7 +1,7 @@
 ---
 title: Kartki w Izbie Administracji Skarbowej w Krakowie
 pubDate: 07.06.2026
-author: placeholder
+author: Karolina Mikołajczyk
 image: 710040503_1301010425478768_5174104067795071130_n.jpg
 description: Otrzymaliśmy odpowiedź od Izby Administracji Skarbowej
 photos: placeholder
