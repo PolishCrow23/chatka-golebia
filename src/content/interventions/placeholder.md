@@ -20,6 +20,4 @@ Zgodnie z przepisami [Ustawy z dnia 16 grudnia 2016 r](https://isap.sejm.gov.pl/
 
 ![](2odpowiedź_na_pismo_dot._tabliczek_gołębie1201-26-091982.png)
 
-Dzięki naszej wiadomości pracownicy IAS deklarują zmianę treści kartek w sposób, który wyraźnie odnosi się do prośby o niedokarmianie ptaków w okolicy budynku, dzięki czemu pracownicy IAS będą mogli pogodzić kwestię dokarmiania z obowiązkiem dbania o budynek.\
-\
-Pełna treść odpowie
+Dzięki naszej wiadomości pracownicy IAS deklarują zmianę treści kartek w sposób, który wyraźnie odnosi się do prośby o niedokarmianie ptaków w okolicy budynku, dzięki czemu pracownicy IAS będą mogli pogodzić kwestię dokarmiania z obowiązkiem dbania o budynek.
