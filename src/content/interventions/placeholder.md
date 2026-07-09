@@ -4,7 +4,7 @@ pubDate: 07.06.2026
 author: Karolina Mikołajczyk
 image: 710040503_1301010425478768_5174104067795071130_n.jpg
 description: Otrzymaliśmy odpowiedź od Izby Administracji Skarbowej
-photos: placeholder
+photos: Iga Fant
 ---
 Otrzymaliśmy odpowiedź w sprawie kartek z informacją o treści: „Nie dokarmiaj gołębi! Ptaki żyjące w mieście potrafią samodzielnie znaleźć naturalne pożywienie” umieszczonych w oknach Izby Administracji Skarbowej w Krakowie przy ul. Wiślnej 7.
 
