@@ -8,7 +8,9 @@ photos: placeholder
 ---
 Otrzymaliśmy odpowiedź w sprawie kartek z informacją o treści: „Nie dokarmiaj gołębi! Ptaki żyjące w mieście potrafią samodzielnie znaleźć naturalne pożywienie” umieszczonych w oknach Izby Administracji Skarbowej w Krakowie przy ul. Wiślnej 7.
 
-Zapytaliśmy czy, jak wtedy uznaliśmy, tabliczki są elementem oficjalnej kampanii informacyjnej Izby Administracji Skarbowej w Krakowie oraz czy ich treść jest oficjalnym stanowiskiem Izby Administracji Skarbowej w Krakowie.
+Zapytaliśmy czy, jak wtedy uznaliśmy, tabliczki są elementem oficjalnej kampanii informacyjnej Izby Administracji Skarbowej w Krakowie oraz czy treść tabliczek jest oficjalnym stanowiskiem Izby Administracji Skarbowej w Krakowie.
+
+![](1odpowiedź_na_pismo_dot._tabliczek_gołębie1201-26-091982.png)
 
 Otrzymaliśmy odpowiedź – nie jest to oficjalna kampania informacyjna. Kartki zostały przygotowane przez pracowników w reakcji na powtarzające się przypadki dokarmiania gołębi. 
 
@@ -16,4 +18,8 @@ Intencją pracowników było zwrócenie uwagi na resztki żywności, które nie 
 
 Zgodnie z przepisami [Ustawy z dnia 16 grudnia 2016 r](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002259). jednostki organizacyjne są zobowiązane do zabezpieczenia mienia Skarbu Państwa przed uszkodzeniem lub zniszczeniem.
 
-Dzięki naszej wiadomości pracownicy IAS deklarują zmianę treści kartek w sposób, który wyraźnie odnosi się do prośby o niedokarmianie ptaków w okolicy budynku, dzięki czemu będą mogli pogodzić kwestię dokarmiania z obowiązkiem dbania o budynek.
+![](2odpowiedź_na_pismo_dot._tabliczek_gołębie1201-26-091982.png)
+
+Dzięki naszej wiadomości pracownicy IAS deklarują zmianę treści kartek w sposób, który wyraźnie odnosi się do prośby o niedokarmianie ptaków w okolicy budynku, dzięki czemu pracownicy IAS będą mogli pogodzić kwestię dokarmiania z obowiązkiem dbania o budynek.\
+\
+Pełna treść odpowie
