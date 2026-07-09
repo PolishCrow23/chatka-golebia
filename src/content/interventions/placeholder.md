@@ -65,4 +65,9 @@ Mając na uwadze zgłoszone przez Państwa uwagi, a także potrzebę jednoznaczn
 Jednocześnie będziemy wdzięczni za przedstawienie rekomendacji dotyczących działań, jakie – z punktu widzenia ochrony zwierząt – mogłyby zostać zastosowane w podobnej sytuacji. Zależy nam zarówno na zapewnieniu właściwej ochrony ptaków, jak i na realizacji obowiązku dbania o zabytkowy budynek pozostający w użytkowaniu Izby. 
 
 Z wyrazami szacunku \
-z up. Dyrektora Izby Administracji Skarbowej w Krakowie kierownik Referatu Komunikacji Joanna Drużyńska (kwalifikowany podpis elektroniczny) Korespondencję otrzymują: 1. Iga Fant 2. aa Ogólną klauzulę informacyjną, dotyczącą przetwarzania danych osobowych znajdą Państwo na stronie Biuletynu Informacji Publicznej http://www.malopolskie.kas.gov.pl w zakładce Organizacja/Ochrona Danych Osobowych oraz na tablicach informacyjnych w naszej siedzibie
+z up. Dyrektora Izby Administracji Skarbowej \
+w Krakowie \
+kierownik Referatu Komunikacji \
+Joanna Drużyńska (kwalifikowany podpis elektroniczny) 
+
+Korespondencję otrzymują: 1. Iga Fant 2. aa Ogólną klauzulę informacyjną, dotyczącą przetwarzania danych osobowych znajdą Państwo na stronie Biuletynu Informacji Publicznej http://www.malopolskie.kas.gov.pl w zakładce Organizacja/Ochrona Danych Osobowych oraz na tablicach informacyjnych w naszej siedzibie
