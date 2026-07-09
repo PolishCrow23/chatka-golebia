@@ -70,4 +70,7 @@ w Krakowie \
 kierownik Referatu Komunikacji \
 Joanna Drużyńska (kwalifikowany podpis elektroniczny) 
 
-Korespondencję otrzymują: 1. Iga Fant 2. aa Ogólną klauzulę informacyjną, dotyczącą przetwarzania danych osobowych znajdą Państwo na stronie Biuletynu Informacji Publicznej http://www.malopolskie.kas.gov.pl w zakładce Organizacja/Ochrona Danych Osobowych oraz na tablicach informacyjnych w naszej siedzibie
+**Korespondencję otrzymują:** \
+**1.** Iga Fant \
+**2.** aa \
+Ogólną klauzulę informacyjną, dotyczącą przetwarzania danych osobowych znajdą Państwo na stronie Biuletynu Informacji Publicznej http://www.malopolskie.kas.gov.pl w zakładce Organizacja/Ochrona Danych Osobowych oraz na tablicach informacyjnych w naszej siedzibie
