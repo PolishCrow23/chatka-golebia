@@ -2,7 +2,7 @@
 title: Skąd wzięły się gołębie w miastach? Zaskakująca historia naszych
   skrzydlatych sąsiadów
 pubDate: 07.22.2026
-image: /images/20250128_190518.jpg
+image: /images/historia-golebia.png
 description: Trudno wyobrazić sobie współczesne miasto bez gołębi. Spotykamy je
   na rynkach, dworcach, osiedlach i w parkach. Dla wielu osób są po prostu
   częścią miejskiego krajobrazu. Niewiele osób zdaje sobie jednak sprawę, że
