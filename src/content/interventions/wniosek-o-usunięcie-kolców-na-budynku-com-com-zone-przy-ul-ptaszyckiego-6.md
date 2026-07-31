@@ -11,6 +11,8 @@ Nasza Fundacja przygotowała wniosek o usunięcie kolców odstraszających ptaki
 
 Wnioskodawca był świadkiem nabicia się na kolce jaskółki oknówki widocznej na zdjęciach poniżej.
 
+# Brak zabezpieczenia
+
 Kolce na budynku Com-Com Zone nie były w żaden sposób zabezpieczone, ich ostre końce przyczyniły się do śmierci zwierzęcia. Jeśli kolce nie zostaną zdjęte sytuacja może się powtarzać. 
 
 Według Opinii Generalnego Dyrektora Ochrony Środowiska z dnia 19 lipca 2018 r.: „Stosowania modułów z kolcami w celu odstraszania ptaków a ochrona gatunkowa” (w załączeniu), „odstraszacze w postaci kolców, w przypadku nieprawidłowego montażu, mogą stanowić zagrożenie dla ptaków. Za nieprawidłowy montaż uważa się wszelkie sytuacje, w których urządzenie nie jest widoczne dla zwierząt z daleka, jak np. kolce zamontowane we wnękach balkonowych lub okiennych na ich suficie bądź ścianach bocznych (skierowane w dół bądź w bok)”.
@@ -20,8 +22,6 @@ Kolce mogą zabić lub ranić zwierzęta w niehumanitarny sposób. Generalna Dyr
 
 
 Zwierzę jako istota żyjąca, zdolna do odczuwania cierpienia nie jest rzeczą. Człowiek jest winny zwierzęciu poszanowanie, ochronę i opiekę.
-
-Każde zwierze wymaga humanitarnego traktowania. Takim traktowaniem nie nazwiemy sytuacji, w której zwierzę nabiło się na kolce i straciło życie. Nie nazwiemy nim również sprawiania zwierzęciu bólu i ran, które doprowadzają do powolnego zgonu.
 
 Ptaki objęte są ochroną (lista:)
 
