@@ -3,8 +3,8 @@ title: Wniosek o usunięcie kolców na budynku Com-Com Zone przy ul. Ptaszyckieg
 pubDate: 07.31.2026
 author: Karolina Mikołajczyk
 image: 732961503_1566330031728344_8922602524203819695_n.jpg
-description: "Fundacja przygotowała wniosek dotyczący zdemontowania kolców.
-  Wnioskodawca był świadkiem ich szkodliwego działania. "
+description: "Fundacja przygotowała wniosek dotyczący zdemontowania kolców na
+  budynku. Wnioskodawca był świadkiem ich szkodliwego działania. "
 photos: Dariusz Grochal
 ---
 Nasza Fundacja przygotowała wniosek o usunięcie kolców odstraszających ptaki na budynku Com-Com Zone przy ul. Ptaszyckiego 6
