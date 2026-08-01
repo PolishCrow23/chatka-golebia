@@ -1,6 +1,5 @@
 ---
-title: Instrukcja postępowania w przypadku prac remontowych budynków mogących
-  zagrażać gniazdom ptaków
+title: Jak postępować w przypadku remontu zagrażającego gniazdom ptaków?
 author: Dariusz Grochal
 pubDate: 08.01.2026
 tag: Poradnik
