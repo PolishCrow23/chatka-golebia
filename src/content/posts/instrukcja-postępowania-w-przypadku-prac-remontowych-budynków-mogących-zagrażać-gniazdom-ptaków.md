@@ -1,5 +1,5 @@
 ---
-title: Jak postępować w przypadku remontu zagrażającego gniazdom ptaków?
+title: Jak zareagować w przypadku remontu zagrażającego gniazdom ptaków?
 author: Dariusz Grochal
 pubDate: 08.01.2026
 tag: Interwencja
