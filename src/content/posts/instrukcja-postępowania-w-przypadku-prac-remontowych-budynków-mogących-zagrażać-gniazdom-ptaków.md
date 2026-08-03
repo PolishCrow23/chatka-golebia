@@ -50,4 +50,4 @@ Szczegółowe informacje dotyczące ochrony ptaków podczas prowadzenia prac bud
 
 <https://www.gov.pl/web/gdos/Ochrona-ptakow-podczas-prac-termomodernizacyjnych>
 
-Należy pamiętać, że skuteczna interwencja wymaga obecnościna miejscu prowadzenia prac. Zgłoszenie telefoniczne lub internetowe niezastąpi działań osoby, która jest świadkiem zdarzenia i może przekazaćodpowiednim służbom wszystkie istotne informacje.
+Należy pamiętać, że skuteczna interwencja wymaga obecności na miejscu prowadzenia prac. Zgłoszenie telefoniczne lub internetowe nie zastąpi działań osoby, która jest świadkiem zdarzenia i może przekazać odpowiednim służbom wszystkie istotne informacje.
