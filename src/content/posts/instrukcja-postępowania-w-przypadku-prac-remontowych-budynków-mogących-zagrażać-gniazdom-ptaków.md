@@ -38,3 +38,16 @@ Jeżeli takiej zgody nie posiada, nie wolno niszczyć gniazd ani prowadzić dzia
 * prokuratury - jeżeli zachodzi podejrzenie popełnienia przestępstwa przeciwko środowisku.
 
 ## Dokumentowanie zdarzeń
+
+Przez cały czas należy dokumentować przebieg interwencji:
+
+* sporządzać notatki z rozmów (miejsce, data, godzina, osoby uczestniczące oraz przebieg rozmowy),
+* wykonywać zdjęcia miejsca prowadzenia prac, gniazd oraz ewentualnych zniszczeń.
+
+Można również fotografować osoby wykonujące prace, jeżeli jest to niezbędne do udokumentowania przebiegu zdarzenia. Zdjęcia takie powinny służyć wyłącznie jako materiał dowodowy przekazywany właściwym organom. Nie należy ich publikować, ponieważ może to naruszać przepisy dotyczące ochrony wizerunku i danych osobowych.
+
+Szczegółowe informacje dotyczące ochrony ptaków podczas prowadzenia prac budowlanych i remontowych znajdują się na stronie Generalnej Dyrekcji Ochrony Środowiska.
+
+https://www.gov.pl/web/gdos/Ochrona-ptakow-podczas-prac-termomodernizacyjnych
+
+Należy pamiętać, że skuteczna interwencja wymaga obecnościna miejscu prowadzenia prac. Zgłoszenie telefoniczne lub internetowe niezastąpi działań osoby, która jest świadkiem zdarzenia i może przekazaćodpowiednim służbom wszystkie istotne informacje.
