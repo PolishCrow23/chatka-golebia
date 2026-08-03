@@ -15,7 +15,7 @@ Jeżeli takiej zgody nie posiada, nie wolno niszczyć gniazd ani prowadzić dzia
 
 ## Jak postępować?
 
-1**. Porozmawiaj z kierownikiem robót.**
+### 1. Porozmawiaj z kierownikiem robót.
 
 * Poinformuj go o występowaniu gniazd ptaków w szczelinach budynku.
 * Zapytaj, czy przed rozpoczęciem prac wykonano ekspertyzę ornitologiczną (nie jest ona obowiązkowa, ale często ułatwia właściwe zaplanowanie robót).
