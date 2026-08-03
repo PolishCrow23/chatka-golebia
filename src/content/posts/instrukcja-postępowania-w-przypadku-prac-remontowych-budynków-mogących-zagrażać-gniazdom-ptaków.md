@@ -4,9 +4,8 @@ author: Dariusz Grochal
 pubDate: 08.01.2026
 tag: Prawo
 image: /images/gołąbdsc_7419.jpg
-description: Dowiedz się, co zrobić, gdy remont zagraża gniazdom ptaków.
-  Sprawdź, gdzie zgłosić naruszenie, jak interweniować i chronić ptaki zgodnie z
-  prawem.
+description: Pokazujemy gdzie zgłosić naruszenie, jak interweniować i chronić
+  ptaki zgodnie z prawem.
 ---
 # Instrukcja postępowania w przypadku prac remontowych budynków mogących zagrażać gniazdom ptaków.
 
