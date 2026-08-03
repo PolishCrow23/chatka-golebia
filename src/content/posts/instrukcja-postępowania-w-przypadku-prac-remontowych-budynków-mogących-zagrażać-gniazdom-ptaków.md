@@ -26,3 +26,9 @@ Jeżeli takiej zgody nie posiada, nie wolno niszczyć gniazd ani prowadzić dzia
 * Kierownik robót nie ma obowiązku okazywania decyzji administracyjnej osobie prywatnej, dlatego może odmówić jej przedstawienia.
 
 ### 3. Jeśli istnieje uzasadnione podejrzenie naruszenia przepisów, wezwij Policję.
+
+* Poinformuj funkcjonariuszy, że istnieje podejrzenie naruszenia przepisów dotyczących ochrony gatunkowej zwierząt.
+* Policja ma prawo podjąć interwencję, wylegitymować osoby prowadzące prace, ustalić okoliczności zdarzenia oraz zażądać okazania wymaganych decyzji administracyjnych lub innych dokumentów.
+* W przypadku stwierdzenia podejrzenia popełnienia wykroczenia lub przestępstwa Policja może zabezpieczyć miejsce zdarzenia, podjąć czynności procesowe oraz - jeśli wymaga tego sytuacja - doprowadzić do czasowego przerwania prac do czasu wyjaśnienia spawy przez właściwe organy.
+
+### 4. Jeżeli wykonawca nie posiada wymaganej zgody RDOŚ lub mimo jej braku kontynuuje prace, zgłoś sprawę do:
