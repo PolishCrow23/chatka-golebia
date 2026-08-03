@@ -16,4 +16,9 @@ Jeżeli takiej zgody nie posiada, nie wolno niszczyć gniazd ani prowadzić dzia
 ## Jak postępować?
 
 ### 1. Porozmawiaj z kierownikiem robót
-2.
+
+* Poinformuj go o występowaniu gniazd ptaków w szczelinach budynku.
+* Zapytaj, czy przed rozpoczęciem prac wykonano ekspertyzę ornitologiczną (nie jest ona obowiązkowa, ale często ułatwia właściwe zaplanowanie robót).
+* Zapytaj, czy wykonawca posiada zgodę RDOŚ na odstępstwo od zakazów ochrony gatunkowej. Jeżeli w budynku znajdują się gniazda chronionych gatunków, a planowane prace mogą doprowadzić do ich zniszczenia lub płoszenia ptaków, taka zgoda jest wymagana.
+
+### 2. Poproś o okazanie zgody
