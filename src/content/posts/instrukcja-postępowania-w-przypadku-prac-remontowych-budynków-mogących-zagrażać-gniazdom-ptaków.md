@@ -14,3 +14,6 @@ W pierwszej kolejności należy ustalić, czy wykonawca prac posiada zgodę wyda
 Jeżeli takiej zgody nie posiada, nie wolno niszczyć gniazd ani prowadzić działań skutkujących ich zniszczeniem w okresie lęgowym ptaków, tj. od **1 marca do 15 października**.
 
 ## Jak postępować?
+
+### 1. Porozmawiaj z kierownikiem robót
+2.
