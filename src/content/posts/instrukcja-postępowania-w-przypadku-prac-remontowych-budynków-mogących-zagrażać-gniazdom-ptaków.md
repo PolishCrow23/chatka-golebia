@@ -32,3 +32,9 @@ Jeżeli takiej zgody nie posiada, nie wolno niszczyć gniazd ani prowadzić dzia
 * W przypadku stwierdzenia podejrzenia popełnienia wykroczenia lub przestępstwa Policja może zabezpieczyć miejsce zdarzenia, podjąć czynności procesowe oraz - jeśli wymaga tego sytuacja - doprowadzić do czasowego przerwania prac do czasu wyjaśnienia spawy przez właściwe organy.
 
 ### 4. Jeżeli wykonawca nie posiada wymaganej zgody RDOŚ lub mimo jej braku kontynuuje prace, zgłoś sprawę do:
+
+* Regionalnej Dyrekcji Ochrony Środowiska,
+* Powiatowego Inspektora Nadzoru Budowlanego (jeżeli sposób prowadzenia robót narusza przepisy prawa budowlanego),
+* prokuratury - jeżeli zachodzi podejrzenie popełnienia przestępstwa przeciwko środowisku.
+
+## Dokumentowanie zdarzeń
