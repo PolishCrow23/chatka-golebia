@@ -48,6 +48,6 @@ Można również fotografować osoby wykonujące prace, jeżeli jest to niezbęd
 
 Szczegółowe informacje dotyczące ochrony ptaków podczas prowadzenia prac budowlanych i remontowych znajdują się na stronie Generalnej Dyrekcji Ochrony Środowiska.
 
-https://www.gov.pl/web/gdos/Ochrona-ptakow-podczas-prac-termomodernizacyjnych
+<https://www.gov.pl/web/gdos/Ochrona-ptakow-podczas-prac-termomodernizacyjnych>
 
 Należy pamiętać, że skuteczna interwencja wymaga obecnościna miejscu prowadzenia prac. Zgłoszenie telefoniczne lub internetowe niezastąpi działań osoby, która jest świadkiem zdarzenia i może przekazaćodpowiednim służbom wszystkie istotne informacje.
