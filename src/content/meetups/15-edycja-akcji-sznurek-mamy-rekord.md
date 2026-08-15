@@ -12,16 +12,15 @@ Jak zwykle spotkaliśmy się na krakowskim rynku 8 sierpnia o 11:00
 
 Dokarmialiśmy, edukowaliśmy o sznurkach, wyglądzie i zachowaniu gołębi na przykładach z życia - chodząc po rynku w poszukiwaniu chorych gołębi potrzebujących pomocy.
 
-Nie sądziliśmy, że będzie ich aż 38. To najwyższy wynik w historii Akcji Sznurek! Pod koniec zabrakło nam kartonów, mimo to poradziliśmy sobie i udało się wszystkim pomóc 🥰
+Nie sądziliśmy, że będzie ich aż 38. To najwyższy wynik w historii Akcji Sznurek! Pod koniec zabrakło nam kartonów, mimo to poradziliśmy sobie i udało się wszystkim pomóc 
 
 5 z nich uzyskało pomoc na miejscu, aż 33 trafiły do leczenia.
 
-Ze względu na ilość pacjentów ciężko napisać o każdym z nich osobno. Najczęstszym powodem leczenia były zaropiałe oczy oraz mocne osłabienie organizmu 😷
+Ze względu na ilość pacjentów ciężko napisać o każdym z nich osobno. Najczęstszym powodem leczenia były zaropiałe oczy oraz mocne osłabienie organizmu 
 
 W trakcie Akcji zbierano również podpisy pod inicjatywą "Uwaga polowanie", dotyczącą zmiany prawa łowieckiego.
 
-Pojawiło się wielu chętnych do pomocy - Serdecznie dziękujemy Wam za udział! 💕
+Pojawiło się wielu chętnych do pomocy - Serdecznie dziękujemy Wam za udział i poświęcony czas!
 
-Następna Akcja odbędzie się już 5 września o 11:00 w Tarnowie razem z @fundacjamushika.
-
-Link do wydarzenia znajdziesz w komentarzu - Do zobaczenia! 🕊
+Następna Akcja odbędzie się już 5 września o 11:00 w Tarnowie razem z fundacją Mushika.\
+Do zobaczenia!
