@@ -1,7 +1,7 @@
 ---
 title: 15 Edycja Akcji Sznurek - Mamy rekord!
 pubDate: 08.15.2026
-image: /images/20250128_190518.jpg
+image: /images/img_1593.jpg
 description: "Jak wyglądał rekord? "
 ---
 Czas na podsumowanie 15, rekordowej edycji Akcji Sznurek! 🕊
