@@ -1,5 +1,5 @@
 ---
-title: 15. Edycja Akcji Sznurek - Kraków 08.08.2026 r. - Mamy rekord!
+title: 15. Edycja Akcji Sznurek - Kraków, 08.08.2026 - Mamy rekord!
 pubDate: 08.15.2026
 image: /images/img_1593.jpg
 description: Pomogliśmy ogromnej ilości ptaków - zobacz, co się działo!
