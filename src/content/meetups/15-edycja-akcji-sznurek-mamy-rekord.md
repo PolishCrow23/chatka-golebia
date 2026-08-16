@@ -12,7 +12,9 @@ Dla osób, które czytają o Akcji Sznurek pierwszy raz - W jej trakcie dokarmia
 
 ## Jak zwykle spotkaliśmy się na krakowskim rynku 8 sierpnia o 11:00
 
-Dokarmialiśmy, pokazywaliśmy, jak bezpiecznie usuwać sznurki na przykładach prosto z rynku oraz na co zwracać uwagę w wyglądzie i zachowaniu gołębia, który potrzebuje pomocy.
+Dokarmialiśmy, edukowaliśmy, pokazując jak bezpiecznie usuwać sznurki na przykładach prosto z rynku oraz na co zwracać uwagę w wyglądzie i zachowaniu gołębia, który potrzebuje pomocy. \
+\
+Zobacz[ rolkę z wydarzenia](https://www.facebook.com/share/r/18SUxeAxb6/)
 
 Nie sądziliśmy, że będzie ich aż 38. To najwyższy wynik w historii Akcji Sznurek! Pod koniec zabrakło nam kartonów, mimo to poradziliśmy sobie i udało się wszystkim pomóc 
 
