@@ -1,11 +1,9 @@
 ---
-title: Dlaczego pomagamy gołębiom miejskim? Interakcje i jej wpływ na działania
-  pomocowe
+title: Dlaczego pomagamy gołębiom miejskim? Badanie socjologiczne
 pubDate: 04.17.2026
 author: Karolina Mikołajczyk
 image: /images/20250128_190518.jpg
-description: Badanie pokazuje różnorodny odbiór społeczny działań pomocowych dla
-  gołębi, wzięli w nim udział wolontariusze z naszej fundacji.
+description: Omawiamy badanie socjologiczne, w którym wzięli udział nasi wolontariusze!
 photos: Placeholder
 ---
 ## Czym są Interakcje społeczne i międzygatunkowe?
