@@ -16,9 +16,9 @@ Dokarmialiśmy, edukowaliśmy, pokazując jak bezpiecznie usuwać sznurki na prz
 \
 Zobacz[ rolkę z wydarzenia](https://www.facebook.com/share/r/18SUxeAxb6/)
 
-**Nie sądziliśmy, że będzie ich aż 38 -** **To najwyższy wynik w historii Akcji Sznurek!** Pod koniec Akcji zamiast ziarna zabrakło nam kartonów, mimo to poradziliśmy sobie i udało się wszystkim pomóc.
+**Nie sądziliśmy, że będzie ich aż 38 -** **To najwyższy wynik w historii Akcji Sznurek!** Pod koniec Akcji zamiast ziarna zabrakło nam kartonów, mimo to poradziliśmy sobie i udało się pomóc wszystkim gołębiom.
 
-5 z nich uzyskało pomoc na miejscu, aż 33 trafiły do leczenia.
+**5** **z nich uzyskało pomoc na miejscu**, aż **33** **trafiły do leczenia.**
 
 Ze względu na ilość pacjentów ciężko napisać o każdym z nich osobno. Najczęstszym powodem leczenia były zaropiałe oczy oraz mocne osłabienie organizmu 
 
