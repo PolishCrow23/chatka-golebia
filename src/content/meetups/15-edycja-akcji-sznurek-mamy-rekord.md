@@ -18,11 +18,11 @@ Zobacz[ rolkę z wydarzenia](https://www.facebook.com/share/r/18SUxeAxb6/)
 
 **Nie sądziliśmy, że będzie ich aż 38 -** **To najwyższy wynik w historii Akcji Sznurek!** Pod koniec Akcji zamiast ziarna zabrakło nam kartonów do ich transportu, mimo to poradziliśmy sobie i udało się pomóc wszystkim gołębiom.
 
+![Białe pudełko do transportu](/images/img_1450.jpg)
+
 **5** **z nich uzyskało pomoc na miejscu**, aż **33** **trafiły do leczenia.** Ze względu na ilość pacjentów ciężko napisać coś o każdym z nich osobno. Najczęstszym powodem leczenia były zaropiałe oczy oraz mocne osłabienie organizmu.
 
-W trakcie tej wyjątkowej Akcji zbierano również podpisy pod [inicjatywą "Uwaga polowanie"](https://uwagapolowanie.pl/), dotyczącą zmiany prawa łowieckiego.
-
-Pojawiło się wielu chętnych do pomocy - Serdecznie dziękujemy Wam za udział i poświęcony czas!
+W trakcie tej wyjątkowej Akcji zbierano również podpisy pod [inicjatywą "Uwaga polowanie"](https://uwagapolowanie.pl/), dotyczącą zmiany prawa łowieckiego. Pojawiło się wielu chętnych do pomocy - Serdecznie dziękujemy za udział i poświęcony czas wszystkim wolontariuszom oraz zainteresowanym pomocą gołębiom. To dzięki Wam ich los staje się lepszy.
 
 Następna Akcja odbędzie się już 5 września o 11:00 w Tarnowie razem z fundacją Mushika.\
 Do zobaczenia!
