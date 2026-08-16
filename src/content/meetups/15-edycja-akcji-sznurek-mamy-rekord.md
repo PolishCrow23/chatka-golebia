@@ -26,7 +26,7 @@ W trakcie tej wyjątkowej Akcji zbierano również podpisy pod [inicjatywą "Uwa
 
 ![Plakat inicjatywy "Uwaga Polowanie!"](/images/img_1397.jpg)
 
-Pojawiło się wielu chętnych do pomocy - Serdecznie dziękujemy za udział i poświęcony czas wszystkim wolontariuszom oraz zainteresowanym pomocą gołębiom. To dzięki Wam ich los staje się lepszy.
+Pojawiło się wielu chętnych do pomocy - Serdecznie dziękujemy za udział i poświęcony czas wszystkim wolontariuszom oraz zainteresowanym pomocom gołębiom. To dzięki Wam ich los staje się lepszy.
 
 Następna Akcja odbędzie się już 5 września o 11:00 w Tarnowie razem z fundacją Mushika.\
 Do zobaczenia!
