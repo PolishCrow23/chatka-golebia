@@ -6,7 +6,7 @@ description: Pomogliśmy ogromnej ilości ptaków - zobacz, co się działo!
 ---
 Czas na podsumowanie 15, rekordowej edycji Akcji Sznurek!
 
-Dla osób, które czytają o Akcji Sznurek pierwszy raz - W jej trakcie wyłapujemy chore ptaki, a następnie usuwamy sznurki zaciskające się na ich łapkach na miejscu, lub przekazujemy do dalszej diagnostyki i leczenia. 
+Dla osób, które czytają o Akcji Sznurek pierwszy raz - W jej trakcie dokarmiamy stada gołębi, wabiąc i wyłapując spośród tłumu chore ptaki, a następnie w zależności od przypadku sznurki zaciskające się na ich łapkach na miejscu, lub przekazujemy do dalszej diagnostyki i leczenia. 
 
 Jak zwykle spotkaliśmy się na krakowskim rynku 8 sierpnia o 11:00 
 
