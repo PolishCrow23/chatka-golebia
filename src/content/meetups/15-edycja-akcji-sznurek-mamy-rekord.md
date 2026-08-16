@@ -8,9 +8,9 @@ description: Pomogliśmy ogromnej ilości ptaków - zobacz, co się działo!
 
 Dla osób, które czytają o Akcji Sznurek pierwszy raz - W jej trakcie dokarmiamy stada gołębi, wabiąc i wyłapując spośród ich tłumu chore ptaki lub ptaki z zaplątanymi w sznurki łapkami. W zależności od przypadku usuwamy sznurki zaciskające się na ich łapkach na miejscu lub przekazujemy do dalszej diagnostyki i leczenia. 
 
-Jak zwykle spotkaliśmy się na krakowskim rynku 8 sierpnia o 11:00 
+## Jak zwykle spotkaliśmy się na krakowskim rynku 8 sierpnia o 11:00 
 
-Dokarmialiśmy, edukowaliśmy o sznurkach, wyglądzie i zachowaniu gołębi na przykładach z życia - chodząc po rynku w poszukiwaniu chorych gołębi potrzebujących pomocy.
+Dokarmialiśmy, pokazywaliśmy, jak bezpiecznie usuwać sznurki na przykładach prosto z rynku oraz na co zwracać uwagę w wyglądzie i zachowaniu gołębia, który potrzebuje pomocy.
 
 Nie sądziliśmy, że będzie ich aż 38. To najwyższy wynik w historii Akcji Sznurek! Pod koniec zabrakło nam kartonów, mimo to poradziliśmy sobie i udało się wszystkim pomóc 
 
