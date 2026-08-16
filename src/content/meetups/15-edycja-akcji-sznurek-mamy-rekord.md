@@ -28,5 +28,5 @@ W trakcie tej wyjątkowej Akcji zbierano również podpisy pod [inicjatywą "Uwa
 
 Pojawiło się wielu chętnych do pomocy - Serdecznie dziękujemy za udział i poświęcony czas wszystkim wolontariuszom oraz zainteresowanym pomocom gołębiom. To dzięki Wam ich los staje się lepszy.
 
-**Następna Akcja Sznurek odbędzie się już 5 września o 11:00 w Tarnowie** razem z fundacją Mushika.\
+**Następna Akcja Sznurek odbędzie się już 5 września o 11:00 w Tarnowie** **razem z fundacją Mushika.**\
 Do zobaczenia!
