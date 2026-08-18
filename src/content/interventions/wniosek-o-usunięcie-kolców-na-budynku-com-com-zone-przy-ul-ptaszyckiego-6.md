@@ -11,11 +11,11 @@ Nasza Fundacja przygotowała wniosek o usunięcie kolców odstraszających ptaki
 
 Wnioskodawca był świadkiem nabicia się na kolce jaskółki oknówki widocznej na zdjęciach poniżej.
 
-# Brak zabezpieczenia
+# Brak odpowiedniego zabezpieczenia
 
 Kolce mogą zabić lub ranić zwierzęta w niehumanitarny sposób. **Generalna Dyrekcja Ochrony Środowiska rekomenduje użycie bezpiecznych dla ptaków drucianych spiral lub ruchomych, obrotowych drutów.** Ich zaletą jest lepsze zabezpieczenie przed zakładaniem gniazd na danym obszarze (w przeciwieństwie do kolców), nie są tak stabilną podporą pod materiał gniazdowy.
 
-Według Opinii Generalnego Dyrektora Ochrony Środowiska z dnia 19 lipca 2018 r.: „Stosowania modułów z kolcami w celu odstraszania ptaków a ochrona gatunkowa” (w załączeniu), „odstraszacze w postaci kolców, w przypadku nieprawidłowego montażu, mogą stanowić zagrożenie dla ptaków. Za nieprawidłowy montaż uważa się wszelkie sytuacje, w których urządzenie nie jest widoczne dla zwierząt z daleka, jak np. kolce zamontowane we wnękach balkonowych lub okiennych na ich suficie bądź ścianach bocznych (skierowane w dół bądź w bok)”.
+> Według Opinii Generalnego Dyrektora Ochrony Środowiska z dnia 19 lipca 2018 r.: „Stosowania modułów z kolcami w celu odstraszania ptaków a ochrona gatunkowa” (w załączeniu), „odstraszacze w postaci kolców, w przypadku nieprawidłowego montażu, mogą stanowić zagrożenie dla ptaków. Za nieprawidłowy montaż uważa się wszelkie sytuacje, w których urządzenie nie jest widoczne dla zwierząt z daleka, jak np. kolce zamontowane we wnękach balkonowych lub okiennych na ich suficie bądź ścianach bocznych (skierowane w dół bądź w bok)”.
 
 Zwierzę jako istota żyjąca, zdolna do odczuwania cierpienia nie jest rzeczą. Człowiek jest winny zwierzęciu poszanowanie, ochronę i opiekę.
 
